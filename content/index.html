@@ -87,6 +87,8 @@ button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px soli
 .syl{display:flex;gap:5px;justify-content:center;flex-wrap:wrap}
 .syl span{border:1px solid var(--line);border-radius:6px;padding:3px 9px;font-weight:700;font-size:15px}
 .syl span:nth-child(odd){color:var(--accent)}
+.syl span.st{background:var(--accent);border-color:var(--accent);color:#fff}
+.wsyl{display:inline-flex;flex-wrap:wrap;align-items:baseline;justify-content:center}.wsyl .sdot{font-style:normal;color:var(--muted);font-weight:400;margin:0 .12em}.wsyl .sy.st{color:var(--accent);text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:6px}
 .hit{color:var(--accent);font-weight:700}
 .rec{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .rec .r{background:var(--accent);color:#fff;border:0;border-radius:999px;padding:8px 16px;font-size:14px;font-weight:600}
@@ -416,6 +418,22 @@ function recorder(key) {
 /* ---------- questions ---------- */
 const blankOut = (ex, w) => ex.replace(new RegExp('\\b' + w + '\\b', 'i'), '______');
 const kpQ = k => ({ id: k.id, type: 'mc', tag: k.tag, prompt: k.q, opts: k.opts, a: k.a, fact: k.fact });
+const ORD = ['1st', '2nd', '3rd', '4th', '5th', '6th'];
+function sylInfo(w) {
+  const syl = (w.syl && w.syl.length) ? w.syl : [w.w];
+  const toks = (w.ipa || '').replace(/\//g, '').match(/[ˈˌ]?[^.ˈˌ\s]+/g) || [];
+  let stress = toks.findIndex(t => t[0] === 'ˈ');
+  if (toks.length !== syl.length || stress < 0) stress = syl.length === 1 ? 0 : -1;
+  return { syl, stress };
+}
+function sylHtml(w, cls) {
+  const { syl, stress } = sylInfo(w);
+  return `<span class="${cls}">${syl.map((x, i) => `<span class="sy ${i === stress ? 'st' : ''}">${esc(x)}</span>`).join('<i class="sdot">·</i>')}</span>`;
+}
+function sylNote(w) {
+  const { syl, stress } = sylInfo(w), n = syl.length;
+  return `${n} syllable${n > 1 ? 's' : ''}${n > 1 && stress >= 0 ? ` · stress on the ${ORD[stress]}: <b>${esc(syl[stress].toUpperCase())}</b>` : ''}`;
+}
 function wordQ(aid, w, pool, spell) {
   const id = `${aid}-w-${w.w}`;
   if (spell && !/\s/.test(w.w)) return { id, type: 'spell', tag: 'Word', prompt: 'Spell the word:', def: `${w.def} (${w.pos})`, sub: blankOut(w.ex, w.w), answer: w.w };
@@ -508,9 +526,9 @@ const PAGES = {
       return `<div class="wrap">
         <div class="spread"><span class="eyebrow">Step 1 · Words</span><span class="meta num">${i + 1} / ${n}</span></div>
         <div class="bar"><div class="fill" style="width:${(i + 1) / n * 100}%"></div></div>
-        <div class="panel card"><span class="chip ${w.level === 'Topic word' ? 'term' : ''}">${esc(w.level || '')}</span><div class="word ${w.w.length > 12 ? 'long' : ''}">${esc(w.w)}</div>
+        <div class="panel card"><span class="chip ${w.level === 'Topic word' ? 'term' : ''}">${esc(w.level || '')}</span><div class="word ${w.w.length > 12 ? 'long' : ''}">${sylHtml(w, 'wsyl')}</div>
           <div class="row" style="justify-content:center"><span class="muted" style="font-size:16px">${esc(w.ipa)}</span><button class="say" data-act="speak" data-t="${esc(w.w)}">🔊 Listen</button></div>
-          <div class="syl">${w.syl.map(x => `<span>${esc(x)}</span>`).join('')}</div><div class="meta">${esc(w.pos)}</div>
+          <div class="syl">${sylInfo(w).syl.map((x, k) => `<span class="${k === sylInfo(w).stress ? 'st' : ''}">${esc(x)}</span>`).join('')}</div><div class="meta">${sylNote(w)} · ${esc(w.pos)}</div>
           ${st.s.show ? `<div style="font-size:17px;font-weight:700">${esc(w.def)}</div>` : `<button class="ghost" data-act="reveal">Guess the meaning, then tap to check</button>`}</div>
         ${(() => { const hit = inArticle(a, w.w); return hit ? `<div class="panel"><span class="eyebrow">In the article · paragraph ${hit.para}</span><div style="font-size:15px;line-height:1.7">${hit.html}</div></div>` : ''; })()}
         <div class="panel"><div class="spread"><span class="eyebrow">Another example</span><button class="say" data-act="speak" data-t="${esc(w.ex)}">🔊</button></div><div style="font-size:16px;line-height:1.7">${ex}</div></div>
@@ -536,7 +554,7 @@ const PAGES = {
       if (s.sheet && s.sheet.kind === 'w') { const w = a.words.find(x => x.w === s.sheet.w) || {};
         sheet = `<div class="sheet-bg" data-act="rclose"></div><div class="sheet" style="--bc:var(--accent);--bt:var(--soft)"><div class="grab"></div>
           <div class="spread"><span class="chip ${w.level === 'Topic word' ? 'term' : ''}">${esc(w.level || '')}</span><button class="say" data-act="speak" data-t="${esc(w.w)}">🔊</button></div>
-          <div class="sw">${esc(w.w)} <span class="muted" style="font-size:15px;font-weight:400">${esc(w.ipa || '')} · ${esc(w.pos || '')}</span></div>
+          <div class="sw">${w.w ? sylHtml(w, 'wsyl') : ''} <span class="muted" style="font-size:15px;font-weight:400">${esc(w.ipa || '')} · ${esc(w.pos || '')}</span></div>${w.w ? `<div class="meta">${sylNote(w)}</div>` : ''}
           <div class="sfact">${esc(w.def || '')}</div><div class="meta">${esc(w.ex || '')}</div><button class="ghost" data-act="rclose">Back to the article</button></div>`; }
       if (s.sheet && s.sheet.kind === 's') { const k = a.keySentences[s.sheet.i];
         sheet = `<div class="sheet-bg" data-act="rclose"></div><div class="sheet" style="--bc:var(--hl);--bt:var(--hlbg)"><div class="grab"></div>

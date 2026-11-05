@@ -34,6 +34,12 @@ const letters = [0, 0, 0];
     need(['A2 word', 'Topic word'].includes(w.level), `${tag}: word ${w.w} level must be "A2 word" or "Topic word"`);
     need(new RegExp('\\b' + esc(w.w) + '(s|es|d|ed|ing)?\\b', 'i').test(text), `${tag}: word "${w.w}" does not appear in the story`);
     need(new RegExp('\\b' + esc(w.w) + '\\b', 'i').test(w.ex), `${tag}: example for "${w.w}" must contain the exact word`);
+    if (Array.isArray(w.syl)) {
+      need(w.syl.join('').toLowerCase() === w.w.replace(/[\s-]/g, '').toLowerCase(), `${tag}: syl for "${w.w}" must join to the word exactly (got ${w.syl.join('·')})`);
+      const toks = (w.ipa || '').replace(/\//g, '').match(/[ˈˌ]?[^.ˈˌ\s]+/g) || [];
+      need(toks.length === w.syl.length, `${tag}: "${w.w}" has ${w.syl.length} syllables but its IPA has ${toks.length} (separate IPA syllables with . and mark stress with ˈ)`);
+      if (w.syl.length > 1) need(toks.some(x => x[0] === 'ˈ'), `${tag}: "${w.w}" IPA needs a ˈ stress mark`);
+    }
     if (w.def && w.def.split(/\s+/).length > 14) warn.push(`${tag}: definition of "${w.w}" is long for A2`);
   });
   // key sentences
