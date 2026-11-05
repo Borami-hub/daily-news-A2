@@ -71,3 +71,11 @@ ARTICLE:
 | `write` | `{ p, steps: [3 short steps = 3 things to write about], minWords: 25–35 }` — KET Writing Part 6 (email/message, 25+ words, 3 points) or Part 7 (short story, 35+ words). |
 
 The audio map (`"audio": { text: path }`) is added by `gen_audio.py`; do not write it by hand.
+
+## Voices
+
+Each of the day's 3 texts (with its words, examples, key sentences and grammar examples) is read by a
+different voice. `gen_audio.py` rotates 12 voices in a fixed order (US female, US male, UK female, UK male,
+repeated three times), 3 per day, so the cycle repeats every 4 days; 2026-11-06 starts with voice 1. It also
+writes each article's `voice` label (e.g. "British English · female"), shown on the reading page. Do not set
+voices or `voice` by hand.

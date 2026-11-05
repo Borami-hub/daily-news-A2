@@ -513,7 +513,7 @@ const PAGES = {
         <div class="list">${mods.map(m => `<button class="item mod ${m.done ? 'done' : ''} ${next && m.key === next.key ? 'next' : ''}" data-act="mod" data-key="${m.key}">
           <span class="no num">${m.done ? '✓' : m.no}</span><span class="txt"><div class="h3">${m.title}</div><div class="meta">${m.sub}</div></span>
           ${next && m.key === next.key ? '<span class="chip">Next</span>' : ''}<span class="go" style="color:var(--muted)">›</span></button>`).join('')}</div>
-        <div class="meta">${a.genre ? esc(a.genre) + ' · ' : ''}${a.sources && a.sources.length ? `Facts from ${a.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(', ')} · ` : ''}Written for A2 learners.</div>
+        <div class="meta">${a.genre ? esc(a.genre) + ' · ' : ''}${a.sources && a.sources.length ? `Facts from ${a.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(', ')} · ` : ''}Written for A2 learners.${a.voice ? ` · Voice: ${esc(a.voice)}` : ''}</div>
       </div>`;
     }
   },
@@ -570,7 +570,7 @@ const PAGES = {
           ${a.dek ? `<p class="rdek">${esc(a.dek)}</p>` : ''}
           <div class="rmeta">${words} words · about ${Math.max(2, Math.round(words / 150))} min · tap highlights to learn more</div>
           ${a.paras.map((p, i) => `<div class="rp" data-p="${i}"><span class="rpn">${i + 1}</span><p class="${i === 0 ? 'lead' : ''}">${paraHtml(p, i)}</p></div>`).join('')}
-          <div class="rsrc">${a.genre ? esc(a.genre) + ' · ' : ''}${a.sources && a.sources.length ? `Facts from ${a.sources.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(', ')} · ` : ''}Written for A2 learners.</div>
+          <div class="rsrc">${a.genre ? esc(a.genre) + ' · ' : ''}${a.sources && a.sources.length ? `Facts from ${a.sources.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(', ')} · ` : ''}Written for A2 learners.${a.voice ? ` · Voice: ${esc(a.voice)}` : ''}</div>
         </article>
         <div class="wrap" style="padding-top:0">${done
           ? `<div class="panel center-txt"><span class="eyebrow">Reading done</span><div class="row" style="justify-content:center;gap:24px"><div><span class="big num">${Math.floor(done.secs / 60)}:${pad(done.secs % 60)}</span><div class="meta">time</div></div><div><span class="big num">${done.wpm}</span><div class="meta">words / min</div></div></div><div class="meta">${done.wpm < 60 ? 'Take your time. Try to read a little faster next time.' : done.wpm > 180 ? 'Very fast. Make sure you can still answer the questions!' : 'Good reading pace.'}</div><button class="btn" data-act="toquiz">Go to the questions</button></div>`
