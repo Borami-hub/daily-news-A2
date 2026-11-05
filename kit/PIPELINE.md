@@ -74,8 +74,9 @@ The audio map (`"audio": { text: path }`) is added by `gen_audio.py`; do not wri
 
 ## Voices
 
-Each of the day's 3 texts (with its words, examples, key sentences and grammar examples) is read by a
-different voice. `gen_audio.py` rotates 12 voices in a fixed order (US female, US male, UK female, UK male,
+Each of the day's 3 texts (paragraphs, key sentences, grammar examples) is read by a different voice.
+Words and their example sentences always use one clear American voice (af_heart), so pronunciation
+stays the same model every day. `gen_audio.py` rotates 12 voices in a fixed order (US female, US male, UK female, UK male,
 repeated three times), 3 per day, so the cycle repeats every 4 days; 2026-11-06 starts with voice 1. It also
 writes each article's `voice` label (e.g. "British English · female"), shown on the reading page. Do not set
 voices or `voice` by hand.

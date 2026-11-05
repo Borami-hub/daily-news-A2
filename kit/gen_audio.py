@@ -5,8 +5,8 @@ Usage:  (cd content) python3 ../kit/gen_audio.py days/2026-11-06.json
 Needs:  pip install --break-system-packages kokoro-onnx soundfile ; ffmpeg on PATH.
 Model files are downloaded once into ./tts-model/ from the kokoro-onnx GitHub release.
 
-Voices: each of the day's 3 texts (with its words, examples, key sentences and grammar examples)
-is read by a different voice. 12 voices rotate in the fixed order below (US female, US male,
+Voices: each of the day's 3 texts (paragraphs, key sentences, grammar examples) is read by a
+different voice. Words and their example sentences always use one clear US voice (af_heart). 12 voices rotate in the fixed order below (US female, US male,
 UK female, UK male, ...), 3 per day, so the cycle repeats every 4 days. 2026-11-06 starts at voice 1.
 
 Output: audio/<date>/a{n}-p{i}.mp3 (paragraphs), a{n}-w-*.mp3 / a{n}-ex-*.mp3 (words, examples),
@@ -32,6 +32,7 @@ VOICES = [  # (kokoro voice, language, label shown to students)
     ("bm_lewis",    "en-gb", "British English · male"),
 ]
 START = datetime.date(2026, 11, 6)
+WORD_VOICE = ("af_heart", "en-us")  # words and their example sentences: always this clear US voice
 
 def voices_for(date):
     d = (datetime.date.fromisoformat(date) - START).days
@@ -57,11 +58,11 @@ def main(day_path):
         a["voice"] = label
         print(f"text {ai}: {voice} ({label})")
 
-        def gen(text, name, speed=0.9):
+        def gen(text, name, speed=0.9, v=voice, lg=lang):
             path = f"{out}/{name}.mp3"
             if text in amap: return  # same sentence already recorded for this day
             if not os.path.exists(path):
-                samples, sr = k.create(text, voice=voice, speed=speed, lang=lang)
+                samples, sr = k.create(text, voice=v, speed=speed, lang=lg)
                 sf.write("_tmp.wav", samples, sr)
                 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "_tmp.wav", "-ac", "1", "-b:a", "48k", path], check=True)
             amap[text] = path
@@ -69,7 +70,7 @@ def main(day_path):
         for pi, p in enumerate(a["paras"], 1): gen(p, f"a{ai}-p{pi}")
         for w in a["words"]:
             slug = re.sub(r"[^a-z]+", "-", w["w"].lower()).strip("-")
-            gen(w["w"], f"a{ai}-w-{slug}", 0.8); gen(w["ex"], f"a{ai}-ex-{slug}")
+            gen(w["w"], f"a{ai}-w-{slug}", 0.8, *WORD_VOICE); gen(w["ex"], f"a{ai}-ex-{slug}", 0.85, *WORD_VOICE)
         for si, ks in enumerate(a.get("keySentences", []), 1): gen(ks["text"], f"a{ai}-ks{si}")
         for gi, ex in enumerate(a.get("grammar", {}).get("examples", []), 1): gen(ex["text"], f"a{ai}-g{gi}")
 
