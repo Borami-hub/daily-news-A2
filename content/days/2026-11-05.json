@@ -546,7 +546,8 @@
      "Ask your pen friend two questions."
     ],
     "minWords": 25
-   }
+   },
+   "voice": "American English · male"
   },
   {
    "id": "k20261105-2",
@@ -1094,7 +1095,8 @@
      "Say what it usually does every day."
     ],
     "minWords": 30
-   }
+   },
+   "voice": "British English · female"
   },
   {
    "id": "k20261105-3",
@@ -1623,7 +1625,8 @@
      "Say what you are doing with it this month."
     ],
     "minWords": 30
-   }
+   },
+   "voice": "British English · male"
   }
  ],
  "audio": {
@@ -1654,9 +1657,9 @@
   "primary school": "audio/2026-11-05/a1-w-primary-school.mp3",
   "My little brother goes to primary school.": "audio/2026-11-05/a1-ex-primary-school.mp3",
   "Hi Leo, my name is Mia, and I'm your new pen friend!": "audio/2026-11-05/a1-ks1.mp3",
-  "We've got a dog called Churro.": "audio/2026-11-05/a1-g1.mp3",
-  "There isn't a cinema near us, but there's one in the city centre.": "audio/2026-11-05/a1-g3.mp3",
-  "I haven't got any brothers, but I've got two sisters, Emma and Grace.": "audio/2026-11-05/a1-g4.mp3",
+  "We've got a dog called Churro.": "audio/2026-11-05/a1-ks2.mp3",
+  "There isn't a cinema near us, but there's one in the city centre.": "audio/2026-11-05/a1-ks3.mp3",
+  "I haven't got any brothers, but I've got two sisters, Emma and Grace.": "audio/2026-11-05/a1-ks4.mp3",
   "There's a big park next to our building, and there are lots of cafés and shops in our street.": "audio/2026-11-05/a1-g2.mp3",
   "Emperor penguins live in Antarctica, the coldest place on Earth. They are the biggest penguins in the world. An adult is about 115 centimetres tall, and it can weigh up to 40 kilograms. They usually live in big groups called colonies.": "audio/2026-11-05/a2-p1.mp3",
   "Emperor penguins are great swimmers. They eat fish, squid and krill, and they always find their food in the sea. They can dive more than 500 metres deep, and they sometimes stay under the water for over 20 minutes. No other bird dives deeper.": "audio/2026-11-05/a2-p2.mp3",
@@ -1686,7 +1689,7 @@
   "The chick opened its mouth for food.": "audio/2026-11-05/a2-ex-chick.mp3",
   "They have their babies in the long, dark Antarctic winter.": "audio/2026-11-05/a2-ks1.mp3",
   "They can dive more than 500 metres deep, and they sometimes stay under the water for over 20 minutes.": "audio/2026-11-05/a2-ks2.mp3",
-  "For two months, the father doesn't eat anything at all!": "audio/2026-11-05/a2-g4.mp3",
+  "For two months, the father doesn't eat anything at all!": "audio/2026-11-05/a2-ks3.mp3",
   "So they often change places.": "audio/2026-11-05/a2-ks4.mp3",
   "They usually live in big groups called colonies.": "audio/2026-11-05/a2-g1.mp3",
   "They eat fish, squid and krill, and they always find their food in the sea.": "audio/2026-11-05/a2-g2.mp3",
@@ -1715,7 +1718,7 @@
   "mess": "audio/2026-11-05/a3-w-mess.mp3",
   "My bedroom is a mess, so Mum is angry.": "audio/2026-11-05/a3-ex-mess.mp3",
   "We wanted to know what they usually do and what they are doing at the moment.": "audio/2026-11-05/a3-ks1.mp3",
-  "This month, I'm learning a difficult song for my grandma's birthday party.": "audio/2026-11-05/a3-g2.mp3",
+  "This month, I'm learning a difficult song for my grandma's birthday party.": "audio/2026-11-05/a3-ks2.mp3",
   "I don't have an expensive camera, so I use my mum's old phone.": "audio/2026-11-05/a3-ks3.mp3",
   "This week is different, because I'm cooking food from other countries.": "audio/2026-11-05/a3-ks4.mp3",
   "I play the guitar, and I practise for about half an hour every evening.": "audio/2026-11-05/a3-g1.mp3",
