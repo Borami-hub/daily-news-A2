@@ -1,0 +1,1736 @@
+{
+ "date": "2026-11-07",
+ "headline": "Seaside emails, a kind runner and the tablet test",
+ "teaser": "Where did Sofia go on holiday? Why did Jonas stop in the middle of a race? Which is better for homework, a tablet or a laptop?",
+ "articles": [
+  {
+   "id": "k20261107-1",
+   "topic": "Travel & holidays",
+   "genre": "Email",
+   "title": "Emails from the Seaside",
+   "dek": "Mateo asks lots of questions about his cousin's summer holiday.",
+   "sources": [],
+   "paras": [
+    "Hi Sofia, How was your holiday in Portugal? Did you have good weather? Did you swim in the sea? I didn't go anywhere in the summer. I stayed at home and played games. Please tell me everything! Love, Mateo",
+    "Hi Mateo, Thanks for your email. We had a great time! The weather was hot and sunny, so we went to the beach every day. I didn't swim much on the first day because the water was very cold. On the second day, I jumped in and I loved it! Love, Sofia",
+    "Hi Sofia, Wow, that sounds great! Did you eat any local food? What did you do in the evenings? Did you take many photos? Please send me some. Love, Mateo",
+    "Hi Mateo, Yes, I ate fish and fresh bread every day. I didn't like the soup, but Dad loved it. In the evenings, we walked along the harbour and watched the boats. I took more than a hundred photos! My brother didn't take any because he lost his phone on the bus. Love, Sofia",
+    "Hi Sofia, Poor Leo! Did he find his phone in the end? Where did you stay? Did you sleep in a hotel? Love, Mateo",
+    "Hi Mateo, He didn't find it, but the bus driver found it and called us the next day. We didn't stay in a hotel. We stayed in a small flat near the beach, and it was cheap and nice. Next summer, come with us! Love, Sofia"
+   ],
+   "words": [
+    {
+     "w": "weather",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈweð.ər/",
+     "syl": [
+      "weath",
+      "er"
+     ],
+     "def": "how hot, cold, wet or sunny it is outside",
+     "ex": "The weather is cold and windy today."
+    },
+    {
+     "w": "beach",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/biːtʃ/",
+     "syl": [
+      "beach"
+     ],
+     "def": "a sandy place next to the sea",
+     "ex": "We played football on the beach."
+    },
+    {
+     "w": "hotel",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/həʊˈtel/",
+     "syl": [
+      "ho",
+      "tel"
+     ],
+     "def": "a building where you pay to sleep for a night",
+     "ex": "The hotel has a big swimming pool."
+    },
+    {
+     "w": "fresh",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/freʃ/",
+     "syl": [
+      "fresh"
+     ],
+     "def": "new, just made or just picked; not old",
+     "ex": "I like fresh fruit in the morning."
+    },
+    {
+     "w": "harbour",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈhɑː.bər/",
+     "syl": [
+      "har",
+      "bour"
+     ],
+     "def": "a place by the sea where boats stay",
+     "ex": "Many fishing boats are in the harbour."
+    },
+    {
+     "w": "local",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈləʊ.kəl/",
+     "syl": [
+      "lo",
+      "cal"
+     ],
+     "def": "from the place you are visiting",
+     "ex": "We ate local cheese in the village."
+    },
+    {
+     "w": "flat",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/flæt/",
+     "syl": [
+      "flat"
+     ],
+     "def": "a home on one floor of a bigger building",
+     "ex": "Their flat is on the second floor."
+    },
+    {
+     "w": "driver",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdraɪ.vər/",
+     "syl": [
+      "dri",
+      "ver"
+     ],
+     "def": "a person who drives a bus, car or train",
+     "ex": "The taxi driver was very friendly."
+    },
+    {
+     "w": "photo",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈfəʊ.təʊ/",
+     "syl": [
+      "pho",
+      "to"
+     ],
+     "def": "a picture you take with a camera or phone",
+     "ex": "I took a photo of my cat."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Did you have good weather?",
+     "kind": "Grammar to notice",
+     "note": "For a question in the past, we use Did + I/you/he + base verb."
+    },
+    {
+     "para": 2,
+     "text": "I didn't swim much on the first day because the water was very cold.",
+     "kind": "Cause → effect",
+     "note": "The water was cold, so Sofia didn't swim much."
+    },
+    {
+     "para": 4,
+     "text": "In the evenings, we walked along the harbour and watched the boats.",
+     "kind": "Key details",
+     "note": "This is what the family did after dinner."
+    },
+    {
+     "para": 6,
+     "text": "He didn't find it, but the bus driver found it and called us the next day.",
+     "kind": "Time order",
+     "note": "Leo lost the phone first, and then the driver called the next day."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Where did Mateo spend the summer?",
+     "opts": [
+      "at home",
+      "in Portugal",
+      "at the beach"
+     ],
+     "a": 0,
+     "why": "Mateo says he stayed at home and played games.",
+     "evidence": "I stayed at home and played games.",
+     "optWhy": [
+      "Correct. He stayed at home.",
+      "Portugal is where Sofia went, not Mateo.",
+      "Sofia went to the beach, not Mateo."
+     ]
+    },
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What are the emails mostly about?",
+     "opts": [
+      "Mateo's games at home",
+      "Sofia's holiday by the sea",
+      "a new phone"
+     ],
+     "a": 1,
+     "why": "Mateo asks questions and Sofia tells him about her holiday.",
+     "evidence": null,
+     "optWhy": [
+      "Mateo only mentions his games in one sentence.",
+      "Correct. Most of the emails talk about Sofia's holiday.",
+      "Leo's phone is only one small part of the emails."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Sofia's mum loved the soup.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "Sofia says Dad loved the soup. The emails say nothing about her mum.",
+     "evidence": "I didn't like the soup, but Dad loved it.",
+     "optWhy": [
+      "We cannot say Right because the emails do not talk about Mum.",
+      "We cannot say Wrong because the emails do not talk about Mum.",
+      "Correct. The emails say nothing about Sofia's mum and the soup."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who is 'he' in 'Did he find his phone in the end?'",
+     "opts": [
+      "Leo",
+      "Dad",
+      "the bus driver"
+     ],
+     "a": 0,
+     "why": "'He' is Sofia's brother, Leo. He lost his phone.",
+     "evidence": "Poor Leo! Did he find his phone in the end?",
+     "optWhy": [
+      "Correct. 'He' is Leo.",
+      "Dad is not the person who lost a phone.",
+      "The driver found the phone later, but he did not lose it."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, 'lost his phone' means he ...",
+     "opts": [
+      "gave it away",
+      "could not find it",
+      "bought it"
+     ],
+     "a": 1,
+     "why": "If you lose something, you cannot find it.",
+     "evidence": "My brother didn't take any because he lost his phone on the bus.",
+     "optWhy": [
+      "He did not give the phone to someone.",
+      "Correct. He could not find his phone.",
+      "He did not buy the phone."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "Where did Sofia's family stay?",
+     "opts": [
+      "in a hotel",
+      "with friends",
+      "in a small flat"
+     ],
+     "a": 2,
+     "why": "They stayed in a small flat near the beach.",
+     "evidence": "We stayed in a small flat near the beach, and it was cheap and nice.",
+     "optWhy": [
+      "Sofia says: 'We didn't stay in a hotel.'",
+      "The emails do not say they stayed with friends.",
+      "Correct. They stayed in a small flat."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple questions and negatives",
+    "rule": "For a question in the past, use Did + subject + base verb: Did you swim? For a negative, use didn't + base verb: I didn't swim. After did and didn't, the main verb does not change (not 'did you swam').",
+    "table": [
+     [
+      "Did you swim?",
+      "Yes, I did. / No, I didn't."
+     ],
+     [
+      "I didn't go.",
+      "(not 'I didn't went')"
+     ],
+     [
+      "What did you do?",
+      "I played games."
+     ],
+     [
+      "Did he find it?",
+      "No, he didn't."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Did you have good weather?",
+      "mark": "Did you have"
+     },
+     {
+      "para": 1,
+      "text": "I didn't go anywhere in the summer.",
+      "mark": "didn't go"
+     },
+     {
+      "para": 3,
+      "text": "Did you take many photos?",
+      "mark": "Did you take"
+     },
+     {
+      "para": 6,
+      "text": "We didn't stay in a hotel.",
+      "mark": "didn't stay"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ you do your homework last night?",
+      "opts": [
+       "Do",
+       "Did",
+       "Were"
+      ],
+      "a": 1,
+      "why": "Last night is past, so we use Did."
+     },
+     {
+      "type": "mc",
+      "q": "She didn't ___ to school yesterday.",
+      "opts": [
+       "go",
+       "went",
+       "goes"
+      ],
+      "a": 0,
+      "why": "After didn't we use the base verb: go."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ watch TV last Sunday. I was busy.",
+      "hint": "(negative: not)",
+      "a": "didn't",
+      "why": "A past negative is didn't + base verb."
+     },
+     {
+      "type": "fill",
+      "q": "What time did the train ___ ?",
+      "hint": "(leave)",
+      "a": "leave",
+      "why": "After did we use the base verb: leave."
+     },
+     {
+      "type": "mc",
+      "q": "Did Tom ___ his phone on the bus?",
+      "opts": [
+       "lost",
+       "lose",
+       "loses"
+      ],
+      "a": 1,
+      "why": "After Did we use the base verb: lose."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ buy any food at the market. It was closed.",
+      "hint": "(negative: not)",
+      "a": "didn't",
+      "why": "We use didn't + base verb (buy)."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261107-1-k1",
+     "tag": "Mateo",
+     "fact": "Mateo stayed at home in the summer and played games.",
+     "q": "What did Mateo do in the summer?",
+     "opts": [
+      "He played games at home.",
+      "He went to Portugal.",
+      "He worked in a hotel."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261107-1-k2",
+     "tag": "Weather",
+     "fact": "The weather in Portugal was hot and sunny, so Sofia's family went to the beach every day.",
+     "q": "Where did they go every day?",
+     "opts": [
+      "to the harbour",
+      "to the beach",
+      "to a hotel"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261107-1-k3",
+     "tag": "Food",
+     "fact": "Sofia ate fish and fresh bread every day, but she didn't like the soup.",
+     "q": "What did Sofia not like?",
+     "opts": [
+      "the bread",
+      "the fish",
+      "the soup"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261107-1-k4",
+     "tag": "Phone",
+     "fact": "Leo lost his phone on the bus, but the bus driver found it.",
+     "q": "Who found Leo's phone?",
+     "opts": [
+      "the bus driver",
+      "Sofia",
+      "Mateo"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Sofia's holiday",
+    "question": "What happened on Sofia's holiday?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "2, 6",
+      "blanks": [
+       "by the sea",
+       "small flat"
+      ],
+      "kps": [
+       "k20261107-1-k1"
+      ]
+     },
+     {
+      "title": "Weather",
+      "paras": "2",
+      "blanks": [
+       "hot and sunny",
+       "every day"
+      ],
+      "kps": [
+       "k20261107-1-k2"
+      ]
+     },
+     {
+      "title": "Food",
+      "paras": "4",
+      "blanks": [
+       "fish and bread"
+      ],
+      "kps": [
+       "k20261107-1-k3"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "4, 6",
+      "blanks": [
+       "lost his phone",
+       "bus driver"
+      ],
+      "kps": [
+       "k20261107-1-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "a rainy week",
+     "a big hotel"
+    ]
+   },
+   "summary": {
+    "intro": "Mateo asks Sofia about her summer holiday.",
+    "model": "Sofia had a great holiday by the sea because the weather was hot and sunny. Her brother lost his phone, but the bus driver found it.",
+    "options": [
+     {
+      "t": "Sofia had a good holiday by the sea in Portugal.",
+      "ok": true,
+      "why": "This is the main idea of the emails.",
+      "type": "main",
+      "para": 2,
+      "evidence": "We had a great time!"
+     },
+     {
+      "t": "The family enjoyed the food and the evening walks.",
+      "ok": true,
+      "why": "Sofia tells Mateo about food and the harbour.",
+      "type": "main",
+      "para": 4,
+      "evidence": "In the evenings, we walked along the harbour and watched the boats."
+     },
+     {
+      "t": "Leo lost his phone, but a driver found it.",
+      "ok": true,
+      "why": "This is the small problem and the happy ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "He didn't find it, but the bus driver found it and called us the next day."
+     },
+     {
+      "t": "Sofia took more than a hundred photos.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "I took more than a hundred photos!"
+     },
+     {
+      "t": "Mateo went to Portugal with Sofia.",
+      "ok": false,
+      "why": "Not in the emails. Mateo stayed at home.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Sofia's family stayed in a big hotel.",
+      "ok": false,
+      "why": "The emails say the opposite.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "We didn't stay in a hotel."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Where did you go on your last holiday? What did you do there?",
+    "hint": "Try: 'Last summer, I went to…' and 'I didn't…, but I…'",
+    "sec": 35
+   },
+   "write": {
+    "p": "You are Mateo. Write an email to Sofia about your weekend.",
+    "steps": [
+     "Say where you went last weekend.",
+     "Say what you did there.",
+     "Ask Sofia one question about her holiday."
+    ],
+    "minWords": 30
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261107-2",
+   "topic": "Sport",
+   "genre": "Story",
+   "title": "The Last Lap",
+   "dek": "Jonas is running the race of his life, and then someone falls.",
+   "sources": [],
+   "paras": [
+    "Last Saturday was the school sports day. Jonas was standing at the start line when the teacher blew her whistle. He was nervous, but he wanted to win the 800 metres race for his class. It was a sunny day, and the whole school was watching from the field.",
+    "At first, everything went well. While the other runners were racing at the front, Jonas ran slowly behind them. His coach was shouting, \"Wait! Keep your energy for the end!\" Jonas liked this plan, but it was hard to run so slowly.",
+    "On the last lap, Jonas started to run faster. He was passing the third runner when something happened. A girl called Priya was running next to him. Her shoe came off, and she fell on the track. She cried out in pain.",
+    "Jonas stopped. The crowd was cheering loudly when he turned back. He gave Priya his hand and helped her stand up. \"Are you OK?\" he asked. Her knee was hurting, but she smiled. \"Thank you,\" she said quietly.",
+    "While they were walking to the finish line, the other runners were crossing it. Everybody was clapping. Jonas and Priya finished last, but nobody was laughing. Priya's friends ran to her and gave her some water.",
+    "Later, the teacher was holding a big gold cup when she walked onto the field. \"This prize is for the best sportsman of the day,\" she said. Then she gave it to Jonas.",
+    "Jonas was smiling when his friends ran to hug him. He didn't win the race, but he felt like a winner."
+   ],
+   "words": [
+    {
+     "w": "nervous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɜː.vəs/",
+     "syl": [
+      "ner",
+      "vous"
+     ],
+     "def": "a little afraid or worried about something",
+     "ex": "I felt nervous before my English test."
+    },
+    {
+     "w": "whistle",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈwɪs.əl/",
+     "syl": [
+      "whis",
+      "tle"
+     ],
+     "def": "a small tool that makes a loud high sound",
+     "ex": "The referee blew his whistle."
+    },
+    {
+     "w": "lap",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/læp/",
+     "syl": [
+      "lap"
+     ],
+     "def": "one time around a running track",
+     "ex": "He ran the last lap very fast."
+    },
+    {
+     "w": "crowd",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/kraʊd/",
+     "syl": [
+      "crowd"
+     ],
+     "def": "a large group of people in one place",
+     "ex": "A big crowd waited outside the stadium."
+    },
+    {
+     "w": "cheer",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/tʃɪə/",
+     "syl": [
+      "cheer"
+     ],
+     "def": "to shout to show you like someone",
+     "ex": "We cheer when our team scores."
+    },
+    {
+     "w": "coach",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/kəʊtʃ/",
+     "syl": [
+      "coach"
+     ],
+     "def": "a person who teaches and trains a sports team",
+     "ex": "Our coach is kind but strict."
+    },
+    {
+     "w": "energy",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈen.ə.dʒi/",
+     "syl": [
+      "en",
+      "er",
+      "gy"
+     ],
+     "def": "the power you need to run, play or work",
+     "ex": "I have no energy after a long run."
+    },
+    {
+     "w": "knee",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/niː/",
+     "syl": [
+      "knee"
+     ],
+     "def": "the middle part of your leg, where it bends",
+     "ex": "He hurt his knee in the game."
+    },
+    {
+     "w": "prize",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/praɪz/",
+     "syl": [
+      "prize"
+     ],
+     "def": "a thing you get when you win",
+     "ex": "The first prize is a new bike."
+    },
+    {
+     "w": "cup",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/kʌp/",
+     "syl": [
+      "cup"
+     ],
+     "def": "a prize in sport, shaped like a big gold cup",
+     "ex": "Our school won the cup last year."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Jonas was standing at the start line when the teacher blew her whistle.",
+     "kind": "Grammar to notice",
+     "note": "Was standing is the longer action. Blew is the short action that came in the middle."
+    },
+    {
+     "para": 3,
+     "text": "He was passing the third runner when something happened.",
+     "kind": "Time order",
+     "note": "Jonas was in the middle of passing someone when the problem happened."
+    },
+    {
+     "para": 4,
+     "text": "He gave Priya his hand and helped her stand up.",
+     "kind": "Key details",
+     "note": "Jonas chose to help instead of running on."
+    },
+    {
+     "para": 7,
+     "text": "He didn't win the race, but he felt like a winner.",
+     "kind": "Main idea",
+     "note": "Being kind can feel better than winning."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "What was Jonas doing when the teacher blew her whistle?",
+     "opts": [
+      "running",
+      "standing at the start line",
+      "talking to his coach"
+     ],
+     "a": 1,
+     "why": "He was standing at the start line.",
+     "evidence": "Jonas was standing at the start line when the teacher blew her whistle.",
+     "optWhy": [
+      "The race had not started yet.",
+      "Correct. He was standing at the start line.",
+      "His coach talks to him later, in paragraph 2."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Where was Jonas at first in the race?",
+     "opts": [
+      "at the front",
+      "in the middle",
+      "behind the other runners"
+     ],
+     "a": 2,
+     "why": "Jonas ran slowly behind the other runners.",
+     "evidence": "While the other runners were racing at the front, Jonas ran slowly behind them.",
+     "optWhy": [
+      "The other runners were at the front.",
+      "The text does not say he was in the middle.",
+      "Correct. He ran slowly behind them."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the writer write this story?",
+     "opts": [
+      "to show that kindness matters more than winning",
+      "to teach us how to train for a race",
+      "to explain the rules of running"
+     ],
+     "a": 0,
+     "why": "The story shows that helping Priya made Jonas a winner.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. Jonas helps Priya and feels like a winner.",
+      "The coach gives only one small tip about energy.",
+      "The story does not explain any rules."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 1,
+     "q": "How did Jonas feel at the start of the race?",
+     "opts": [
+      "happy",
+      "nervous",
+      "bored"
+     ],
+     "a": 1,
+     "why": "The story says he was nervous.",
+     "evidence": "He was nervous, but he wanted to win the 800 metres race for his class.",
+     "optWhy": [
+      "He wanted to win, but the story says he was nervous.",
+      "Correct. The story says he was nervous.",
+      "Nothing in the story shows he was bored."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Jonas's mum watched the sports day.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The story does not say who watched Jonas.",
+     "evidence": "This prize is for the best sportsman of the day,\" she said.",
+     "optWhy": [
+      "We cannot say Right because the story does not mention his mum.",
+      "We cannot say Wrong because the story does not mention his mum.",
+      "Correct. The story does not mention his mum."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "What did the teacher give Jonas?",
+     "opts": [
+      "a big gold cup",
+      "a medal",
+      "a book"
+     ],
+     "a": 0,
+     "why": "The teacher gave him the big gold cup.",
+     "evidence": "Later, the teacher was holding a big gold cup when she walked onto the field.",
+     "optWhy": [
+      "Correct. It was a big gold cup.",
+      "The story does not mention a medal.",
+      "The story does not mention a book."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past continuous with when / while",
+    "rule": "Use was / were + verb-ing for an action that was in progress at a time in the past. Use the past simple for a short action that happened in the middle. When often goes with the short action, and while goes with the longer action.",
+    "table": [
+     [
+      "I was running",
+      "when it started to rain."
+     ],
+     [
+      "While she was reading,",
+      "the phone rang."
+     ],
+     [
+      "They were playing",
+      "while we were cooking."
+     ],
+     [
+      "I wasn't looking",
+      "when he called."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Jonas was standing at the start line when the teacher blew her whistle.",
+      "mark": "was standing"
+     },
+     {
+      "para": 2,
+      "text": "While the other runners were racing at the front, Jonas ran slowly behind them.",
+      "mark": "were racing"
+     },
+     {
+      "para": 3,
+      "text": "He was passing the third runner when something happened.",
+      "mark": "was passing"
+     },
+     {
+      "para": 4,
+      "text": "The crowd was cheering loudly when he turned back.",
+      "mark": "was cheering"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "I ___ for the bus when my friend called.",
+      "opts": [
+       "wait",
+       "was waiting",
+       "waited"
+      ],
+      "a": 1,
+      "why": "Waiting is a longer action in progress: was waiting."
+     },
+     {
+      "type": "mc",
+      "q": "While we ___ football, it began to rain.",
+      "opts": [
+       "played",
+       "were playing",
+       "play"
+      ],
+      "a": 1,
+      "why": "While goes with the longer action: were playing."
+     },
+     {
+      "type": "fill",
+      "q": "She ___ a book when the lights went out.",
+      "hint": "(read)",
+      "a": "was reading",
+      "why": "A longer action in progress: was reading."
+     },
+     {
+      "type": "fill",
+      "q": "The boys ___ in the park when it started to rain.",
+      "hint": "(run)",
+      "a": "were running",
+      "why": "Boys is plural, so we use were + running."
+     },
+     {
+      "type": "mc",
+      "q": "Tim fell off his bike while he ___ to school.",
+      "opts": [
+       "rode",
+       "was riding",
+       "rides"
+      ],
+      "a": 1,
+      "why": "Riding to school was the longer action: was riding."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ TV when you phoned me. I was asleep.",
+      "hint": "(negative: watch)",
+      "a": "wasn't watching",
+      "why": "Negative past continuous: wasn't + verb-ing."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261107-2-k1",
+     "tag": "Start",
+     "fact": "Jonas was nervous at the start of the 800 metres race.",
+     "q": "How did Jonas feel?",
+     "opts": [
+      "happy",
+      "nervous",
+      "tired"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261107-2-k2",
+     "tag": "Race",
+     "fact": "At first, Jonas ran slowly behind the other runners.",
+     "q": "Where was Jonas at first?",
+     "opts": [
+      "behind the others",
+      "at the front",
+      "next to Priya"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261107-2-k3",
+     "tag": "Problem",
+     "fact": "Priya's shoe came off and she fell on the track.",
+     "q": "What happened to Priya?",
+     "opts": [
+      "She stopped to drink.",
+      "She lost the race.",
+      "She fell down."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261107-2-k4",
+     "tag": "Ending",
+     "fact": "Jonas helped Priya, and the teacher gave him the cup.",
+     "q": "Who got the gold cup?",
+     "opts": [
+      "Priya",
+      "Jonas",
+      "the coach"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "The Last Lap",
+    "question": "What happened in Jonas's race?",
+    "branches": [
+     {
+      "title": "Who",
+      "paras": "1",
+      "blanks": [
+       "Jonas",
+       "800 metres race"
+      ],
+      "kps": [
+       "k20261107-2-k1"
+      ]
+     },
+     {
+      "title": "Plan",
+      "paras": "2",
+      "blanks": [
+       "run slowly",
+       "keep energy"
+      ],
+      "kps": [
+       "k20261107-2-k2"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "3–4",
+      "blanks": [
+       "Priya fell"
+      ],
+      "kps": [
+       "k20261107-2-k3"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "gold cup",
+       "felt like a winner"
+      ],
+      "kps": [
+       "k20261107-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "lost his shoe",
+     "a swimming race"
+    ]
+   },
+   "summary": {
+    "intro": "Jonas is in a school race and sees a girl fall.",
+    "model": "Jonas stopped in the race because Priya fell down. He helped her, so the teacher gave him a cup, but he didn't win the race.",
+    "options": [
+     {
+      "t": "Jonas was running in a school race.",
+      "ok": true,
+      "why": "This is where the story starts.",
+      "type": "main",
+      "para": 1,
+      "evidence": "he wanted to win the 800 metres race for his class."
+     },
+     {
+      "t": "Jonas stopped and helped Priya after she fell.",
+      "ok": true,
+      "why": "This is the key moment of the story.",
+      "type": "main",
+      "para": 4,
+      "evidence": "He gave Priya his hand and helped her stand up."
+     },
+     {
+      "t": "The teacher gave Jonas a cup for being kind.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Then she gave it to Jonas."
+     },
+     {
+      "t": "Jonas's coach was shouting at him.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "His coach was shouting"
+     },
+     {
+      "t": "Priya's shoe was new.",
+      "ok": false,
+      "why": "Not in the story.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Jonas won the race.",
+      "ok": false,
+      "why": "The story says the opposite.",
+      "type": "contra",
+      "para": 7,
+      "evidence": "He didn't win the race"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like sport? What sport do you play, and why?",
+    "hint": "Try: 'I usually play…' and 'I like it because…'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short story with this idea: 'I was running to school when …'",
+    "steps": [
+     "Say why you were in a hurry.",
+     "Say what happened while you were running.",
+     "Say how the story ended."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261107-3",
+   "topic": "Technology",
+   "genre": "Article",
+   "title": "Tablet or Laptop?",
+   "dek": "One class tried both for two weeks. Which one is better for homework?",
+   "sources": [],
+   "paras": [
+    "Many students use a laptop or a tablet for homework. Some students buy a new one every year. But which one is better? Our class tried both for two weeks. We wrote down what we liked and what we did not like. This is what we found.",
+    "A tablet is lighter than a laptop, so it is easier to carry to school. It is also cheaper. A good tablet costs about 200 euros, but a good laptop costs about 500.",
+    "However, a laptop has a bigger screen and a real keyboard. Typing is faster, and long homework is more comfortable. Most of us said that the laptop was more useful for writing.",
+    "Tablets are better for reading and drawing. You can read on the sofa or in bed, and you can draw with your finger. It is also nice to show a picture to a friend. The battery of a tablet also lasts longer than the battery of a laptop.",
+    "What about the price? A laptop is more expensive, so students must be more careful with it. Many of us were afraid to drop it. Nobody was afraid of dropping a tablet in a soft case.",
+    "Our teacher says that no machine is perfect. \"The best choice depends on you,\" she says. If you write a lot, a laptop is a better friend. If you read and draw, a tablet is better.",
+    "The vote was not close, but nobody said that one machine is always the winner. So, which one do we like more? In our class, ten students chose the laptop and fourteen chose the tablet. What is your choice?"
+   ],
+   "words": [
+    {
+     "w": "tablet",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtæb.lət/",
+     "syl": [
+      "tab",
+      "let"
+     ],
+     "def": "a flat computer you touch with your fingers",
+     "ex": "She reads books on her tablet."
+    },
+    {
+     "w": "laptop",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈlæp.tɒp/",
+     "syl": [
+      "lap",
+      "top"
+     ],
+     "def": "a small computer that you can carry",
+     "ex": "My dad works on his laptop every day."
+    },
+    {
+     "w": "screen",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skriːn/",
+     "syl": [
+      "screen"
+     ],
+     "def": "the flat part of a phone or computer that shows pictures",
+     "ex": "The phone has a big screen."
+    },
+    {
+     "w": "keyboard",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkiː.bɔːd/",
+     "syl": [
+      "key",
+      "board"
+     ],
+     "def": "the keys you press to write on a computer",
+     "ex": "This keyboard is easy to use."
+    },
+    {
+     "w": "battery",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈbæt.ər.i/",
+     "syl": [
+      "bat",
+      "ter",
+      "y"
+     ],
+     "def": "a thing inside a phone that gives it power",
+     "ex": "My phone battery is empty."
+    },
+    {
+     "w": "comfortable",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈkʌm.fə.tə.bəl/",
+     "syl": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+     ],
+     "def": "nice to sit or lie in; not hard or painful",
+     "ex": "This sofa is very comfortable."
+    },
+    {
+     "w": "expensive",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪkˈspen.sɪv/",
+     "syl": [
+      "ex",
+      "pen",
+      "sive"
+     ],
+     "def": "costing a lot of money",
+     "ex": "That coat is too expensive for me."
+    },
+    {
+     "w": "careful",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈkeə.fəl/",
+     "syl": [
+      "care",
+      "ful"
+     ],
+     "def": "thinking about what you do so nothing goes wrong",
+     "ex": "Be careful with the hot soup."
+    },
+    {
+     "w": "choice",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/tʃɔɪs/",
+     "syl": [
+      "choice"
+     ],
+     "def": "a chance to pick one thing from different things",
+     "ex": "You have a choice: tea or juice."
+    },
+    {
+     "w": "depends",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/dɪˈpend/",
+     "syl": [
+      "de",
+      "pends"
+     ],
+     "def": "is different in different situations",
+     "ex": "It depends on the weather."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "A tablet is lighter than a laptop, so it is easier to carry to school.",
+     "kind": "Cause → effect",
+     "note": "The tablet is lighter, so it is easier to carry."
+    },
+    {
+     "para": 3,
+     "text": "Most of us said that the laptop was more useful for writing.",
+     "kind": "Opinion",
+     "note": "This is what most students in the class thought."
+    },
+    {
+     "para": 4,
+     "text": "The battery of a tablet also lasts longer than the battery of a laptop.",
+     "kind": "Grammar to notice",
+     "note": "Longer than is a comparative. We use than to compare two things."
+    },
+    {
+     "para": 6,
+     "text": "\"The best choice depends on you,\" she says.",
+     "kind": "Main idea",
+     "note": "There is no perfect answer. It is your choice."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "how to fix a laptop",
+      "how to draw on a tablet",
+      "which is better for homework, a tablet or a laptop"
+     ],
+     "a": 2,
+     "why": "The class compares a tablet and a laptop.",
+     "evidence": null,
+     "optWhy": [
+      "The article does not talk about fixing.",
+      "Drawing is only one small point.",
+      "Correct. The class compares the two machines."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Which is cheaper?",
+     "opts": [
+      "a tablet",
+      "a laptop",
+      "They cost the same."
+     ],
+     "a": 0,
+     "why": "A good tablet costs about 200 euros and a laptop costs about 500.",
+     "evidence": "A good tablet costs about 200 euros, but a good laptop costs about 500.",
+     "optWhy": [
+      "Correct. A tablet is cheaper.",
+      "A laptop costs more.",
+      "The prices are different."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why did students like the laptop for writing?",
+     "opts": [
+      "It has a lighter battery.",
+      "It has a bigger screen and a real keyboard.",
+      "It has a soft case."
+     ],
+     "a": 1,
+     "why": "The laptop has a bigger screen and a real keyboard.",
+     "evidence": "However, a laptop has a bigger screen and a real keyboard.",
+     "optWhy": [
+      "The text says the tablet battery lasts longer.",
+      "Correct. These two things help with writing.",
+      "The soft case is for the tablet."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Tablets break more easily than laptops.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The article does not say which breaks more easily.",
+     "evidence": "Nobody was afraid of dropping a tablet in a soft case.",
+     "optWhy": [
+      "We cannot say Right because the article does not compare how easily they break.",
+      "We cannot say Wrong because the article does not compare how easily they break.",
+      "Correct. The article does not say this."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 6,
+     "q": "In paragraph 6, 'depends on you' means ...",
+     "opts": [
+      "is different for each person",
+      "is very cheap for you",
+      "is made by you"
+     ],
+     "a": 0,
+     "why": "The best choice is not the same for everybody.",
+     "evidence": "\"The best choice depends on you,\" she says.",
+     "optWhy": [
+      "Correct. The choice is different for each person.",
+      "Price is not what 'depends' means.",
+      "'Depends' does not mean 'made by'."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 7,
+     "q": "How many students chose the tablet?",
+     "opts": [
+      "ten",
+      "fourteen",
+      "twenty-four"
+     ],
+     "a": 1,
+     "why": "Fourteen students chose the tablet.",
+     "evidence": "In our class, ten students chose the laptop and fourteen chose the tablet.",
+     "optWhy": [
+      "Ten students chose the laptop.",
+      "Correct. Fourteen chose the tablet.",
+      "That is both numbers together."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Comparative adjectives",
+    "rule": "Use a comparative to compare two things. Short adjectives add -er: light → lighter, cheap → cheaper. For long adjectives, use more: more useful, more expensive. Use than after the comparative. Two irregular ones: good → better, bad → worse.",
+    "table": [
+     [
+      "light",
+      "lighter"
+     ],
+     [
+      "big",
+      "bigger"
+     ],
+     [
+      "easy",
+      "easier"
+     ],
+     [
+      "useful",
+      "more useful"
+     ],
+     [
+      "expensive",
+      "more expensive"
+     ],
+     [
+      "good",
+      "better"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "A tablet is lighter than a laptop, so it is easier to carry to school.",
+      "mark": "lighter than"
+     },
+     {
+      "para": 3,
+      "text": "However, a laptop has a bigger screen and a real keyboard.",
+      "mark": "bigger"
+     },
+     {
+      "para": 5,
+      "text": "A laptop is more expensive, so students must be more careful with it.",
+      "mark": "more expensive"
+     },
+     {
+      "para": 6,
+      "text": "If you write a lot, a laptop is a better friend.",
+      "mark": "better"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My phone is ___ than my sister's phone.",
+      "opts": [
+       "new",
+       "newer",
+       "more new"
+      ],
+      "a": 1,
+      "why": "New is short, so we add -er: newer."
+     },
+     {
+      "type": "mc",
+      "q": "Maths is ___ than history for me.",
+      "opts": [
+       "more difficult",
+       "difficulter",
+       "most difficult"
+      ],
+      "a": 0,
+      "why": "Difficult is long, so we use more difficult."
+     },
+     {
+      "type": "fill",
+      "q": "A bike is ___ than a bus in the city centre.",
+      "hint": "(fast)",
+      "a": "faster",
+      "why": "Fast is short: faster."
+     },
+     {
+      "type": "fill",
+      "q": "This film is ___ than the last one.",
+      "hint": "(funny)",
+      "a": "funnier",
+      "why": "Funny ends in -y, so y changes to i: funnier."
+     },
+     {
+      "type": "mc",
+      "q": "Your English is ___ than mine.",
+      "opts": [
+       "gooder",
+       "more good",
+       "better"
+      ],
+      "a": 2,
+      "why": "Good is irregular: good → better."
+     },
+     {
+      "type": "fill",
+      "q": "The tablet is ___ than the laptop, so I take it to school.",
+      "hint": "(light)",
+      "a": "lighter",
+      "why": "Light is short: lighter."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261107-3-k1",
+     "tag": "Price",
+     "fact": "A tablet is cheaper than a laptop.",
+     "q": "Which is more expensive?",
+     "opts": [
+      "a laptop",
+      "a tablet",
+      "a phone"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261107-3-k2",
+     "tag": "Laptop",
+     "fact": "A laptop has a bigger screen and a real keyboard.",
+     "q": "What does a laptop have?",
+     "opts": [
+      "a smaller screen",
+      "a real keyboard",
+      "a longer battery"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261107-3-k3",
+     "tag": "Tablet",
+     "fact": "Tablets are better for reading and drawing.",
+     "q": "What are tablets better for?",
+     "opts": [
+      "typing",
+      "playing football",
+      "reading and drawing"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261107-3-k4",
+     "tag": "Result",
+     "fact": "In the class, fourteen students chose the tablet.",
+     "q": "Which got more votes?",
+     "opts": [
+      "the tablet",
+      "the laptop",
+      "They got the same."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Tablet or laptop?",
+    "question": "How are a tablet and a laptop different?",
+    "branches": [
+     {
+      "title": "Weight",
+      "paras": "2",
+      "blanks": [
+       "lighter",
+       "easier to carry"
+      ],
+      "kps": [
+       "k20261107-3-k1"
+      ]
+     },
+     {
+      "title": "Laptop",
+      "paras": "3",
+      "blanks": [
+       "bigger screen",
+       "real keyboard"
+      ],
+      "kps": [
+       "k20261107-3-k2"
+      ]
+     },
+     {
+      "title": "Tablet",
+      "paras": "4",
+      "blanks": [
+       "reading and drawing"
+      ],
+      "kps": [
+       "k20261107-3-k3"
+      ]
+     },
+     {
+      "title": "Result",
+      "paras": "7",
+      "blanks": [
+       "fourteen chose tablet",
+       "your choice"
+      ],
+      "kps": [
+       "k20261107-3-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "more expensive",
+     "a longer wire"
+    ]
+   },
+   "summary": {
+    "intro": "A class compares tablets and laptops for homework.",
+    "model": "A tablet is cheaper and lighter, but a laptop is better for writing. The best choice depends on you.",
+    "options": [
+     {
+      "t": "A tablet is lighter and cheaper than a laptop.",
+      "ok": true,
+      "why": "This is a main result.",
+      "type": "main",
+      "para": 2,
+      "evidence": "A tablet is lighter than a laptop"
+     },
+     {
+      "t": "A laptop is better for long writing.",
+      "ok": true,
+      "why": "This is the other main result.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Most of us said that the laptop was more useful for writing."
+     },
+     {
+      "t": "The best choice is different for each student.",
+      "ok": true,
+      "why": "This is the teacher's message.",
+      "type": "main",
+      "para": 6,
+      "evidence": "\"The best choice depends on you,\" she says."
+     },
+     {
+      "t": "A good laptop costs about 500 euros.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "a good laptop costs about 500."
+     },
+     {
+      "t": "Every student already has a tablet.",
+      "ok": false,
+      "why": "Not in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "A laptop is easier to carry than a tablet.",
+      "ok": false,
+      "why": "The article says the opposite.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "so it is easier to carry to school."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Which do you like more, a phone or a computer? Why?",
+    "hint": "Try: 'I like … more than …' and '… is better for …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short message to a friend. Tell your friend which is better for you: a tablet or a laptop.",
+    "steps": [
+     "Say which one you like more.",
+     "Say why it is better than the other one.",
+     "Ask your friend a question about it."
+    ],
+    "minWords": 30
+   },
+   "voice": "American English · male"
+  }
+ ],
+ "audio": {
+  "Hi Sofia, How was your holiday in Portugal? Did you have good weather? Did you swim in the sea? I didn't go anywhere in the summer. I stayed at home and played games. Please tell me everything! Love, Mateo": "audio/2026-11-07/a1-p1.mp3",
+  "Hi Mateo, Thanks for your email. We had a great time! The weather was hot and sunny, so we went to the beach every day. I didn't swim much on the first day because the water was very cold. On the second day, I jumped in and I loved it! Love, Sofia": "audio/2026-11-07/a1-p2.mp3",
+  "Hi Sofia, Wow, that sounds great! Did you eat any local food? What did you do in the evenings? Did you take many photos? Please send me some. Love, Mateo": "audio/2026-11-07/a1-p3.mp3",
+  "Hi Mateo, Yes, I ate fish and fresh bread every day. I didn't like the soup, but Dad loved it. In the evenings, we walked along the harbour and watched the boats. I took more than a hundred photos! My brother didn't take any because he lost his phone on the bus. Love, Sofia": "audio/2026-11-07/a1-p4.mp3",
+  "Hi Sofia, Poor Leo! Did he find his phone in the end? Where did you stay? Did you sleep in a hotel? Love, Mateo": "audio/2026-11-07/a1-p5.mp3",
+  "Hi Mateo, He didn't find it, but the bus driver found it and called us the next day. We didn't stay in a hotel. We stayed in a small flat near the beach, and it was cheap and nice. Next summer, come with us! Love, Sofia": "audio/2026-11-07/a1-p6.mp3",
+  "weather": "audio/2026-11-07/a1-w-weather.mp3",
+  "The weather is cold and windy today.": "audio/2026-11-07/a1-ex-weather.mp3",
+  "beach": "audio/2026-11-07/a1-w-beach.mp3",
+  "We played football on the beach.": "audio/2026-11-07/a1-ex-beach.mp3",
+  "hotel": "audio/2026-11-07/a1-w-hotel.mp3",
+  "The hotel has a big swimming pool.": "audio/2026-11-07/a1-ex-hotel.mp3",
+  "fresh": "audio/2026-11-07/a1-w-fresh.mp3",
+  "I like fresh fruit in the morning.": "audio/2026-11-07/a1-ex-fresh.mp3",
+  "harbour": "audio/2026-11-07/a1-w-harbour.mp3",
+  "Many fishing boats are in the harbour.": "audio/2026-11-07/a1-ex-harbour.mp3",
+  "local": "audio/2026-11-07/a1-w-local.mp3",
+  "We ate local cheese in the village.": "audio/2026-11-07/a1-ex-local.mp3",
+  "flat": "audio/2026-11-07/a1-w-flat.mp3",
+  "Their flat is on the second floor.": "audio/2026-11-07/a1-ex-flat.mp3",
+  "driver": "audio/2026-11-07/a1-w-driver.mp3",
+  "The taxi driver was very friendly.": "audio/2026-11-07/a1-ex-driver.mp3",
+  "photo": "audio/2026-11-07/a1-w-photo.mp3",
+  "I took a photo of my cat.": "audio/2026-11-07/a1-ex-photo.mp3",
+  "Did you have good weather?": "audio/2026-11-07/a1-ks1.mp3",
+  "I didn't swim much on the first day because the water was very cold.": "audio/2026-11-07/a1-ks2.mp3",
+  "In the evenings, we walked along the harbour and watched the boats.": "audio/2026-11-07/a1-ks3.mp3",
+  "He didn't find it, but the bus driver found it and called us the next day.": "audio/2026-11-07/a1-ks4.mp3",
+  "I didn't go anywhere in the summer.": "audio/2026-11-07/a1-g2.mp3",
+  "Did you take many photos?": "audio/2026-11-07/a1-g3.mp3",
+  "We didn't stay in a hotel.": "audio/2026-11-07/a1-g4.mp3",
+  "Last Saturday was the school sports day. Jonas was standing at the start line when the teacher blew her whistle. He was nervous, but he wanted to win the 800 metres race for his class. It was a sunny day, and the whole school was watching from the field.": "audio/2026-11-07/a2-p1.mp3",
+  "At first, everything went well. While the other runners were racing at the front, Jonas ran slowly behind them. His coach was shouting, \"Wait! Keep your energy for the end!\" Jonas liked this plan, but it was hard to run so slowly.": "audio/2026-11-07/a2-p2.mp3",
+  "On the last lap, Jonas started to run faster. He was passing the third runner when something happened. A girl called Priya was running next to him. Her shoe came off, and she fell on the track. She cried out in pain.": "audio/2026-11-07/a2-p3.mp3",
+  "Jonas stopped. The crowd was cheering loudly when he turned back. He gave Priya his hand and helped her stand up. \"Are you OK?\" he asked. Her knee was hurting, but she smiled. \"Thank you,\" she said quietly.": "audio/2026-11-07/a2-p4.mp3",
+  "While they were walking to the finish line, the other runners were crossing it. Everybody was clapping. Jonas and Priya finished last, but nobody was laughing. Priya's friends ran to her and gave her some water.": "audio/2026-11-07/a2-p5.mp3",
+  "Later, the teacher was holding a big gold cup when she walked onto the field. \"This prize is for the best sportsman of the day,\" she said. Then she gave it to Jonas.": "audio/2026-11-07/a2-p6.mp3",
+  "Jonas was smiling when his friends ran to hug him. He didn't win the race, but he felt like a winner.": "audio/2026-11-07/a2-p7.mp3",
+  "nervous": "audio/2026-11-07/a2-w-nervous.mp3",
+  "I felt nervous before my English test.": "audio/2026-11-07/a2-ex-nervous.mp3",
+  "whistle": "audio/2026-11-07/a2-w-whistle.mp3",
+  "The referee blew his whistle.": "audio/2026-11-07/a2-ex-whistle.mp3",
+  "lap": "audio/2026-11-07/a2-w-lap.mp3",
+  "He ran the last lap very fast.": "audio/2026-11-07/a2-ex-lap.mp3",
+  "crowd": "audio/2026-11-07/a2-w-crowd.mp3",
+  "A big crowd waited outside the stadium.": "audio/2026-11-07/a2-ex-crowd.mp3",
+  "cheer": "audio/2026-11-07/a2-w-cheer.mp3",
+  "We cheer when our team scores.": "audio/2026-11-07/a2-ex-cheer.mp3",
+  "coach": "audio/2026-11-07/a2-w-coach.mp3",
+  "Our coach is kind but strict.": "audio/2026-11-07/a2-ex-coach.mp3",
+  "energy": "audio/2026-11-07/a2-w-energy.mp3",
+  "I have no energy after a long run.": "audio/2026-11-07/a2-ex-energy.mp3",
+  "knee": "audio/2026-11-07/a2-w-knee.mp3",
+  "He hurt his knee in the game.": "audio/2026-11-07/a2-ex-knee.mp3",
+  "prize": "audio/2026-11-07/a2-w-prize.mp3",
+  "The first prize is a new bike.": "audio/2026-11-07/a2-ex-prize.mp3",
+  "cup": "audio/2026-11-07/a2-w-cup.mp3",
+  "Our school won the cup last year.": "audio/2026-11-07/a2-ex-cup.mp3",
+  "Jonas was standing at the start line when the teacher blew her whistle.": "audio/2026-11-07/a2-ks1.mp3",
+  "He was passing the third runner when something happened.": "audio/2026-11-07/a2-ks2.mp3",
+  "He gave Priya his hand and helped her stand up.": "audio/2026-11-07/a2-ks3.mp3",
+  "He didn't win the race, but he felt like a winner.": "audio/2026-11-07/a2-ks4.mp3",
+  "While the other runners were racing at the front, Jonas ran slowly behind them.": "audio/2026-11-07/a2-g2.mp3",
+  "The crowd was cheering loudly when he turned back.": "audio/2026-11-07/a2-g4.mp3",
+  "Many students use a laptop or a tablet for homework. Some students buy a new one every year. But which one is better? Our class tried both for two weeks. We wrote down what we liked and what we did not like. This is what we found.": "audio/2026-11-07/a3-p1.mp3",
+  "A tablet is lighter than a laptop, so it is easier to carry to school. It is also cheaper. A good tablet costs about 200 euros, but a good laptop costs about 500.": "audio/2026-11-07/a3-p2.mp3",
+  "However, a laptop has a bigger screen and a real keyboard. Typing is faster, and long homework is more comfortable. Most of us said that the laptop was more useful for writing.": "audio/2026-11-07/a3-p3.mp3",
+  "Tablets are better for reading and drawing. You can read on the sofa or in bed, and you can draw with your finger. It is also nice to show a picture to a friend. The battery of a tablet also lasts longer than the battery of a laptop.": "audio/2026-11-07/a3-p4.mp3",
+  "What about the price? A laptop is more expensive, so students must be more careful with it. Many of us were afraid to drop it. Nobody was afraid of dropping a tablet in a soft case.": "audio/2026-11-07/a3-p5.mp3",
+  "Our teacher says that no machine is perfect. \"The best choice depends on you,\" she says. If you write a lot, a laptop is a better friend. If you read and draw, a tablet is better.": "audio/2026-11-07/a3-p6.mp3",
+  "The vote was not close, but nobody said that one machine is always the winner. So, which one do we like more? In our class, ten students chose the laptop and fourteen chose the tablet. What is your choice?": "audio/2026-11-07/a3-p7.mp3",
+  "tablet": "audio/2026-11-07/a3-w-tablet.mp3",
+  "She reads books on her tablet.": "audio/2026-11-07/a3-ex-tablet.mp3",
+  "laptop": "audio/2026-11-07/a3-w-laptop.mp3",
+  "My dad works on his laptop every day.": "audio/2026-11-07/a3-ex-laptop.mp3",
+  "screen": "audio/2026-11-07/a3-w-screen.mp3",
+  "The phone has a big screen.": "audio/2026-11-07/a3-ex-screen.mp3",
+  "keyboard": "audio/2026-11-07/a3-w-keyboard.mp3",
+  "This keyboard is easy to use.": "audio/2026-11-07/a3-ex-keyboard.mp3",
+  "battery": "audio/2026-11-07/a3-w-battery.mp3",
+  "My phone battery is empty.": "audio/2026-11-07/a3-ex-battery.mp3",
+  "comfortable": "audio/2026-11-07/a3-w-comfortable.mp3",
+  "This sofa is very comfortable.": "audio/2026-11-07/a3-ex-comfortable.mp3",
+  "expensive": "audio/2026-11-07/a3-w-expensive.mp3",
+  "That coat is too expensive for me.": "audio/2026-11-07/a3-ex-expensive.mp3",
+  "careful": "audio/2026-11-07/a3-w-careful.mp3",
+  "Be careful with the hot soup.": "audio/2026-11-07/a3-ex-careful.mp3",
+  "choice": "audio/2026-11-07/a3-w-choice.mp3",
+  "You have a choice: tea or juice.": "audio/2026-11-07/a3-ex-choice.mp3",
+  "depends": "audio/2026-11-07/a3-w-depends.mp3",
+  "It depends on the weather.": "audio/2026-11-07/a3-ex-depends.mp3",
+  "A tablet is lighter than a laptop, so it is easier to carry to school.": "audio/2026-11-07/a3-ks1.mp3",
+  "Most of us said that the laptop was more useful for writing.": "audio/2026-11-07/a3-ks2.mp3",
+  "The battery of a tablet also lasts longer than the battery of a laptop.": "audio/2026-11-07/a3-ks3.mp3",
+  "\"The best choice depends on you,\" she says.": "audio/2026-11-07/a3-ks4.mp3",
+  "However, a laptop has a bigger screen and a real keyboard.": "audio/2026-11-07/a3-g2.mp3",
+  "A laptop is more expensive, so students must be more careful with it.": "audio/2026-11-07/a3-g3.mp3",
+  "If you write a lot, a laptop is a better friend.": "audio/2026-11-07/a3-g4.mp3"
+ }
+}
