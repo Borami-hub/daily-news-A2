@@ -18,6 +18,9 @@ Look at the last 10 day files (`content/days/*.json`) first and follow the rotat
   with WebSearch/WebFetch, write it again in your own A2 words, and fill `sources` (name + url). Never copy
   sentences from magazines or textbooks (they are copyrighted); Simple English Wikipedia (CC BY-SA) and public
   institution pages are fine as fact sources.
+- **More science:** at least 3 days in every 7 include an ASK-style science text (the natural world, weather, health,
+  technology, space, the human body, everyday science such as "Why is the sky blue?"). On those days the
+  fact text should be the science one. Keep experiments and explanations simple and safe for 12–15-year-olds.
 - Stories stay as they are now: original short stories with a problem and an ending (no change to this genre).
   Fiction, emails and interviews need no sources.
 - Use the Cambridge A2 Key vocabulary list and graded-reader levels only to check difficulty, not as text to copy.
