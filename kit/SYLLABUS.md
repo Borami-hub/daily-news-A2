@@ -12,8 +12,15 @@ Look at the last 10 day files (`content/days/*.json`) first and follow the rotat
 - Every text is original writing in the style of A2 coursebooks and Cambridge A2 Key papers
   (topic, length, sentence patterns, question types). Do not copy published textbook or exam texts.
 - Characters are teenagers, families, teachers, local people. Give them international names.
-- One text a day may be a real-world fact text (an animal, a place, an invention, a festival);
-  check facts with WebSearch and add `sources`. Fiction, emails and interviews need no sources.
+- At least one text a day is a **real-world fact text** in the style of children's magazines such as ASK and FACES:
+  either an ASK-style science question ("Why do cats purr?": ask the question first, then answer it step by step)
+  or a FACES-style world-culture text (a country, a festival, a food, a child's day somewhere). Check every fact
+  with WebSearch/WebFetch, write it again in your own A2 words, and fill `sources` (name + url). Never copy
+  sentences from magazines or textbooks (they are copyrighted); Simple English Wikipedia (CC BY-SA) and public
+  institution pages are fine as fact sources.
+- Stories stay as they are now: original short stories with a problem and an ending (no change to this genre).
+  Fiction, emails and interviews need no sources.
+- Use the Cambridge A2 Key vocabulary list and graded-reader levels only to check difficulty, not as text to copy.
 
 ## Topics (Cambridge A2 Key topic list)
 
