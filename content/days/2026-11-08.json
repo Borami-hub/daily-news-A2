@@ -1,0 +1,1774 @@
+{
+ "date": "2026-11-08",
+ "headline": "Body records, a talent show and the library rules",
+ "teaser": "Which bone is the smallest? What can Amina do with a coin? What must you do in a library?",
+ "articles": [
+  {
+   "id": "k20261108-1",
+   "topic": "Health & exercise",
+   "genre": "Article",
+   "title": "Your Body's Biggest and Smallest",
+   "dek": "Which bone is the longest? Which one is the smallest? The answers may surprise you.",
+   "sources": [
+    {
+     "name": "Wikipedia: Human skin",
+     "url": "https://en.wikipedia.org/wiki/Human_skin"
+    },
+    {
+     "name": "Wikipedia: Femur",
+     "url": "https://en.wikipedia.org/wiki/Femur"
+    },
+    {
+     "name": "Wikipedia: Stapes",
+     "url": "https://en.wikipedia.org/wiki/Stapes"
+    },
+    {
+     "name": "Wikipedia: Tooth enamel",
+     "url": "https://en.wikipedia.org/wiki/Tooth_enamel"
+    }
+   ],
+   "paras": [
+    "Your body is full of records. Which part is the biggest? Which bone is the longest? And which one is the smallest? Let's find out. You may be surprised!",
+    "The biggest organ in your body is your skin. It covers your whole body and keeps out dirt and germs. In an adult, skin is about two square metres. That is about as big as a single bed. Skin also tells your brain when something is hot or cold.",
+    "The longest bone is the thigh bone. Its name is the femur. It is in the top part of your leg. It is about one quarter of your height. If you are 1.6 metres tall, your femur is about 40 centimetres long. It must carry your weight when you walk, run and jump.",
+    "Now look at the smallest bone. It is in your ear, and its name is the stapes. It is only about three millimetres long. That is smaller than a grain of rice. It is the smallest bone in your body, but it is very important. It helps you hear sounds.",
+    "What about the hardest part of your body? That is the enamel on your teeth. It is harder than your bones. But it is not as strong as a good habit. Brush your teeth twice a day, and do not eat too many sweets.",
+    "Which record is the most surprising for you? Many students say the stapes is the most amazing. It is so small, but it works hard all day. Our bodies are not all the same, but every part is important. Look after the whole body: sleep well, eat well and move every day."
+   ],
+   "words": [
+    {
+     "w": "record",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈrek.ɔːd/",
+     "syl": [
+      "rec",
+      "ord"
+     ],
+     "def": "the biggest, best or fastest thing of its kind",
+     "ex": "Dina has the school record for the long jump."
+    },
+    {
+     "w": "surprised",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/səˈpraɪzd/",
+     "syl": [
+      "sur",
+      "prised"
+     ],
+     "def": "feeling a little shocked by something new",
+     "ex": "I was surprised to see my teacher at the cinema."
+    },
+    {
+     "w": "organ",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɔː.ɡən/",
+     "syl": [
+      "or",
+      "gan"
+     ],
+     "def": "a part of the body that does a job, like the heart",
+     "ex": "The heart is an organ that moves blood."
+    },
+    {
+     "w": "germs",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/dʒɜːmz/",
+     "syl": [
+      "germs"
+     ],
+     "def": "very small living things that can make you ill",
+     "ex": "Wash your hands to kill germs."
+    },
+    {
+     "w": "thigh",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/θaɪ/",
+     "syl": [
+      "thigh"
+     ],
+     "def": "the top part of your leg",
+     "ex": "He hurt his thigh in the football match."
+    },
+    {
+     "w": "femur",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfiː.mər/",
+     "syl": [
+      "fe",
+      "mur"
+     ],
+     "def": "the long bone in the top part of your leg",
+     "ex": "The femur is a very strong bone."
+    },
+    {
+     "w": "stapes",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsteɪ.piːz/",
+     "syl": [
+      "sta",
+      "pes"
+     ],
+     "def": "the tiny bone inside your ear",
+     "ex": "The stapes helps you hear."
+    },
+    {
+     "w": "millimetres",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmɪl.ɪ.miː.təz/",
+     "syl": [
+      "mil",
+      "li",
+      "me",
+      "tres"
+     ],
+     "def": "very short lengths; ten of them make a centimetre",
+     "ex": "The ant is only five millimetres long."
+    },
+    {
+     "w": "enamel",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɪˈnæm.əl/",
+     "syl": [
+      "e",
+      "nam",
+      "el"
+     ],
+     "def": "the hard white cover on your teeth",
+     "ex": "Sweet drinks can hurt the enamel on your teeth."
+    },
+    {
+     "w": "habit",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈhæb.ɪt/",
+     "syl": [
+      "ha",
+      "bit"
+     ],
+     "def": "something you do again and again",
+     "ex": "Reading before bed is a good habit."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "The biggest organ in your body is your skin.",
+     "kind": "Key details",
+     "note": "Skin is the biggest organ."
+    },
+    {
+     "para": 3,
+     "text": "The longest bone is the thigh bone.",
+     "kind": "Grammar to notice",
+     "note": "The longest is a superlative. It means longer than all other bones."
+    },
+    {
+     "para": 4,
+     "text": "It is the smallest bone in your body, but it is very important.",
+     "kind": "Main idea",
+     "note": "The stapes is tiny, but it is important."
+    },
+    {
+     "para": 5,
+     "text": "It is harder than your bones.",
+     "kind": "Key details",
+     "note": "Enamel is harder than bone."
+    },
+    {
+     "para": 6,
+     "text": "Our bodies are not all the same, but every part is important.",
+     "kind": "Opinion",
+     "note": "The writer thinks every body part matters."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "the biggest, longest and smallest parts of your body",
+      "how to play a sport",
+      "why we must eat fruit"
+     ],
+     "a": 0,
+     "why": "The article shows body records.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. The article gives facts about body records.",
+      "There is no sport in the article.",
+      "The article does not talk about fruit."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What is the biggest organ in your body?",
+     "opts": [
+      "your heart",
+      "your skin",
+      "your brain"
+     ],
+     "a": 1,
+     "why": "The text says skin is the biggest organ.",
+     "evidence": "The biggest organ in your body is your skin.",
+     "optWhy": [
+      "The heart is not mentioned.",
+      "Correct. The text says it is your skin.",
+      "The brain is not mentioned."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "How long is the femur of a person who is 1.6 metres tall?",
+     "opts": [
+      "about 4 centimetres",
+      "about 400 centimetres",
+      "about 40 centimetres"
+     ],
+     "a": 2,
+     "why": "The text says about 40 centimetres.",
+     "evidence": "If you are 1.6 metres tall, your femur is about 40 centimetres long.",
+     "optWhy": [
+      "That is far too short.",
+      "That is far too long.",
+      "Correct. It is about 40 centimetres."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "The stapes is bigger than a grain of rice.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "The stapes is smaller than a grain of rice.",
+     "evidence": "That is smaller than a grain of rice.",
+     "optWhy": [
+      "Not true. The text says the opposite.",
+      "Correct. The stapes is smaller than rice.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, 'It helps you hear sounds.' What is 'It'?",
+     "opts": [
+      "the stapes",
+      "the ear",
+      "a grain of rice"
+     ],
+     "a": 0,
+     "why": "'It' is the stapes, the smallest bone.",
+     "evidence": "It helps you hear sounds.",
+     "optWhy": [
+      "Correct. 'It' means the stapes.",
+      "The ear holds the bone, but the sentence is about the bone.",
+      "Rice is only used to show the size."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the writer write this article?",
+     "opts": [
+      "to sell a book",
+      "to tell a funny story",
+      "to share some facts about the body"
+     ],
+     "a": 2,
+     "why": "The writer gives body facts.",
+     "evidence": null,
+     "optWhy": [
+      "No book is for sale.",
+      "It is not a story.",
+      "Correct. The text gives facts."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Superlatives and as … as",
+    "rule": "Use the + -est for short adjectives: big → the biggest. For long adjectives, use the most: the most important. Good and bad are irregular: the best, the worst. Use as … as to say two things are the same: as big as.",
+    "table": [
+     [
+      "big",
+      "the biggest"
+     ],
+     [
+      "long",
+      "the longest"
+     ],
+     [
+      "small",
+      "the smallest"
+     ],
+     [
+      "hard",
+      "the hardest"
+     ],
+     [
+      "important",
+      "the most important"
+     ],
+     [
+      "good",
+      "the best"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "The biggest organ in your body is your skin.",
+      "mark": "The biggest"
+     },
+     {
+      "para": 3,
+      "text": "The longest bone is the thigh bone.",
+      "mark": "The longest"
+     },
+     {
+      "para": 6,
+      "text": "Which record is the most surprising for you?",
+      "mark": "the most surprising"
+     },
+     {
+      "para": 2,
+      "text": "That is about as big as a single bed.",
+      "mark": "as big as"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Mount Everest is ___ mountain in the world.",
+      "opts": [
+       "higher than",
+       "the highest",
+       "as high as"
+      ],
+      "a": 1,
+      "why": "Use the + -est to compare one thing with all others."
+     },
+     {
+      "type": "mc",
+      "q": "Maths is ___ subject for me.",
+      "opts": [
+       "more difficult",
+       "the most difficult",
+       "difficult as"
+      ],
+      "a": 1,
+      "why": "Difficult is long, so use the most."
+     },
+     {
+      "type": "mc",
+      "q": "My brother is as tall ___ my dad.",
+      "opts": [
+       "than",
+       "as",
+       "the"
+      ],
+      "a": 1,
+      "why": "Use as … as to say two things are the same."
+     },
+     {
+      "type": "fill",
+      "q": "Who is ___ runner in your class?",
+      "hint": "(fast)",
+      "a": "the fastest",
+      "why": "Fast is short: the fastest."
+     },
+     {
+      "type": "fill",
+      "q": "This is ___ pizza in town.",
+      "hint": "(good)",
+      "a": "the best",
+      "why": "Good is irregular: the best."
+     },
+     {
+      "type": "fill",
+      "q": "Tom's bag is as ___ as mine.",
+      "hint": "(heavy)",
+      "a": "heavy",
+      "why": "After as … as, use the normal adjective."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261108-1-k1",
+     "tag": "Skin",
+     "fact": "The skin is the biggest organ in your body.",
+     "q": "What is the biggest organ?",
+     "opts": [
+      "the heart",
+      "the skin",
+      "the brain"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261108-1-k2",
+     "tag": "Femur",
+     "fact": "The femur is the longest bone in your body.",
+     "q": "Which is the longest bone?",
+     "opts": [
+      "the stapes",
+      "the skull",
+      "the femur"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261108-1-k3",
+     "tag": "Stapes",
+     "fact": "The stapes is the smallest bone and it is in your ear.",
+     "q": "Where is the smallest bone?",
+     "opts": [
+      "in your ear",
+      "in your leg",
+      "in your hand"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261108-1-k4",
+     "tag": "Enamel",
+     "fact": "The enamel on your teeth is the hardest part of your body.",
+     "q": "What is the hardest part of your body?",
+     "opts": [
+      "your skin",
+      "the enamel on your teeth",
+      "your hair"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Body records",
+    "question": "Which body parts are the biggest, longest and smallest?",
+    "branches": [
+     {
+      "title": "Biggest",
+      "paras": "2",
+      "blanks": [
+       "your skin"
+      ],
+      "kps": [
+       "k20261108-1-k1"
+      ]
+     },
+     {
+      "title": "Longest",
+      "paras": "3",
+      "blanks": [
+       "the thigh bone",
+       "the femur"
+      ],
+      "kps": [
+       "k20261108-1-k2"
+      ]
+     },
+     {
+      "title": "Smallest",
+      "paras": "4",
+      "blanks": [
+       "in your ear",
+       "three millimetres"
+      ],
+      "kps": [
+       "k20261108-1-k3"
+      ]
+     },
+     {
+      "title": "Hardest",
+      "paras": "5",
+      "blanks": [
+       "the enamel"
+      ],
+      "kps": [
+       "k20261108-1-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "the heart",
+     "as long as a bed"
+    ]
+   },
+   "summary": {
+    "intro": "The article tells us about records in the human body.",
+    "model": "Your skin is the biggest organ, but the stapes is only three millimetres long. Every part of the body is important, so we must look after it.",
+    "options": [
+     {
+      "t": "The skin is the biggest organ in the body.",
+      "ok": true,
+      "why": "This is one main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "The biggest organ in your body is your skin."
+     },
+     {
+      "t": "The femur is the longest bone and the stapes is the smallest.",
+      "ok": true,
+      "why": "This is another main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "The longest bone is the thigh bone."
+     },
+     {
+      "t": "Every part of the body is important.",
+      "ok": true,
+      "why": "This is the writer's message.",
+      "type": "main",
+      "para": 6,
+      "evidence": "every part is important"
+     },
+     {
+      "t": "Enamel is harder than bones.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "It is harder than your bones."
+     },
+     {
+      "t": "The heart is the biggest bone.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The stapes is bigger than the femur.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "It is the smallest bone in your body"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Which body fact is the most surprising for you? Why?",
+    "hint": "Try: 'The most surprising fact is …' and 'I didn't know that …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short message to a friend about a body fact.",
+    "steps": [
+     "Tell your friend one fact from the article.",
+     "Say why it is surprising.",
+     "Ask your friend a question."
+    ],
+    "minWords": 30
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261108-2",
+   "topic": "Entertainment & media",
+   "genre": "Three people",
+   "title": "Talent Show Night",
+   "dek": "Three students get ready for the school talent show. What can they do?",
+   "sources": [],
+   "paras": [
+    "Our school talent show is on Friday. Every student can join. You do not need to be a star. Last week, many students put their names on the list. Here, three students tell us about their acts and how they get ready.",
+    "Lucas, 13: I can play the guitar, but I can't sing well. When I was seven, I couldn't even hold a guitar! My uncle taught me. Now I can play ten songs. On Friday, my friend Ben will sing and I will play. Ben can sing very well, so we are a good team.",
+    "Amina, 14: I can do magic tricks. I started when I was ten. At first I couldn't hide the coin, and everyone could see it! Now I practise every day. I can make a coin disappear in two seconds. But I can't tell you how I do it. It is a secret!",
+    "Daniel, 12: I can't sing, dance or play music. But I can make people laugh. Last year I couldn't talk in front of the class, because I was shy. Now I can tell funny stories for five minutes. My sister says I can be very silly. That is the point!",
+    "Mrs Evans, the teacher: Thank you, everyone. You can all be proud of yourselves. Nobody can win if they do not try. Please come to the hall at six o'clock on Friday. Your family and friends can come too. Everybody can bring a cake to share. It will be a fun night, and we can all enjoy the show together."
+   ],
+   "words": [
+    {
+     "w": "talent",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtæl.ənt/",
+     "syl": [
+      "tal",
+      "ent"
+     ],
+     "def": "a natural skill to do something well",
+     "ex": "Mia has a talent for drawing."
+    },
+    {
+     "w": "act",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ækt/",
+     "syl": [
+      "act"
+     ],
+     "def": "a short show on a stage",
+     "ex": "Our class has a dance act in the show."
+    },
+    {
+     "w": "trick",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/trɪk/",
+     "syl": [
+      "trick"
+     ],
+     "def": "a clever thing that looks like magic",
+     "ex": "He showed us a card trick."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something again and again to get better",
+     "ex": "I practise English every evening."
+    },
+    {
+     "w": "hide",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/haɪd/",
+     "syl": [
+      "hide"
+     ],
+     "def": "to put something where people cannot see it",
+     "ex": "The cat likes to hide under the bed."
+    },
+    {
+     "w": "disappear",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˌdɪs.əˈpɪər/",
+     "syl": [
+      "dis",
+      "ap",
+      "pear"
+     ],
+     "def": "to go away so that nobody can see it",
+     "ex": "The sun can disappear behind a cloud."
+    },
+    {
+     "w": "shy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃaɪ/",
+     "syl": [
+      "shy"
+     ],
+     "def": "not comfortable with people you do not know",
+     "ex": "My little sister is shy at parties."
+    },
+    {
+     "w": "secret",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsiː.krət/",
+     "syl": [
+      "se",
+      "cret"
+     ],
+     "def": "something you do not tell other people",
+     "ex": "It's a secret, so please don't tell anyone."
+    },
+    {
+     "w": "silly",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈsɪl.i/",
+     "syl": [
+      "sil",
+      "ly"
+     ],
+     "def": "not serious; a little crazy",
+     "ex": "My dad makes silly faces."
+    },
+    {
+     "w": "proud",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/praʊd/",
+     "syl": [
+      "proud"
+     ],
+     "def": "very happy about something you or others did",
+     "ex": "I am proud of my brother."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "I can play the guitar, but I can't sing well.",
+     "kind": "Grammar to notice",
+     "note": "Can shows what Lucas is able to do. Can't shows what he is not able to do."
+    },
+    {
+     "para": 2,
+     "text": "When I was seven, I couldn't even hold a guitar!",
+     "kind": "Time order",
+     "note": "Couldn't talks about the past. Lucas was not able to do it then."
+    },
+    {
+     "para": 3,
+     "text": "I can make a coin disappear in two seconds.",
+     "kind": "Key details",
+     "note": "This is Amina's trick."
+    },
+    {
+     "para": 4,
+     "text": "Now I can tell funny stories for five minutes.",
+     "kind": "Cause → effect",
+     "note": "Daniel was shy before. Now he can talk."
+    },
+    {
+     "para": 5,
+     "text": "Nobody can win if they do not try.",
+     "kind": "Main idea",
+     "note": "You must try if you want to win."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text about?",
+     "opts": [
+      "three students and their acts for a talent show",
+      "a school football match",
+      "a music exam"
+     ],
+     "a": 0,
+     "why": "Three students talk about their acts for the show.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. They talk about their acts.",
+      "There is no football match.",
+      "There is no exam."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "How many songs can Lucas play now?",
+     "opts": [
+      "seven",
+      "two",
+      "ten"
+     ],
+     "a": 2,
+     "why": "He says he can play ten songs.",
+     "evidence": "Now I can play ten songs.",
+     "optWhy": [
+      "Seven is his age when he began.",
+      "Two is not in this part.",
+      "Correct. He can play ten songs."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Amina can tell people how she does her trick.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "She says she can't tell it. It is a secret.",
+     "evidence": "But I can't tell you how I do it.",
+     "optWhy": [
+      "Not true. She keeps it secret.",
+      "Correct. She cannot tell anyone.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How was Daniel last year?",
+     "opts": [
+      "shy",
+      "angry",
+      "bored"
+     ],
+     "a": 0,
+     "why": "He couldn't talk in front of the class because he was shy.",
+     "evidence": "Last year I couldn't talk in front of the class, because I was shy.",
+     "optWhy": [
+      "Correct. He was shy.",
+      "The text does not say he was angry.",
+      "The text does not say he was bored."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, 'That is the point!' What does 'That' mean?",
+     "opts": [
+      "being shy",
+      "being silly and making people laugh",
+      "playing music"
+     ],
+     "a": 1,
+     "why": "Daniel wants to be silly and make people laugh.",
+     "evidence": "My sister says I can be very silly.",
+     "optWhy": [
+      "He was shy before, not now.",
+      "Correct. It means being silly and making people laugh.",
+      "He says he can't play music."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "What can people bring to the show?",
+     "opts": [
+      "a prize",
+      "a guitar",
+      "a cake"
+     ],
+     "a": 2,
+     "why": "Mrs Evans says everybody can bring a cake.",
+     "evidence": "Everybody can bring a cake to share.",
+     "optWhy": [
+      "A prize is not mentioned as something to bring.",
+      "A guitar is Lucas's, not for everyone.",
+      "Correct. Everybody can bring a cake."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "can, can't and could",
+    "rule": "Use can for something you are able to do now. Use can't when you are not able to do it. Use could and couldn't for ability in the past. After can or could, use the base verb: I can swim. We make questions with Can you …?",
+    "table": [
+     [
+      "can",
+      "I can play the guitar."
+     ],
+     [
+      "can't",
+      "I can't sing well."
+     ],
+     [
+      "could",
+      "I could swim when I was six."
+     ],
+     [
+      "couldn't",
+      "I couldn't hold a guitar."
+     ],
+     [
+      "question",
+      "Can you dance?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I can play the guitar, but I can't sing well.",
+      "mark": "can't sing"
+     },
+     {
+      "para": 2,
+      "text": "When I was seven, I couldn't even hold a guitar!",
+      "mark": "couldn't"
+     },
+     {
+      "para": 3,
+      "text": "I can make a coin disappear in two seconds.",
+      "mark": "can make"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My little brother ___ read when he was three.",
+      "opts": [
+       "can",
+       "could",
+       "cans"
+      ],
+      "a": 1,
+      "why": "'When he was three' is the past, so use could."
+     },
+     {
+      "type": "mc",
+      "q": "___ you swim fast?",
+      "opts": [
+       "Can",
+       "Do can",
+       "Are"
+      ],
+      "a": 0,
+      "why": "Questions start with Can."
+     },
+     {
+      "type": "mc",
+      "q": "I'm so tired. I ___ keep my eyes open.",
+      "opts": [
+       "can",
+       "can't",
+       "could"
+      ],
+      "a": 1,
+      "why": "Tired people are not able to do it now: can't."
+     },
+     {
+      "type": "fill",
+      "q": "When I was a baby, I ___ walk.",
+      "hint": "(can't)",
+      "a": "couldn't",
+      "why": "Past and not able: couldn't."
+     },
+     {
+      "type": "fill",
+      "q": "___ you play chess?",
+      "hint": "(can)",
+      "a": "Can",
+      "why": "Start the question with Can."
+     },
+     {
+      "type": "fill",
+      "q": "Ben ___ dance, but he can sing.",
+      "hint": "(can't)",
+      "a": "can't",
+      "why": "But shows the opposite: can't."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261108-2-k1",
+     "tag": "Lucas",
+     "fact": "Lucas can play ten songs on the guitar.",
+     "q": "What can Lucas do?",
+     "opts": [
+      "sing very well",
+      "play ten songs",
+      "do magic"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261108-2-k2",
+     "tag": "Amina",
+     "fact": "Amina can make a coin disappear.",
+     "q": "What is Amina's trick?",
+     "opts": [
+      "she makes a coin disappear",
+      "she plays the guitar",
+      "she tells jokes"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261108-2-k3",
+     "tag": "Daniel",
+     "fact": "Daniel was shy last year, but now he tells funny stories.",
+     "q": "What can Daniel do now?",
+     "opts": [
+      "dance well",
+      "play music",
+      "tell funny stories"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261108-2-k4",
+     "tag": "The show",
+     "fact": "Everybody can bring a cake to the show.",
+     "q": "What can everybody bring?",
+     "opts": [
+      "a cake",
+      "a prize",
+      "a guitar"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Talent show",
+    "question": "What can each student do?",
+    "branches": [
+     {
+      "title": "Lucas",
+      "paras": "2",
+      "blanks": [
+       "the guitar",
+       "ten songs"
+      ],
+      "kps": [
+       "k20261108-2-k1"
+      ]
+     },
+     {
+      "title": "Amina",
+      "paras": "3",
+      "blanks": [
+       "magic tricks",
+       "make a coin disappear"
+      ],
+      "kps": [
+       "k20261108-2-k2"
+      ]
+     },
+     {
+      "title": "Daniel",
+      "paras": "4",
+      "blanks": [
+       "funny stories"
+      ],
+      "kps": [
+       "k20261108-2-k3"
+      ]
+     },
+     {
+      "title": "Show",
+      "paras": "5",
+      "blanks": [
+       "six o'clock",
+       "bring a cake"
+      ],
+      "kps": [
+       "k20261108-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "a football",
+     "at eight o'clock"
+    ]
+   },
+   "summary": {
+    "intro": "Three students get ready for the school talent show.",
+    "model": "Lucas plays the guitar, but he can't sing. Amina does magic, so she practises every day.",
+    "options": [
+     {
+      "t": "Lucas can play the guitar but he can't sing well.",
+      "ok": true,
+      "why": "This is about Lucas.",
+      "type": "main",
+      "para": 2,
+      "evidence": "I can play the guitar, but I can't sing well."
+     },
+     {
+      "t": "Amina does magic tricks and keeps them secret.",
+      "ok": true,
+      "why": "This is about Amina.",
+      "type": "main",
+      "para": 3,
+      "evidence": "It is a secret!"
+     },
+     {
+      "t": "Daniel was shy, but now he can make people laugh.",
+      "ok": true,
+      "why": "This is about Daniel.",
+      "type": "main",
+      "para": 4,
+      "evidence": "But I can make people laugh."
+     },
+     {
+      "t": "Ben can sing very well.",
+      "ok": false,
+      "why": "True, but it is a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "Ben can sing very well"
+     },
+     {
+      "t": "The talent show is on Monday.",
+      "ok": false,
+      "why": "The text does not say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Amina can tell everybody how she does her trick.",
+      "ok": false,
+      "why": "She says the opposite.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "But I can't tell you how I do it."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What can you do well? What can't you do yet?",
+    "hint": "Try: 'I can … quite well.' and 'I can't … yet.'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short email to a friend about the talent show at your school.",
+    "steps": [
+     "Say what you can do.",
+     "Say what you can't do.",
+     "Ask your friend to come."
+    ],
+    "minWords": 30
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261108-3",
+   "topic": "Services",
+   "genre": "Notices & messages",
+   "title": "Rules at the Library",
+   "dek": "What must you do at the library? What mustn't you do?",
+   "sources": [],
+   "paras": [
+    "Welcome to Maple Town Library! You can find books, magazines and computers here. We have some rules, so everyone can enjoy the library. Please read these notices.",
+    "NOTICE 1: Quiet, please! You must speak quietly in the reading room. You mustn't use your phone for calls. If you need to talk, please go to the café.",
+    "NOTICE 2: Borrowing books. You must have a library card to borrow books. Children under 12 don't have to pay for a card. Other people have to pay two euros a year.",
+    "NOTICE 3: Returning books. You have to return books after three weeks. If a book is late, you must pay ten cents a day. You don't have to come in. You can use the box outside the door.",
+    "NOTICE 4: Computers. You must be ten or older to use a computer alone. You have to sign your name at the desk. You mustn't visit games sites. You don't have to pay for the computers.",
+    "Message from Sara to her brother Tom: Hi Tom! I'm at the library. I have to finish my homework here, so I can't go to the park. You don't have to wait for me. I must return two books too. See you at six! Sara",
+    "NOTICE 5: Closing time. The library closes at six o'clock on weekdays. You must leave your table tidy. You don't have to clean it, but please put the chairs back. Thank you!"
+   ],
+   "words": [
+    {
+     "w": "library",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈlaɪ.brər.i/",
+     "syl": [
+      "li",
+      "brar",
+      "y"
+     ],
+     "def": "a place where you can borrow books",
+     "ex": "I go to the library every Saturday."
+    },
+    {
+     "w": "notice",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈnəʊ.tɪs/",
+     "syl": [
+      "no",
+      "tice"
+     ],
+     "def": "a sign with information for people",
+     "ex": "There is a notice on the door."
+    },
+    {
+     "w": "rules",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ruːlz/",
+     "syl": [
+      "rules"
+     ],
+     "def": "things you must or mustn't do",
+     "ex": "The school rules are on the wall."
+    },
+    {
+     "w": "quietly",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkwaɪ.ət.li/",
+     "syl": [
+      "qui",
+      "et",
+      "ly"
+     ],
+     "def": "without making much noise",
+     "ex": "Please close the door quietly."
+    },
+    {
+     "w": "borrow",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈbɒr.əʊ/",
+     "syl": [
+      "bor",
+      "row"
+     ],
+     "def": "to take something and give it back later",
+     "ex": "Can I borrow your pen?"
+    },
+    {
+     "w": "return",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/rɪˈtɜːn/",
+     "syl": [
+      "re",
+      "turn"
+     ],
+     "def": "to bring or give something back",
+     "ex": "Please return the book on Monday."
+    },
+    {
+     "w": "sign",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/saɪn/",
+     "syl": [
+      "sign"
+     ],
+     "def": "to write your name on something",
+     "ex": "Sign your name at the bottom."
+    },
+    {
+     "w": "tidy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈtaɪ.di/",
+     "syl": [
+      "ti",
+      "dy"
+     ],
+     "def": "neat, with everything in the right place",
+     "ex": "My room is tidy now."
+    },
+    {
+     "w": "euros",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈjʊə.rəʊz/",
+     "syl": [
+      "eu",
+      "ros"
+     ],
+     "def": "money used in many countries in Europe",
+     "ex": "The ticket costs five euros."
+    },
+    {
+     "w": "desk",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/desk/",
+     "syl": [
+      "desk"
+     ],
+     "def": "a table where you work or read",
+     "ex": "I do my homework at my desk."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "You must speak quietly in the reading room.",
+     "kind": "Grammar to notice",
+     "note": "Must shows a rule. You have to do it."
+    },
+    {
+     "para": 2,
+     "text": "You mustn't use your phone for calls.",
+     "kind": "Key details",
+     "note": "Mustn't means it is not allowed."
+    },
+    {
+     "para": 3,
+     "text": "Children under 12 don't have to pay for a card.",
+     "kind": "Key details",
+     "note": "Don't have to means it is not necessary."
+    },
+    {
+     "para": 4,
+     "text": "You have to return books after three weeks.",
+     "kind": "Time order",
+     "note": "Books must go back after three weeks."
+    },
+    {
+     "para": 6,
+     "text": "You don't have to wait for me.",
+     "kind": "Main idea",
+     "note": "Sara says Tom can go. He can choose."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text about?",
+     "opts": [
+      "a school trip",
+      "how to write a book",
+      "rules at a library"
+     ],
+     "a": 2,
+     "why": "The notices tell us the library rules.",
+     "evidence": null,
+     "optWhy": [
+      "There is no trip.",
+      "The text does not teach book writing.",
+      "Correct. The notices are library rules."
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 2,
+     "q": "What does Notice 1 say?",
+     "opts": [
+      "Use your phone for calls in the reading room.",
+      "Speak quietly in the reading room.",
+      "Eat lunch in the reading room."
+     ],
+     "a": 1,
+     "why": "You must speak quietly in the reading room.",
+     "evidence": "You must speak quietly in the reading room.",
+     "optWhy": [
+      "Phone calls are not allowed.",
+      "Correct. You must speak quietly.",
+      "Eating is not mentioned."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Who doesn't have to pay for a library card?",
+     "opts": [
+      "children under 12",
+      "everybody",
+      "teachers"
+     ],
+     "a": 0,
+     "why": "Children under 12 don't pay.",
+     "evidence": "Children under 12 don't have to pay for a card.",
+     "optWhy": [
+      "Correct. Children under 12 do not pay.",
+      "Other people have to pay two euros.",
+      "Teachers are not mentioned."
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 5,
+     "q": "What does Notice 4 say?",
+     "opts": [
+      "Computers cost two euros.",
+      "You can play games on the computers.",
+      "You must write your name at the desk."
+     ],
+     "a": 2,
+     "why": "You have to sign your name at the desk.",
+     "evidence": "You have to sign your name at the desk.",
+     "optWhy": [
+      "Computers are free.",
+      "You mustn't visit games sites.",
+      "Correct. You must sign your name."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Sara can go to the park with Tom.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "Sara says she can't go to the park.",
+     "evidence": "I have to finish my homework here, so I can't go to the park.",
+     "optWhy": [
+      "Not true. She has homework.",
+      "Correct. She can't go.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "How much must you pay if a book is late?",
+     "opts": [
+      "ten cents a day",
+      "two euros a year",
+      "ten euros"
+     ],
+     "a": 0,
+     "why": "The late fee is ten cents a day.",
+     "evidence": "If a book is late, you must pay ten cents a day.",
+     "optWhy": [
+      "Correct. It is ten cents a day.",
+      "Two euros a year is the price of a card.",
+      "Ten euros is not in the text."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "must, mustn't, have to",
+    "rule": "Use must or have to for rules and things you need to do. Use mustn't when something is not allowed. Use don't have to when it is not necessary. You can choose.",
+    "table": [
+     [
+      "must",
+      "You must be quiet."
+     ],
+     [
+      "mustn't",
+      "You mustn't run."
+     ],
+     [
+      "have to",
+      "I have to go home."
+     ],
+     [
+      "don't have to",
+      "You don't have to pay."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "You must speak quietly in the reading room.",
+      "mark": "must speak"
+     },
+     {
+      "para": 3,
+      "text": "Children under 12 don't have to pay for a card.",
+      "mark": "don't have to"
+     },
+     {
+      "para": 4,
+      "text": "You have to return books after three weeks.",
+      "mark": "have to"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "You ___ run in the library. It is not allowed.",
+      "opts": [
+       "mustn't",
+       "don't have to",
+       "have to"
+      ],
+      "a": 0,
+      "why": "Not allowed: mustn't."
+     },
+     {
+      "type": "mc",
+      "q": "It's Sunday. We ___ go to school.",
+      "opts": [
+       "must",
+       "don't have to",
+       "mustn't"
+      ],
+      "a": 1,
+      "why": "It is not necessary on Sunday."
+     },
+     {
+      "type": "mc",
+      "q": "I ___ do my homework before dinner.",
+      "opts": [
+       "mustn't",
+       "doesn't have to",
+       "must"
+      ],
+      "a": 2,
+      "why": "It is a thing I need to do: must."
+     },
+     {
+      "type": "fill",
+      "q": "You ___ use your phone in the exam.",
+      "hint": "(mustn't)",
+      "a": "mustn't",
+      "why": "It is not allowed."
+     },
+     {
+      "type": "fill",
+      "q": "Tom ___ get up early at the weekend.",
+      "hint": "(not have to)",
+      "a": "doesn't have to",
+      "why": "With Tom, use doesn't have to."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ wear a uniform at my school.",
+      "hint": "(have to)",
+      "a": "have to / must",
+      "why": "It is a school rule."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261108-3-k1",
+     "tag": "Quiet",
+     "fact": "You must speak quietly in the reading room.",
+     "q": "Where must you speak quietly?",
+     "opts": [
+      "in the café",
+      "in the reading room",
+      "at the desk"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261108-3-k2",
+     "tag": "Library card",
+     "fact": "Children under 12 don't have to pay for a library card.",
+     "q": "Who doesn't pay for a card?",
+     "opts": [
+      "adults",
+      "teachers",
+      "children under 12"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261108-3-k3",
+     "tag": "Late books",
+     "fact": "You must pay ten cents a day for a late book.",
+     "q": "How much is a late book a day?",
+     "opts": [
+      "ten cents",
+      "two euros",
+      "one euro"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261108-3-k4",
+     "tag": "Closing",
+     "fact": "The library closes at six o'clock on weekdays.",
+     "q": "When does the library close?",
+     "opts": [
+      "at five o'clock",
+      "at six o'clock",
+      "at seven o'clock"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Library rules",
+    "question": "What are the rules at the library?",
+    "branches": [
+     {
+      "title": "Quiet",
+      "paras": "2",
+      "blanks": [
+       "speak quietly",
+       "go to the café"
+      ],
+      "kps": [
+       "k20261108-3-k1"
+      ]
+     },
+     {
+      "title": "Cards",
+      "paras": "3",
+      "blanks": [
+       "two euros a year"
+      ],
+      "kps": [
+       "k20261108-3-k2"
+      ]
+     },
+     {
+      "title": "Books",
+      "paras": "4",
+      "blanks": [
+       "after three weeks",
+       "ten cents a day"
+      ],
+      "kps": [
+       "k20261108-3-k3"
+      ]
+     },
+     {
+      "title": "Closing",
+      "paras": "7",
+      "blanks": [
+       "six o'clock",
+       "leave your table tidy"
+      ],
+      "kps": [
+       "k20261108-3-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "bring a drink",
+     "after one week"
+    ]
+   },
+   "summary": {
+    "intro": "The notices tell visitors the rules of Maple Town Library.",
+    "model": "You must speak quietly, but you don't have to pay for a card if you are under 12. Late books cost money, so return them on time.",
+    "options": [
+     {
+      "t": "You must speak quietly in the reading room.",
+      "ok": true,
+      "why": "This is a main rule.",
+      "type": "main",
+      "para": 2,
+      "evidence": "You must speak quietly in the reading room."
+     },
+     {
+      "t": "You have to return books after three weeks.",
+      "ok": true,
+      "why": "This is another main rule.",
+      "type": "main",
+      "para": 4,
+      "evidence": "You have to return books after three weeks."
+     },
+     {
+      "t": "You must leave your table tidy.",
+      "ok": true,
+      "why": "This is the closing rule.",
+      "type": "main",
+      "para": 7,
+      "evidence": "You must leave your table tidy."
+     },
+     {
+      "t": "A card costs two euros a year for other people.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "Other people have to pay two euros a year."
+     },
+     {
+      "t": "The library has a swimming pool.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "You can use your phone for calls in the reading room.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "You mustn't use your phone for calls."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What are the rules at your school? What mustn't students do?",
+    "hint": "Try: 'We must …' and 'We mustn't …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short notice for your classroom.",
+    "steps": [
+     "Say one thing students must do.",
+     "Say one thing students mustn't do.",
+     "Say one thing they don't have to do."
+    ],
+    "minWords": 30
+   },
+   "voice": "American English · female"
+  }
+ ],
+ "audio": {
+  "Your body is full of records. Which part is the biggest? Which bone is the longest? And which one is the smallest? Let's find out. You may be surprised!": "audio/2026-11-08/a1-p1.mp3",
+  "The biggest organ in your body is your skin. It covers your whole body and keeps out dirt and germs. In an adult, skin is about two square metres. That is about as big as a single bed. Skin also tells your brain when something is hot or cold.": "audio/2026-11-08/a1-p2.mp3",
+  "The longest bone is the thigh bone. Its name is the femur. It is in the top part of your leg. It is about one quarter of your height. If you are 1.6 metres tall, your femur is about 40 centimetres long. It must carry your weight when you walk, run and jump.": "audio/2026-11-08/a1-p3.mp3",
+  "Now look at the smallest bone. It is in your ear, and its name is the stapes. It is only about three millimetres long. That is smaller than a grain of rice. It is the smallest bone in your body, but it is very important. It helps you hear sounds.": "audio/2026-11-08/a1-p4.mp3",
+  "What about the hardest part of your body? That is the enamel on your teeth. It is harder than your bones. But it is not as strong as a good habit. Brush your teeth twice a day, and do not eat too many sweets.": "audio/2026-11-08/a1-p5.mp3",
+  "Which record is the most surprising for you? Many students say the stapes is the most amazing. It is so small, but it works hard all day. Our bodies are not all the same, but every part is important. Look after the whole body: sleep well, eat well and move every day.": "audio/2026-11-08/a1-p6.mp3",
+  "record": "audio/2026-11-08/a1-w-record.mp3",
+  "Dina has the school record for the long jump.": "audio/2026-11-08/a1-ex-record.mp3",
+  "surprised": "audio/2026-11-08/a1-w-surprised.mp3",
+  "I was surprised to see my teacher at the cinema.": "audio/2026-11-08/a1-ex-surprised.mp3",
+  "organ": "audio/2026-11-08/a1-w-organ.mp3",
+  "The heart is an organ that moves blood.": "audio/2026-11-08/a1-ex-organ.mp3",
+  "germs": "audio/2026-11-08/a1-w-germs.mp3",
+  "Wash your hands to kill germs.": "audio/2026-11-08/a1-ex-germs.mp3",
+  "thigh": "audio/2026-11-08/a1-w-thigh.mp3",
+  "He hurt his thigh in the football match.": "audio/2026-11-08/a1-ex-thigh.mp3",
+  "femur": "audio/2026-11-08/a1-w-femur.mp3",
+  "The femur is a very strong bone.": "audio/2026-11-08/a1-ex-femur.mp3",
+  "stapes": "audio/2026-11-08/a1-w-stapes.mp3",
+  "The stapes helps you hear.": "audio/2026-11-08/a1-ex-stapes.mp3",
+  "millimetres": "audio/2026-11-08/a1-w-millimetres.mp3",
+  "The ant is only five millimetres long.": "audio/2026-11-08/a1-ex-millimetres.mp3",
+  "enamel": "audio/2026-11-08/a1-w-enamel.mp3",
+  "Sweet drinks can hurt the enamel on your teeth.": "audio/2026-11-08/a1-ex-enamel.mp3",
+  "habit": "audio/2026-11-08/a1-w-habit.mp3",
+  "Reading before bed is a good habit.": "audio/2026-11-08/a1-ex-habit.mp3",
+  "The biggest organ in your body is your skin.": "audio/2026-11-08/a1-ks1.mp3",
+  "The longest bone is the thigh bone.": "audio/2026-11-08/a1-ks2.mp3",
+  "It is the smallest bone in your body, but it is very important.": "audio/2026-11-08/a1-ks3.mp3",
+  "It is harder than your bones.": "audio/2026-11-08/a1-ks4.mp3",
+  "Our bodies are not all the same, but every part is important.": "audio/2026-11-08/a1-ks5.mp3",
+  "Which record is the most surprising for you?": "audio/2026-11-08/a1-g3.mp3",
+  "That is about as big as a single bed.": "audio/2026-11-08/a1-g4.mp3",
+  "Our school talent show is on Friday. Every student can join. You do not need to be a star. Last week, many students put their names on the list. Here, three students tell us about their acts and how they get ready.": "audio/2026-11-08/a2-p1.mp3",
+  "Lucas, 13: I can play the guitar, but I can't sing well. When I was seven, I couldn't even hold a guitar! My uncle taught me. Now I can play ten songs. On Friday, my friend Ben will sing and I will play. Ben can sing very well, so we are a good team.": "audio/2026-11-08/a2-p2.mp3",
+  "Amina, 14: I can do magic tricks. I started when I was ten. At first I couldn't hide the coin, and everyone could see it! Now I practise every day. I can make a coin disappear in two seconds. But I can't tell you how I do it. It is a secret!": "audio/2026-11-08/a2-p3.mp3",
+  "Daniel, 12: I can't sing, dance or play music. But I can make people laugh. Last year I couldn't talk in front of the class, because I was shy. Now I can tell funny stories for five minutes. My sister says I can be very silly. That is the point!": "audio/2026-11-08/a2-p4.mp3",
+  "Mrs Evans, the teacher: Thank you, everyone. You can all be proud of yourselves. Nobody can win if they do not try. Please come to the hall at six o'clock on Friday. Your family and friends can come too. Everybody can bring a cake to share. It will be a fun night, and we can all enjoy the show together.": "audio/2026-11-08/a2-p5.mp3",
+  "talent": "audio/2026-11-08/a2-w-talent.mp3",
+  "Mia has a talent for drawing.": "audio/2026-11-08/a2-ex-talent.mp3",
+  "act": "audio/2026-11-08/a2-w-act.mp3",
+  "Our class has a dance act in the show.": "audio/2026-11-08/a2-ex-act.mp3",
+  "trick": "audio/2026-11-08/a2-w-trick.mp3",
+  "He showed us a card trick.": "audio/2026-11-08/a2-ex-trick.mp3",
+  "practise": "audio/2026-11-08/a2-w-practise.mp3",
+  "I practise English every evening.": "audio/2026-11-08/a2-ex-practise.mp3",
+  "hide": "audio/2026-11-08/a2-w-hide.mp3",
+  "The cat likes to hide under the bed.": "audio/2026-11-08/a2-ex-hide.mp3",
+  "disappear": "audio/2026-11-08/a2-w-disappear.mp3",
+  "The sun can disappear behind a cloud.": "audio/2026-11-08/a2-ex-disappear.mp3",
+  "shy": "audio/2026-11-08/a2-w-shy.mp3",
+  "My little sister is shy at parties.": "audio/2026-11-08/a2-ex-shy.mp3",
+  "secret": "audio/2026-11-08/a2-w-secret.mp3",
+  "It's a secret, so please don't tell anyone.": "audio/2026-11-08/a2-ex-secret.mp3",
+  "silly": "audio/2026-11-08/a2-w-silly.mp3",
+  "My dad makes silly faces.": "audio/2026-11-08/a2-ex-silly.mp3",
+  "proud": "audio/2026-11-08/a2-w-proud.mp3",
+  "I am proud of my brother.": "audio/2026-11-08/a2-ex-proud.mp3",
+  "I can play the guitar, but I can't sing well.": "audio/2026-11-08/a2-ks1.mp3",
+  "When I was seven, I couldn't even hold a guitar!": "audio/2026-11-08/a2-ks2.mp3",
+  "I can make a coin disappear in two seconds.": "audio/2026-11-08/a2-ks3.mp3",
+  "Now I can tell funny stories for five minutes.": "audio/2026-11-08/a2-ks4.mp3",
+  "Nobody can win if they do not try.": "audio/2026-11-08/a2-ks5.mp3",
+  "Welcome to Maple Town Library! You can find books, magazines and computers here. We have some rules, so everyone can enjoy the library. Please read these notices.": "audio/2026-11-08/a3-p1.mp3",
+  "NOTICE 1: Quiet, please! You must speak quietly in the reading room. You mustn't use your phone for calls. If you need to talk, please go to the café.": "audio/2026-11-08/a3-p2.mp3",
+  "NOTICE 2: Borrowing books. You must have a library card to borrow books. Children under 12 don't have to pay for a card. Other people have to pay two euros a year.": "audio/2026-11-08/a3-p3.mp3",
+  "NOTICE 3: Returning books. You have to return books after three weeks. If a book is late, you must pay ten cents a day. You don't have to come in. You can use the box outside the door.": "audio/2026-11-08/a3-p4.mp3",
+  "NOTICE 4: Computers. You must be ten or older to use a computer alone. You have to sign your name at the desk. You mustn't visit games sites. You don't have to pay for the computers.": "audio/2026-11-08/a3-p5.mp3",
+  "Message from Sara to her brother Tom: Hi Tom! I'm at the library. I have to finish my homework here, so I can't go to the park. You don't have to wait for me. I must return two books too. See you at six! Sara": "audio/2026-11-08/a3-p6.mp3",
+  "NOTICE 5: Closing time. The library closes at six o'clock on weekdays. You must leave your table tidy. You don't have to clean it, but please put the chairs back. Thank you!": "audio/2026-11-08/a3-p7.mp3",
+  "library": "audio/2026-11-08/a3-w-library.mp3",
+  "I go to the library every Saturday.": "audio/2026-11-08/a3-ex-library.mp3",
+  "notice": "audio/2026-11-08/a3-w-notice.mp3",
+  "There is a notice on the door.": "audio/2026-11-08/a3-ex-notice.mp3",
+  "rules": "audio/2026-11-08/a3-w-rules.mp3",
+  "The school rules are on the wall.": "audio/2026-11-08/a3-ex-rules.mp3",
+  "quietly": "audio/2026-11-08/a3-w-quietly.mp3",
+  "Please close the door quietly.": "audio/2026-11-08/a3-ex-quietly.mp3",
+  "borrow": "audio/2026-11-08/a3-w-borrow.mp3",
+  "Can I borrow your pen?": "audio/2026-11-08/a3-ex-borrow.mp3",
+  "return": "audio/2026-11-08/a3-w-return.mp3",
+  "Please return the book on Monday.": "audio/2026-11-08/a3-ex-return.mp3",
+  "sign": "audio/2026-11-08/a3-w-sign.mp3",
+  "Sign your name at the bottom.": "audio/2026-11-08/a3-ex-sign.mp3",
+  "tidy": "audio/2026-11-08/a3-w-tidy.mp3",
+  "My room is tidy now.": "audio/2026-11-08/a3-ex-tidy.mp3",
+  "euros": "audio/2026-11-08/a3-w-euros.mp3",
+  "The ticket costs five euros.": "audio/2026-11-08/a3-ex-euros.mp3",
+  "desk": "audio/2026-11-08/a3-w-desk.mp3",
+  "I do my homework at my desk.": "audio/2026-11-08/a3-ex-desk.mp3",
+  "You must speak quietly in the reading room.": "audio/2026-11-08/a3-ks1.mp3",
+  "You mustn't use your phone for calls.": "audio/2026-11-08/a3-ks2.mp3",
+  "Children under 12 don't have to pay for a card.": "audio/2026-11-08/a3-ks3.mp3",
+  "You have to return books after three weeks.": "audio/2026-11-08/a3-ks4.mp3",
+  "You don't have to wait for me.": "audio/2026-11-08/a3-ks5.mp3"
+ }
+}
