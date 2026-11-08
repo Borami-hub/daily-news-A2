@@ -1,0 +1,1720 @@
+{
+ "date": "2026-11-09",
+ "headline": "Sleepy teens, a present for Dad and the late bus",
+ "teaser": "Why do you need sleep? What is Lena going to buy? Will the bus come?",
+ "articles": [
+  {
+   "id": "k20261109-1",
+   "topic": "Daily life",
+   "genre": "Article",
+   "title": "Why Do We Need Sleep?",
+   "dek": "Are you tired at school? Your bed may have the answer.",
+   "sources": [
+    {
+     "name": "CDC: About Sleep",
+     "url": "https://www.cdc.gov/sleep/about/index.html"
+    }
+   ],
+   "paras": [
+    "Do you feel tired at school? Is it hard to get up in the morning? Maybe you are not sleeping enough. Why do we need sleep? Let's find out.",
+    "Doctors say that teenagers need eight to ten hours of sleep every night. That is more than many adults need. Some students sleep only five or six hours. They should go to bed earlier.",
+    "Sleep is not just rest. When you sleep, your body is still working. Good sleep helps your brain. You can think clearly and your memory gets better. It also helps your mood. You feel less stressed and more friendly the next day.",
+    "Sleep helps your body, too. People who sleep well get ill less often. Their hearts are healthier, too. Many people also feel they have more energy for sport and games. If you want to play well on Saturday, you should sleep well on Friday.",
+    "How can you sleep better? Here is some simple advice. You should go to bed and get up at the same time every day. You should turn off your phone or tablet at least thirty minutes before bed. You shouldn't drink cola or coffee in the evening. Your bedroom should be quiet and cool.",
+    "Some students stay up late to finish homework or watch videos. They shouldn't do this too often. A tired brain works slowly, so homework takes longer. Tonight, try one small change. Tell a friend about it. Then you can help each other.",
+    "Do you ever study late the night before a test? Many students do. But it is not a good idea. You should study a little every day. Then you can sleep well before the test, and your brain will be ready."
+   ],
+   "words": [
+    {
+     "w": "tired",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/taɪəd/",
+     "syl": [
+      "tired"
+     ],
+     "def": "needing to rest or sleep",
+     "ex": "I was tired after the long football match."
+    },
+    {
+     "w": "brain",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/breɪn/",
+     "syl": [
+      "brain"
+     ],
+     "def": "the part of your head that thinks",
+     "ex": "Your brain needs sleep to work well."
+    },
+    {
+     "w": "memory",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmem.ər.i/",
+     "syl": [
+      "mem",
+      "o",
+      "ry"
+     ],
+     "def": "your ability to remember things",
+     "ex": "Anna has a good memory for names."
+    },
+    {
+     "w": "mood",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/muːd/",
+     "syl": [
+      "mood"
+     ],
+     "def": "the way you feel at a time",
+     "ex": "Music can change my mood."
+    },
+    {
+     "w": "stressed",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/strest/",
+     "syl": [
+      "stressed"
+     ],
+     "def": "worried and not able to relax",
+     "ex": "Tom felt stressed before the exam."
+    },
+    {
+     "w": "energy",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈen.ə.dʒi/",
+     "syl": [
+      "en",
+      "er",
+      "gy"
+     ],
+     "def": "the power to be active and do things",
+     "ex": "I have lots of energy in the morning."
+    },
+    {
+     "w": "advice",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ədˈvaɪs/",
+     "syl": [
+      "ad",
+      "vice"
+     ],
+     "def": "a helpful idea about what to do",
+     "ex": "My teacher gave me good advice."
+    },
+    {
+     "w": "ill",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪl/",
+     "syl": [
+      "ill"
+     ],
+     "def": "not well; sick",
+     "ex": "Lucy stayed at home because she was ill."
+    },
+    {
+     "w": "teenagers",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtiː.neɪ.dʒəz/",
+     "syl": [
+      "teen",
+      "ag",
+      "ers"
+     ],
+     "def": "young people from thirteen to nineteen",
+     "ex": "Many teenagers like playing games."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "Doctors say that teenagers need eight to ten hours of sleep every night.",
+     "kind": "Key details",
+     "note": "Teenagers need eight to ten hours."
+    },
+    {
+     "para": 3,
+     "text": "Good sleep helps your brain.",
+     "kind": "Main idea",
+     "note": "Sleep is good for the brain."
+    },
+    {
+     "para": 4,
+     "text": "People who sleep well get ill less often.",
+     "kind": "Cause → effect",
+     "note": "Good sleep means fewer illnesses."
+    },
+    {
+     "para": 5,
+     "text": "You should go to bed and get up at the same time every day.",
+     "kind": "Grammar to notice",
+     "note": "Should gives advice."
+    },
+    {
+     "para": 5,
+     "text": "You shouldn't drink cola or coffee in the evening.",
+     "kind": "Grammar to notice",
+     "note": "Shouldn't says what is not a good idea."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "how to do well in sport",
+      "why students hate homework",
+      "why we need sleep and how to sleep better"
+     ],
+     "a": 2,
+     "why": "The article explains why sleep is good and gives advice.",
+     "evidence": null,
+     "optWhy": [
+      "Sport is only a small part of the text.",
+      "Homework is only a small part of the text.",
+      "Correct. The article explains why sleep is good and gives advice."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "How much sleep do teenagers need every night?",
+     "opts": [
+      "five to six hours",
+      "eight to ten hours",
+      "twelve hours"
+     ],
+     "a": 1,
+     "why": "The text says eight to ten hours.",
+     "evidence": "Doctors say that teenagers need eight to ten hours of sleep every night.",
+     "optWhy": [
+      "Some students sleep this much, but it is not enough.",
+      "Correct. The text says eight to ten hours.",
+      "The text does not say twelve hours."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What does good sleep help you do?",
+     "opts": [
+      "think clearly",
+      "run faster",
+      "grow taller"
+     ],
+     "a": 0,
+     "why": "Good sleep helps your brain think clearly.",
+     "evidence": "You can think clearly and your memory gets better.",
+     "optWhy": [
+      "Correct. Good sleep helps your brain think clearly.",
+      "The text does not talk about running.",
+      "The text does not talk about height."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "People who sleep well get ill more often.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "They get ill less often.",
+     "evidence": "People who sleep well get ill less often.",
+     "optWhy": [
+      "Not true. The text says the opposite.",
+      "Correct. They get ill less often.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, 'advice' means ...",
+     "opts": [
+      "a kind of medicine",
+      "a school rule",
+      "a helpful idea about what to do"
+     ],
+     "a": 2,
+     "why": "Advice is a helpful idea. The writer then gives ideas for sleeping better.",
+     "evidence": "Here is some simple advice.",
+     "optWhy": [
+      "The text does not talk about medicine.",
+      "These are ideas, not rules.",
+      "Correct. Advice is a helpful idea. The writer then gives ideas for sleeping better."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the writer write this article?",
+     "opts": [
+      "to give advice about sleep",
+      "to sell phones",
+      "to tell a story about a tired boy"
+     ],
+     "a": 0,
+     "why": "The writer explains and gives advice.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. The writer explains and gives advice.",
+      "The writer says to turn off the phone, not to buy one.",
+      "There is no story about a boy."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "should / shouldn't for advice",
+    "rule": "Use should + verb to give advice: You should sleep more. Use shouldn't + verb for a bad idea: You shouldn't stay up late. To ask for advice, put should before the person: Should I go to bed now?",
+    "table": [
+     [
+      "should + verb",
+      "You should sleep early."
+     ],
+     [
+      "shouldn't + verb",
+      "You shouldn't eat late."
+     ],
+     [
+      "question",
+      "Should I sleep more?"
+     ],
+     [
+      "short answer",
+      "Yes, you should."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "They should go to bed earlier.",
+      "mark": "should go"
+     },
+     {
+      "para": 5,
+      "text": "You should turn off your phone or tablet at least thirty minutes before bed.",
+      "mark": "should turn off"
+     },
+     {
+      "para": 5,
+      "text": "You shouldn't drink cola or coffee in the evening.",
+      "mark": "shouldn't drink"
+     },
+     {
+      "para": 6,
+      "text": "They shouldn't do this too often.",
+      "mark": "shouldn't do"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "You have a cold. You ___ stay at home.",
+      "opts": [
+       "should",
+       "shouldn't",
+       "are should"
+      ],
+      "a": 0,
+      "why": "Staying at home is good advice, so use should."
+     },
+     {
+      "type": "mc",
+      "q": "It is very late. You ___ watch more videos.",
+      "opts": [
+       "should",
+       "shouldn't",
+       "not should"
+      ],
+      "a": 1,
+      "why": "It is late, so watching more is a bad idea: shouldn't."
+     },
+     {
+      "type": "mc",
+      "q": "___ I drink more water?",
+      "opts": [
+       "Should",
+       "Do should",
+       "Am"
+      ],
+      "a": 0,
+      "why": "To ask for advice, start with Should."
+     },
+     {
+      "type": "fill",
+      "q": "You ___ eat so many sweets. They are bad for your teeth.",
+      "hint": "(should + not)",
+      "a": "shouldn't / should not",
+      "why": "Use shouldn't for a bad idea."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ early before a big test.",
+      "hint": "(should / sleep)",
+      "a": "should sleep",
+      "why": "Use should + the base verb."
+     },
+     {
+      "type": "fill",
+      "q": "Mia has a headache. She ___ some water.",
+      "hint": "(should / drink)",
+      "a": "should drink",
+      "why": "Good advice: should + drink."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261109-1-k1",
+     "tag": "Hours",
+     "fact": "Teenagers need eight to ten hours of sleep.",
+     "q": "How much sleep do teenagers need?",
+     "opts": [
+      "five to six hours",
+      "eight to ten hours",
+      "twelve hours"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261109-1-k2",
+     "tag": "Brain",
+     "fact": "Good sleep helps your brain and your memory.",
+     "q": "What does good sleep help?",
+     "opts": [
+      "your brain and memory",
+      "your hair",
+      "your shoes"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261109-1-k3",
+     "tag": "Health",
+     "fact": "People who sleep well get ill less often.",
+     "q": "Who gets ill less often?",
+     "opts": [
+      "people who sleep badly",
+      "people who sleep well",
+      "people who play games"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261109-1-k4",
+     "tag": "Phone",
+     "fact": "Turn off your phone thirty minutes before bed.",
+     "q": "When should you turn off your phone?",
+     "opts": [
+      "thirty minutes before bed",
+      "in the morning",
+      "at lunch"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Sleep",
+    "question": "Why do we need sleep and how can we sleep better?",
+    "branches": [
+     {
+      "title": "How much",
+      "paras": "2",
+      "blanks": [
+       "teenagers",
+       "eight to ten hours"
+      ],
+      "kps": [
+       "k20261109-1-k1"
+      ]
+     },
+     {
+      "title": "Why",
+      "paras": "3-4",
+      "blanks": [
+       "your brain",
+       "get ill less often"
+      ],
+      "kps": [
+       "k20261109-1-k2",
+       "k20261109-1-k3"
+      ]
+     },
+     {
+      "title": "How",
+      "paras": "5",
+      "blanks": [
+       "the same time every day",
+       "turn off your phone"
+      ],
+      "kps": [
+       "k20261109-1-k4"
+      ]
+     },
+     {
+      "title": "Don't",
+      "paras": "5-6",
+      "blanks": [
+       "cola or coffee",
+       "stay up late"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "sleep in class",
+     "sleep four hours"
+    ]
+   },
+   "summary": {
+    "intro": "The article explains why sleep is important.",
+    "model": "Teenagers need eight to ten hours of sleep because it helps the brain and the body. They should go to bed early, so they feel better.",
+    "options": [
+     {
+      "t": "Sleep is good for your brain and your body.",
+      "ok": true,
+      "why": "This is a main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Good sleep helps your brain."
+     },
+     {
+      "t": "Teenagers need eight to ten hours of sleep.",
+      "ok": true,
+      "why": "This is a main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Doctors say that teenagers need eight to ten hours of sleep every night."
+     },
+     {
+      "t": "You can sleep better if you follow some simple advice.",
+      "ok": true,
+      "why": "This is the writer's message.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Here is some simple advice."
+     },
+     {
+      "t": "Your bedroom should be quiet and cool.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "Your bedroom should be quiet and cool."
+     },
+     {
+      "t": "Everyone needs twelve hours of sleep.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "People who sleep well get ill more often.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "People who sleep well get ill less often."
+     }
+    ]
+   },
+   "speak": {
+    "p": "How many hours do you sleep on a school night? Is it enough? Why or why not?",
+    "hint": "Try: 'I usually sleep for … hours.' and 'I think I should …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short email to a friend who is always tired. Give your friend some advice.",
+    "steps": [
+     "Ask why your friend is tired.",
+     "Give two pieces of advice with should or shouldn't.",
+     "Say what you do before bed."
+    ],
+    "minWords": 30
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261109-2",
+   "topic": "Shopping",
+   "genre": "Email",
+   "title": "A Present for Dad",
+   "dek": "Lena has a plan, but she needs a present. Can Jack help?",
+   "sources": [],
+   "paras": [
+    "Hi Jack, Guess what? It's Dad's birthday on Saturday! We're going to have a small party at home. Mum is going to make a big chocolate cake, and I'm going to decorate the room. I want to buy Dad a present, but I don't know what to get. Can you help me? Love, Lena",
+    "Hi Lena, Great news! What about a nice scarf or a good book? Last year I bought my dad a wallet, and he loved it. This afternoon I'm meeting my friend Omar at the shopping centre. We're going to look for a new football shirt for me. Why don't you come with us? We're meeting at the main door at two o'clock. Jack",
+    "Hi Jack, Thanks, I'd love to come! I'm going to bring my savings. I have twenty-five pounds, but I'm not going to spend it all. I also need a card and some paper to wrap the present. I'm going to ask a shop assistant for help, too. After shopping, are we going to have lunch? I'm going to eat a big pizza! See you at two. Love, Lena",
+    "Hi Lena, Good idea! Omar isn't going to eat pizza because he's visiting his grandma at four. He's going to leave early, so we are going to have a quick lunch. I'm going to try on the football shirt first. Then we're going to look at scarves and books together. Bring a bag, because it's going to be heavy! Jack",
+    "Hi Jack, Perfect! I'm going to wear my red coat, so you can find me easily. It's going to rain this afternoon, so I'm also taking an umbrella. Thank you for your help. Dad is going to be so happy! Love, Lena"
+   ],
+   "words": [
+    {
+     "w": "present",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈprez.ənt/",
+     "syl": [
+      "pres",
+      "ent"
+     ],
+     "def": "something you give to a person, for example on a birthday",
+     "ex": "I bought a present for my sister."
+    },
+    {
+     "w": "decorate",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˈdek.ə.reɪt/",
+     "syl": [
+      "dec",
+      "o",
+      "rate"
+     ],
+     "def": "to make a place look nice with colourful things",
+     "ex": "We decorate the classroom for the party."
+    },
+    {
+     "w": "wallet",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈwɒl.ɪt/",
+     "syl": [
+      "wal",
+      "let"
+     ],
+     "def": "a small case for money and cards",
+     "ex": "He keeps his money in a wallet."
+    },
+    {
+     "w": "scarf",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɑːf/",
+     "syl": [
+      "scarf"
+     ],
+     "def": "a long piece of cloth you wear round your neck",
+     "ex": "I wear a warm scarf in winter."
+    },
+    {
+     "w": "savings",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈseɪ.vɪŋz/",
+     "syl": [
+      "sav",
+      "ings"
+     ],
+     "def": "money that you keep and do not spend",
+     "ex": "I have some savings in the bank."
+    },
+    {
+     "w": "wrap",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ræp/",
+     "syl": [
+      "wrap"
+     ],
+     "def": "to cover a present with paper",
+     "ex": "Please help me wrap this present."
+    },
+    {
+     "w": "umbrella",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ʌmˈbrel.ə/",
+     "syl": [
+      "um",
+      "brel",
+      "la"
+     ],
+     "def": "something you hold over your head when it rains",
+     "ex": "Take an umbrella to school today."
+    },
+    {
+     "w": "assistant",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/əˈsɪs.tənt/",
+     "syl": [
+      "as",
+      "sis",
+      "tant"
+     ],
+     "def": "a person who works in a shop and helps you",
+     "ex": "The shop assistant showed me a blue bag."
+    },
+    {
+     "w": "leave",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/liːv/",
+     "syl": [
+      "leave"
+     ],
+     "def": "to go away from a place",
+     "ex": "The bus will leave at nine."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "We're going to have a small party at home.",
+     "kind": "Grammar to notice",
+     "note": "Going to talks about a plan."
+    },
+    {
+     "para": 1,
+     "text": "I want to buy Dad a present, but I don't know what to get.",
+     "kind": "Main idea",
+     "note": "Lena needs a present for her dad."
+    },
+    {
+     "para": 2,
+     "text": "We're meeting at the main door at two o'clock.",
+     "kind": "Key details",
+     "note": "This is an arrangement for the afternoon."
+    },
+    {
+     "para": 3,
+     "text": "I'm not going to spend it all.",
+     "kind": "Key details",
+     "note": "Lena will keep some of her money."
+    },
+    {
+     "para": 4,
+     "text": "Omar isn't going to eat pizza because he's visiting his grandma at four.",
+     "kind": "Cause → effect",
+     "note": "Omar has to leave early."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the email thread mainly about?",
+     "opts": [
+      "a football match on Saturday",
+      "planning a shopping trip to buy a present",
+      "a trip to see a grandma"
+     ],
+     "a": 1,
+     "why": "Lena and Jack plan to shop for a present.",
+     "evidence": null,
+     "optWhy": [
+      "Football is only part of Jack's plan.",
+      "Correct. Lena and Jack plan to shop for a present.",
+      "Omar visits his grandma, but that is a small detail."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "When is Dad's birthday?",
+     "opts": [
+      "on Saturday",
+      "on Friday",
+      "on Sunday"
+     ],
+     "a": 0,
+     "why": "The text says Dad's birthday is on Saturday.",
+     "evidence": "It's Dad's birthday on Saturday!",
+     "optWhy": [
+      "Correct. The text says Dad's birthday is on Saturday.",
+      "The text says Saturday, not Friday.",
+      "The text says Saturday, not Sunday."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why is Lena not going to spend all her money?",
+     "opts": [
+      "She wants to buy a coat.",
+      "She lost her wallet.",
+      "She also needs a card and paper."
+     ],
+     "a": 2,
+     "why": "She needs money for a card and paper to wrap the present.",
+     "evidence": "I also need a card and some paper to wrap the present.",
+     "optWhy": [
+      "The coat is not about money.",
+      "The text does not say she lost it.",
+      "Correct. She needs money for a card and paper to wrap the present."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 2,
+     "q": "Jack bought a wallet for his dad last year.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "Jack says he bought his dad a wallet.",
+     "evidence": "Last year I bought my dad a wallet, and he loved it.",
+     "optWhy": [
+      "Correct. The text says this.",
+      "Not right. The text does not say this.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 2,
+     "q": "In Jack's email, 'Why don't you come with us?' Who is 'us'?",
+     "opts": [
+      "Jack and Lena",
+      "Jack and Omar",
+      "Omar and his grandma"
+     ],
+     "a": 1,
+     "why": "Jack is meeting Omar, so 'us' is Jack and Omar.",
+     "evidence": "This afternoon I'm meeting my friend Omar at the shopping centre.",
+     "optWhy": [
+      "Lena is the person Jack asks.",
+      "Correct. Jack is meeting Omar, so 'us' is Jack and Omar.",
+      "The grandma is not part of the shopping trip."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Omar likes pizza very much.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The text does not say if Omar likes pizza.",
+     "evidence": "Omar isn't going to eat pizza because he's visiting his grandma at four.",
+     "optWhy": [
+      "The text does not say this is true.",
+      "The text does not say this is wrong.",
+      "Correct. The text does not say."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "going to · present continuous for plans",
+    "rule": "Use am/is/are going to + verb for plans and for things you can see will happen. Use the present continuous for fixed arrangements with a time or a place: I'm meeting Omar at two. Do not use going to with go/come when the present continuous is easier: I'm going to the shop.",
+    "table": [
+     [
+      "+",
+      "I'm going to buy a scarf."
+     ],
+     [
+      "−",
+      "She isn't going to come."
+     ],
+     [
+      "?",
+      "Are you going to eat?"
+     ],
+     [
+      "arrangement",
+      "We're meeting at two."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "We're going to have a small party at home.",
+      "mark": "We're going to have"
+     },
+     {
+      "para": 2,
+      "text": "This afternoon I'm meeting my friend Omar at the shopping centre.",
+      "mark": "I'm meeting"
+     },
+     {
+      "para": 3,
+      "text": "I'm going to bring my savings.",
+      "mark": "I'm going to bring"
+     },
+     {
+      "para": 4,
+      "text": "Omar isn't going to eat pizza because he's visiting his grandma at four.",
+      "mark": "isn't going to eat"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Look at those black clouds! It ___ rain.",
+      "opts": [
+       "is going to",
+       "goes to",
+       "will to"
+      ],
+      "a": 0,
+      "why": "You can see the clouds, so use is going to."
+     },
+     {
+      "type": "mc",
+      "q": "We ___ our cousins on Sunday. We have train tickets.",
+      "opts": [
+       "are meeting",
+       "meeting",
+       "going meet"
+      ],
+      "a": 0,
+      "why": "A fixed arrangement: present continuous."
+     },
+     {
+      "type": "mc",
+      "q": "I ___ buy a new bag. I have the money.",
+      "opts": [
+       "am going to",
+       "going to",
+       "am go to"
+      ],
+      "a": 0,
+      "why": "A plan: am going to + verb."
+     },
+     {
+      "type": "fill",
+      "q": "My sister ___ a cake for the party.",
+      "hint": "(go / make)",
+      "a": "is going to make",
+      "why": "A plan: is going to + make."
+     },
+     {
+      "type": "fill",
+      "q": "They ___ football at four o'clock on Saturday.",
+      "hint": "(play)",
+      "a": "are playing",
+      "why": "A fixed arrangement: are playing."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ to the cinema tonight. I'm too tired.",
+      "hint": "(not / go)",
+      "a": "am not going / 'm not going",
+      "why": "Use am not going to say no to a plan."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261109-2-k1",
+     "tag": "Party",
+     "fact": "The family is going to have a small party on Saturday.",
+     "q": "What are they going to have on Saturday?",
+     "opts": [
+      "a small party",
+      "a football match",
+      "a school test"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261109-2-k2",
+     "tag": "Meeting",
+     "fact": "Jack and Lena are meeting at the main door at two o'clock.",
+     "q": "Where are they meeting?",
+     "opts": [
+      "at the main door",
+      "at the bus stop",
+      "at Lena's house"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261109-2-k3",
+     "tag": "Money",
+     "fact": "Lena has twenty-five pounds.",
+     "q": "How much money does Lena have?",
+     "opts": [
+      "fifteen pounds",
+      "twenty-five pounds",
+      "fifty pounds"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261109-2-k4",
+     "tag": "Omar",
+     "fact": "Omar is visiting his grandma at four.",
+     "q": "Why is Omar going to leave early?",
+     "opts": [
+      "He is visiting his grandma.",
+      "He is ill.",
+      "He has a test."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Dad's present",
+    "question": "What are the plans for Saturday and the shopping trip?",
+    "branches": [
+     {
+      "title": "What",
+      "paras": "1",
+      "blanks": [
+       "a small party",
+       "a chocolate cake"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Who",
+      "paras": "2",
+      "blanks": [
+       "Jack",
+       "my friend Omar"
+      ],
+      "kps": [
+       "k20261109-2-k4"
+      ]
+     },
+     {
+      "title": "Where",
+      "paras": "2",
+      "blanks": [
+       "the shopping centre",
+       "the main door"
+      ],
+      "kps": [
+       "k20261109-2-k2"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "3-4",
+      "blanks": [
+       "have lunch",
+       "a big pizza"
+      ],
+      "kps": [
+       "k20261109-2-k3"
+      ]
+     }
+    ],
+    "distractors": [
+     "a swimming pool",
+     "a new phone"
+    ]
+   },
+   "summary": {
+    "intro": "The emails tell us about a plan for a birthday present.",
+    "model": "Lena wants to buy a present for her dad, so Jack asks her to go shopping. They are going to meet at two, but Omar must leave early.",
+    "options": [
+     {
+      "t": "Lena wants to buy a birthday present for her dad.",
+      "ok": true,
+      "why": "This is a main idea.",
+      "type": "main",
+      "para": 1,
+      "evidence": "I want to buy Dad a present, but I don't know what to get."
+     },
+     {
+      "t": "Jack asks Lena to go shopping with him and Omar.",
+      "ok": true,
+      "why": "This is another main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Why don't you come with us?"
+     },
+     {
+      "t": "They plan to meet and have lunch after shopping.",
+      "ok": true,
+      "why": "This is the plan in the story.",
+      "type": "main",
+      "para": 3,
+      "evidence": "After shopping, are we going to have lunch?"
+     },
+     {
+      "t": "Lena is going to wear a red coat.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "I'm going to wear my red coat, so you can find me easily."
+     },
+     {
+      "t": "Jack is going to buy a new bike.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Lena is going to spend all her money.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "I'm not going to spend it all."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like shopping with friends? Where do you like to go? Why?",
+    "hint": "Try: 'I like going to … because …' and 'We usually buy …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short email to a friend about your plans for the weekend.",
+    "steps": [
+     "Say what you are going to do on Saturday.",
+     "Say who you are meeting.",
+     "Ask your friend to join you."
+    ],
+    "minWords": 30
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261109-3",
+   "topic": "Transport",
+   "genre": "Story",
+   "title": "The Late Bus",
+   "dek": "The bus does not come, and today is a very important day.",
+   "sources": [],
+   "paras": [
+    "On Monday morning, Ravi ran to the bus stop. It was raining. His bag was heavy because his science project was inside. The school bus usually came at 7:45, but today it did not come.",
+    "His friend Sofia was waiting there, too. “The bus is late,” she said. “We'll be late for school. Mr Brown won't be happy.” Ravi looked at his watch. It was ten past eight. “Maybe the bus won't come at all,” he said.",
+    "Then an old man spoke to them. “The road is closed,” he said. “There was an accident near the bridge. The buses won't come today.” Sofia felt worried. Today was the day of the science fair. Ravi's project was very important.",
+    "“I'll call my mum,” said Ravi. “She'll drive us.” But his phone was dead. Sofia gave him hers. Ravi's mum did not answer. “She's at work,” he said sadly. “She won't hear the phone.”",
+    "“Let's walk,” said Sofia. “It'll take forty minutes. I'll carry your bag for a while.” “Thanks, but I'll carry it myself. It's my project,” said Ravi. They walked fast through the rain. The old man shouted, “You'll be wet, but you'll get there!”",
+    "They arrived at nine thirty. Their teacher was standing at the door. “Where were you?” he asked. They told him the story. Mr Brown smiled. “I'm glad you came. The fair starts at ten, so you won't miss it. I'll find you a towel.” Ravi's project won second prize, and Sofia clapped the loudest."
+   ],
+   "words": [
+    {
+     "w": "accident",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈæk.sɪ.dənt/",
+     "syl": [
+      "ac",
+      "ci",
+      "dent"
+     ],
+     "def": "something bad that happens by chance, like a car crash",
+     "ex": "There was an accident on the main road."
+    },
+    {
+     "w": "worried",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈwʌr.id/",
+     "syl": [
+      "wor",
+      "ried"
+     ],
+     "def": "unhappy because you think something bad may happen",
+     "ex": "Mum was worried when I came home late."
+    },
+    {
+     "w": "project",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈprɒdʒ.ekt/",
+     "syl": [
+      "pro",
+      "ject"
+     ],
+     "def": "a piece of school work that takes a long time",
+     "ex": "Our history project is about Rome."
+    },
+    {
+     "w": "bridge",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/brɪdʒ/",
+     "syl": [
+      "bridge"
+     ],
+     "def": "a structure that takes a road over a river",
+     "ex": "We walked across the bridge."
+    },
+    {
+     "w": "closed",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/kləʊzd/",
+     "syl": [
+      "closed"
+     ],
+     "def": "not open; you cannot go through",
+     "ex": "The shop is closed on Sundays."
+    },
+    {
+     "w": "dead",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ded/",
+     "syl": [
+      "dead"
+     ],
+     "def": "a phone that has no battery power is ___",
+     "ex": "My phone is dead. Can I use yours?"
+    },
+    {
+     "w": "prize",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/praɪz/",
+     "syl": [
+      "prize"
+     ],
+     "def": "something you get when you win",
+     "ex": "She won a prize for her drawing."
+    },
+    {
+     "w": "towel",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtaʊ.əl/",
+     "syl": [
+      "tow",
+      "el"
+     ],
+     "def": "a soft cloth you use to dry your body",
+     "ex": "Use a towel to dry your hair."
+    },
+    {
+     "w": "clapped",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/klæpt/",
+     "syl": [
+      "clapped"
+     ],
+     "def": "hit your hands together to show you like something",
+     "ex": "The students clapped after the song."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The school bus usually came at 7:45, but today it did not come.",
+     "kind": "Main idea",
+     "note": "This is the problem at the start."
+    },
+    {
+     "para": 3,
+     "text": "The road is closed,",
+     "kind": "Cause → effect",
+     "note": "The road is closed, so the buses can't come."
+    },
+    {
+     "para": 2,
+     "text": "We'll be late for school.",
+     "kind": "Grammar to notice",
+     "note": "Will is used for a prediction."
+    },
+    {
+     "para": 5,
+     "text": "I'll carry your bag for a while.",
+     "kind": "Grammar to notice",
+     "note": "I'll is used for an offer."
+    },
+    {
+     "para": 6,
+     "text": "Ravi's project won second prize, and Sofia clapped the loudest.",
+     "kind": "Time order",
+     "note": "This is the happy ending."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "two students walk to school when the bus does not come",
+      "a boy who loses his phone",
+      "a teacher who is angry"
+     ],
+     "a": 0,
+     "why": "The bus does not come, so Ravi and Sofia walk to school.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. The bus does not come, so Ravi and Sofia walk to school.",
+      "His phone is dead, but that is not the main story.",
+      "Mr Brown smiles. He is not angry."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why do the buses not come?",
+     "opts": [
+      "The buses are broken.",
+      "It is a holiday.",
+      "The road is closed."
+     ],
+     "a": 2,
+     "why": "The old man says the road is closed after an accident.",
+     "evidence": "“The road is closed,” he said.",
+     "optWhy": [
+      "The text does not say this.",
+      "The text does not say this.",
+      "Correct. The old man says the road is closed after an accident."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How does Ravi feel when his mum does not answer?",
+     "opts": [
+      "happy",
+      "sad",
+      "angry"
+     ],
+     "a": 1,
+     "why": "The text says he spoke sadly.",
+     "evidence": "“She's at work,” he said sadly.",
+     "optWhy": [
+      "He is not happy.",
+      "Correct. The text says he spoke sadly.",
+      "He is not angry; he is sad."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Ravi's mum answered the phone.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "She did not answer.",
+     "evidence": "Ravi's mum did not answer.",
+     "optWhy": [
+      "Not true. The text says the opposite.",
+      "Correct. She did not answer.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Sofia's mother works at the school.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The text does not say anything about Sofia's mother.",
+     "evidence": "They told him the story.",
+     "optWhy": [
+      "The text does not say this is true.",
+      "The text does not say this is wrong.",
+      "Correct. The text does not say."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, Sofia says, “It'll take forty minutes.” What is “It”?",
+     "opts": [
+      "the walk to school",
+      "the rain",
+      "the science fair"
+     ],
+     "a": 0,
+     "why": "“It” is the walk to school.",
+     "evidence": "“Let's walk,” said Sofia.",
+     "optWhy": [
+      "Correct. “It” is the walk to school.",
+      "The rain is not what takes forty minutes.",
+      "The fair starts at ten, not in forty minutes."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "will / won't for predictions and offers",
+    "rule": "Use will + verb to say what you think will happen: It will rain. Use will for offers and quick decisions: I'll help you. The short form of will is 'll. The negative is will not or won't.",
+    "table": [
+     [
+      "+",
+      "She'll drive us."
+     ],
+     [
+      "−",
+      "The buses won't come."
+     ],
+     [
+      "?",
+      "Will you help me?"
+     ],
+     [
+      "offer",
+      "I'll carry your bag."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "We'll be late for school.",
+      "mark": "We'll be"
+     },
+     {
+      "para": 2,
+      "text": "Mr Brown won't be happy.",
+      "mark": "won't be"
+     },
+     {
+      "para": 3,
+      "text": "The buses won't come today.",
+      "mark": "won't come"
+     },
+     {
+      "para": 5,
+      "text": "I'll carry your bag for a while.",
+      "mark": "I'll carry"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "I think it ___ rain tomorrow. The sky is clear.",
+      "opts": [
+       "will",
+       "won't",
+       "is"
+      ],
+      "a": 1,
+      "why": "The sky is clear, so the prediction is negative: won't."
+     },
+     {
+      "type": "mc",
+      "q": "The bag looks heavy. I ___ help you.",
+      "opts": [
+       "'ll",
+       "won't",
+       "do"
+      ],
+      "a": 0,
+      "why": "An offer: I'll help."
+     },
+     {
+      "type": "mc",
+      "q": "Don't worry. I ___ tell anyone your secret.",
+      "opts": [
+       "won't",
+       "will to",
+       "am not"
+      ],
+      "a": 0,
+      "why": "A promise not to tell: I won't."
+     },
+     {
+      "type": "fill",
+      "q": "I think our team ___ the match.",
+      "hint": "(win)",
+      "a": "will win / 'll win",
+      "why": "A prediction: will + win."
+     },
+     {
+      "type": "fill",
+      "q": "I'm sorry. I ___ be late again.",
+      "hint": "(not)",
+      "a": "won't / will not",
+      "why": "A promise: won't."
+     },
+     {
+      "type": "fill",
+      "q": "It's cold. I ___ the window.",
+      "hint": "(close)",
+      "a": "'ll close / will close",
+      "why": "A quick decision: I'll close."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261109-3-k1",
+     "tag": "Problem",
+     "fact": "The school bus did not come on Monday.",
+     "q": "What was the problem?",
+     "opts": [
+      "The bus did not come.",
+      "Ravi lost his bag.",
+      "Sofia was ill."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261109-3-k2",
+     "tag": "Reason",
+     "fact": "The road was closed because of an accident.",
+     "q": "Why did the buses not come?",
+     "opts": [
+      "The road was closed.",
+      "It was a holiday.",
+      "The drivers were ill."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261109-3-k3",
+     "tag": "Walk",
+     "fact": "Ravi and Sofia walked to school for forty minutes.",
+     "q": "How did they get to school?",
+     "opts": [
+      "They walked.",
+      "They took a taxi.",
+      "Ravi's mum drove them."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261109-3-k4",
+     "tag": "Ending",
+     "fact": "Ravi's project won second prize.",
+     "q": "What did Ravi's project win?",
+     "opts": [
+      "first prize",
+      "second prize",
+      "no prize"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "The Late Bus",
+    "question": "What happened to Ravi and Sofia on Monday?",
+    "branches": [
+     {
+      "title": "Who",
+      "paras": "1-2",
+      "blanks": [
+       "Ravi",
+       "Sofia"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Why",
+      "paras": "3",
+      "blanks": [
+       "an accident",
+       "the road is closed"
+      ],
+      "kps": [
+       "k20261109-3-k2"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "4-5",
+      "blanks": [
+       "call his mum",
+       "walk to school"
+      ],
+      "kps": [
+       "k20261109-3-k3"
+      ]
+     },
+     {
+      "title": "How end",
+      "paras": "6",
+      "blanks": [
+       "second prize",
+       "clapped the loudest"
+      ],
+      "kps": [
+       "k20261109-3-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "a new bike",
+     "the bus came late"
+    ]
+   },
+   "summary": {
+    "intro": "The story is about two students and a bus that did not come.",
+    "model": "The bus did not come because the road was closed, so Ravi and Sofia walked to school. They were late, but Ravi's project won a prize.",
+    "options": [
+     {
+      "t": "The bus did not come because the road was closed.",
+      "ok": true,
+      "why": "This is the problem.",
+      "type": "main",
+      "para": 3,
+      "evidence": "“The road is closed,” he said."
+     },
+     {
+      "t": "Ravi and Sofia walked to school in the rain.",
+      "ok": true,
+      "why": "This is what they did.",
+      "type": "main",
+      "para": 5,
+      "evidence": "They walked fast through the rain."
+     },
+     {
+      "t": "They arrived in time and Ravi's project won a prize.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Ravi's project won second prize, and Sofia clapped the loudest."
+     },
+     {
+      "t": "The old man shouted something to them.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "The old man shouted, “You'll be wet, but you'll get there!”"
+     },
+     {
+      "t": "Ravi's mum drove them to school.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Ravi's mum answered the phone at once.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Ravi's mum did not answer."
+     }
+    ]
+   },
+   "speak": {
+    "p": "How do you get to school? Is it ever difficult? Tell me about it.",
+    "hint": "Try: 'I usually go by …' and 'Sometimes it is difficult because …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short story. Begin: It was a rainy Monday and the bus did not come.",
+    "steps": [
+     "Say who was at the bus stop.",
+     "Say what they did.",
+     "Say how the story ended."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · male"
+  }
+ ],
+ "audio": {
+  "Do you feel tired at school? Is it hard to get up in the morning? Maybe you are not sleeping enough. Why do we need sleep? Let's find out.": "audio/2026-11-09/a1-p1.mp3",
+  "Doctors say that teenagers need eight to ten hours of sleep every night. That is more than many adults need. Some students sleep only five or six hours. They should go to bed earlier.": "audio/2026-11-09/a1-p2.mp3",
+  "Sleep is not just rest. When you sleep, your body is still working. Good sleep helps your brain. You can think clearly and your memory gets better. It also helps your mood. You feel less stressed and more friendly the next day.": "audio/2026-11-09/a1-p3.mp3",
+  "Sleep helps your body, too. People who sleep well get ill less often. Their hearts are healthier, too. Many people also feel they have more energy for sport and games. If you want to play well on Saturday, you should sleep well on Friday.": "audio/2026-11-09/a1-p4.mp3",
+  "How can you sleep better? Here is some simple advice. You should go to bed and get up at the same time every day. You should turn off your phone or tablet at least thirty minutes before bed. You shouldn't drink cola or coffee in the evening. Your bedroom should be quiet and cool.": "audio/2026-11-09/a1-p5.mp3",
+  "Some students stay up late to finish homework or watch videos. They shouldn't do this too often. A tired brain works slowly, so homework takes longer. Tonight, try one small change. Tell a friend about it. Then you can help each other.": "audio/2026-11-09/a1-p6.mp3",
+  "Do you ever study late the night before a test? Many students do. But it is not a good idea. You should study a little every day. Then you can sleep well before the test, and your brain will be ready.": "audio/2026-11-09/a1-p7.mp3",
+  "tired": "audio/2026-11-09/a1-w-tired.mp3",
+  "I was tired after the long football match.": "audio/2026-11-09/a1-ex-tired.mp3",
+  "brain": "audio/2026-11-09/a1-w-brain.mp3",
+  "Your brain needs sleep to work well.": "audio/2026-11-09/a1-ex-brain.mp3",
+  "memory": "audio/2026-11-09/a1-w-memory.mp3",
+  "Anna has a good memory for names.": "audio/2026-11-09/a1-ex-memory.mp3",
+  "mood": "audio/2026-11-09/a1-w-mood.mp3",
+  "Music can change my mood.": "audio/2026-11-09/a1-ex-mood.mp3",
+  "stressed": "audio/2026-11-09/a1-w-stressed.mp3",
+  "Tom felt stressed before the exam.": "audio/2026-11-09/a1-ex-stressed.mp3",
+  "energy": "audio/2026-11-09/a1-w-energy.mp3",
+  "I have lots of energy in the morning.": "audio/2026-11-09/a1-ex-energy.mp3",
+  "advice": "audio/2026-11-09/a1-w-advice.mp3",
+  "My teacher gave me good advice.": "audio/2026-11-09/a1-ex-advice.mp3",
+  "ill": "audio/2026-11-09/a1-w-ill.mp3",
+  "Lucy stayed at home because she was ill.": "audio/2026-11-09/a1-ex-ill.mp3",
+  "teenagers": "audio/2026-11-09/a1-w-teenagers.mp3",
+  "Many teenagers like playing games.": "audio/2026-11-09/a1-ex-teenagers.mp3",
+  "Doctors say that teenagers need eight to ten hours of sleep every night.": "audio/2026-11-09/a1-ks1.mp3",
+  "Good sleep helps your brain.": "audio/2026-11-09/a1-ks2.mp3",
+  "People who sleep well get ill less often.": "audio/2026-11-09/a1-ks3.mp3",
+  "You should go to bed and get up at the same time every day.": "audio/2026-11-09/a1-ks4.mp3",
+  "You shouldn't drink cola or coffee in the evening.": "audio/2026-11-09/a1-ks5.mp3",
+  "They should go to bed earlier.": "audio/2026-11-09/a1-g1.mp3",
+  "You should turn off your phone or tablet at least thirty minutes before bed.": "audio/2026-11-09/a1-g2.mp3",
+  "They shouldn't do this too often.": "audio/2026-11-09/a1-g4.mp3",
+  "Hi Jack, Guess what? It's Dad's birthday on Saturday! We're going to have a small party at home. Mum is going to make a big chocolate cake, and I'm going to decorate the room. I want to buy Dad a present, but I don't know what to get. Can you help me? Love, Lena": "audio/2026-11-09/a2-p1.mp3",
+  "Hi Lena, Great news! What about a nice scarf or a good book? Last year I bought my dad a wallet, and he loved it. This afternoon I'm meeting my friend Omar at the shopping centre. We're going to look for a new football shirt for me. Why don't you come with us? We're meeting at the main door at two o'clock. Jack": "audio/2026-11-09/a2-p2.mp3",
+  "Hi Jack, Thanks, I'd love to come! I'm going to bring my savings. I have twenty-five pounds, but I'm not going to spend it all. I also need a card and some paper to wrap the present. I'm going to ask a shop assistant for help, too. After shopping, are we going to have lunch? I'm going to eat a big pizza! See you at two. Love, Lena": "audio/2026-11-09/a2-p3.mp3",
+  "Hi Lena, Good idea! Omar isn't going to eat pizza because he's visiting his grandma at four. He's going to leave early, so we are going to have a quick lunch. I'm going to try on the football shirt first. Then we're going to look at scarves and books together. Bring a bag, because it's going to be heavy! Jack": "audio/2026-11-09/a2-p4.mp3",
+  "Hi Jack, Perfect! I'm going to wear my red coat, so you can find me easily. It's going to rain this afternoon, so I'm also taking an umbrella. Thank you for your help. Dad is going to be so happy! Love, Lena": "audio/2026-11-09/a2-p5.mp3",
+  "present": "audio/2026-11-09/a2-w-present.mp3",
+  "I bought a present for my sister.": "audio/2026-11-09/a2-ex-present.mp3",
+  "decorate": "audio/2026-11-09/a2-w-decorate.mp3",
+  "We decorate the classroom for the party.": "audio/2026-11-09/a2-ex-decorate.mp3",
+  "wallet": "audio/2026-11-09/a2-w-wallet.mp3",
+  "He keeps his money in a wallet.": "audio/2026-11-09/a2-ex-wallet.mp3",
+  "scarf": "audio/2026-11-09/a2-w-scarf.mp3",
+  "I wear a warm scarf in winter.": "audio/2026-11-09/a2-ex-scarf.mp3",
+  "savings": "audio/2026-11-09/a2-w-savings.mp3",
+  "I have some savings in the bank.": "audio/2026-11-09/a2-ex-savings.mp3",
+  "wrap": "audio/2026-11-09/a2-w-wrap.mp3",
+  "Please help me wrap this present.": "audio/2026-11-09/a2-ex-wrap.mp3",
+  "umbrella": "audio/2026-11-09/a2-w-umbrella.mp3",
+  "Take an umbrella to school today.": "audio/2026-11-09/a2-ex-umbrella.mp3",
+  "assistant": "audio/2026-11-09/a2-w-assistant.mp3",
+  "The shop assistant showed me a blue bag.": "audio/2026-11-09/a2-ex-assistant.mp3",
+  "leave": "audio/2026-11-09/a2-w-leave.mp3",
+  "The bus will leave at nine.": "audio/2026-11-09/a2-ex-leave.mp3",
+  "We're going to have a small party at home.": "audio/2026-11-09/a2-ks1.mp3",
+  "I want to buy Dad a present, but I don't know what to get.": "audio/2026-11-09/a2-ks2.mp3",
+  "We're meeting at the main door at two o'clock.": "audio/2026-11-09/a2-ks3.mp3",
+  "I'm not going to spend it all.": "audio/2026-11-09/a2-ks4.mp3",
+  "Omar isn't going to eat pizza because he's visiting his grandma at four.": "audio/2026-11-09/a2-ks5.mp3",
+  "This afternoon I'm meeting my friend Omar at the shopping centre.": "audio/2026-11-09/a2-g2.mp3",
+  "I'm going to bring my savings.": "audio/2026-11-09/a2-g3.mp3",
+  "On Monday morning, Ravi ran to the bus stop. It was raining. His bag was heavy because his science project was inside. The school bus usually came at 7:45, but today it did not come.": "audio/2026-11-09/a3-p1.mp3",
+  "His friend Sofia was waiting there, too. “The bus is late,” she said. “We'll be late for school. Mr Brown won't be happy.” Ravi looked at his watch. It was ten past eight. “Maybe the bus won't come at all,” he said.": "audio/2026-11-09/a3-p2.mp3",
+  "Then an old man spoke to them. “The road is closed,” he said. “There was an accident near the bridge. The buses won't come today.” Sofia felt worried. Today was the day of the science fair. Ravi's project was very important.": "audio/2026-11-09/a3-p3.mp3",
+  "“I'll call my mum,” said Ravi. “She'll drive us.” But his phone was dead. Sofia gave him hers. Ravi's mum did not answer. “She's at work,” he said sadly. “She won't hear the phone.”": "audio/2026-11-09/a3-p4.mp3",
+  "“Let's walk,” said Sofia. “It'll take forty minutes. I'll carry your bag for a while.” “Thanks, but I'll carry it myself. It's my project,” said Ravi. They walked fast through the rain. The old man shouted, “You'll be wet, but you'll get there!”": "audio/2026-11-09/a3-p5.mp3",
+  "They arrived at nine thirty. Their teacher was standing at the door. “Where were you?” he asked. They told him the story. Mr Brown smiled. “I'm glad you came. The fair starts at ten, so you won't miss it. I'll find you a towel.” Ravi's project won second prize, and Sofia clapped the loudest.": "audio/2026-11-09/a3-p6.mp3",
+  "accident": "audio/2026-11-09/a3-w-accident.mp3",
+  "There was an accident on the main road.": "audio/2026-11-09/a3-ex-accident.mp3",
+  "worried": "audio/2026-11-09/a3-w-worried.mp3",
+  "Mum was worried when I came home late.": "audio/2026-11-09/a3-ex-worried.mp3",
+  "project": "audio/2026-11-09/a3-w-project.mp3",
+  "Our history project is about Rome.": "audio/2026-11-09/a3-ex-project.mp3",
+  "bridge": "audio/2026-11-09/a3-w-bridge.mp3",
+  "We walked across the bridge.": "audio/2026-11-09/a3-ex-bridge.mp3",
+  "closed": "audio/2026-11-09/a3-w-closed.mp3",
+  "The shop is closed on Sundays.": "audio/2026-11-09/a3-ex-closed.mp3",
+  "dead": "audio/2026-11-09/a3-w-dead.mp3",
+  "My phone is dead. Can I use yours?": "audio/2026-11-09/a3-ex-dead.mp3",
+  "prize": "audio/2026-11-09/a3-w-prize.mp3",
+  "She won a prize for her drawing.": "audio/2026-11-09/a3-ex-prize.mp3",
+  "towel": "audio/2026-11-09/a3-w-towel.mp3",
+  "Use a towel to dry your hair.": "audio/2026-11-09/a3-ex-towel.mp3",
+  "clapped": "audio/2026-11-09/a3-w-clapped.mp3",
+  "The students clapped after the song.": "audio/2026-11-09/a3-ex-clapped.mp3",
+  "The school bus usually came at 7:45, but today it did not come.": "audio/2026-11-09/a3-ks1.mp3",
+  "The road is closed,": "audio/2026-11-09/a3-ks2.mp3",
+  "We'll be late for school.": "audio/2026-11-09/a3-ks3.mp3",
+  "I'll carry your bag for a while.": "audio/2026-11-09/a3-ks4.mp3",
+  "Ravi's project won second prize, and Sofia clapped the loudest.": "audio/2026-11-09/a3-ks5.mp3",
+  "Mr Brown won't be happy.": "audio/2026-11-09/a3-g2.mp3",
+  "The buses won't come today.": "audio/2026-11-09/a3-g3.mp3"
+ }
+}
