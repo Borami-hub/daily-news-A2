@@ -1,0 +1,1745 @@
+{
+ "date": "2026-11-10",
+ "headline": "A zoo keeper, a castle blog and the story of jeans",
+ "teaser": "Have you ever met a lion? Has Nina seen the ghost yet? Who made the first jeans?",
+ "articles": [
+  {
+   "id": "k20261110-1",
+   "topic": "Work & jobs",
+   "genre": "Interview",
+   "title": "Have You Ever Met a Lion?",
+   "dek": "A zoo keeper tells funny and scary stories from work.",
+   "sources": [],
+   "paras": [
+    "For our school magazine, Mia Chen, 14, talked to Sam Brooks. Sam is a zoo keeper at our city zoo. He has worked there for ten years. He looks after lions, monkeys and penguins. Here is their interview.",
+    "Mia: Have you ever been afraid of an animal? Sam: Yes, I have. I have worked with lions and monkeys, but I have never touched a big snake. I just look at snakes from a safe place. My friend Tara is the snake keeper. She has never been afraid of them!",
+    "Mia: Have you ever had a bad day at work? Sam: Of course. Last summer, a monkey took my hat and ran away. I have never run so fast! Everyone laughed, but I wasn't happy. I got my hat back an hour later. It was wet and dirty.",
+    "Mia: Have you ever slept at the zoo? Sam: Yes, I have. Once a baby tiger was ill, so I stayed all night. I have never been so tired! But the tiger got better, and that made me very happy.",
+    "Mia: Have you ever been on TV? Sam: No, I haven't. But I have met some famous people at the zoo. Last year, a singer visited us. She loves animals, but she has never touched a penguin. So I let her give our penguins their fish.",
+    "Mia: Has anyone in your family ever worked with animals? Sam: My sister has. She is a vet. We have never worked in the same place, but we often talk about our animals. She has often helped me with a sick animal.",
+    "Mia: Would you like to give some advice to students? Sam: Yes! It is a hard job, but I have never wanted a different one. You must love animals, and you must not mind the smell! Have you ever thought about this job? Then visit the zoo and ask questions."
+   ],
+   "words": [
+    {
+     "w": "keeper",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkiː.pə/",
+     "syl": [
+      "keep",
+      "er"
+     ],
+     "def": "a person who looks after animals or a place",
+     "ex": "My uncle is a keeper at a small farm park."
+    },
+    {
+     "w": "afraid",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/əˈfreɪd/",
+     "syl": [
+      "a",
+      "fraid"
+     ],
+     "def": "feeling fear; frightened",
+     "ex": "Are you afraid of dogs?"
+    },
+    {
+     "w": "snake",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/sneɪk/",
+     "syl": [
+      "snake"
+     ],
+     "def": "a long animal with no legs",
+     "ex": "The snake moved slowly across the grass."
+    },
+    {
+     "w": "safe",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/seɪf/",
+     "syl": [
+      "safe"
+     ],
+     "def": "not in danger",
+     "ex": "It is safe to swim here."
+    },
+    {
+     "w": "famous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈfeɪ.məs/",
+     "syl": [
+      "fa",
+      "mous"
+     ],
+     "def": "known by many people",
+     "ex": "My aunt met a famous singer."
+    },
+    {
+     "w": "vet",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/vet/",
+     "syl": [
+      "vet"
+     ],
+     "def": "a doctor for animals",
+     "ex": "We took our sick cat to the vet."
+    },
+    {
+     "w": "smell",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/smel/",
+     "syl": [
+      "smell"
+     ],
+     "def": "what you notice with your nose",
+     "ex": "I like the smell of fresh bread."
+    },
+    {
+     "w": "laughed",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/lɑːft/",
+     "syl": [
+      "laughed"
+     ],
+     "def": "made a happy sound because something was funny",
+     "ex": "We laughed at the funny film."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "He has worked there for ten years.",
+     "kind": "Key details",
+     "note": "Sam has a long job history at the zoo."
+    },
+    {
+     "para": 2,
+     "text": "I have worked with lions and monkeys, but I have never touched a big snake.",
+     "kind": "Grammar to notice",
+     "note": "Have + never talks about life experience."
+    },
+    {
+     "para": 3,
+     "text": "Last summer, a monkey took my hat and ran away.",
+     "kind": "Time order",
+     "note": "This happened at one time in the past."
+    },
+    {
+     "para": 4,
+     "text": "I have never been so tired!",
+     "kind": "Grammar to notice",
+     "note": "Never means not at any time in his life."
+    },
+    {
+     "para": 7,
+     "text": "It is a hard job, but I have never wanted a different one.",
+     "kind": "Opinion",
+     "note": "Sam loves his job."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the interview mainly about?",
+     "opts": [
+      "how to be a vet",
+      "a zoo keeper's work and surprising moments",
+      "a singer's visit to the zoo"
+     ],
+     "a": 1,
+     "why": "Sam talks about his job and some funny days.",
+     "evidence": null,
+     "optWhy": [
+      "Sam's sister is a vet, but that is a small detail.",
+      "Correct. Sam talks about his job and some funny days.",
+      "The singer is only one small part."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Who is the snake keeper?",
+     "opts": [
+      "Mia",
+      "Sam's sister",
+      "Tara"
+     ],
+     "a": 2,
+     "why": "Sam says his friend Tara is the snake keeper.",
+     "evidence": "My friend Tara is the snake keeper.",
+     "optWhy": [
+      "Mia is the girl who asks questions.",
+      "Sam's sister is a vet.",
+      "Correct. Sam says Tara is the snake keeper."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, 'ran away' means ...",
+     "opts": [
+      "left quickly",
+      "walked slowly",
+      "fell asleep"
+     ],
+     "a": 0,
+     "why": "The monkey went away fast with the hat.",
+     "evidence": "a monkey took my hat and ran away.",
+     "optWhy": [
+      "Correct. The monkey went away fast.",
+      "Ran is fast, not slow.",
+      "The text does not say the monkey slept."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Sam went home when the baby tiger was ill.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "Sam stayed all night.",
+     "evidence": "so I stayed all night.",
+     "optWhy": [
+      "The text says the opposite.",
+      "Correct. Sam stayed at the zoo all night.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How did Sam feel when the monkey took his hat?",
+     "opts": [
+      "very happy",
+      "afraid of the monkey",
+      "not happy"
+     ],
+     "a": 2,
+     "why": "Everyone laughed, but Sam wasn't happy.",
+     "evidence": "Everyone laughed, but I wasn't happy.",
+     "optWhy": [
+      "Everyone laughed, but Sam did not.",
+      "The text does not say he was afraid.",
+      "Correct. Sam wasn't happy."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In paragraph 6, who is 'She'?",
+     "opts": [
+      "Sam's sister",
+      "Mia",
+      "Tara"
+     ],
+     "a": 0,
+     "why": "Sam talks about his sister, the vet.",
+     "evidence": "My sister has. She is a vet.",
+     "optWhy": [
+      "Correct. She is Sam's sister.",
+      "Mia asks the questions.",
+      "Tara is the snake keeper, in paragraph 2."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present perfect with ever / never",
+    "rule": "Use have / has + past participle to talk about life experience, with no exact time. Use ever in questions and never for 'not at any time'. Short answers: Yes, I have. / No, I haven't.",
+    "table": [
+     [
+      "+",
+      "I have worked with lions."
+     ],
+     [
+      "never",
+      "I have never touched a snake."
+     ],
+     [
+      "?",
+      "Have you ever been on TV?"
+     ],
+     [
+      "short answer",
+      "Yes, I have. / No, I haven't."
+     ],
+     [
+      "he / she",
+      "She has never been afraid."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I have worked with lions and monkeys, but I have never touched a big snake.",
+      "mark": "have never touched"
+     },
+     {
+      "para": 2,
+      "text": "She has never been afraid of them!",
+      "mark": "has never been"
+     },
+     {
+      "para": 4,
+      "text": "Mia: Have you ever slept at the zoo?",
+      "mark": "Have you ever slept"
+     },
+     {
+      "para": 5,
+      "text": "But I have met some famous people at the zoo.",
+      "mark": "have met"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ you ever ridden a horse?",
+      "opts": [
+       "Did",
+       "Have",
+       "Are"
+      ],
+      "a": 1,
+      "why": "Life experience with ever: Have you ever…?"
+     },
+     {
+      "type": "mc",
+      "q": "My brother ___ never eaten fish.",
+      "opts": [
+       "have",
+       "has",
+       "is"
+      ],
+      "a": 1,
+      "why": "My brother = he, so use has."
+     },
+     {
+      "type": "mc",
+      "q": "Dan has ___ played chess. He doesn't know the rules.",
+      "opts": [
+       "ever",
+       "never",
+       "yet"
+      ],
+      "a": 1,
+      "why": "He doesn't know the rules, so never is correct."
+     },
+     {
+      "type": "fill",
+      "q": "I have never ___ a snake.",
+      "hint": "(see)",
+      "a": "seen",
+      "why": "Have + never + seen."
+     },
+     {
+      "type": "fill",
+      "q": "Have you ever ___ in a school play?",
+      "hint": "(be)",
+      "a": "been",
+      "why": "Have you ever + been."
+     },
+     {
+      "type": "fill",
+      "q": "Our teacher ___ never been late for class.",
+      "hint": "(have)",
+      "a": "has",
+      "why": "Teacher = she / he, so use has."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261110-1-k1",
+     "tag": "Years",
+     "fact": "Sam has worked at the zoo for ten years.",
+     "q": "How long has Sam worked at the zoo?",
+     "opts": [
+      "two years",
+      "ten years",
+      "twenty years"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261110-1-k2",
+     "tag": "Snakes",
+     "fact": "Tara is the snake keeper.",
+     "q": "Who looks after the snakes?",
+     "opts": [
+      "Sam",
+      "Tara",
+      "Mia"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261110-1-k3",
+     "tag": "Hat",
+     "fact": "A monkey took Sam's hat.",
+     "q": "What did the monkey take?",
+     "opts": [
+      "his hat",
+      "his food",
+      "his bag"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261110-1-k4",
+     "tag": "Tiger",
+     "fact": "Sam stayed all night because a baby tiger was ill.",
+     "q": "Why did Sam stay all night?",
+     "opts": [
+      "A baby tiger was ill.",
+      "He missed the bus.",
+      "He liked the dark."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261110-1-k5",
+     "tag": "Sister",
+     "fact": "Sam's sister is a vet.",
+     "q": "What is Sam's sister's job?",
+     "opts": [
+      "a singer",
+      "a vet",
+      "a teacher"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Zoo keeper",
+    "question": "What is Sam's work life like?",
+    "branches": [
+     {
+      "title": "Who",
+      "paras": "1-2",
+      "blanks": [
+       "Sam Brooks",
+       "Tara"
+      ],
+      "kps": [
+       "k20261110-1-k2"
+      ]
+     },
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "our city zoo",
+       "penguins"
+      ],
+      "kps": [
+       "k20261110-1-k1"
+      ]
+     },
+     {
+      "title": "What happened",
+      "paras": "3-4",
+      "blanks": [
+       "a monkey",
+       "a baby tiger"
+      ],
+      "kps": [
+       "k20261110-1-k3",
+       "k20261110-1-k4"
+      ]
+     },
+     {
+      "title": "Advice",
+      "paras": "7",
+      "blanks": [
+       "love animals",
+       "visit the zoo"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "a TV show",
+     "a big snake"
+    ]
+   },
+   "summary": {
+    "intro": "The interview tells us about a zoo keeper's job.",
+    "model": "Sam is a zoo keeper, so he works with many animals, but he has never touched a big snake. He loves his job because every day is different.",
+    "options": [
+     {
+      "t": "Sam is a zoo keeper who has worked with many animals.",
+      "ok": true,
+      "why": "This is a main idea.",
+      "type": "main",
+      "para": 1,
+      "evidence": "He has worked there for ten years."
+     },
+     {
+      "t": "Sam has had some funny and hard days at work.",
+      "ok": true,
+      "why": "This is another main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Last summer, a monkey took my hat and ran away."
+     },
+     {
+      "t": "Sam loves his job and has never wanted a different one.",
+      "ok": true,
+      "why": "This is the last main idea.",
+      "type": "main",
+      "para": 7,
+      "evidence": "I have never wanted a different one."
+     },
+     {
+      "t": "A singer visited the zoo last year.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "Last year, a singer visited us."
+     },
+     {
+      "t": "Sam is going to be on TV next year.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Sam has often been on TV.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "No, I haven't."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Would you like to work with animals? Why or why not?",
+    "hint": "Try: 'I'd like to … because …' and 'I have never …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short email to a friend about an animal you have seen.",
+    "steps": [
+     "Say which animal you have seen.",
+     "Say where you saw it.",
+     "Say if you liked it."
+    ],
+    "minWords": 30
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261110-2",
+   "topic": "Places & buildings",
+   "genre": "Blog post",
+   "title": "Our Day at the Castle",
+   "dek": "Follow Nina on a school trip, hour by hour.",
+   "sources": [],
+   "paras": [
+    "Hello, everybody! This is Nina's travel blog. Today my class is visiting an old castle by the sea. I have just arrived, and I am so excited! The castle is very big. It is about seven hundred years old.",
+    "10:30 – We have already seen the front gate and the big yard. Inside, the rooms are cold and dark. There are old swords on the walls. The guide is called Mr Hill. He has just told us a funny story about a ghost. I haven't seen the ghost yet, but my friend Sam says he is scared.",
+    "11:45 – We have already climbed the tower. There are 120 steps, and I have already counted them twice! My legs are tired, but the view is great. I have just taken a photo of the sea. I can see small boats and many birds.",
+    "1:00 – It is lunchtime. I haven't eaten yet, and I'm very hungry. Sam has already finished his sandwich. He eats so fast! We have just found a nice place in the garden. We are sitting under a big tree.",
+    "2:30 – The shop is next. I haven't bought anything yet. Have you ever bought a postcard from a castle? I want one for my grandma. My teacher has just said that we have only twenty minutes, so I must hurry.",
+    "4:00 – We are on the bus now. Have you read my blog yet? I have already written a lot, but I haven't shown you my photos yet. I will put them online tonight. I haven't seen the ghost, but it was a great day. Bye for now!"
+   ],
+   "words": [
+    {
+     "w": "castle",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɑː.səl/",
+     "syl": [
+      "cas",
+      "tle"
+     ],
+     "def": "a big old building with thick walls",
+     "ex": "The king lived in a castle."
+    },
+    {
+     "w": "tower",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtaʊ.ə/",
+     "syl": [
+      "tow",
+      "er"
+     ],
+     "def": "a tall, narrow building or part of a building",
+     "ex": "We can see the tower from our school."
+    },
+    {
+     "w": "guide",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/gaɪd/",
+     "syl": [
+      "guide"
+     ],
+     "def": "a person who shows visitors a place",
+     "ex": "The guide told us about the old town."
+    },
+    {
+     "w": "ghost",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/gəʊst/",
+     "syl": [
+      "ghost"
+     ],
+     "def": "the spirit of a dead person in stories",
+     "ex": "The children told a ghost story."
+    },
+    {
+     "w": "excited",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪkˈsaɪ.tɪd/",
+     "syl": [
+      "ex",
+      "cit",
+      "ed"
+     ],
+     "def": "very happy about something that will happen",
+     "ex": "I am excited about the school trip."
+    },
+    {
+     "w": "view",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/vjuː/",
+     "syl": [
+      "view"
+     ],
+     "def": "what you can see from a place",
+     "ex": "The view from my window is beautiful."
+    },
+    {
+     "w": "swords",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/sɔːdz/",
+     "syl": [
+      "swords"
+     ],
+     "def": "long metal knives used in fights long ago",
+     "ex": "The museum has many old swords."
+    },
+    {
+     "w": "hurry",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈhʌ.ri/",
+     "syl": [
+      "hur",
+      "ry"
+     ],
+     "def": "to do something quickly",
+     "ex": "We must hurry or we will miss the bus."
+    },
+    {
+     "w": "postcard",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈpəʊst.kɑːd/",
+     "syl": [
+      "post",
+      "card"
+     ],
+     "def": "a card with a picture that you send by post",
+     "ex": "She sent me a postcard from Rome."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "I have just arrived, and I am so excited!",
+     "kind": "Grammar to notice",
+     "note": "Just means a very short time ago."
+    },
+    {
+     "para": 2,
+     "text": "We have already seen the front gate and the big yard.",
+     "kind": "Grammar to notice",
+     "note": "Already means before now."
+    },
+    {
+     "para": 3,
+     "text": "There are 120 steps, and I have already counted them twice!",
+     "kind": "Key details",
+     "note": "The tower has many steps."
+    },
+    {
+     "para": 4,
+     "text": "I haven't eaten yet, and I'm very hungry.",
+     "kind": "Grammar to notice",
+     "note": "Yet is used in negative sentences."
+    },
+    {
+     "para": 6,
+     "text": "I haven't seen the ghost, but it was a great day.",
+     "kind": "Main idea",
+     "note": "Nina is happy about the day."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the blog mainly about?",
+     "opts": [
+      "a school trip to a castle",
+      "a ghost story",
+      "a lunch in the garden"
+     ],
+     "a": 0,
+     "why": "Nina writes about her class trip.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. Nina writes about her class trip.",
+      "The ghost is only a small part.",
+      "Lunch is only one part of the day."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "How many steps are there in the tower?",
+     "opts": [
+      "60",
+      "120",
+      "200"
+     ],
+     "a": 1,
+     "why": "The text says there are 120 steps.",
+     "evidence": "There are 120 steps",
+     "optWhy": [
+      "The text says a different number.",
+      "Correct. There are 120 steps.",
+      "The text says a different number."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Where is the class having lunch?",
+     "opts": [
+      "in the shop",
+      "on the bus",
+      "in the garden"
+     ],
+     "a": 2,
+     "why": "They found a nice place in the garden.",
+     "evidence": "We have just found a nice place in the garden.",
+     "optWhy": [
+      "The shop comes after lunch.",
+      "The bus is at the end of the day.",
+      "Correct. They are in the garden."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Sam has finished his sandwich.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "The blog says Sam has already finished.",
+     "evidence": "Sam has already finished his sandwich.",
+     "optWhy": [
+      "Correct. The text says this.",
+      "Not right. The text says he finished.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, 'hurry' means ...",
+     "opts": [
+      "walk slowly",
+      "do something quickly",
+      "sit down"
+     ],
+     "a": 1,
+     "why": "Nina has only twenty minutes, so she must be quick.",
+     "evidence": "so I must hurry.",
+     "optWhy": [
+      "Hurry is not slow.",
+      "Correct. Hurry means do it quickly.",
+      "The text does not mean sitting."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Nina write this blog?",
+     "opts": [
+      "to sell postcards",
+      "to ask for help with homework",
+      "to tell readers about her day"
+     ],
+     "a": 2,
+     "why": "She writes about her trip hour by hour.",
+     "evidence": null,
+     "optWhy": [
+      "She only wants to buy a postcard.",
+      "There is no homework in the text.",
+      "Correct. She tells readers about her day."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present perfect: just, already, yet",
+    "rule": "Use have / has + past participle for things that are done or happened a short time ago. Just = a very short time ago. Already = before now, often earlier than expected. Yet = until now, in negative sentences and questions, at the end.",
+    "table": [
+     [
+      "just",
+      "I have just arrived."
+     ],
+     [
+      "already",
+      "We have already seen the gate."
+     ],
+     [
+      "yet (−)",
+      "I haven't eaten yet."
+     ],
+     [
+      "yet (?)",
+      "Have you read it yet?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "I have just arrived, and I am so excited!",
+      "mark": "have just arrived"
+     },
+     {
+      "para": 3,
+      "text": "We have already climbed the tower.",
+      "mark": "have already climbed"
+     },
+     {
+      "para": 2,
+      "text": "I haven't seen the ghost yet, but my friend Sam says he is scared.",
+      "mark": "haven't seen the ghost yet"
+     },
+     {
+      "para": 6,
+      "text": "Have you read my blog yet?",
+      "mark": "Have you read my blog yet"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "I have ___ finished my homework, so I can play now.",
+      "opts": [
+       "yet",
+       "already",
+       "ever"
+      ],
+      "a": 1,
+      "why": "Already means before now."
+     },
+     {
+      "type": "mc",
+      "q": "Have you eaten lunch ___?",
+      "opts": [
+       "already",
+       "just",
+       "yet"
+      ],
+      "a": 2,
+      "why": "In questions we often use yet at the end."
+     },
+     {
+      "type": "mc",
+      "q": "We haven't seen the new teacher ___.",
+      "opts": [
+       "yet",
+       "already",
+       "just"
+      ],
+      "a": 0,
+      "why": "In negative sentences use yet at the end."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ my room yet. It is still messy.",
+      "hint": "(not clean)",
+      "a": "haven't cleaned / have not cleaned",
+      "why": "Negative present perfect + yet."
+     },
+     {
+      "type": "fill",
+      "q": "Anna has just ___ a message from Tom.",
+      "hint": "(send)",
+      "a": "sent",
+      "why": "Has just + past participle of send."
+     },
+     {
+      "type": "fill",
+      "q": "We have ___ visited the museum, so we don't need to go again.",
+      "hint": "(already / yet)",
+      "a": "already",
+      "why": "Already is used in positive sentences."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261110-2-k1",
+     "tag": "Place",
+     "fact": "Nina's class is visiting an old castle by the sea.",
+     "q": "Where is Nina's class?",
+     "opts": [
+      "at a castle",
+      "at a zoo",
+      "at a school"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261110-2-k2",
+     "tag": "Guide",
+     "fact": "Mr Hill is the guide.",
+     "q": "Who is the guide?",
+     "opts": [
+      "Sam",
+      "Mr Hill",
+      "Nina"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261110-2-k3",
+     "tag": "Steps",
+     "fact": "The tower has 120 steps.",
+     "q": "How many steps does the tower have?",
+     "opts": [
+      "80",
+      "120",
+      "150"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261110-2-k4",
+     "tag": "Ghost",
+     "fact": "Nina has not seen the ghost yet.",
+     "q": "What has Nina not seen?",
+     "opts": [
+      "the sea",
+      "the tower",
+      "the ghost"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261110-2-k5",
+     "tag": "Gift",
+     "fact": "Nina wants a postcard for her grandma.",
+     "q": "Who is the postcard for?",
+     "opts": [
+      "her teacher",
+      "her grandma",
+      "her friend Sam"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Castle trip",
+    "question": "What did Nina do at the castle?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "old castle",
+       "by the sea"
+      ],
+      "kps": [
+       "k20261110-2-k1"
+      ]
+     },
+     {
+      "title": "Who",
+      "paras": "2",
+      "blanks": [
+       "Mr Hill",
+       "Sam"
+      ],
+      "kps": [
+       "k20261110-2-k2"
+      ]
+     },
+     {
+      "title": "What",
+      "paras": "3-4",
+      "blanks": [
+       "the tower",
+       "his sandwich"
+      ],
+      "kps": [
+       "k20261110-2-k3"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "5-6",
+      "blanks": [
+       "the shop",
+       "the bus"
+      ],
+      "kps": [
+       "k20261110-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a swimming pool",
+     "a lost phone"
+    ]
+   },
+   "summary": {
+    "intro": "The blog tells us about Nina's day at a castle.",
+    "model": "Nina visits a castle with her class, and she writes a blog about it. She has not seen the ghost, but she had a great day.",
+    "options": [
+     {
+      "t": "Nina's class is visiting an old castle by the sea.",
+      "ok": true,
+      "why": "This is a main idea.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Today my class is visiting an old castle by the sea."
+     },
+     {
+      "t": "Nina has already done a lot, such as climbing the tower.",
+      "ok": true,
+      "why": "This is another main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "We have already climbed the tower."
+     },
+     {
+      "t": "Nina has not seen the ghost, but she had a great day.",
+      "ok": true,
+      "why": "This is the last main idea.",
+      "type": "main",
+      "para": 6,
+      "evidence": "I haven't seen the ghost, but it was a great day."
+     },
+     {
+      "t": "Sam has already finished his sandwich.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Sam has already finished his sandwich."
+     },
+     {
+      "t": "Nina bought a book in the shop.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Nina has already bought a postcard.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "I haven't bought anything yet."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like visiting old places? Where have you been?",
+    "hint": "Try: 'I have visited …' and 'I haven't been to … yet.'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short message to a friend about a school trip.",
+    "steps": [
+     "Say where you are.",
+     "Say what you have already done.",
+     "Say what you haven't done yet."
+    ],
+    "minWords": 30
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261110-3",
+   "topic": "Clothes",
+   "genre": "Article",
+   "title": "The Story of Jeans",
+   "dek": "Your jeans are older than you think.",
+   "sources": [
+    {
+     "name": "Levi Strauss & Co.: The History of Denim",
+     "url": "https://www.levistrauss.com/2019/07/04/the-history-of-denim/"
+    },
+    {
+     "name": "HISTORY: Levi Strauss and Jacob Davis patent blue jeans",
+     "url": "https://www.history.com/this-day-in-history/may-20/levi-strauss-and-jacob-davis-receive-patent-for-blue-jeans"
+    }
+   ],
+   "paras": [
+    "Look at your clothes. Are you wearing jeans? Many people are. Jeans are very popular today, but they have a long story. Let's find out how it began.",
+    "Jeans began in the 1800s. A man called Jacob Davis was a tailor. A tailor makes clothes. Some of his customers were workers, and their trousers often tore. Davis had an idea. He put small metal rivets on the corners of the pockets. The trousers became much stronger.",
+    "Davis wanted a patent for his idea. A patent says that an idea is yours. But he didn't have enough money for it. So he wrote to Levi Strauss. Strauss sold cloth to Davis. He liked the idea. In 1873, the two men got the patent together.",
+    "At first, people called them waist overalls. Workers wore them because they were cheap, strong and comfortable. Around 1960, young people began to call them jeans. Soon more and more young people wore them.",
+    "Since then, jeans have changed a lot. They have become long, short, wide and thin. Designers have made them in many colours. People have also added patches and paint to their jeans. Today there are jeans for babies, for grandparents and for everyone in between.",
+    "Is the story over? No. People in almost every country wear jeans today. My uncle has had the same pair for ten years, and he hasn't thrown them away. Have you ever worn jeans for a whole week? Perhaps your jeans will have a long story too."
+   ],
+   "words": [
+    {
+     "w": "tailor",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈteɪ.lə/",
+     "syl": [
+      "tai",
+      "lor"
+     ],
+     "def": "a person who makes clothes",
+     "ex": "The tailor made a new suit for my dad."
+    },
+    {
+     "w": "customers",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkʌs.tə.məz/",
+     "syl": [
+      "cus",
+      "tom",
+      "ers"
+     ],
+     "def": "people who buy things in a shop",
+     "ex": "The shop has many customers on Saturday."
+    },
+    {
+     "w": "rivets",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈrɪv.ɪts/",
+     "syl": [
+      "riv",
+      "ets"
+     ],
+     "def": "small metal pins that hold cloth together",
+     "ex": "The bag has metal rivets on the sides."
+    },
+    {
+     "w": "patent",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpeɪ.tənt/",
+     "syl": [
+      "pat",
+      "ent"
+     ],
+     "def": "a paper that says an idea belongs to you",
+     "ex": "He got a patent for his new toy."
+    },
+    {
+     "w": "cloth",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/klɒθ/",
+     "syl": [
+      "cloth"
+     ],
+     "def": "material used to make clothes",
+     "ex": "This cloth is soft and warm."
+    },
+    {
+     "w": "cheap",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/tʃiːp/",
+     "syl": [
+      "cheap"
+     ],
+     "def": "not expensive",
+     "ex": "These shoes were cheap."
+    },
+    {
+     "w": "comfortable",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈkʌm.fə.tə.bəl/",
+     "syl": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+     ],
+     "def": "nice to wear or sit in",
+     "ex": "This chair is very comfortable."
+    },
+    {
+     "w": "popular",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈpɒp.jə.lə/",
+     "syl": [
+      "pop",
+      "u",
+      "lar"
+     ],
+     "def": "liked by many people",
+     "ex": "Pizza is popular with my friends."
+    },
+    {
+     "w": "designers",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/dɪˈzaɪ.nəz/",
+     "syl": [
+      "de",
+      "sign",
+      "ers"
+     ],
+     "def": "people who plan how things will look",
+     "ex": "Designers make new clothes every year."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Jeans are very popular today, but they have a long story.",
+     "kind": "Main idea",
+     "note": "The article tells the long story of jeans."
+    },
+    {
+     "para": 2,
+     "text": "He put small metal rivets on the corners of the pockets.",
+     "kind": "Key details",
+     "note": "Rivets made the trousers stronger."
+    },
+    {
+     "para": 3,
+     "text": "In 1873, the two men got the patent together.",
+     "kind": "Time order",
+     "note": "1873 is a finished time in the past."
+    },
+    {
+     "para": 4,
+     "text": "Around 1960, young people began to call them jeans.",
+     "kind": "Time order",
+     "note": "The name jeans became popular later."
+    },
+    {
+     "para": 5,
+     "text": "Since then, jeans have changed a lot.",
+     "kind": "Grammar to notice",
+     "note": "Since then connects the past to now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "how to make a pair of jeans",
+      "why workers need strong trousers",
+      "the history of jeans"
+     ],
+     "a": 2,
+     "why": "It tells the story of jeans from the beginning until now.",
+     "evidence": null,
+     "optWhy": [
+      "The article does not explain how to make jeans.",
+      "This is only a small part of the story.",
+      "Correct. It tells the story of jeans."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why did Davis put rivets on trousers?",
+     "opts": [
+      "to make them stronger",
+      "to make them cheaper",
+      "to make them longer"
+     ],
+     "a": 0,
+     "why": "The trousers often tore, so the rivets made them stronger.",
+     "evidence": "The trousers became much stronger.",
+     "optWhy": [
+      "Correct. The rivets made them stronger.",
+      "The text does not talk about price here.",
+      "The text does not talk about length."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why did Davis write to Levi Strauss?",
+     "opts": [
+      "He wanted new cloth.",
+      "He didn't have enough money for a patent.",
+      "He wanted to sell him a coat."
+     ],
+     "a": 1,
+     "why": "Davis needed money for the patent.",
+     "evidence": "But he didn't have enough money for it.",
+     "optWhy": [
+      "Strauss sold cloth to him, but that is not why he wrote.",
+      "Correct. He needed money for the patent.",
+      "The text does not say this."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 2,
+     "q": "Jacob Davis was born in America.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The text does not say where Davis was born.",
+     "evidence": "A man called Jacob Davis was a tailor.",
+     "optWhy": [
+      "The text does not say this.",
+      "The text does not say this.",
+      "Correct. The text does not say where he was born."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, 'cheap' means ...",
+     "opts": [
+      "not expensive",
+      "very old",
+      "very big"
+     ],
+     "a": 0,
+     "why": "Jeans did not cost a lot of money.",
+     "evidence": "Workers wore them because they were cheap, strong and comfortable.",
+     "optWhy": [
+      "Correct. Cheap means not expensive.",
+      "Old is a different word.",
+      "Big is a different word."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the writer write this article?",
+     "opts": [
+      "to sell jeans",
+      "to tell the story of jeans",
+      "to teach students to sew"
+     ],
+     "a": 1,
+     "why": "The writer explains how jeans began and changed.",
+     "evidence": null,
+     "optWhy": [
+      "The writer does not sell anything.",
+      "Correct. The writer tells the story of jeans.",
+      "There are no sewing steps in the text."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present perfect or past simple?",
+    "rule": "Use the past simple for a finished time in the past (in 1873, last year, ago). Use the present perfect when the time is not given, or when the past connects to now (since then, today, ever, never).",
+    "table": [
+     [
+      "past simple",
+      "In 1873, they got the patent."
+     ],
+     [
+      "present perfect",
+      "Jeans have changed a lot."
+     ],
+     [
+      "past simple words",
+      "in 1873 · yesterday · ago · last week"
+     ],
+     [
+      "present perfect words",
+      "since then · ever · never · just · already"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 3,
+      "text": "In 1873, the two men got the patent together.",
+      "mark": "got"
+     },
+     {
+      "para": 2,
+      "text": "Davis had an idea.",
+      "mark": "had"
+     },
+     {
+      "para": 5,
+      "text": "Since then, jeans have changed a lot.",
+      "mark": "have changed"
+     },
+     {
+      "para": 6,
+      "text": "My uncle has had the same pair for ten years, and he hasn't thrown them away.",
+      "mark": "has had"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My grandfather ___ a shop in 1990.",
+      "opts": [
+       "opened",
+       "has opened",
+       "has open"
+      ],
+      "a": 0,
+      "why": "1990 is a finished time, so use the past simple."
+     },
+     {
+      "type": "mc",
+      "q": "I ___ this film three times. I love it.",
+      "opts": [
+       "saw",
+       "have seen",
+       "see"
+      ],
+      "a": 1,
+      "why": "No finished time is given, so use the present perfect."
+     },
+     {
+      "type": "mc",
+      "q": "We ___ to Spain last summer.",
+      "opts": [
+       "went",
+       "have gone",
+       "go"
+      ],
+      "a": 0,
+      "why": "Last summer is a finished time, so use went."
+     },
+     {
+      "type": "fill",
+      "q": "Tom ___ his phone yesterday.",
+      "hint": "(lose)",
+      "a": "lost",
+      "why": "Yesterday is finished, so use the past simple."
+     },
+     {
+      "type": "fill",
+      "q": "Anna ___ at this school since 2023.",
+      "hint": "(study)",
+      "a": "has studied",
+      "why": "Since + a starting time: present perfect."
+     },
+     {
+      "type": "fill",
+      "q": "My parents ___ married ten years ago.",
+      "hint": "(get)",
+      "a": "got",
+      "why": "Ago needs the past simple."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261110-3-k1",
+     "tag": "Tailor",
+     "fact": "Jacob Davis was a tailor.",
+     "q": "What was Jacob Davis's job?",
+     "opts": [
+      "a teacher",
+      "a tailor",
+      "a farmer"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261110-3-k2",
+     "tag": "Rivets",
+     "fact": "Davis put small metal rivets on the pockets.",
+     "q": "What did Davis put on the pockets?",
+     "opts": [
+      "rivets",
+      "paint",
+      "patches"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261110-3-k3",
+     "tag": "Patent",
+     "fact": "Davis and Strauss got the patent in 1873.",
+     "q": "When did they get the patent?",
+     "opts": [
+      "in 1873",
+      "in 1960",
+      "in 1990"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261110-3-k4",
+     "tag": "Name",
+     "fact": "Around 1960, young people began to call them jeans.",
+     "q": "What did young people begin to call them?",
+     "opts": [
+      "overalls",
+      "jeans",
+      "patents"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Jeans",
+    "question": "How did jeans begin and change?",
+    "branches": [
+     {
+      "title": "Who",
+      "paras": "2-3",
+      "blanks": [
+       "Jacob Davis",
+       "Levi Strauss"
+      ],
+      "kps": [
+       "k20261110-3-k1"
+      ]
+     },
+     {
+      "title": "What",
+      "paras": "2",
+      "blanks": [
+       "small metal rivets",
+       "the pockets"
+      ],
+      "kps": [
+       "k20261110-3-k2"
+      ]
+     },
+     {
+      "title": "When",
+      "paras": "3-4",
+      "blanks": [
+       "In 1873",
+       "Around 1960"
+      ],
+      "kps": [
+       "k20261110-3-k3",
+       "k20261110-3-k4"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "5-6",
+      "blanks": [
+       "many colours",
+       "all over the world"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "a shoe shop",
+     "in 1783"
+    ]
+   },
+   "summary": {
+    "intro": "The article tells the story of jeans.",
+    "model": "Jeans began when a tailor put rivets on trousers, and now people everywhere wear them. They have changed because designers have made new styles.",
+    "options": [
+     {
+      "t": "Jacob Davis put metal rivets on trousers to make them stronger.",
+      "ok": true,
+      "why": "This is a main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "He put small metal rivets on the corners of the pockets."
+     },
+     {
+      "t": "Davis and Levi Strauss got a patent for the idea in 1873.",
+      "ok": true,
+      "why": "This is another main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "In 1873, the two men got the patent together."
+     },
+     {
+      "t": "Jeans have changed a lot, and now people everywhere wear them.",
+      "ok": true,
+      "why": "This is the last main idea.",
+      "type": "main",
+      "para": 6,
+      "evidence": "People in almost every country wear jeans today."
+     },
+     {
+      "t": "At first, people called jeans waist overalls.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "At first, people called them waist overalls."
+     },
+     {
+      "t": "Levi Strauss made the first jeans in France.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Only workers wear jeans today.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "People in almost every country wear jeans today."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What clothes do you like wearing? Why?",
+    "hint": "Try: 'I like wearing … because …' and 'I have never worn …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a short email to a friend about your favourite piece of clothing.",
+    "steps": [
+     "Say what it is.",
+     "Say when you got it.",
+     "Say why you like it."
+    ],
+    "minWords": 30
+   },
+   "voice": "British English · female"
+  }
+ ],
+ "audio": {
+  "For our school magazine, Mia Chen, 14, talked to Sam Brooks. Sam is a zoo keeper at our city zoo. He has worked there for ten years. He looks after lions, monkeys and penguins. Here is their interview.": "audio/2026-11-10/a1-p1.mp3",
+  "Mia: Have you ever been afraid of an animal? Sam: Yes, I have. I have worked with lions and monkeys, but I have never touched a big snake. I just look at snakes from a safe place. My friend Tara is the snake keeper. She has never been afraid of them!": "audio/2026-11-10/a1-p2.mp3",
+  "Mia: Have you ever had a bad day at work? Sam: Of course. Last summer, a monkey took my hat and ran away. I have never run so fast! Everyone laughed, but I wasn't happy. I got my hat back an hour later. It was wet and dirty.": "audio/2026-11-10/a1-p3.mp3",
+  "Mia: Have you ever slept at the zoo? Sam: Yes, I have. Once a baby tiger was ill, so I stayed all night. I have never been so tired! But the tiger got better, and that made me very happy.": "audio/2026-11-10/a1-p4.mp3",
+  "Mia: Have you ever been on TV? Sam: No, I haven't. But I have met some famous people at the zoo. Last year, a singer visited us. She loves animals, but she has never touched a penguin. So I let her give our penguins their fish.": "audio/2026-11-10/a1-p5.mp3",
+  "Mia: Has anyone in your family ever worked with animals? Sam: My sister has. She is a vet. We have never worked in the same place, but we often talk about our animals. She has often helped me with a sick animal.": "audio/2026-11-10/a1-p6.mp3",
+  "Mia: Would you like to give some advice to students? Sam: Yes! It is a hard job, but I have never wanted a different one. You must love animals, and you must not mind the smell! Have you ever thought about this job? Then visit the zoo and ask questions.": "audio/2026-11-10/a1-p7.mp3",
+  "keeper": "audio/2026-11-10/a1-w-keeper.mp3",
+  "My uncle is a keeper at a small farm park.": "audio/2026-11-10/a1-ex-keeper.mp3",
+  "afraid": "audio/2026-11-10/a1-w-afraid.mp3",
+  "Are you afraid of dogs?": "audio/2026-11-10/a1-ex-afraid.mp3",
+  "snake": "audio/2026-11-10/a1-w-snake.mp3",
+  "The snake moved slowly across the grass.": "audio/2026-11-10/a1-ex-snake.mp3",
+  "safe": "audio/2026-11-10/a1-w-safe.mp3",
+  "It is safe to swim here.": "audio/2026-11-10/a1-ex-safe.mp3",
+  "famous": "audio/2026-11-10/a1-w-famous.mp3",
+  "My aunt met a famous singer.": "audio/2026-11-10/a1-ex-famous.mp3",
+  "vet": "audio/2026-11-10/a1-w-vet.mp3",
+  "We took our sick cat to the vet.": "audio/2026-11-10/a1-ex-vet.mp3",
+  "smell": "audio/2026-11-10/a1-w-smell.mp3",
+  "I like the smell of fresh bread.": "audio/2026-11-10/a1-ex-smell.mp3",
+  "laughed": "audio/2026-11-10/a1-w-laughed.mp3",
+  "We laughed at the funny film.": "audio/2026-11-10/a1-ex-laughed.mp3",
+  "He has worked there for ten years.": "audio/2026-11-10/a1-ks1.mp3",
+  "I have worked with lions and monkeys, but I have never touched a big snake.": "audio/2026-11-10/a1-ks2.mp3",
+  "Last summer, a monkey took my hat and ran away.": "audio/2026-11-10/a1-ks3.mp3",
+  "I have never been so tired!": "audio/2026-11-10/a1-ks4.mp3",
+  "It is a hard job, but I have never wanted a different one.": "audio/2026-11-10/a1-ks5.mp3",
+  "She has never been afraid of them!": "audio/2026-11-10/a1-g2.mp3",
+  "Mia: Have you ever slept at the zoo?": "audio/2026-11-10/a1-g3.mp3",
+  "But I have met some famous people at the zoo.": "audio/2026-11-10/a1-g4.mp3",
+  "Hello, everybody! This is Nina's travel blog. Today my class is visiting an old castle by the sea. I have just arrived, and I am so excited! The castle is very big. It is about seven hundred years old.": "audio/2026-11-10/a2-p1.mp3",
+  "10:30 – We have already seen the front gate and the big yard. Inside, the rooms are cold and dark. There are old swords on the walls. The guide is called Mr Hill. He has just told us a funny story about a ghost. I haven't seen the ghost yet, but my friend Sam says he is scared.": "audio/2026-11-10/a2-p2.mp3",
+  "11:45 – We have already climbed the tower. There are 120 steps, and I have already counted them twice! My legs are tired, but the view is great. I have just taken a photo of the sea. I can see small boats and many birds.": "audio/2026-11-10/a2-p3.mp3",
+  "1:00 – It is lunchtime. I haven't eaten yet, and I'm very hungry. Sam has already finished his sandwich. He eats so fast! We have just found a nice place in the garden. We are sitting under a big tree.": "audio/2026-11-10/a2-p4.mp3",
+  "2:30 – The shop is next. I haven't bought anything yet. Have you ever bought a postcard from a castle? I want one for my grandma. My teacher has just said that we have only twenty minutes, so I must hurry.": "audio/2026-11-10/a2-p5.mp3",
+  "4:00 – We are on the bus now. Have you read my blog yet? I have already written a lot, but I haven't shown you my photos yet. I will put them online tonight. I haven't seen the ghost, but it was a great day. Bye for now!": "audio/2026-11-10/a2-p6.mp3",
+  "castle": "audio/2026-11-10/a2-w-castle.mp3",
+  "The king lived in a castle.": "audio/2026-11-10/a2-ex-castle.mp3",
+  "tower": "audio/2026-11-10/a2-w-tower.mp3",
+  "We can see the tower from our school.": "audio/2026-11-10/a2-ex-tower.mp3",
+  "guide": "audio/2026-11-10/a2-w-guide.mp3",
+  "The guide told us about the old town.": "audio/2026-11-10/a2-ex-guide.mp3",
+  "ghost": "audio/2026-11-10/a2-w-ghost.mp3",
+  "The children told a ghost story.": "audio/2026-11-10/a2-ex-ghost.mp3",
+  "excited": "audio/2026-11-10/a2-w-excited.mp3",
+  "I am excited about the school trip.": "audio/2026-11-10/a2-ex-excited.mp3",
+  "view": "audio/2026-11-10/a2-w-view.mp3",
+  "The view from my window is beautiful.": "audio/2026-11-10/a2-ex-view.mp3",
+  "swords": "audio/2026-11-10/a2-w-swords.mp3",
+  "The museum has many old swords.": "audio/2026-11-10/a2-ex-swords.mp3",
+  "hurry": "audio/2026-11-10/a2-w-hurry.mp3",
+  "We must hurry or we will miss the bus.": "audio/2026-11-10/a2-ex-hurry.mp3",
+  "postcard": "audio/2026-11-10/a2-w-postcard.mp3",
+  "She sent me a postcard from Rome.": "audio/2026-11-10/a2-ex-postcard.mp3",
+  "I have just arrived, and I am so excited!": "audio/2026-11-10/a2-ks1.mp3",
+  "We have already seen the front gate and the big yard.": "audio/2026-11-10/a2-ks2.mp3",
+  "There are 120 steps, and I have already counted them twice!": "audio/2026-11-10/a2-ks3.mp3",
+  "I haven't eaten yet, and I'm very hungry.": "audio/2026-11-10/a2-ks4.mp3",
+  "I haven't seen the ghost, but it was a great day.": "audio/2026-11-10/a2-ks5.mp3",
+  "We have already climbed the tower.": "audio/2026-11-10/a2-g2.mp3",
+  "I haven't seen the ghost yet, but my friend Sam says he is scared.": "audio/2026-11-10/a2-g3.mp3",
+  "Have you read my blog yet?": "audio/2026-11-10/a2-g4.mp3",
+  "Look at your clothes. Are you wearing jeans? Many people are. Jeans are very popular today, but they have a long story. Let's find out how it began.": "audio/2026-11-10/a3-p1.mp3",
+  "Jeans began in the 1800s. A man called Jacob Davis was a tailor. A tailor makes clothes. Some of his customers were workers, and their trousers often tore. Davis had an idea. He put small metal rivets on the corners of the pockets. The trousers became much stronger.": "audio/2026-11-10/a3-p2.mp3",
+  "Davis wanted a patent for his idea. A patent says that an idea is yours. But he didn't have enough money for it. So he wrote to Levi Strauss. Strauss sold cloth to Davis. He liked the idea. In 1873, the two men got the patent together.": "audio/2026-11-10/a3-p3.mp3",
+  "At first, people called them waist overalls. Workers wore them because they were cheap, strong and comfortable. Around 1960, young people began to call them jeans. Soon more and more young people wore them.": "audio/2026-11-10/a3-p4.mp3",
+  "Since then, jeans have changed a lot. They have become long, short, wide and thin. Designers have made them in many colours. People have also added patches and paint to their jeans. Today there are jeans for babies, for grandparents and for everyone in between.": "audio/2026-11-10/a3-p5.mp3",
+  "Is the story over? No. People in almost every country wear jeans today. My uncle has had the same pair for ten years, and he hasn't thrown them away. Have you ever worn jeans for a whole week? Perhaps your jeans will have a long story too.": "audio/2026-11-10/a3-p6.mp3",
+  "tailor": "audio/2026-11-10/a3-w-tailor.mp3",
+  "The tailor made a new suit for my dad.": "audio/2026-11-10/a3-ex-tailor.mp3",
+  "customers": "audio/2026-11-10/a3-w-customers.mp3",
+  "The shop has many customers on Saturday.": "audio/2026-11-10/a3-ex-customers.mp3",
+  "rivets": "audio/2026-11-10/a3-w-rivets.mp3",
+  "The bag has metal rivets on the sides.": "audio/2026-11-10/a3-ex-rivets.mp3",
+  "patent": "audio/2026-11-10/a3-w-patent.mp3",
+  "He got a patent for his new toy.": "audio/2026-11-10/a3-ex-patent.mp3",
+  "cloth": "audio/2026-11-10/a3-w-cloth.mp3",
+  "This cloth is soft and warm.": "audio/2026-11-10/a3-ex-cloth.mp3",
+  "cheap": "audio/2026-11-10/a3-w-cheap.mp3",
+  "These shoes were cheap.": "audio/2026-11-10/a3-ex-cheap.mp3",
+  "comfortable": "audio/2026-11-10/a3-w-comfortable.mp3",
+  "This chair is very comfortable.": "audio/2026-11-10/a3-ex-comfortable.mp3",
+  "popular": "audio/2026-11-10/a3-w-popular.mp3",
+  "Pizza is popular with my friends.": "audio/2026-11-10/a3-ex-popular.mp3",
+  "designers": "audio/2026-11-10/a3-w-designers.mp3",
+  "Designers make new clothes every year.": "audio/2026-11-10/a3-ex-designers.mp3",
+  "Jeans are very popular today, but they have a long story.": "audio/2026-11-10/a3-ks1.mp3",
+  "He put small metal rivets on the corners of the pockets.": "audio/2026-11-10/a3-ks2.mp3",
+  "In 1873, the two men got the patent together.": "audio/2026-11-10/a3-ks3.mp3",
+  "Around 1960, young people began to call them jeans.": "audio/2026-11-10/a3-ks4.mp3",
+  "Since then, jeans have changed a lot.": "audio/2026-11-10/a3-ks5.mp3",
+  "Davis had an idea.": "audio/2026-11-10/a3-g2.mp3",
+  "My uncle has had the same pair for ten years, and he hasn't thrown them away.": "audio/2026-11-10/a3-g4.mp3"
+ }
+}
