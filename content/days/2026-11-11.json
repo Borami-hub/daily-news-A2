@@ -1,0 +1,1806 @@
+{
+ "date": "2026-11-11",
+ "headline": "Autumn leaves, a hungry hamster and lost scarves",
+ "teaser": "Why do leaves turn red? Where is Leo's hamster hiding? Whose trainers are these?",
+ "articles": [
+  {
+   "id": "k20261111-1",
+   "topic": "The natural world",
+   "genre": "Article",
+   "title": "Why Do Leaves Change Colour?",
+   "dek": "Green in summer, red and yellow in autumn. What happens to the leaves?",
+   "sources": [
+    {
+     "name": "Forestry England: Why do leaves change colour in autumn?",
+     "url": "https://www.forestryengland.uk/blog/why-do-leaves-change-colour-autumn"
+    },
+    {
+     "name": "Stockholm University: Why do leaves change color in autumn?",
+     "url": "https://www.su.se/english/divisions/stockholm-university-baltic-sea-centre/stockholm-university-baltic-sea-centre/biodiversity/blog-why-do-leaves-change-color-in-autumn"
+    }
+   ],
+   "paras": [
+    "It is November, and the trees in the park look beautiful. In summer, the leaves were green. Now they are yellow, orange and red. In a few weeks, many of them will be on the ground. Why does this happen? Let's find out, step by step.",
+    "First, why are leaves green? Leaves have a green colour inside them. Its name is chlorophyll. It helps the tree make food from sunlight, water and air. In spring and summer, there is a lot of sunlight, so leaves make a lot of chlorophyll. That is why they look green for many months.",
+    "In autumn, things change. The days get shorter, and there is less sunlight. At night, it gets colder too. The tree stops making chlorophyll, and the green colour slowly breaks down. In many places, this starts in September or October.",
+    "Then the hidden colours appear. Yellow and orange colours were in the leaves all the time! In summer, you can't see them, because the green is much stronger. When the green goes, the yellow and orange can finally show.",
+    "What about red leaves? Some trees make a new red colour in autumn. It often happens after bright, sunny days and very cold nights. On those sunny days, there is a lot of sugar in the leaves, and this helps make the red colour. That is why some years are more colourful than others. Maple trees are famous for their red leaves.",
+    "Finally, the leaves fall. In winter, there is not much sunlight, so the leaves can't make much food. The tree drops them to save energy and stay safe. On the ground, old leaves become food for insects and help the soil. Then, in spring, new green leaves grow again.",
+    "Try this at home on a dry Saturday in October or November. Collect some leaves of different colours. Put them inside a heavy book for a week. At the end of the week, open the book and look at all your colours!"
+   ],
+   "words": [
+    {
+     "w": "chlorophyll",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈklɒr.ə.fɪl/",
+     "syl": [
+      "chlo",
+      "ro",
+      "phyll"
+     ],
+     "def": "the green colour in leaves and plants",
+     "ex": "Chlorophyll makes grass green."
+    },
+    {
+     "w": "sunlight",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsʌn.laɪt/",
+     "syl": [
+      "sun",
+      "light"
+     ],
+     "def": "the light from the sun",
+     "ex": "Plants need sunlight to grow."
+    },
+    {
+     "w": "hidden",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈhɪd.ən/",
+     "syl": [
+      "hid",
+      "den"
+     ],
+     "def": "there, but you can't see it",
+     "ex": "There is a hidden door behind the bookcase."
+    },
+    {
+     "w": "appear",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/əˈpɪə/",
+     "syl": [
+      "ap",
+      "pear"
+     ],
+     "def": "to start to be seen",
+     "ex": "Stars appear in the sky at night."
+    },
+    {
+     "w": "colourful",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈkʌl.ə.fəl/",
+     "syl": [
+      "col",
+      "our",
+      "ful"
+     ],
+     "def": "with many bright colours",
+     "ex": "She wore a colourful dress to the party."
+    },
+    {
+     "w": "maple",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmeɪ.pəl/",
+     "syl": [
+      "ma",
+      "ple"
+     ],
+     "def": "a kind of tree with big, wide leaves",
+     "ex": "The maple in our garden is red now."
+    },
+    {
+     "w": "energy",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈen.ə.dʒi/",
+     "syl": [
+      "en",
+      "er",
+      "gy"
+     ],
+     "def": "the power to do work or to live",
+     "ex": "Breakfast gives me energy for the day."
+    },
+    {
+     "w": "insects",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɪn.sekts/",
+     "syl": [
+      "in",
+      "sects"
+     ],
+     "def": "very small animals with six legs",
+     "ex": "Bees and ants are insects."
+    },
+    {
+     "w": "soil",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/sɔɪl/",
+     "syl": [
+      "soil"
+     ],
+     "def": "the earth that plants grow in",
+     "ex": "Put the seeds in the soil."
+    },
+    {
+     "w": "collect",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/kəˈlekt/",
+     "syl": [
+      "col",
+      "lect"
+     ],
+     "def": "to find and keep many things",
+     "ex": "My brother likes to collect stamps."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "It helps the tree make food from sunlight, water and air.",
+     "kind": "Key details",
+     "note": "Chlorophyll is the tree's kitchen. It makes food."
+    },
+    {
+     "para": 3,
+     "text": "The tree stops making chlorophyll, and the green colour slowly breaks down.",
+     "kind": "Cause → effect",
+     "note": "No new chlorophyll, so the green goes away."
+    },
+    {
+     "para": 4,
+     "text": "Yellow and orange colours were in the leaves all the time!",
+     "kind": "Main idea",
+     "note": "These colours are not new. They were hidden."
+    },
+    {
+     "para": 5,
+     "text": "It often happens after bright, sunny days and very cold nights.",
+     "kind": "Cause → effect",
+     "note": "Sun and cold nights help make red leaves."
+    },
+    {
+     "para": 3,
+     "text": "In many places, this starts in September or October.",
+     "kind": "Grammar to notice",
+     "note": "Use in with months."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to grow a maple tree",
+      "why leaves change colour and fall",
+      "the best parks to visit in November"
+     ],
+     "a": 1,
+     "why": "The text explains the colours of leaves and why they fall.",
+     "evidence": null,
+     "optWhy": [
+      "The text does not teach us to grow trees.",
+      "Correct. It explains why leaves change colour and fall.",
+      "The park is only in the first sentence."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does chlorophyll help the tree do?",
+     "opts": [
+      "make food from sunlight",
+      "stay warm at night",
+      "grow red leaves"
+     ],
+     "a": 0,
+     "why": "Chlorophyll helps the tree make food.",
+     "evidence": "It helps the tree make food from sunlight, water and air.",
+     "optWhy": [
+      "Correct. It helps the tree make food from sunlight.",
+      "The text does not say this.",
+      "Red is a different colour, made in autumn."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "The yellow and orange colours are new in autumn.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "They were in the leaves all the time.",
+     "evidence": "Yellow and orange colours were in the leaves all the time!",
+     "optWhy": [
+      "The text says the opposite.",
+      "Correct. They were there all summer.",
+      "The text does tell us this."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "\"Then the hidden colours appear.\" What does hidden mean here?",
+     "opts": [
+      "very bright",
+      "new",
+      "there, but you can't see them"
+     ],
+     "a": 2,
+     "why": "In summer you can't see these colours.",
+     "evidence": "In summer, you can't see them, because the green is much stronger.",
+     "optWhy": [
+      "The text does not say they are very bright.",
+      "The text says they were there all the time.",
+      "Correct. They are there, but the green covers them."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "When do trees often make the red colour?",
+     "opts": [
+      "after rainy days",
+      "in the summer months",
+      "after sunny days and cold nights"
+     ],
+     "a": 2,
+     "why": "Sunny days and cold nights help.",
+     "evidence": "It often happens after bright, sunny days and very cold nights.",
+     "optWhy": [
+      "Rain is not in the text.",
+      "The red colour comes in autumn.",
+      "Correct. Sunny days and very cold nights help."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "\"The tree drops them.\" What does them mean?",
+     "opts": [
+      "the leaves",
+      "the insects",
+      "the days"
+     ],
+     "a": 0,
+     "why": "The tree drops its leaves.",
+     "evidence": "The tree drops them to save energy and stay safe.",
+     "optWhy": [
+      "Correct. Them means the leaves.",
+      "Insects come later in the paragraph.",
+      "Days cannot fall from a tree."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Prepositions of time: in / on / at",
+    "rule": "Use in with months, seasons and years. Use on with days and dates. Use at with clock times, night and the weekend.",
+    "table": [
+     [
+      "in",
+      "in autumn, in October, in 2026"
+     ],
+     [
+      "on",
+      "on Monday, on 5 May, on sunny days"
+     ],
+     [
+      "at",
+      "at night, at 7 o'clock, at the weekend"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 3,
+      "text": "In many places, this starts in September or October.",
+      "mark": "in September"
+     },
+     {
+      "para": 3,
+      "text": "At night, it gets colder too.",
+      "mark": "At night"
+     },
+     {
+      "para": 7,
+      "text": "Try this at home on a dry Saturday in October or November.",
+      "mark": "on a dry Saturday"
+     },
+     {
+      "para": 6,
+      "text": "Then, in spring, new green leaves grow again.",
+      "mark": "in spring"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My birthday is ___ 5 May.",
+      "opts": [
+       "in",
+       "on",
+       "at"
+      ],
+      "a": 1,
+      "why": "Use on with dates."
+     },
+     {
+      "type": "mc",
+      "q": "We have lunch ___ twelve o'clock.",
+      "opts": [
+       "at",
+       "in",
+       "on"
+      ],
+      "a": 0,
+      "why": "Use at with clock times."
+     },
+     {
+      "type": "mc",
+      "q": "It often snows here ___ winter.",
+      "opts": [
+       "on",
+       "at",
+       "in"
+      ],
+      "a": 2,
+      "why": "Use in with seasons."
+     },
+     {
+      "type": "fill",
+      "q": "The leaves fall from the trees ___ November.",
+      "hint": "(in / on / at)",
+      "a": "in",
+      "why": "Use in with months."
+     },
+     {
+      "type": "fill",
+      "q": "I like walking in the park ___ Sunday mornings.",
+      "hint": "(in / on / at)",
+      "a": "on",
+      "why": "Use on with days."
+     },
+     {
+      "type": "fill",
+      "q": "Owls look for food ___ night.",
+      "hint": "(in / on / at)",
+      "a": "at",
+      "why": "We say at night."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261111-1-k1",
+     "tag": "Green",
+     "fact": "Chlorophyll makes leaves green and helps the tree make food.",
+     "q": "What makes leaves green?",
+     "opts": [
+      "sugar",
+      "chlorophyll",
+      "soil"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261111-1-k2",
+     "tag": "Autumn",
+     "fact": "In autumn, there is less sunlight, so the green breaks down.",
+     "q": "Why does the green go in autumn?",
+     "opts": [
+      "There is less sunlight.",
+      "It rains a lot.",
+      "Insects eat it."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261111-1-k3",
+     "tag": "Yellow",
+     "fact": "Yellow and orange were in the leaves all summer.",
+     "q": "When were the yellow colours in the leaves?",
+     "opts": [
+      "only in winter",
+      "only in autumn",
+      "all the time"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261111-1-k4",
+     "tag": "Red",
+     "fact": "Sunny days and cold nights help trees make red colours.",
+     "q": "What helps make red leaves?",
+     "opts": [
+      "sunny days and cold nights",
+      "rain and wind",
+      "warm nights"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261111-1-k5",
+     "tag": "Falling",
+     "fact": "Trees drop their leaves in winter to save energy.",
+     "q": "Why do trees drop their leaves?",
+     "opts": [
+      "to make room for birds",
+      "to save energy",
+      "to make chlorophyll"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Autumn leaves",
+    "question": "Why do leaves change colour?",
+    "branches": [
+     {
+      "title": "Summer",
+      "paras": "2",
+      "blanks": [
+       "green chlorophyll",
+       "make food"
+      ],
+      "kps": [
+       "k20261111-1-k1"
+      ]
+     },
+     {
+      "title": "Autumn",
+      "paras": "3–4",
+      "blanks": [
+       "less sunlight",
+       "hidden colours"
+      ],
+      "kps": [
+       "k20261111-1-k2",
+       "k20261111-1-k3"
+      ]
+     },
+     {
+      "title": "Red",
+      "paras": "5",
+      "blanks": [
+       "cold nights"
+      ],
+      "kps": [
+       "k20261111-1-k4"
+      ]
+     },
+     {
+      "title": "Winter",
+      "paras": "6",
+      "blanks": [
+       "save energy",
+       "food for insects"
+      ],
+      "kps": [
+       "k20261111-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "more rain",
+     "leaves get bigger"
+    ]
+   },
+   "summary": {
+    "intro": "The text explains why leaves change colour and fall in autumn.",
+    "model": "Leaves are green because of chlorophyll, but in autumn it breaks down. The hidden yellow colours appear, so the trees look colourful.",
+    "options": [
+     {
+      "t": "Leaves are green because of chlorophyll.",
+      "ok": true,
+      "why": "This is the first main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Its name is chlorophyll."
+     },
+     {
+      "t": "In autumn, the green goes and hidden colours appear.",
+      "ok": true,
+      "why": "This is the key change.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Then the hidden colours appear."
+     },
+     {
+      "t": "Trees drop their leaves to save energy in winter.",
+      "ok": true,
+      "why": "This is the last main idea.",
+      "type": "main",
+      "para": 6,
+      "evidence": "The tree drops them to save energy and stay safe."
+     },
+     {
+      "t": "Maple trees are famous for their red leaves.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "Maple trees are famous for their red leaves."
+     },
+     {
+      "t": "Leaves change colour because insects eat them.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Yellow colours are made new in autumn.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Yellow and orange colours were in the leaves all the time!"
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is your favourite season? What do you like doing in that season? Why?",
+    "hint": "Try: 'My favourite season is …' and 'In autumn, I like …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Write a message to a friend about a walk in the park in autumn.",
+    "steps": [
+     "Say when you went (use in / on / at).",
+     "Say what colours you saw.",
+     "Invite your friend to come next time."
+    ],
+    "minWords": 30
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261111-2",
+   "topic": "House & home",
+   "genre": "Story",
+   "title": "Where Is Biscuit?",
+   "dek": "Leo's hamster is not in his cage. Where can he be?",
+   "sources": [],
+   "paras": [
+    "Leo lives in a small flat with his mum and his little sister, Nora. They have a hamster called Biscuit. Biscuit usually sleeps in his cage next to the window. On Saturday morning, Leo opened the cage to give him some food. Then the phone rang, and Leo ran into the kitchen.",
+    "When he came back, the cage was empty. \"Oh no!\" Leo shouted. \"Biscuit isn't in his cage!\" Nora came out of her bedroom. Mum put down her coffee. Everyone started to look for the hamster.",
+    "Nora looked under the sofa. She only found an old sock and a pen. Mum looked behind the curtains and between the cushions. Leo climbed onto a chair and looked on top of the bookcase. There was no hamster anywhere.",
+    "\"Let's be quiet and listen,\" Mum said. The flat was silent. Then they heard a small noise. Scratch, scratch. It came from the hall. Leo walked slowly along the hall and stopped in front of his school bag.",
+    "He opened the bag carefully. Inside, there were his books, his pencil case and a banana. Next to the banana was Biscuit! The little hamster was eating a piece of Leo's cheese sandwich. He looked very happy.",
+    "Leo laughed and took Biscuit out of the bag. He carried him across the living room and put him back into his cage. This time, Leo closed the door very carefully. Biscuit went to sleep in his little house.",
+    "\"From now on, I'll check the cage door every time,\" Leo said. Nora smiled. \"And maybe you should put your sandwiches in the kitchen, not in your bag!\""
+   ],
+   "words": [
+    {
+     "w": "hamster",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈhæm.stə/",
+     "syl": [
+      "ham",
+      "ster"
+     ],
+     "def": "a small furry pet with a short tail",
+     "ex": "My cousin has a brown hamster."
+    },
+    {
+     "w": "cage",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/keɪdʒ/",
+     "syl": [
+      "cage"
+     ],
+     "def": "a box with metal bars for an animal",
+     "ex": "The bird is singing in its cage."
+    },
+    {
+     "w": "empty",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈemp.ti/",
+     "syl": [
+      "emp",
+      "ty"
+     ],
+     "def": "with nothing inside",
+     "ex": "The fridge is empty, so let's go shopping."
+    },
+    {
+     "w": "curtains",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɜː.tənz/",
+     "syl": [
+      "cur",
+      "tains"
+     ],
+     "def": "cloth that covers a window",
+     "ex": "Please close the curtains at night."
+    },
+    {
+     "w": "cushions",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkʊʃ.ənz/",
+     "syl": [
+      "cush",
+      "ions"
+     ],
+     "def": "soft bags you sit on or lean on",
+     "ex": "There are four cushions on our sofa."
+    },
+    {
+     "w": "climb",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/klaɪm/",
+     "syl": [
+      "climb"
+     ],
+     "def": "to go up using your hands and feet",
+     "ex": "Cats like to climb trees."
+    },
+    {
+     "w": "bookcase",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈbʊk.keɪs/",
+     "syl": [
+      "book",
+      "case"
+     ],
+     "def": "furniture with shelves for books",
+     "ex": "My bookcase is full of comics."
+    },
+    {
+     "w": "silent",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈsaɪ.lənt/",
+     "syl": [
+      "si",
+      "lent"
+     ],
+     "def": "with no sound at all",
+     "ex": "The classroom was silent during the test."
+    },
+    {
+     "w": "noise",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/nɔɪz/",
+     "syl": [
+      "noise"
+     ],
+     "def": "a sound, often loud or strange",
+     "ex": "I heard a noise in the garden."
+    },
+    {
+     "w": "carefully",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkeə.fəl.i/",
+     "syl": [
+      "care",
+      "ful",
+      "ly"
+     ],
+     "def": "slowly, so you don't make a mistake",
+     "ex": "Carry the eggs carefully."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "When he came back, the cage was empty.",
+     "kind": "Main idea",
+     "note": "This is the problem in the story."
+    },
+    {
+     "para": 3,
+     "text": "Mum looked behind the curtains and between the cushions.",
+     "kind": "Grammar to notice",
+     "note": "Behind and between tell us where."
+    },
+    {
+     "para": 4,
+     "text": "Then they heard a small noise.",
+     "kind": "Time order",
+     "note": "The noise helps them find Biscuit."
+    },
+    {
+     "para": 5,
+     "text": "Next to the banana was Biscuit!",
+     "kind": "Key details",
+     "note": "Biscuit was in Leo's school bag."
+    },
+    {
+     "para": 6,
+     "text": "This time, Leo closed the door very carefully.",
+     "kind": "Cause → effect",
+     "note": "Leo learned from his mistake."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story about?",
+     "opts": [
+      "a lost hamster in a flat",
+      "a new pet shop",
+      "a trip to the park"
+     ],
+     "a": 0,
+     "why": "The family looks for Biscuit in their flat.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. Biscuit gets out and the family looks for him.",
+      "There is no pet shop in the story.",
+      "They stay at home."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Why did Leo go into the kitchen?",
+     "opts": [
+      "to get some food",
+      "because the phone rang",
+      "to find his sister"
+     ],
+     "a": 1,
+     "why": "The phone rang.",
+     "evidence": "Then the phone rang, and Leo ran into the kitchen.",
+     "optWhy": [
+      "He gave Biscuit food before that.",
+      "Correct. The phone rang.",
+      "Nora was in her bedroom."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What did Nora find under the sofa?",
+     "opts": [
+      "the hamster",
+      "a sandwich",
+      "an old sock and a pen"
+     ],
+     "a": 2,
+     "why": "She found a sock and a pen.",
+     "evidence": "She only found an old sock and a pen.",
+     "optWhy": [
+      "Biscuit was in the school bag.",
+      "The sandwich was in the bag.",
+      "Correct. She found an old sock and a pen."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 5,
+     "q": "How did Biscuit look in the bag?",
+     "opts": [
+      "very happy",
+      "scared",
+      "tired"
+     ],
+     "a": 0,
+     "why": "He was eating and looked happy.",
+     "evidence": "He looked very happy.",
+     "optWhy": [
+      "Correct. He looked very happy.",
+      "The story says he was happy.",
+      "The story does not say this."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Mum heard the noise before Leo and Nora.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The story says they heard it, but not who was first.",
+     "evidence": "Then they heard a small noise.",
+     "optWhy": [
+      "We don't know who heard it first.",
+      "We don't know this.",
+      "Correct. The story doesn't tell us who heard it first."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 7,
+     "q": "Who thinks Leo should keep his sandwiches in the kitchen?",
+     "opts": [
+      "Mum",
+      "Nora",
+      "Leo's teacher"
+     ],
+     "a": 1,
+     "why": "Nora says this at the end.",
+     "evidence": "Nora smiled.",
+     "optWhy": [
+      "Mum does not speak at the end.",
+      "Correct. Nora says it after she smiles.",
+      "There is no teacher in the story."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Prepositions of place and movement",
+    "rule": "Prepositions of place tell us where something is: under, behind, between, next to, in front of. Prepositions of movement tell us where something goes: into, out of, across, along, onto.",
+    "table": [
+     [
+      "under",
+      "under the sofa"
+     ],
+     [
+      "behind",
+      "behind the curtains"
+     ],
+     [
+      "between",
+      "between the cushions"
+     ],
+     [
+      "in front of",
+      "in front of his bag"
+     ],
+     [
+      "into / out of",
+      "into the kitchen, out of the bag"
+     ],
+     [
+      "across / along",
+      "across the room, along the hall"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 3,
+      "text": "Nora looked under the sofa.",
+      "mark": "under"
+     },
+     {
+      "para": 3,
+      "text": "Mum looked behind the curtains and between the cushions.",
+      "mark": "behind"
+     },
+     {
+      "para": 4,
+      "text": "Leo walked slowly along the hall and stopped in front of his school bag.",
+      "mark": "along"
+     },
+     {
+      "para": 6,
+      "text": "He carried him across the living room and put him back into his cage.",
+      "mark": "across"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "The cat is sleeping ___ the bed, so I can't see it.",
+      "opts": [
+       "under",
+       "onto",
+       "across"
+      ],
+      "a": 0,
+      "why": "Under shows a place below something."
+     },
+     {
+      "type": "mc",
+      "q": "Tom walked ___ the road to the shop.",
+      "opts": [
+       "between",
+       "across",
+       "on"
+      ],
+      "a": 1,
+      "why": "Across shows movement from one side to the other."
+     },
+     {
+      "type": "mc",
+      "q": "Please put the milk back ___ the fridge.",
+      "opts": [
+       "behind",
+       "out of",
+       "into"
+      ],
+      "a": 2,
+      "why": "Into shows movement to the inside."
+     },
+     {
+      "type": "fill",
+      "q": "The lamp is ___ the bed and the desk.",
+      "hint": "(in the middle of two things)",
+      "a": "between",
+      "why": "Between means in the middle of two things."
+     },
+     {
+      "type": "fill",
+      "q": "She took her keys ___ her bag.",
+      "hint": "(from inside to outside)",
+      "a": "out of",
+      "why": "Out of shows movement from inside."
+     },
+     {
+      "type": "fill",
+      "q": "The bus stop is ___ the school, so we can see it from the gate.",
+      "hint": "(the opposite of behind)",
+      "a": "in front of",
+      "why": "In front of is the opposite of behind."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261111-2-k1",
+     "tag": "Problem",
+     "fact": "Leo left the cage open when the phone rang.",
+     "q": "Why was the cage open?",
+     "opts": [
+      "Nora opened it.",
+      "Leo forgot to close it.",
+      "Mum cleaned it."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261111-2-k2",
+     "tag": "Looking",
+     "fact": "Nora looked under the sofa and Mum looked behind the curtains.",
+     "q": "Where did Mum look?",
+     "opts": [
+      "behind the curtains",
+      "under the sofa",
+      "in the kitchen"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261111-2-k3",
+     "tag": "Noise",
+     "fact": "A small noise came from the hall.",
+     "q": "Where did the noise come from?",
+     "opts": [
+      "the bedroom",
+      "the window",
+      "the hall"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261111-2-k4",
+     "tag": "Found",
+     "fact": "Biscuit was in Leo's school bag, eating a sandwich.",
+     "q": "Where was Biscuit?",
+     "opts": [
+      "on the bookcase",
+      "in Leo's school bag",
+      "in the kitchen"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Lost hamster",
+    "question": "How did the family find Biscuit?",
+    "branches": [
+     {
+      "title": "Problem",
+      "paras": "1–2",
+      "blanks": [
+       "the phone rang",
+       "the cage was empty"
+      ],
+      "kps": [
+       "k20261111-2-k1"
+      ]
+     },
+     {
+      "title": "Where",
+      "paras": "3",
+      "blanks": [
+       "under the sofa",
+       "behind the curtains"
+      ],
+      "kps": [
+       "k20261111-2-k2"
+      ]
+     },
+     {
+      "title": "Clue",
+      "paras": "4",
+      "blanks": [
+       "a small noise"
+      ],
+      "kps": [
+       "k20261111-2-k3"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "5–7",
+      "blanks": [
+       "in his school bag",
+       "check the cage door"
+      ],
+      "kps": [
+       "k20261111-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "in the garden",
+     "under the bed"
+    ]
+   },
+   "summary": {
+    "intro": "Leo's hamster escapes, and the family looks for him in the flat.",
+    "model": "Biscuit got out of his cage because Leo didn't close it. The family looked everywhere, but he was in Leo's school bag.",
+    "options": [
+     {
+      "t": "Biscuit got out of his cage when Leo ran to the phone.",
+      "ok": true,
+      "why": "This is the problem.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Then the phone rang, and Leo ran into the kitchen."
+     },
+     {
+      "t": "The family looked for him everywhere in the flat.",
+      "ok": true,
+      "why": "This is the middle of the story.",
+      "type": "main",
+      "para": 3,
+      "evidence": "There was no hamster anywhere."
+     },
+     {
+      "t": "They found Biscuit in Leo's school bag.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Next to the banana was Biscuit!"
+     },
+     {
+      "t": "Nora found an old sock under the sofa.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "She only found an old sock and a pen."
+     },
+     {
+      "t": "Leo bought a new cage for Biscuit.",
+      "ok": false,
+      "why": "This is not in the story.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Biscuit was hiding on top of the bookcase.",
+      "ok": false,
+      "why": "The story says the opposite.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "There was no hamster anywhere."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Describe your bedroom. Where are your bed, your desk and your books?",
+    "hint": "Try: 'My desk is next to …' and 'There is a … under …'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story (35 words or more) that starts: 'I couldn't find my phone anywhere.'",
+    "steps": [
+     "Say where you looked (under, behind, between).",
+     "Say where you found it.",
+     "Say how you felt at the end."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261111-3",
+   "topic": "Social interaction",
+   "genre": "Notices & messages",
+   "title": "Whose Is This?",
+   "dek": "A scarf, some trainers, a maths book: who do they belong to?",
+   "sources": [],
+   "paras": [
+    "Every week, things get lost at Greenhill School. Students leave them in classrooms, in the gym or in the canteen. Some students and teachers write notes and messages to find the owners. Here are some from this week.",
+    "NOTICE on the lost property box: Is this yours? Check the box outside the school office. This week we have two jackets, a blue water bottle and a black umbrella. Please ask Mrs Lopez before you take anything. After one month, we give old things to a charity shop.",
+    "Text message from Mia to Ana: Hi Ana! I think I have your scarf. It was on my chair after art class. Is it the red one with white stars? Mine is green, so it isn't mine. I'll bring it to school tomorrow!",
+    "Note on the gym door: Whose trainers are these? We found a pair of white trainers, size 38, in the changing room on Tuesday. The owner's name isn't inside. If they are yours, please come to the PE teachers' office.",
+    "Message in the class chat from Omar: Has anyone got my maths book? My name is on the front. My brother's book looks the same, but his has a blue cover and mine has a yellow one. I need it for Thursday's test!",
+    "Note on a desk: Sam, I've got your pencil case. I took it by mistake because it looks like mine. Sorry! It's in my bag now. Meet me in the canteen at lunch. Jack",
+    "Message from the head teacher: Thank you, everyone, for helping each other. Please write your name on your things. Then it is easy to see whose they are. Let's keep our school tidy and look after our things!"
+   ],
+   "words": [
+    {
+     "w": "owner",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈəʊ.nə/",
+     "syl": [
+      "own",
+      "er"
+     ],
+     "def": "the person something belongs to",
+     "ex": "Who is the owner of this black dog?"
+    },
+    {
+     "w": "lost property",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/lɒst.ˈprɒp.ə.ti/",
+     "syl": [
+      "lost",
+      "prop",
+      "er",
+      "ty"
+     ],
+     "def": "things people lose and other people find",
+     "ex": "I found my hat in the lost property box."
+    },
+    {
+     "w": "umbrella",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ʌmˈbrel.ə/",
+     "syl": [
+      "um",
+      "brel",
+      "la"
+     ],
+     "def": "you hold it over your head in the rain",
+     "ex": "Take an umbrella. It's raining."
+    },
+    {
+     "w": "charity",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtʃær.ə.ti/",
+     "syl": [
+      "char",
+      "i",
+      "ty"
+     ],
+     "def": "a group that helps people who need it",
+     "ex": "We gave our old toys to a charity."
+    },
+    {
+     "w": "scarf",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɑːf/",
+     "syl": [
+      "scarf"
+     ],
+     "def": "a long piece of cloth you wear round your neck",
+     "ex": "Grandma made me a warm scarf."
+    },
+    {
+     "w": "trainers",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtreɪ.nəz/",
+     "syl": [
+      "train",
+      "ers"
+     ],
+     "def": "sports shoes",
+     "ex": "I need new trainers for PE."
+    },
+    {
+     "w": "pair",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/peə/",
+     "syl": [
+      "pair"
+     ],
+     "def": "two things of the same kind used together",
+     "ex": "I bought a pair of socks."
+    },
+    {
+     "w": "cover",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkʌv.ə/",
+     "syl": [
+      "cov",
+      "er"
+     ],
+     "def": "the outside part of a book",
+     "ex": "This book has a picture of a cat on the cover."
+    },
+    {
+     "w": "mistake",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/mɪˈsteɪk/",
+     "syl": [
+      "mis",
+      "take"
+     ],
+     "def": "something that is wrong",
+     "ex": "I made a mistake in my homework."
+    },
+    {
+     "w": "canteen",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kænˈtiːn/",
+     "syl": [
+      "can",
+      "teen"
+     ],
+     "def": "the place at school where you eat lunch",
+     "ex": "We eat pizza in the canteen on Fridays."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "Is this yours?",
+     "kind": "Grammar to notice",
+     "note": "Yours means your thing."
+    },
+    {
+     "para": 3,
+     "text": "Mine is green, so it isn't mine.",
+     "kind": "Key details",
+     "note": "Mia's scarf is green. The red scarf is not hers."
+    },
+    {
+     "para": 4,
+     "text": "Whose trainers are these?",
+     "kind": "Grammar to notice",
+     "note": "Whose asks who something belongs to."
+    },
+    {
+     "para": 6,
+     "text": "I took it by mistake because it looks like mine.",
+     "kind": "Cause → effect",
+     "note": "The two pencil cases look the same."
+    },
+    {
+     "para": 7,
+     "text": "Please write your name on your things.",
+     "kind": "Main idea",
+     "note": "This is the head teacher's advice."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What are all the texts about?",
+     "opts": [
+      "school rules",
+      "lost things at school",
+      "a school trip"
+     ],
+     "a": 1,
+     "why": "All the texts are about lost things and their owners.",
+     "evidence": null,
+     "optWhy": [
+      "They are not about rules.",
+      "Correct. They are about lost things.",
+      "There is no trip."
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 2,
+     "q": "What does the notice on the box say?",
+     "opts": [
+      "Ask Mrs Lopez before you take something.",
+      "Take anything you like.",
+      "The box is in the gym."
+     ],
+     "a": 0,
+     "why": "You must ask Mrs Lopez first.",
+     "evidence": "Please ask Mrs Lopez before you take anything.",
+     "optWhy": [
+      "Correct. Ask Mrs Lopez first.",
+      "You have to ask first.",
+      "The box is outside the school office."
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 3,
+     "q": "Why is Mia writing to Ana?",
+     "opts": [
+      "She thinks she has Ana's scarf.",
+      "She lost her green scarf.",
+      "She wants to borrow a scarf."
+     ],
+     "a": 0,
+     "why": "Mia has a scarf that is maybe Ana's.",
+     "evidence": "I think I have your scarf.",
+     "optWhy": [
+      "Correct. She thinks the scarf is Ana's.",
+      "Mia's scarf is green, but she didn't lose it.",
+      "She doesn't want to borrow one."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "The owner's name is inside the trainers.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "The note says the name isn't inside.",
+     "evidence": "The owner's name isn't inside.",
+     "optWhy": [
+      "The note says the opposite.",
+      "Correct. There is no name inside.",
+      "The note does tell us this."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "What colour is the cover of Omar's maths book?",
+     "opts": [
+      "blue",
+      "green",
+      "yellow"
+     ],
+     "a": 2,
+     "why": "Omar's book has a yellow cover.",
+     "evidence": "My brother's book looks the same, but his has a blue cover and mine has a yellow one.",
+     "optWhy": [
+      "Blue is his brother's book.",
+      "Green is not in Omar's message.",
+      "Correct. His book has a yellow cover."
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 6,
+     "q": "Why did Jack take Sam's pencil case?",
+     "opts": [
+      "He wanted to keep it.",
+      "Sam gave it to him.",
+      "It looks like his pencil case."
+     ],
+     "a": 2,
+     "why": "Jack made a mistake.",
+     "evidence": "I took it by mistake because it looks like mine.",
+     "optWhy": [
+      "He says sorry, so he doesn't want to keep it.",
+      "The note doesn't say this.",
+      "Correct. The two pencil cases look the same."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Possessives: my / mine, 's, whose",
+    "rule": "Use my, your, his, her, our, their before a noun. Use mine, yours, his, hers, ours, theirs without a noun. Use 's for people's things, and whose to ask who something belongs to.",
+    "table": [
+     [
+      "my → mine",
+      "It's my bag. It's mine."
+     ],
+     [
+      "your → yours",
+      "Is this yours?"
+     ],
+     [
+      "her → hers",
+      "The scarf is hers."
+     ],
+     [
+      "our → ours",
+      "The red car is ours."
+     ],
+     [
+      "'s",
+      "Omar's book"
+     ],
+     [
+      "whose",
+      "Whose pen is this?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Is this yours?",
+      "mark": "yours"
+     },
+     {
+      "para": 3,
+      "text": "Mine is green, so it isn't mine.",
+      "mark": "Mine"
+     },
+     {
+      "para": 4,
+      "text": "Whose trainers are these?",
+      "mark": "Whose"
+     },
+     {
+      "para": 5,
+      "text": "My brother's book looks the same, but his has a blue cover and mine has a yellow one.",
+      "mark": "brother's"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "\"___ jacket is this?\" \"It's Ana's.\"",
+      "opts": [
+       "Who's",
+       "Whose",
+       "Who"
+      ],
+      "a": 1,
+      "why": "Whose asks who something belongs to."
+     },
+     {
+      "type": "mc",
+      "q": "This isn't my pen. ___ is blue.",
+      "opts": [
+       "Mine",
+       "My",
+       "Me"
+      ],
+      "a": 0,
+      "why": "Mine stands alone, without a noun."
+     },
+     {
+      "type": "mc",
+      "q": "\"Is this umbrella ___?\" \"Yes, thank you!\"",
+      "opts": [
+       "your",
+       "you",
+       "yours"
+      ],
+      "a": 2,
+      "why": "No noun after it, so use yours."
+     },
+     {
+      "type": "fill",
+      "q": "That is ___ bag. It belongs to Sara.",
+      "hint": "(Sara)",
+      "a": "Sara's",
+      "why": "Add 's to a name for a person's thing."
+     },
+     {
+      "type": "fill",
+      "q": "These trainers aren't Tom's. ___ are white.",
+      "hint": "(he)",
+      "a": "His",
+      "why": "His can stand alone."
+     },
+     {
+      "type": "fill",
+      "q": "The football belongs to us. It's ___.",
+      "hint": "(we)",
+      "a": "ours",
+      "why": "Ours means our thing."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261111-3-k1",
+     "tag": "Box",
+     "fact": "The lost property box is outside the school office.",
+     "q": "Where is the lost property box?",
+     "opts": [
+      "in the gym",
+      "outside the school office",
+      "in the canteen"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261111-3-k2",
+     "tag": "Scarf",
+     "fact": "Mia's scarf is green, so the red scarf isn't hers.",
+     "q": "What colour is Mia's scarf?",
+     "opts": [
+      "green",
+      "red",
+      "white"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261111-3-k3",
+     "tag": "Trainers",
+     "fact": "Someone found white trainers in the changing room on Tuesday.",
+     "q": "When were the trainers found?",
+     "opts": [
+      "on Monday",
+      "on Thursday",
+      "on Tuesday"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261111-3-k4",
+     "tag": "Advice",
+     "fact": "The head teacher says: write your name on your things.",
+     "q": "What does the head teacher want students to do?",
+     "opts": [
+      "buy new bags",
+      "write their names on their things",
+      "stay after school"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Lost things",
+    "question": "What did people lose at Greenhill School?",
+    "branches": [
+     {
+      "title": "Box",
+      "paras": "2",
+      "blanks": [
+       "two jackets",
+       "a black umbrella"
+      ],
+      "kps": [
+       "k20261111-3-k1"
+      ]
+     },
+     {
+      "title": "Scarf",
+      "paras": "3",
+      "blanks": [
+       "red with white stars"
+      ],
+      "kps": [
+       "k20261111-3-k2"
+      ]
+     },
+     {
+      "title": "Trainers",
+      "paras": "4",
+      "blanks": [
+       "size 38",
+       "changing room"
+      ],
+      "kps": [
+       "k20261111-3-k3"
+      ]
+     },
+     {
+      "title": "Advice",
+      "paras": "7",
+      "blanks": [
+       "write your name"
+      ],
+      "kps": [
+       "k20261111-3-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "a red bike",
+     "Omar's football"
+    ]
+   },
+   "summary": {
+    "intro": "Students and teachers at Greenhill School write messages about lost things.",
+    "model": "Many things get lost at school, but people help each other find them. Names are not always inside, so the head teacher says to write names on things.",
+    "options": [
+     {
+      "t": "Many things get lost at Greenhill School every week.",
+      "ok": true,
+      "why": "This is the first main idea.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Every week, things get lost at Greenhill School."
+     },
+     {
+      "t": "People write notes and messages to find the owners.",
+      "ok": true,
+      "why": "All the texts do this.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Some students and teachers write notes and messages to find the owners."
+     },
+     {
+      "t": "The head teacher asks everyone to write their names on their things.",
+      "ok": true,
+      "why": "This is the final message.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Please write your name on your things."
+     },
+     {
+      "t": "The trainers are size 38.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "We found a pair of white trainers, size 38, in the changing room on Tuesday."
+     },
+     {
+      "t": "The school is going to sell the lost things online.",
+      "ok": false,
+      "why": "This is not in the texts.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mia's scarf is red with white stars.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "Mine is green, so it isn't mine."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Have you ever lost something at school? What was it? Did you find it?",
+    "hint": "Try: 'I lost my …' and 'It was mine, so …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "You found a bag at school. Write a note for the noticeboard.",
+    "steps": [
+     "Say what you found and what it looks like.",
+     "Say where and when you found it.",
+     "Ask the owner to contact you."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  }
+ ],
+ "audio": {
+  "It is November, and the trees in the park look beautiful. In summer, the leaves were green. Now they are yellow, orange and red. In a few weeks, many of them will be on the ground. Why does this happen? Let's find out, step by step.": "audio/2026-11-11/a1-p1.mp3",
+  "First, why are leaves green? Leaves have a green colour inside them. Its name is chlorophyll. It helps the tree make food from sunlight, water and air. In spring and summer, there is a lot of sunlight, so leaves make a lot of chlorophyll. That is why they look green for many months.": "audio/2026-11-11/a1-p2.mp3",
+  "In autumn, things change. The days get shorter, and there is less sunlight. At night, it gets colder too. The tree stops making chlorophyll, and the green colour slowly breaks down. In many places, this starts in September or October.": "audio/2026-11-11/a1-p3.mp3",
+  "Then the hidden colours appear. Yellow and orange colours were in the leaves all the time! In summer, you can't see them, because the green is much stronger. When the green goes, the yellow and orange can finally show.": "audio/2026-11-11/a1-p4.mp3",
+  "What about red leaves? Some trees make a new red colour in autumn. It often happens after bright, sunny days and very cold nights. On those sunny days, there is a lot of sugar in the leaves, and this helps make the red colour. That is why some years are more colourful than others. Maple trees are famous for their red leaves.": "audio/2026-11-11/a1-p5.mp3",
+  "Finally, the leaves fall. In winter, there is not much sunlight, so the leaves can't make much food. The tree drops them to save energy and stay safe. On the ground, old leaves become food for insects and help the soil. Then, in spring, new green leaves grow again.": "audio/2026-11-11/a1-p6.mp3",
+  "Try this at home on a dry Saturday in October or November. Collect some leaves of different colours. Put them inside a heavy book for a week. At the end of the week, open the book and look at all your colours!": "audio/2026-11-11/a1-p7.mp3",
+  "chlorophyll": "audio/2026-11-11/a1-w-chlorophyll.mp3",
+  "Chlorophyll makes grass green.": "audio/2026-11-11/a1-ex-chlorophyll.mp3",
+  "sunlight": "audio/2026-11-11/a1-w-sunlight.mp3",
+  "Plants need sunlight to grow.": "audio/2026-11-11/a1-ex-sunlight.mp3",
+  "hidden": "audio/2026-11-11/a1-w-hidden.mp3",
+  "There is a hidden door behind the bookcase.": "audio/2026-11-11/a1-ex-hidden.mp3",
+  "appear": "audio/2026-11-11/a1-w-appear.mp3",
+  "Stars appear in the sky at night.": "audio/2026-11-11/a1-ex-appear.mp3",
+  "colourful": "audio/2026-11-11/a1-w-colourful.mp3",
+  "She wore a colourful dress to the party.": "audio/2026-11-11/a1-ex-colourful.mp3",
+  "maple": "audio/2026-11-11/a1-w-maple.mp3",
+  "The maple in our garden is red now.": "audio/2026-11-11/a1-ex-maple.mp3",
+  "energy": "audio/2026-11-11/a1-w-energy.mp3",
+  "Breakfast gives me energy for the day.": "audio/2026-11-11/a1-ex-energy.mp3",
+  "insects": "audio/2026-11-11/a1-w-insects.mp3",
+  "Bees and ants are insects.": "audio/2026-11-11/a1-ex-insects.mp3",
+  "soil": "audio/2026-11-11/a1-w-soil.mp3",
+  "Put the seeds in the soil.": "audio/2026-11-11/a1-ex-soil.mp3",
+  "collect": "audio/2026-11-11/a1-w-collect.mp3",
+  "My brother likes to collect stamps.": "audio/2026-11-11/a1-ex-collect.mp3",
+  "It helps the tree make food from sunlight, water and air.": "audio/2026-11-11/a1-ks1.mp3",
+  "The tree stops making chlorophyll, and the green colour slowly breaks down.": "audio/2026-11-11/a1-ks2.mp3",
+  "Yellow and orange colours were in the leaves all the time!": "audio/2026-11-11/a1-ks3.mp3",
+  "It often happens after bright, sunny days and very cold nights.": "audio/2026-11-11/a1-ks4.mp3",
+  "In many places, this starts in September or October.": "audio/2026-11-11/a1-ks5.mp3",
+  "At night, it gets colder too.": "audio/2026-11-11/a1-g2.mp3",
+  "Try this at home on a dry Saturday in October or November.": "audio/2026-11-11/a1-g3.mp3",
+  "Then, in spring, new green leaves grow again.": "audio/2026-11-11/a1-g4.mp3",
+  "Leo lives in a small flat with his mum and his little sister, Nora. They have a hamster called Biscuit. Biscuit usually sleeps in his cage next to the window. On Saturday morning, Leo opened the cage to give him some food. Then the phone rang, and Leo ran into the kitchen.": "audio/2026-11-11/a2-p1.mp3",
+  "When he came back, the cage was empty. \"Oh no!\" Leo shouted. \"Biscuit isn't in his cage!\" Nora came out of her bedroom. Mum put down her coffee. Everyone started to look for the hamster.": "audio/2026-11-11/a2-p2.mp3",
+  "Nora looked under the sofa. She only found an old sock and a pen. Mum looked behind the curtains and between the cushions. Leo climbed onto a chair and looked on top of the bookcase. There was no hamster anywhere.": "audio/2026-11-11/a2-p3.mp3",
+  "\"Let's be quiet and listen,\" Mum said. The flat was silent. Then they heard a small noise. Scratch, scratch. It came from the hall. Leo walked slowly along the hall and stopped in front of his school bag.": "audio/2026-11-11/a2-p4.mp3",
+  "He opened the bag carefully. Inside, there were his books, his pencil case and a banana. Next to the banana was Biscuit! The little hamster was eating a piece of Leo's cheese sandwich. He looked very happy.": "audio/2026-11-11/a2-p5.mp3",
+  "Leo laughed and took Biscuit out of the bag. He carried him across the living room and put him back into his cage. This time, Leo closed the door very carefully. Biscuit went to sleep in his little house.": "audio/2026-11-11/a2-p6.mp3",
+  "\"From now on, I'll check the cage door every time,\" Leo said. Nora smiled. \"And maybe you should put your sandwiches in the kitchen, not in your bag!\"": "audio/2026-11-11/a2-p7.mp3",
+  "hamster": "audio/2026-11-11/a2-w-hamster.mp3",
+  "My cousin has a brown hamster.": "audio/2026-11-11/a2-ex-hamster.mp3",
+  "cage": "audio/2026-11-11/a2-w-cage.mp3",
+  "The bird is singing in its cage.": "audio/2026-11-11/a2-ex-cage.mp3",
+  "empty": "audio/2026-11-11/a2-w-empty.mp3",
+  "The fridge is empty, so let's go shopping.": "audio/2026-11-11/a2-ex-empty.mp3",
+  "curtains": "audio/2026-11-11/a2-w-curtains.mp3",
+  "Please close the curtains at night.": "audio/2026-11-11/a2-ex-curtains.mp3",
+  "cushions": "audio/2026-11-11/a2-w-cushions.mp3",
+  "There are four cushions on our sofa.": "audio/2026-11-11/a2-ex-cushions.mp3",
+  "climb": "audio/2026-11-11/a2-w-climb.mp3",
+  "Cats like to climb trees.": "audio/2026-11-11/a2-ex-climb.mp3",
+  "bookcase": "audio/2026-11-11/a2-w-bookcase.mp3",
+  "My bookcase is full of comics.": "audio/2026-11-11/a2-ex-bookcase.mp3",
+  "silent": "audio/2026-11-11/a2-w-silent.mp3",
+  "The classroom was silent during the test.": "audio/2026-11-11/a2-ex-silent.mp3",
+  "noise": "audio/2026-11-11/a2-w-noise.mp3",
+  "I heard a noise in the garden.": "audio/2026-11-11/a2-ex-noise.mp3",
+  "carefully": "audio/2026-11-11/a2-w-carefully.mp3",
+  "Carry the eggs carefully.": "audio/2026-11-11/a2-ex-carefully.mp3",
+  "When he came back, the cage was empty.": "audio/2026-11-11/a2-ks1.mp3",
+  "Mum looked behind the curtains and between the cushions.": "audio/2026-11-11/a2-ks2.mp3",
+  "Then they heard a small noise.": "audio/2026-11-11/a2-ks3.mp3",
+  "Next to the banana was Biscuit!": "audio/2026-11-11/a2-ks4.mp3",
+  "This time, Leo closed the door very carefully.": "audio/2026-11-11/a2-ks5.mp3",
+  "Nora looked under the sofa.": "audio/2026-11-11/a2-g1.mp3",
+  "Leo walked slowly along the hall and stopped in front of his school bag.": "audio/2026-11-11/a2-g3.mp3",
+  "He carried him across the living room and put him back into his cage.": "audio/2026-11-11/a2-g4.mp3",
+  "Every week, things get lost at Greenhill School. Students leave them in classrooms, in the gym or in the canteen. Some students and teachers write notes and messages to find the owners. Here are some from this week.": "audio/2026-11-11/a3-p1.mp3",
+  "NOTICE on the lost property box: Is this yours? Check the box outside the school office. This week we have two jackets, a blue water bottle and a black umbrella. Please ask Mrs Lopez before you take anything. After one month, we give old things to a charity shop.": "audio/2026-11-11/a3-p2.mp3",
+  "Text message from Mia to Ana: Hi Ana! I think I have your scarf. It was on my chair after art class. Is it the red one with white stars? Mine is green, so it isn't mine. I'll bring it to school tomorrow!": "audio/2026-11-11/a3-p3.mp3",
+  "Note on the gym door: Whose trainers are these? We found a pair of white trainers, size 38, in the changing room on Tuesday. The owner's name isn't inside. If they are yours, please come to the PE teachers' office.": "audio/2026-11-11/a3-p4.mp3",
+  "Message in the class chat from Omar: Has anyone got my maths book? My name is on the front. My brother's book looks the same, but his has a blue cover and mine has a yellow one. I need it for Thursday's test!": "audio/2026-11-11/a3-p5.mp3",
+  "Note on a desk: Sam, I've got your pencil case. I took it by mistake because it looks like mine. Sorry! It's in my bag now. Meet me in the canteen at lunch. Jack": "audio/2026-11-11/a3-p6.mp3",
+  "Message from the head teacher: Thank you, everyone, for helping each other. Please write your name on your things. Then it is easy to see whose they are. Let's keep our school tidy and look after our things!": "audio/2026-11-11/a3-p7.mp3",
+  "owner": "audio/2026-11-11/a3-w-owner.mp3",
+  "Who is the owner of this black dog?": "audio/2026-11-11/a3-ex-owner.mp3",
+  "lost property": "audio/2026-11-11/a3-w-lost-property.mp3",
+  "I found my hat in the lost property box.": "audio/2026-11-11/a3-ex-lost-property.mp3",
+  "umbrella": "audio/2026-11-11/a3-w-umbrella.mp3",
+  "Take an umbrella. It's raining.": "audio/2026-11-11/a3-ex-umbrella.mp3",
+  "charity": "audio/2026-11-11/a3-w-charity.mp3",
+  "We gave our old toys to a charity.": "audio/2026-11-11/a3-ex-charity.mp3",
+  "scarf": "audio/2026-11-11/a3-w-scarf.mp3",
+  "Grandma made me a warm scarf.": "audio/2026-11-11/a3-ex-scarf.mp3",
+  "trainers": "audio/2026-11-11/a3-w-trainers.mp3",
+  "I need new trainers for PE.": "audio/2026-11-11/a3-ex-trainers.mp3",
+  "pair": "audio/2026-11-11/a3-w-pair.mp3",
+  "I bought a pair of socks.": "audio/2026-11-11/a3-ex-pair.mp3",
+  "cover": "audio/2026-11-11/a3-w-cover.mp3",
+  "This book has a picture of a cat on the cover.": "audio/2026-11-11/a3-ex-cover.mp3",
+  "mistake": "audio/2026-11-11/a3-w-mistake.mp3",
+  "I made a mistake in my homework.": "audio/2026-11-11/a3-ex-mistake.mp3",
+  "canteen": "audio/2026-11-11/a3-w-canteen.mp3",
+  "We eat pizza in the canteen on Fridays.": "audio/2026-11-11/a3-ex-canteen.mp3",
+  "Is this yours?": "audio/2026-11-11/a3-ks1.mp3",
+  "Mine is green, so it isn't mine.": "audio/2026-11-11/a3-ks2.mp3",
+  "Whose trainers are these?": "audio/2026-11-11/a3-ks3.mp3",
+  "I took it by mistake because it looks like mine.": "audio/2026-11-11/a3-ks4.mp3",
+  "Please write your name on your things.": "audio/2026-11-11/a3-ks5.mp3",
+  "My brother's book looks the same, but his has a blue cover and mine has a yellow one.": "audio/2026-11-11/a3-g4.mp3"
+ }
+}
