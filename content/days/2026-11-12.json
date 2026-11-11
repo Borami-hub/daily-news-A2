@@ -1,0 +1,1797 @@
+{
+ "date": "2026-11-12",
+ "headline": "Snowflakes, a brave singer and a boy who learns Chinese",
+ "teaser": "Why is snow white? Can shy Zara sing in front of everyone? What did Lucas say instead of 'mum'?",
+ "articles": [
+  {
+   "id": "k20261112-1",
+   "topic": "Weather",
+   "genre": "Article",
+   "title": "What Is a Snowflake?",
+   "dek": "Snow is cold, soft and white. But how does a snowflake grow?",
+   "sources": [
+    {
+     "name": "NOAA: How do snowflakes form?",
+     "url": "https://www.noaa.gov/stories/how-do-snowflakes-form-get-science-behind-snow"
+    },
+    {
+     "name": "Live Science: Why is snow white?",
+     "url": "https://www.livescience.com/why-is-snow-white.html"
+    },
+    {
+     "name": "Wikipedia: Wilson Bentley",
+     "url": "https://en.wikipedia.org/wiki/Wilson_Bentley"
+    }
+   ],
+   "paras": [
+    "It is a cold winter morning. You look out of the window, and everything is white. Snow! But what is snow, really? Where does it come from? And why is it white? Let's answer these questions one by one.",
+    "What is a snowflake? It is a small piece of ice. It starts high up in a cloud. Up there, the air is very cold. A tiny drop of water freezes onto a piece of dust or pollen. Now it is a very small ice crystal.",
+    "How does it get bigger? The crystal starts to fall slowly. On the way down, more water from the air freezes onto it. It grows arms, and it becomes a snowflake. If the air is cold all the way to the ground, the snowflake doesn't melt. It lands as snow.",
+    "How many sides does a snowflake have? Almost always six! Water makes this shape when it freezes. The weather changes the shape too. Some snowflakes look like flat stars. Others look like long, thin needles.",
+    "Why are no two snowflakes the same? Every snowflake takes a different way from the cloud to the ground. Each one meets a little more cold air or a little more water. So each one grows in its own special way.",
+    "Who took the first photo of a snowflake? His name was Wilson Bentley. He was a farmer in Vermont, in the USA. In 1885, he used a camera and a microscope to take the first photo. In his life, he took more than 5,000 photos of snow crystals. People called him 'Snowflake Bentley'.",
+    "And why is snow white? A single piece of ice is clear, like glass. But snow has millions of ice crystals and a lot of air between them. Light hits the crystals and bounces around many times. Then it comes back out to your eyes. All the colours of light together look white. Which answer was the most interesting for you?"
+   ],
+   "words": [
+    {
+     "w": "crystal",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkrɪs.təl/",
+     "syl": [
+      "crys",
+      "tal"
+     ],
+     "def": "a small, hard piece with a special shape",
+     "ex": "This crystal looks like a tiny star."
+    },
+    {
+     "w": "freeze",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/friːz/",
+     "syl": [
+      "freeze"
+     ],
+     "def": "to become ice because it is very cold",
+     "ex": "Water will freeze at zero degrees."
+    },
+    {
+     "w": "dust",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/dʌst/",
+     "syl": [
+      "dust"
+     ],
+     "def": "very small dry bits of dirt",
+     "ex": "There is dust on my old books."
+    },
+    {
+     "w": "pollen",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpɒl.ən/",
+     "syl": [
+      "pol",
+      "len"
+     ],
+     "def": "yellow powder from flowers",
+     "ex": "Bees carry pollen from flower to flower."
+    },
+    {
+     "w": "melt",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/melt/",
+     "syl": [
+      "melt"
+     ],
+     "def": "to change from ice to water",
+     "ex": "My ice cream began to melt in the sun."
+    },
+    {
+     "w": "shape",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ʃeɪp/",
+     "syl": [
+      "shape"
+     ],
+     "def": "the form of something, like round or square",
+     "ex": "The cake was in the shape of a heart."
+    },
+    {
+     "w": "needle",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈniː.dəl/",
+     "syl": [
+      "nee",
+      "dle"
+     ],
+     "def": "a thin, sharp piece of metal for sewing",
+     "ex": "Grandma uses a needle to fix my jeans."
+    },
+    {
+     "w": "microscope",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmaɪ.krə.skəʊp/",
+     "syl": [
+      "mi",
+      "cro",
+      "scope"
+     ],
+     "def": "a tool that makes very small things look big",
+     "ex": "We looked at a hair under the microscope."
+    },
+    {
+     "w": "single",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈsɪŋ.ɡəl/",
+     "syl": [
+      "sin",
+      "gle"
+     ],
+     "def": "only one",
+     "ex": "There wasn't a single cloud in the sky."
+    },
+    {
+     "w": "bounce",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/baʊns/",
+     "syl": [
+      "bounce"
+     ],
+     "def": "to hit something and move away again",
+     "ex": "The ball will bounce off the wall."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "A tiny drop of water freezes onto a piece of dust or pollen.",
+     "kind": "Key details",
+     "note": "Every snowflake starts with a tiny bit of dust."
+    },
+    {
+     "para": 3,
+     "text": "If the air is cold all the way to the ground, the snowflake doesn't melt.",
+     "kind": "Cause → effect",
+     "note": "Cold air all the way down means we get snow, not rain."
+    },
+    {
+     "para": 5,
+     "text": "Every snowflake takes a different way from the cloud to the ground.",
+     "kind": "Main idea",
+     "note": "A different trip makes a different snowflake."
+    },
+    {
+     "para": 7,
+     "text": "Light hits the crystals and bounces around many times.",
+     "kind": "Cause → effect",
+     "note": "The light bounces, so snow looks white."
+    },
+    {
+     "para": 6,
+     "text": "Who took the first photo of a snowflake?",
+     "kind": "Grammar to notice",
+     "note": "Use who to ask about a person."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to build a snowman",
+      "how snow forms and why it looks white",
+      "a farmer's life in Vermont"
+     ],
+     "a": 1,
+     "why": "Each paragraph answers a question about snow.",
+     "evidence": null,
+     "optWhy": [
+      "Snowmen are not in the text.",
+      "Correct. It explains how snowflakes grow and why snow is white.",
+      "The farmer is only in one paragraph."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Where does a snowflake start?",
+     "opts": [
+      "in a cloud",
+      "on the ground",
+      "in a river"
+     ],
+     "a": 0,
+     "why": "It starts high up in a cloud.",
+     "evidence": "It starts high up in a cloud.",
+     "optWhy": [
+      "Correct. It starts high up in a cloud.",
+      "It lands on the ground at the end.",
+      "Rivers are not in the text."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Wilson Bentley sold his snowflake photos.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The text says he took many photos, but not that he sold them.",
+     "evidence": "In his life, he took more than 5,000 photos of snow crystals.",
+     "optWhy": [
+      "The text does not tell us this.",
+      "The text does not tell us this.",
+      "Correct. We only know he took many photos."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 7,
+     "q": "\"A single piece of ice is clear.\" What does single mean here?",
+     "opts": [
+      "very cold",
+      "very big",
+      "only one"
+     ],
+     "a": 2,
+     "why": "One piece of ice is clear, but a lot of crystals look white.",
+     "evidence": "A single piece of ice is clear, like glass.",
+     "optWhy": [
+      "Single is not about cold.",
+      "Single is not about size.",
+      "Correct. Single means only one."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "\"It grows arms.\" What does It mean?",
+     "opts": [
+      "the ice crystal",
+      "the cloud",
+      "the ground"
+     ],
+     "a": 0,
+     "why": "The falling crystal grows arms.",
+     "evidence": "It grows arms, and it becomes a snowflake.",
+     "optWhy": [
+      "Correct. The ice crystal grows arms.",
+      "The cloud does not grow arms.",
+      "The ground does not become a snowflake."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "Why are snowflakes all different?",
+     "opts": [
+      "They fall on different days.",
+      "Each one takes a different way down.",
+      "The wind breaks them."
+     ],
+     "a": 1,
+     "why": "Each snowflake meets different air on its way down.",
+     "evidence": "Every snowflake takes a different way from the cloud to the ground.",
+     "optWhy": [
+      "The text does not say this.",
+      "Correct. Each one takes a different way to the ground.",
+      "Wind is not in the text."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Question words",
+    "rule": "Question words start a question. Use who for people, what for things, where for places, when for time, why for reasons and how for the way. How many asks about a number.",
+    "table": [
+     [
+      "who",
+      "Who took the photo?"
+     ],
+     [
+      "what",
+      "What is a snowflake?"
+     ],
+     [
+      "where",
+      "Where does it come from?"
+     ],
+     [
+      "why",
+      "Why is snow white?"
+     ],
+     [
+      "how",
+      "How does it get bigger?"
+     ],
+     [
+      "how many",
+      "How many sides does it have?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "What is a snowflake?",
+      "mark": "What"
+     },
+     {
+      "para": 3,
+      "text": "How does it get bigger?",
+      "mark": "How"
+     },
+     {
+      "para": 4,
+      "text": "How many sides does a snowflake have?",
+      "mark": "How many"
+     },
+     {
+      "para": 6,
+      "text": "Who took the first photo of a snowflake?",
+      "mark": "Who"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ do you go to school? — By bus.",
+      "opts": [
+       "What",
+       "How",
+       "Who"
+      ],
+      "a": 1,
+      "why": "How asks about the way you do something."
+     },
+     {
+      "type": "mc",
+      "q": "___ is your favourite season? — Winter.",
+      "opts": [
+       "Where",
+       "What",
+       "Who"
+      ],
+      "a": 1,
+      "why": "What asks about a thing."
+     },
+     {
+      "type": "mc",
+      "q": "___ often does it snow in your town? — Two or three times a year.",
+      "opts": [
+       "How",
+       "What",
+       "When"
+      ],
+      "a": 0,
+      "why": "How often asks about the number of times."
+     },
+     {
+      "type": "fill",
+      "q": "___ did you build that snowman? — Last Sunday.",
+      "hint": "(When / Where)",
+      "a": "When",
+      "why": "When asks about time."
+     },
+     {
+      "type": "fill",
+      "q": "___ is snow white? — Because light bounces around.",
+      "hint": "(Why / Who)",
+      "a": "Why",
+      "why": "Why asks for a reason, and the answer has because."
+     },
+     {
+      "type": "fill",
+      "q": "___ gloves are these? — They are my mum's.",
+      "hint": "(Who / Whose)",
+      "a": "Whose",
+      "why": "Whose asks who something belongs to."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261112-1-k1",
+     "tag": "Start",
+     "fact": "A snowflake starts when a drop of water freezes onto dust or pollen.",
+     "q": "What does a water drop freeze onto?",
+     "opts": [
+      "a leaf",
+      "dust or pollen",
+      "a bird"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261112-1-k2",
+     "tag": "Six",
+     "fact": "Snowflakes almost always have six sides.",
+     "q": "How many sides does a snowflake usually have?",
+     "opts": [
+      "six",
+      "four",
+      "eight"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261112-1-k3",
+     "tag": "Bentley",
+     "fact": "Wilson Bentley took the first photo of a snowflake in 1885.",
+     "q": "When was the first snowflake photo taken?",
+     "opts": [
+      "in 1985",
+      "in 1855",
+      "in 1885"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261112-1-k4",
+     "tag": "White",
+     "fact": "Snow looks white because light bounces around the crystals.",
+     "q": "Why does snow look white?",
+     "opts": [
+      "Light bounces around the crystals.",
+      "Snow has white paint in it.",
+      "Clouds are white."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Snowflakes",
+    "question": "How does a snowflake grow, and why is snow white?",
+    "branches": [
+     {
+      "title": "Start",
+      "paras": "2",
+      "blanks": [
+       "in a cloud",
+       "dust or pollen"
+      ],
+      "kps": [
+       "k20261112-1-k1"
+      ]
+     },
+     {
+      "title": "Shape",
+      "paras": "4–5",
+      "blanks": [
+       "six sides",
+       "flat stars"
+      ],
+      "kps": [
+       "k20261112-1-k2"
+      ]
+     },
+     {
+      "title": "Who",
+      "paras": "6",
+      "blanks": [
+       "Wilson Bentley",
+       "first photo"
+      ],
+      "kps": [
+       "k20261112-1-k3"
+      ]
+     },
+     {
+      "title": "Why white",
+      "paras": "7",
+      "blanks": [
+       "light bounces"
+      ],
+      "kps": [
+       "k20261112-1-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "warm sea water",
+     "eight sides"
+    ]
+   },
+   "summary": {
+    "intro": "The text answers questions about snowflakes.",
+    "model": "A snowflake starts as a tiny ice crystal in a cloud, and it grows on its way down. Snow looks white because light bounces around the crystals.",
+    "options": [
+     {
+      "t": "A snowflake starts as a tiny ice crystal in a cold cloud.",
+      "ok": true,
+      "why": "This is how every snowflake begins.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Now it is a very small ice crystal."
+     },
+     {
+      "t": "Each snowflake grows in its own way, so no two are the same.",
+      "ok": true,
+      "why": "This is a main idea of the middle part.",
+      "type": "main",
+      "para": 5,
+      "evidence": "So each one grows in its own special way."
+     },
+     {
+      "t": "Snow looks white because light bounces around the ice crystals.",
+      "ok": true,
+      "why": "This answers the last big question.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Light hits the crystals and bounces around many times."
+     },
+     {
+      "t": "Some snowflakes look like long, thin needles.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Others look like long, thin needles."
+     },
+     {
+      "t": "Snow is good for farmers' fields.",
+      "ok": false,
+      "why": "This is not in the text.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "One piece of ice is white, like milk.",
+      "ok": false,
+      "why": "The text says the opposite: it is clear.",
+      "type": "contra",
+      "para": 7,
+      "evidence": "A single piece of ice is clear, like glass."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like snowy weather? What do you like doing on a snowy day? Why?",
+    "hint": "Try: 'I like snowy days because …' and 'When it snows, I usually …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "It snowed in your town today. Write an email to your friend.",
+    "steps": [
+     "Say when it started to snow.",
+     "Say what you did in the snow.",
+     "Ask your friend a question about the weather in their town."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261112-2",
+   "topic": "Personal feelings & experiences",
+   "genre": "Story",
+   "title": "Zara's Song",
+   "dek": "Zara loves singing, but only alone in her bedroom. Then her teacher asks her to sing at the concert.",
+   "sources": [],
+   "paras": [
+    "Zara was twelve, and she loved music. She taught herself to play the guitar when she was ten. She often sang in her bedroom by herself. But she never sang in front of other people. Just thinking about it made her feel sick.",
+    "One Monday, her music teacher, Mr Kim, stopped her after class. 'Zara, I heard you in the music room at lunch,' he said. 'You have a lovely voice. Will you sing a song at the winter concert?' Zara looked at him. She wanted to say no, but she said yes.",
+    "For two weeks, she practised every evening. She stood in front of the mirror and watched herself. Her little brother, Sami, listened at the door. 'You're really good!' he told her. 'Thanks,' said Zara. 'But I'm still scared.'",
+    "On the night of the concert, the hall was full. Zara's parents were in the second row, and her best friend, Lily, was next to them. Zara walked onto the stage with her guitar. Her hands were shaking. She looked at all the faces, and she forgot the first words of the song!",
+    "For a moment, nobody moved. Then Lily stood up and smiled at her. She started to sing the first line quietly. Zara heard her, and the words came back. 'Come on, Zara, you can do it,' she told herself. She started again.",
+    "This time, everything was fine. Her voice was strong and clear. At the end, everyone clapped and cheered. Mr Kim gave her a big smile. Her parents were very proud of her.",
+    "After the concert, Zara found Lily outside. 'Thank you for helping me,' she said. 'You saved me!' Lily laughed. 'No, you did it yourself. I only sang one line!' That night, Zara said to herself, 'Maybe I'm not so shy after all.'"
+   ],
+   "words": [
+    {
+     "w": "voice",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/vɔɪs/",
+     "syl": [
+      "voice"
+     ],
+     "def": "the sound you make when you speak or sing",
+     "ex": "My sister has a beautiful voice."
+    },
+    {
+     "w": "concert",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɒn.sət/",
+     "syl": [
+      "con",
+      "cert"
+     ],
+     "def": "a show where people play music or sing",
+     "ex": "We went to a concert in the park."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something many times to get better",
+     "ex": "I practise the piano every day."
+    },
+    {
+     "w": "mirror",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmɪr.ə/",
+     "syl": [
+      "mir",
+      "ror"
+     ],
+     "def": "glass where you can see yourself",
+     "ex": "He looked at his new haircut in the mirror."
+    },
+    {
+     "w": "scared",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/skeəd/",
+     "syl": [
+      "scared"
+     ],
+     "def": "afraid",
+     "ex": "My little brother is scared of dogs."
+    },
+    {
+     "w": "stage",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/steɪdʒ/",
+     "syl": [
+      "stage"
+     ],
+     "def": "the high place where people act or sing",
+     "ex": "The band walked onto the stage."
+    },
+    {
+     "w": "row",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/rəʊ/",
+     "syl": [
+      "row"
+     ],
+     "def": "a line of seats next to each other",
+     "ex": "We sat in the front row at the cinema."
+    },
+    {
+     "w": "cheer",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/tʃɪə/",
+     "syl": [
+      "cheer"
+     ],
+     "def": "to shout because you are happy",
+     "ex": "The fans cheer when their team wins."
+    },
+    {
+     "w": "proud",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/praʊd/",
+     "syl": [
+      "proud"
+     ],
+     "def": "happy because someone did something well",
+     "ex": "I am proud of my good test result."
+    },
+    {
+     "w": "shy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃaɪ/",
+     "syl": [
+      "shy"
+     ],
+     "def": "not happy to talk or sing with others watching",
+     "ex": "The new girl is shy, so be kind to her."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But she never sang in front of other people.",
+     "kind": "Main idea",
+     "note": "This is Zara's problem."
+    },
+    {
+     "para": 4,
+     "text": "She looked at all the faces, and she forgot the first words of the song!",
+     "kind": "Time order",
+     "note": "On the night, things go wrong."
+    },
+    {
+     "para": 5,
+     "text": "Then Lily stood up and smiled at her.",
+     "kind": "Key details",
+     "note": "Lily helps Zara at the right moment."
+    },
+    {
+     "para": 7,
+     "text": "No, you did it yourself.",
+     "kind": "Grammar to notice",
+     "note": "Yourself means you, with no help."
+    },
+    {
+     "para": 6,
+     "text": "Her parents were very proud of her.",
+     "kind": "Opinion",
+     "note": "Her parents feel happy about Zara."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Feelings",
+     "para": 1,
+     "q": "How did Zara feel about singing in front of people?",
+     "opts": [
+      "scared",
+      "excited",
+      "bored"
+     ],
+     "a": 0,
+     "why": "Thinking about it made her feel sick.",
+     "evidence": "Just thinking about it made her feel sick.",
+     "optWhy": [
+      "Correct. It made her feel sick, so she was scared.",
+      "She did not want to do it.",
+      "She loved music, so she was not bored."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Where did Mr Kim hear Zara sing?",
+     "opts": [
+      "in her bedroom",
+      "at the concert",
+      "in the music room"
+     ],
+     "a": 2,
+     "why": "He heard her at lunch in the music room.",
+     "evidence": "I heard you in the music room at lunch",
+     "optWhy": [
+      "She sang in her bedroom, but Mr Kim did not hear her there.",
+      "The concert was later.",
+      "Correct. He heard her in the music room at lunch."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Sami thought Zara sang badly.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "Sami said she was really good.",
+     "evidence": "'You're really good!' he told her.",
+     "optWhy": [
+      "The story says the opposite.",
+      "Correct. He said she was really good.",
+      "The story does tell us what Sami thought."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "\"Lily was next to them.\" Who does them mean?",
+     "opts": [
+      "the teachers",
+      "Zara's parents",
+      "the students on the stage"
+     ],
+     "a": 1,
+     "why": "Lily sat next to Zara's parents.",
+     "evidence": "Zara's parents were in the second row, and her best friend, Lily, was next to them.",
+     "optWhy": [
+      "Teachers are not in this sentence.",
+      "Correct. Them means Zara's parents.",
+      "Lily was not on the stage."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "What helped Zara remember the words?",
+     "opts": [
+      "Mr Kim played the guitar.",
+      "She read them on paper.",
+      "Lily sang the first line."
+     ],
+     "a": 2,
+     "why": "Lily sang quietly, and the words came back.",
+     "evidence": "She started to sing the first line quietly.",
+     "optWhy": [
+      "Zara had the guitar, not Mr Kim.",
+      "There is no paper in the story.",
+      "Correct. Lily sang the first line."
+     ]
+    },
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "a shy girl who sings at a concert",
+      "a boy who learns the guitar",
+      "a teacher who plans a concert"
+     ],
+     "a": 0,
+     "why": "Zara is shy, but she sings at the concert.",
+     "evidence": null,
+     "optWhy": [
+      "Correct. Zara is shy, but she sings at the concert.",
+      "Zara plays the guitar, and she is a girl.",
+      "Mr Kim is in the story, but he is not the main person."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Object and reflexive pronouns",
+    "rule": "Object pronouns (me, him, her, us, them) come after a verb or a preposition. Reflexive pronouns (myself, herself, ourselves) show that a person does something to or for themselves. By herself means alone, with no help.",
+    "table": [
+     [
+      "I",
+      "me / myself"
+     ],
+     [
+      "you",
+      "you / yourself"
+     ],
+     [
+      "he",
+      "him / himself"
+     ],
+     [
+      "she",
+      "her / herself"
+     ],
+     [
+      "we",
+      "us / ourselves"
+     ],
+     [
+      "they",
+      "them / themselves"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "She taught herself to play the guitar when she was ten.",
+      "mark": "herself"
+     },
+     {
+      "para": 2,
+      "text": "Zara looked at him.",
+      "mark": "him"
+     },
+     {
+      "para": 3,
+      "text": "She stood in front of the mirror and watched herself.",
+      "mark": "herself"
+     },
+     {
+      "para": 7,
+      "text": "No, you did it yourself.",
+      "mark": "yourself"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Our teacher gave ___ a lot of homework.",
+      "opts": [
+       "we",
+       "us",
+       "ourselves"
+      ],
+      "a": 1,
+      "why": "After a verb, use the object pronoun us."
+     },
+     {
+      "type": "mc",
+      "q": "Be careful with that knife! Don't cut ___.",
+      "opts": [
+       "you",
+       "yours",
+       "yourself"
+      ],
+      "a": 2,
+      "why": "You do it to you, so use yourself."
+     },
+     {
+      "type": "mc",
+      "q": "I like Tom. I often play football with ___.",
+      "opts": [
+       "him",
+       "he",
+       "himself"
+      ],
+      "a": 0,
+      "why": "After with, use the object pronoun him."
+     },
+     {
+      "type": "fill",
+      "q": "Lucy made this cake by ___.",
+      "hint": "(she)",
+      "a": "herself",
+      "why": "By herself means alone, with no help."
+     },
+     {
+      "type": "fill",
+      "q": "We enjoyed ___ at the school party.",
+      "hint": "(we)",
+      "a": "ourselves",
+      "why": "We say enjoy ourselves."
+     },
+     {
+      "type": "fill",
+      "q": "Where are my keys? I can't find ___.",
+      "hint": "(they)",
+      "a": "them",
+      "why": "After a verb, they becomes them."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261112-2-k1",
+     "tag": "Problem",
+     "fact": "Zara loved singing, but she never sang in front of people.",
+     "q": "What was Zara's problem?",
+     "opts": [
+      "She couldn't play the guitar.",
+      "She never sang in front of people.",
+      "She didn't like music."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261112-2-k2",
+     "tag": "Practice",
+     "fact": "Zara practised in front of the mirror every evening for two weeks.",
+     "q": "How long did Zara practise?",
+     "opts": [
+      "for two weeks",
+      "for two days",
+      "for two months"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261112-2-k3",
+     "tag": "Help",
+     "fact": "When Zara forgot the words, Lily sang the first line.",
+     "q": "Who helped Zara on the stage?",
+     "opts": [
+      "Mr Kim",
+      "Sami",
+      "Lily"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261112-2-k4",
+     "tag": "Ending",
+     "fact": "Everyone cheered, and Zara felt less shy.",
+     "q": "How did the concert end?",
+     "opts": [
+      "Zara left the stage.",
+      "Everyone clapped and cheered.",
+      "Lily sang the whole song."
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Zara's song",
+    "question": "How did shy Zara sing at the concert?",
+    "branches": [
+     {
+      "title": "Problem",
+      "paras": "1–2",
+      "blanks": [
+       "never sang",
+       "winter concert"
+      ],
+      "kps": [
+       "k20261112-2-k1"
+      ]
+     },
+     {
+      "title": "Practice",
+      "paras": "3",
+      "blanks": [
+       "the mirror",
+       "every evening"
+      ],
+      "kps": [
+       "k20261112-2-k2"
+      ]
+     },
+     {
+      "title": "On stage",
+      "paras": "4–5",
+      "blanks": [
+       "forgot the words",
+       "Lily sang"
+      ],
+      "kps": [
+       "k20261112-2-k3"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "everyone cheered"
+      ],
+      "kps": [
+       "k20261112-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "played the piano",
+     "Sami sang"
+    ]
+   },
+   "summary": {
+    "intro": "Zara is shy, but her teacher asks her to sing at a concert.",
+    "model": "Zara was scared, but she practised every evening. She forgot the words on stage, so Lily helped her, and then she sang well.",
+    "options": [
+     {
+      "t": "Zara loved singing, but she was too shy to sing for people.",
+      "ok": true,
+      "why": "This is the problem of the story.",
+      "type": "main",
+      "para": 1,
+      "evidence": "But she never sang in front of other people."
+     },
+     {
+      "t": "At the concert, she forgot the words, and Lily helped her.",
+      "ok": true,
+      "why": "This is the big moment of the story.",
+      "type": "main",
+      "para": 4,
+      "evidence": "She looked at all the faces, and she forgot the first words of the song!"
+     },
+     {
+      "t": "She sang well in the end, and she felt less shy.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Maybe I'm not so shy after all."
+     },
+     {
+      "t": "Zara's parents sat in the second row.",
+      "ok": false,
+      "why": "True, but it is only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Zara's parents were in the second row"
+     },
+     {
+      "t": "Zara won a prize at the concert.",
+      "ok": false,
+      "why": "This is not in the story.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mr Kim said Zara's voice was not very good.",
+      "ok": false,
+      "why": "The story says the opposite.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "You have a lovely voice."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Have you ever been scared before a show, a game or a test? What did you do?",
+    "hint": "Try: 'I was scared because …' and 'I told myself …'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story that begins: 'I walked onto the stage, and my hands were shaking.'",
+    "steps": [
+     "Say where you were and why.",
+     "Say what went wrong.",
+     "Say how the story ended and how you felt."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261112-3",
+   "topic": "Language",
+   "genre": "Interview",
+   "title": "Three Languages at Fourteen",
+   "dek": "Lucas speaks Spanish, English and a little Chinese. How does he do it?",
+   "sources": [],
+   "paras": [
+    "Lucas Moreno is fourteen and lives in Valencia, Spain. He speaks Spanish, English and a little Chinese. We asked him about learning languages.",
+    "Lucas, how did you start learning English? My mum is from Ireland, so she always spoke English to me at home. I understood it easily when I was small. But I spoke it badly at first! I often mixed up English and Spanish words.",
+    "Why did you choose Chinese? Two years ago, a new student called Mei came to my class. She was from Shanghai. She spoke Spanish slowly and carefully, and I wanted to help her. Then I thought, 'Why don't I learn her language too?'",
+    "Is Chinese difficult? Yes, very! The writing is hard. I write every character slowly, again and again. The tones are difficult too. If you say a word wrongly, it means something different. Once I wanted to say 'mum', but I said 'horse'! Mei laughed loudly.",
+    "How do you practise? I use an app for ten minutes every day. I also watch cartoons in Chinese. And every Friday, Mei and I meet at the library. For thirty minutes we speak Chinese, and then we speak Spanish. We both learn quickly that way.",
+    "What is your best tip? Don't be afraid of mistakes! Listen carefully and speak clearly. Learn a few new words every day. And be patient, because nobody learns a language in one week.",
+    "What's next for you? Next summer, I'm going to visit Mei's family in Shanghai. I want to speak to her grandparents, so I'm studying hard. I hope they understand me!"
+   ],
+   "words": [
+    {
+     "w": "character",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkær.ək.tə/",
+     "syl": [
+      "char",
+      "ac",
+      "ter"
+     ],
+     "def": "a letter or sign in a writing system",
+     "ex": "This Chinese character means 'big'."
+    },
+    {
+     "w": "tone",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/təʊn/",
+     "syl": [
+      "tone"
+     ],
+     "def": "how high or low your voice goes in a word",
+     "ex": "In Chinese, each tone changes the word."
+    },
+    {
+     "w": "mistake",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/mɪˈsteɪk/",
+     "syl": [
+      "mis",
+      "take"
+     ],
+     "def": "something that is wrong",
+     "ex": "I made a mistake in my spelling test."
+    },
+    {
+     "w": "patient",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈpeɪ.ʃənt/",
+     "syl": [
+      "pa",
+      "tient"
+     ],
+     "def": "able to wait calmly for a long time",
+     "ex": "Our teacher is very patient with us."
+    },
+    {
+     "w": "tip",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/tɪp/",
+     "syl": [
+      "tip"
+     ],
+     "def": "a small, useful idea",
+     "ex": "Here is a tip: drink water before a test."
+    },
+    {
+     "w": "app",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/æp/",
+     "syl": [
+      "app"
+     ],
+     "def": "a program on a phone or tablet",
+     "ex": "This app helps me learn new words."
+    },
+    {
+     "w": "cartoon",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kɑːˈtuːn/",
+     "syl": [
+      "car",
+      "toon"
+     ],
+     "def": "a funny film with drawings, not real people",
+     "ex": "My little sister watches a cartoon after school."
+    },
+    {
+     "w": "afraid",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/əˈfreɪd/",
+     "syl": [
+      "a",
+      "fraid"
+     ],
+     "def": "scared",
+     "ex": "Are you afraid of the dark?"
+    },
+    {
+     "w": "carefully",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkeə.fəl.i/",
+     "syl": [
+      "care",
+      "ful",
+      "ly"
+     ],
+     "def": "slowly and with attention, so you don't make mistakes",
+     "ex": "Please carry the glasses carefully."
+    },
+    {
+     "w": "grandparents",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈɡræn.peə.rənts/",
+     "syl": [
+      "grand",
+      "pa",
+      "rents"
+     ],
+     "def": "the mother and father of your mum or dad",
+     "ex": "I visit my grandparents every Sunday."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "He speaks Spanish, English and a little Chinese.",
+     "kind": "Main idea",
+     "note": "Lucas can speak three languages."
+    },
+    {
+     "para": 3,
+     "text": "She spoke Spanish slowly and carefully, and I wanted to help her.",
+     "kind": "Cause → effect",
+     "note": "Lucas started Chinese because he wanted to help Mei."
+    },
+    {
+     "para": 4,
+     "text": "If you say a word wrongly, it means something different.",
+     "kind": "Key details",
+     "note": "In Chinese, the tone can change the word."
+    },
+    {
+     "para": 6,
+     "text": "Don't be afraid of mistakes!",
+     "kind": "Opinion",
+     "note": "This is Lucas's best tip."
+    },
+    {
+     "para": 4,
+     "text": "Mei laughed loudly.",
+     "kind": "Grammar to notice",
+     "note": "Loudly tells us how she laughed."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the magazine write this interview?",
+     "opts": [
+      "to sell a language app",
+      "to tell readers about a trip to Shanghai",
+      "to share a teenager's way of learning languages"
+     ],
+     "a": 2,
+     "why": "Lucas talks about how he learns languages.",
+     "evidence": null,
+     "optWhy": [
+      "The app is only a small detail.",
+      "The trip is only in the last paragraph.",
+      "Correct. Lucas tells us how he learns languages."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why did Lucas understand English when he was small?",
+     "opts": [
+      "He went to school in Ireland.",
+      "His mum spoke English to him.",
+      "He watched English cartoons."
+     ],
+     "a": 1,
+     "why": "His mum always spoke English at home.",
+     "evidence": "My mum is from Ireland, so she always spoke English to me at home.",
+     "optWhy": [
+      "His mum is from Ireland, but he lives in Spain.",
+      "Correct. His mum spoke English to him at home.",
+      "He watches Chinese cartoons, not English ones."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Who is Mei?",
+     "opts": [
+      "a new student from Shanghai",
+      "Lucas's Chinese teacher",
+      "Lucas's cousin"
+     ],
+     "a": 0,
+     "why": "Mei came to Lucas's class two years ago.",
+     "evidence": "Two years ago, a new student called Mei came to my class.",
+     "optWhy": [
+      "Correct. She is a new student from Shanghai.",
+      "She helps him, but she is a student, not a teacher.",
+      "The text does not say she is family."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "\"If you say a word wrongly, it means something different.\" What does wrongly mean?",
+     "opts": [
+      "in a way that is not correct",
+      "very quietly",
+      "too fast"
+     ],
+     "a": 0,
+     "why": "Lucas said the wrong word: 'horse', not 'mum'.",
+     "evidence": "If you say a word wrongly, it means something different.",
+     "optWhy": [
+      "Correct. Wrongly means not in the correct way.",
+      "It is not about how loud you speak.",
+      "It is not about speed."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Lucas uses his app for one hour every day.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "He uses it for ten minutes a day.",
+     "evidence": "I use an app for ten minutes every day.",
+     "optWhy": [
+      "The text says ten minutes, not one hour.",
+      "Correct. He uses it for ten minutes.",
+      "The text does tell us how long."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 7,
+     "q": "Lucas has been to Shanghai before.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "We know about his trip next summer, but not about any trip before.",
+     "evidence": "Next summer, I'm going to visit Mei's family in Shanghai.",
+     "optWhy": [
+      "The text does not tell us this.",
+      "The text does not tell us this.",
+      "Correct. We only know about next summer."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Adverbs of manner",
+    "rule": "An adverb of manner tells us how someone does something. Most of them are adjective + -ly: slow → slowly. Some are different: good → well, hard → hard, fast → fast.",
+    "table": [
+     [
+      "slow",
+      "slowly"
+     ],
+     [
+      "careful",
+      "carefully"
+     ],
+     [
+      "easy",
+      "easily"
+     ],
+     [
+      "loud",
+      "loudly"
+     ],
+     [
+      "good",
+      "well"
+     ],
+     [
+      "hard",
+      "hard"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I understood it easily when I was small.",
+      "mark": "easily"
+     },
+     {
+      "para": 3,
+      "text": "She spoke Spanish slowly and carefully, and I wanted to help her.",
+      "mark": "slowly and carefully"
+     },
+     {
+      "para": 4,
+      "text": "Mei laughed loudly.",
+      "mark": "loudly"
+     },
+     {
+      "para": 7,
+      "text": "I want to speak to her grandparents, so I'm studying hard.",
+      "mark": "hard"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Mei speaks English very ___.",
+      "opts": [
+       "good",
+       "well",
+       "goodly"
+      ],
+      "a": 1,
+      "why": "The adverb of good is well."
+     },
+     {
+      "type": "mc",
+      "q": "Please read the questions ___ before you answer.",
+      "opts": [
+       "careful",
+       "care",
+       "carefully"
+      ],
+      "a": 2,
+      "why": "We need an adverb to say how you read."
+     },
+     {
+      "type": "mc",
+      "q": "The bus driver drove ___ in the snow.",
+      "opts": [
+       "slowly",
+       "slow",
+       "slowness"
+      ],
+      "a": 0,
+      "why": "Slowly tells us how he drove."
+     },
+     {
+      "type": "fill",
+      "q": "Our teacher always speaks ___, so we can understand her.",
+      "hint": "(clear)",
+      "a": "clearly",
+      "why": "clear + -ly = clearly."
+     },
+     {
+      "type": "fill",
+      "q": "He did his homework ___ and went out to play.",
+      "hint": "(quick)",
+      "a": "quickly",
+      "why": "quick + -ly = quickly."
+     },
+     {
+      "type": "fill",
+      "q": "Lucas works ___ every evening to learn new words.",
+      "hint": "(hard)",
+      "a": "hard",
+      "why": "The adverb of hard is hard, not hardly."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261112-3-k1",
+     "tag": "English",
+     "fact": "Lucas learned English from his Irish mum at home.",
+     "q": "Who spoke English to Lucas at home?",
+     "opts": [
+      "his dad",
+      "his mum",
+      "his teacher"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261112-3-k2",
+     "tag": "Chinese",
+     "fact": "Lucas started Chinese because of Mei, a new student from Shanghai.",
+     "q": "Why did Lucas start learning Chinese?",
+     "opts": [
+      "because of his new friend Mei",
+      "because his school said so",
+      "because he lived in China"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261112-3-k3",
+     "tag": "Practice",
+     "fact": "Every Friday, Lucas and Mei speak Chinese and Spanish at the library.",
+     "q": "Where do Lucas and Mei meet on Fridays?",
+     "opts": [
+      "at the park",
+      "at a café",
+      "at the library"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261112-3-k4",
+     "tag": "Tip",
+     "fact": "Lucas's best tip is: don't be afraid of mistakes.",
+     "q": "What is Lucas's best tip?",
+     "opts": [
+      "Learn 100 words a day.",
+      "Don't be afraid of mistakes.",
+      "Only use an app."
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Lucas's languages",
+    "question": "How does Lucas learn languages?",
+    "branches": [
+     {
+      "title": "English",
+      "paras": "2",
+      "blanks": [
+       "mum from Ireland"
+      ],
+      "kps": [
+       "k20261112-3-k1"
+      ]
+     },
+     {
+      "title": "Why Chinese",
+      "paras": "3–4",
+      "blanks": [
+       "new student Mei",
+       "difficult tones"
+      ],
+      "kps": [
+       "k20261112-3-k2"
+      ]
+     },
+     {
+      "title": "How",
+      "paras": "5",
+      "blanks": [
+       "an app",
+       "Fridays at the library"
+      ],
+      "kps": [
+       "k20261112-3-k3"
+      ]
+     },
+     {
+      "title": "Tips",
+      "paras": "6–7",
+      "blanks": [
+       "be patient"
+      ],
+      "kps": [
+       "k20261112-3-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "French lessons",
+     "a dad from Ireland"
+    ]
+   },
+   "summary": {
+    "intro": "A magazine talks to Lucas, a teenager who speaks three languages.",
+    "model": "Lucas learned English at home, but he started Chinese because of his friend Mei. It is difficult, so he practises a little every day.",
+    "options": [
+     {
+      "t": "Lucas learned English from his mum at home.",
+      "ok": true,
+      "why": "This is how his languages started.",
+      "type": "main",
+      "para": 2,
+      "evidence": "My mum is from Ireland, so she always spoke English to me at home."
+     },
+     {
+      "t": "He started Chinese because of a new classmate, Mei.",
+      "ok": true,
+      "why": "This is why he learns Chinese.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Two years ago, a new student called Mei came to my class."
+     },
+     {
+      "t": "He practises every day and is not afraid of mistakes.",
+      "ok": true,
+      "why": "This is how he learns.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Don't be afraid of mistakes!"
+     },
+     {
+      "t": "Once he said 'horse' when he wanted to say 'mum'.",
+      "ok": false,
+      "why": "True and funny, but only a detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Once I wanted to say 'mum', but I said 'horse'!"
+     },
+     {
+      "t": "Lucas wants to be a language teacher one day.",
+      "ok": false,
+      "why": "This is not in the interview.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Lucas says Chinese is very easy to write.",
+      "ok": false,
+      "why": "He says the opposite: the writing is hard.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "The writing is hard."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is difficult about learning English for you? What helps you learn?",
+    "hint": "Try: 'For me, … is difficult.' and 'I learn quickly when I …'",
+    "sec": 40
+   },
+   "write": {
+    "p": "A new student from another country is in your class. Write a message to them.",
+    "steps": [
+     "Say hello and tell them your name.",
+     "Offer to help them with something.",
+     "Ask them a question about their language."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  }
+ ],
+ "audio": {
+  "It is a cold winter morning. You look out of the window, and everything is white. Snow! But what is snow, really? Where does it come from? And why is it white? Let's answer these questions one by one.": "audio/2026-11-12/a1-p1.mp3",
+  "What is a snowflake? It is a small piece of ice. It starts high up in a cloud. Up there, the air is very cold. A tiny drop of water freezes onto a piece of dust or pollen. Now it is a very small ice crystal.": "audio/2026-11-12/a1-p2.mp3",
+  "How does it get bigger? The crystal starts to fall slowly. On the way down, more water from the air freezes onto it. It grows arms, and it becomes a snowflake. If the air is cold all the way to the ground, the snowflake doesn't melt. It lands as snow.": "audio/2026-11-12/a1-p3.mp3",
+  "How many sides does a snowflake have? Almost always six! Water makes this shape when it freezes. The weather changes the shape too. Some snowflakes look like flat stars. Others look like long, thin needles.": "audio/2026-11-12/a1-p4.mp3",
+  "Why are no two snowflakes the same? Every snowflake takes a different way from the cloud to the ground. Each one meets a little more cold air or a little more water. So each one grows in its own special way.": "audio/2026-11-12/a1-p5.mp3",
+  "Who took the first photo of a snowflake? His name was Wilson Bentley. He was a farmer in Vermont, in the USA. In 1885, he used a camera and a microscope to take the first photo. In his life, he took more than 5,000 photos of snow crystals. People called him 'Snowflake Bentley'.": "audio/2026-11-12/a1-p6.mp3",
+  "And why is snow white? A single piece of ice is clear, like glass. But snow has millions of ice crystals and a lot of air between them. Light hits the crystals and bounces around many times. Then it comes back out to your eyes. All the colours of light together look white. Which answer was the most interesting for you?": "audio/2026-11-12/a1-p7.mp3",
+  "crystal": "audio/2026-11-12/a1-w-crystal.mp3",
+  "This crystal looks like a tiny star.": "audio/2026-11-12/a1-ex-crystal.mp3",
+  "freeze": "audio/2026-11-12/a1-w-freeze.mp3",
+  "Water will freeze at zero degrees.": "audio/2026-11-12/a1-ex-freeze.mp3",
+  "dust": "audio/2026-11-12/a1-w-dust.mp3",
+  "There is dust on my old books.": "audio/2026-11-12/a1-ex-dust.mp3",
+  "pollen": "audio/2026-11-12/a1-w-pollen.mp3",
+  "Bees carry pollen from flower to flower.": "audio/2026-11-12/a1-ex-pollen.mp3",
+  "melt": "audio/2026-11-12/a1-w-melt.mp3",
+  "My ice cream began to melt in the sun.": "audio/2026-11-12/a1-ex-melt.mp3",
+  "shape": "audio/2026-11-12/a1-w-shape.mp3",
+  "The cake was in the shape of a heart.": "audio/2026-11-12/a1-ex-shape.mp3",
+  "needle": "audio/2026-11-12/a1-w-needle.mp3",
+  "Grandma uses a needle to fix my jeans.": "audio/2026-11-12/a1-ex-needle.mp3",
+  "microscope": "audio/2026-11-12/a1-w-microscope.mp3",
+  "We looked at a hair under the microscope.": "audio/2026-11-12/a1-ex-microscope.mp3",
+  "single": "audio/2026-11-12/a1-w-single.mp3",
+  "There wasn't a single cloud in the sky.": "audio/2026-11-12/a1-ex-single.mp3",
+  "bounce": "audio/2026-11-12/a1-w-bounce.mp3",
+  "The ball will bounce off the wall.": "audio/2026-11-12/a1-ex-bounce.mp3",
+  "A tiny drop of water freezes onto a piece of dust or pollen.": "audio/2026-11-12/a1-ks1.mp3",
+  "If the air is cold all the way to the ground, the snowflake doesn't melt.": "audio/2026-11-12/a1-ks2.mp3",
+  "Every snowflake takes a different way from the cloud to the ground.": "audio/2026-11-12/a1-ks3.mp3",
+  "Light hits the crystals and bounces around many times.": "audio/2026-11-12/a1-ks4.mp3",
+  "Who took the first photo of a snowflake?": "audio/2026-11-12/a1-ks5.mp3",
+  "What is a snowflake?": "audio/2026-11-12/a1-g1.mp3",
+  "How does it get bigger?": "audio/2026-11-12/a1-g2.mp3",
+  "How many sides does a snowflake have?": "audio/2026-11-12/a1-g3.mp3",
+  "Zara was twelve, and she loved music. She taught herself to play the guitar when she was ten. She often sang in her bedroom by herself. But she never sang in front of other people. Just thinking about it made her feel sick.": "audio/2026-11-12/a2-p1.mp3",
+  "One Monday, her music teacher, Mr Kim, stopped her after class. 'Zara, I heard you in the music room at lunch,' he said. 'You have a lovely voice. Will you sing a song at the winter concert?' Zara looked at him. She wanted to say no, but she said yes.": "audio/2026-11-12/a2-p2.mp3",
+  "For two weeks, she practised every evening. She stood in front of the mirror and watched herself. Her little brother, Sami, listened at the door. 'You're really good!' he told her. 'Thanks,' said Zara. 'But I'm still scared.'": "audio/2026-11-12/a2-p3.mp3",
+  "On the night of the concert, the hall was full. Zara's parents were in the second row, and her best friend, Lily, was next to them. Zara walked onto the stage with her guitar. Her hands were shaking. She looked at all the faces, and she forgot the first words of the song!": "audio/2026-11-12/a2-p4.mp3",
+  "For a moment, nobody moved. Then Lily stood up and smiled at her. She started to sing the first line quietly. Zara heard her, and the words came back. 'Come on, Zara, you can do it,' she told herself. She started again.": "audio/2026-11-12/a2-p5.mp3",
+  "This time, everything was fine. Her voice was strong and clear. At the end, everyone clapped and cheered. Mr Kim gave her a big smile. Her parents were very proud of her.": "audio/2026-11-12/a2-p6.mp3",
+  "After the concert, Zara found Lily outside. 'Thank you for helping me,' she said. 'You saved me!' Lily laughed. 'No, you did it yourself. I only sang one line!' That night, Zara said to herself, 'Maybe I'm not so shy after all.'": "audio/2026-11-12/a2-p7.mp3",
+  "voice": "audio/2026-11-12/a2-w-voice.mp3",
+  "My sister has a beautiful voice.": "audio/2026-11-12/a2-ex-voice.mp3",
+  "concert": "audio/2026-11-12/a2-w-concert.mp3",
+  "We went to a concert in the park.": "audio/2026-11-12/a2-ex-concert.mp3",
+  "practise": "audio/2026-11-12/a2-w-practise.mp3",
+  "I practise the piano every day.": "audio/2026-11-12/a2-ex-practise.mp3",
+  "mirror": "audio/2026-11-12/a2-w-mirror.mp3",
+  "He looked at his new haircut in the mirror.": "audio/2026-11-12/a2-ex-mirror.mp3",
+  "scared": "audio/2026-11-12/a2-w-scared.mp3",
+  "My little brother is scared of dogs.": "audio/2026-11-12/a2-ex-scared.mp3",
+  "stage": "audio/2026-11-12/a2-w-stage.mp3",
+  "The band walked onto the stage.": "audio/2026-11-12/a2-ex-stage.mp3",
+  "row": "audio/2026-11-12/a2-w-row.mp3",
+  "We sat in the front row at the cinema.": "audio/2026-11-12/a2-ex-row.mp3",
+  "cheer": "audio/2026-11-12/a2-w-cheer.mp3",
+  "The fans cheer when their team wins.": "audio/2026-11-12/a2-ex-cheer.mp3",
+  "proud": "audio/2026-11-12/a2-w-proud.mp3",
+  "I am proud of my good test result.": "audio/2026-11-12/a2-ex-proud.mp3",
+  "shy": "audio/2026-11-12/a2-w-shy.mp3",
+  "The new girl is shy, so be kind to her.": "audio/2026-11-12/a2-ex-shy.mp3",
+  "But she never sang in front of other people.": "audio/2026-11-12/a2-ks1.mp3",
+  "She looked at all the faces, and she forgot the first words of the song!": "audio/2026-11-12/a2-ks2.mp3",
+  "Then Lily stood up and smiled at her.": "audio/2026-11-12/a2-ks3.mp3",
+  "No, you did it yourself.": "audio/2026-11-12/a2-ks4.mp3",
+  "Her parents were very proud of her.": "audio/2026-11-12/a2-ks5.mp3",
+  "She taught herself to play the guitar when she was ten.": "audio/2026-11-12/a2-g1.mp3",
+  "Zara looked at him.": "audio/2026-11-12/a2-g2.mp3",
+  "She stood in front of the mirror and watched herself.": "audio/2026-11-12/a2-g3.mp3",
+  "Lucas Moreno is fourteen and lives in Valencia, Spain. He speaks Spanish, English and a little Chinese. We asked him about learning languages.": "audio/2026-11-12/a3-p1.mp3",
+  "Lucas, how did you start learning English? My mum is from Ireland, so she always spoke English to me at home. I understood it easily when I was small. But I spoke it badly at first! I often mixed up English and Spanish words.": "audio/2026-11-12/a3-p2.mp3",
+  "Why did you choose Chinese? Two years ago, a new student called Mei came to my class. She was from Shanghai. She spoke Spanish slowly and carefully, and I wanted to help her. Then I thought, 'Why don't I learn her language too?'": "audio/2026-11-12/a3-p3.mp3",
+  "Is Chinese difficult? Yes, very! The writing is hard. I write every character slowly, again and again. The tones are difficult too. If you say a word wrongly, it means something different. Once I wanted to say 'mum', but I said 'horse'! Mei laughed loudly.": "audio/2026-11-12/a3-p4.mp3",
+  "How do you practise? I use an app for ten minutes every day. I also watch cartoons in Chinese. And every Friday, Mei and I meet at the library. For thirty minutes we speak Chinese, and then we speak Spanish. We both learn quickly that way.": "audio/2026-11-12/a3-p5.mp3",
+  "What is your best tip? Don't be afraid of mistakes! Listen carefully and speak clearly. Learn a few new words every day. And be patient, because nobody learns a language in one week.": "audio/2026-11-12/a3-p6.mp3",
+  "What's next for you? Next summer, I'm going to visit Mei's family in Shanghai. I want to speak to her grandparents, so I'm studying hard. I hope they understand me!": "audio/2026-11-12/a3-p7.mp3",
+  "character": "audio/2026-11-12/a3-w-character.mp3",
+  "This Chinese character means 'big'.": "audio/2026-11-12/a3-ex-character.mp3",
+  "tone": "audio/2026-11-12/a3-w-tone.mp3",
+  "In Chinese, each tone changes the word.": "audio/2026-11-12/a3-ex-tone.mp3",
+  "mistake": "audio/2026-11-12/a3-w-mistake.mp3",
+  "I made a mistake in my spelling test.": "audio/2026-11-12/a3-ex-mistake.mp3",
+  "patient": "audio/2026-11-12/a3-w-patient.mp3",
+  "Our teacher is very patient with us.": "audio/2026-11-12/a3-ex-patient.mp3",
+  "tip": "audio/2026-11-12/a3-w-tip.mp3",
+  "Here is a tip: drink water before a test.": "audio/2026-11-12/a3-ex-tip.mp3",
+  "app": "audio/2026-11-12/a3-w-app.mp3",
+  "This app helps me learn new words.": "audio/2026-11-12/a3-ex-app.mp3",
+  "cartoon": "audio/2026-11-12/a3-w-cartoon.mp3",
+  "My little sister watches a cartoon after school.": "audio/2026-11-12/a3-ex-cartoon.mp3",
+  "afraid": "audio/2026-11-12/a3-w-afraid.mp3",
+  "Are you afraid of the dark?": "audio/2026-11-12/a3-ex-afraid.mp3",
+  "carefully": "audio/2026-11-12/a3-w-carefully.mp3",
+  "Please carry the glasses carefully.": "audio/2026-11-12/a3-ex-carefully.mp3",
+  "grandparents": "audio/2026-11-12/a3-w-grandparents.mp3",
+  "I visit my grandparents every Sunday.": "audio/2026-11-12/a3-ex-grandparents.mp3",
+  "He speaks Spanish, English and a little Chinese.": "audio/2026-11-12/a3-ks1.mp3",
+  "She spoke Spanish slowly and carefully, and I wanted to help her.": "audio/2026-11-12/a3-ks2.mp3",
+  "If you say a word wrongly, it means something different.": "audio/2026-11-12/a3-ks3.mp3",
+  "Don't be afraid of mistakes!": "audio/2026-11-12/a3-ks4.mp3",
+  "Mei laughed loudly.": "audio/2026-11-12/a3-ks5.mp3",
+  "I understood it easily when I was small.": "audio/2026-11-12/a3-g1.mp3",
+  "I want to speak to her grandparents, so I'm studying hard.": "audio/2026-11-12/a3-g4.mp3"
+ }
+}
