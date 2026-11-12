@@ -57,6 +57,9 @@ const letters = [0, 0, 0];
     if (q.optWhy) need(/^Correct\./.test(q.optWhy[q.a] || ''), `${qt}: optWhy for the answer must start with "Correct."`);
     if (q.type === 'Right / Wrong / Doesn\'t say') { rwd++; need(JSON.stringify(q.opts) === JSON.stringify(['Right', 'Wrong', 'Doesn\'t say']), `${qt}: Right/Wrong/Doesn't say options must be exactly those three`); }
     need(typeof q.para === 'number' && q.para >= 0 && q.para <= a.paras.length, `${qt}: para must be 0 (whole) or a paragraph number`);
+    need(Array.isArray(q.steps) && q.steps.length >= 2 && q.steps.length <= 3 && q.steps.every(x => x.h && x.t), `${qt}: need 2–3 steps { h, t } (How to solve it)`);
+    if (q.steps) q.steps.forEach(x => { if (x.t && x.t.split(/\s+/).length > 20) warn.push(`${qt}: step "${x.h}" is long for A2`); });
+    (q.marks || []).forEach(m => need(q.para && a.paras[q.para - 1].includes(m), `${qt}: mark "${m}" not found in paragraph ${q.para}`));
     if (q.para) { need(q.evidence, `${qt}: evidence missing`); if (q.evidence) need(a.paras[q.para - 1].includes(q.evidence), `${qt}: evidence not found verbatim in paragraph ${q.para}`); }
   });
   if (types.size < 4) warn.push(`${tag}: only ${types.size} question types (use at least 4)`);

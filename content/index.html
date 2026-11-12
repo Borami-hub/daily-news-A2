@@ -188,6 +188,24 @@ textarea.ta.short{min-height:110px}
 .evi{border:1px solid var(--line);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
 .evi p{margin:0;font-family:var(--serif);font-size:15px;line-height:1.7}
 .evi mark{background:var(--hlbg);border-bottom:2px solid var(--hl);color:inherit;padding:1px 0}
+/* answer explanation: back to the text, how to solve it, option cards */
+.evi mark mark{background:#f5d67a;font-weight:700;border-bottom:0}
+.evi .pmk{font-family:var(--font);font-weight:800;color:var(--accent);font-size:13px;margin-right:6px}
+.fbline{font-size:16px;font-weight:700;display:flex;gap:6px;align-items:center}.fbline.ok{color:var(--good)}.fbline.no{color:var(--bad)}
+.solve{background:#f6f1e7;border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:6px}
+.solve .eyebrow{color:var(--amber);font-weight:800}
+.solve ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:14.5px;line-height:1.5}
+.ocs{display:flex;flex-direction:column;gap:8px}
+.oc{display:grid;grid-template-columns:28px 1fr;gap:10px;border:1px solid var(--line);border-radius:12px;padding:12px;background:var(--surface);font-size:14px;line-height:1.5}
+.oc .ocl{width:26px;height:26px;border-radius:7px;background:var(--soft);color:var(--muted);font-weight:800;display:flex;align-items:center;justify-content:center;font-size:13px}
+.och{display:flex;justify-content:space-between;align-items:flex-start;gap:8px;margin-bottom:2px}.och b{font-size:15px}
+.octag{font-size:11.5px;font-weight:700;border-radius:6px;padding:2px 8px;background:var(--soft);color:var(--muted);white-space:nowrap}
+.oc.r{background:var(--goodbg);border-color:var(--good)}.oc.r .ocl{background:var(--good);color:#fff}.oc.r .octag{background:#cdebd8;color:var(--good)}
+.oc.w{background:var(--badbg);border-color:var(--bad)}.oc.w .ocl{background:var(--bad);color:#fff}.oc.w .octag{background:#f6d3cc;color:var(--bad)}
+details.owd{border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+details.owd summary{cursor:pointer;padding:12px 14px;font-weight:700;color:var(--accent);font-size:14.5px}
+details.owd[open] summary{border-bottom:1px solid var(--line)}
+details.owd .ocs{padding:10px}
 .dots{display:flex;gap:6px;flex-wrap:wrap}
 .dot{width:34px;height:34px;border-radius:50%;border:1.5px solid var(--line);background:var(--surface);font-weight:700;font-size:13px;color:var(--muted)}
 .dot.done{background:var(--soft);border-color:var(--accent);color:var(--accent)}
@@ -590,7 +608,7 @@ const PAGES = {
       } else {
         const a = art(id);
         if (mode === 'grammar') qs = a.grammar.items.map((g, i) => gramQ(a, g, i));
-        if (mode === 'toefl') qs = a.questions.map((q, i) => ({ id: `${a.id}-q${i}`, type: 'mc', tag: q.type, prompt: q.q, opts: q.opts, a: q.a, fact: q.why, para: q.para, evidence: q.evidence, optWhy: q.optWhy, highlight: q.highlight }));
+        if (mode === 'toefl') qs = a.questions.map((q, i) => ({ id: `${a.id}-q${i}`, type: 'mc', tag: q.type, prompt: q.q, opts: q.opts, a: q.a, fact: q.why, para: q.para, evidence: q.evidence, optWhy: q.optWhy, highlight: q.highlight, steps: q.steps, marks: q.marks }));
       }
       Object.assign(st.s, { qs, i: 0, answered: false, picked: -1, typed: '', ok: false, correct: 0, wrong: [], requeued: {}, finished: false, showP: false, style: mode === 'toefl' ? null : 'practice', answers: [], reviewing: false, ri: 0, t0: 0 });
     },
@@ -621,7 +639,7 @@ const PAGES = {
           : `<form class="row" data-act="spell" style="flex-wrap:nowrap"><input class="input" id="spellIn" autocomplete="off" autocapitalize="off" spellcheck="false" value="${esc(s.typed)}" ${s.answered ? 'disabled' : 'data-autofocus'} placeholder="${q.ph || 'Type the word'}"><button class="btn ${s.answered ? 'dim' : ''}" ${s.answered ? 'disabled' : ''}>Check</button></form>`}
         ${s.answered ? (q.type === 'spell'
             ? `<div class="fb ${s.ok ? 'ok' : 'no'}">${s.ok ? 'Correct' : 'Answer: ' + esc(q.answer)} <button class="say" data-act="speak" data-t="${esc(q.answer)}">🔊</button></div>${q.tag === 'Grammar' && q.fact ? `<div class="fact">${esc(q.fact)}</div>` : ''}`
-            : `<div class="fb ${s.ok ? 'ok' : 'no'}">${s.ok ? 'Correct' : 'Not quite.'}</div>${q.optWhy ? explain(q, s.picked, a0) : `<div class="fact">${esc(q.fact)}</div>`}`)
+            : (q.optWhy ? `<div class="fbline ${s.ok ? 'ok' : 'no'}">${s.ok ? '✓ Correct' : `✗ Not quite — the answer is ${'ABCD'[q.a]}`}</div>${explain(q, s.picked, a0)}` : `<div class="fb ${s.ok ? 'ok' : 'no'}">${s.ok ? 'Correct' : 'Not quite.'}</div><div class="fact">${esc(q.fact)}</div>`))
           + `<button class="btn" data-act="next" data-autofocus>${s.i === n - 1 ? 'Finish' : 'Next'}</button>` : ''}
       </div>${pasg}</div>`;
     }
@@ -786,14 +804,32 @@ function artCard(a, i) {
     <span class="go">›</span></button>`;
 }
 function evidenceBlock(q, a) {
-  if (!q.para) return `<div class="evi"><span class="eyebrow">Evidence</span><div class="meta">This question is about the whole article. Look at how the paragraphs connect.</div></div>`;
-  const p = esc(a.paras[q.para - 1]), e = q.evidence ? esc(q.evidence) : '';
-  return `<div class="evi"><span class="eyebrow">Evidence · paragraph ${q.para}</span><p>${e && p.includes(e) ? p.replace(e, `<mark>${e}</mark>`) : p}</p></div>`;
+  if (!q.para) return `<div class="evi"><span class="eyebrow">Back to the text</span><div class="meta">This question is about the whole text. Think about what every paragraph says.</div></div>`;
+  const p = a.paras[q.para - 1], marks = [q.evidence].concat(q.marks || []).filter(x => x && p.includes(x));
+  const sents = []; const re = /[^.!?]+[.!?]+['"”’]?\s*/g; let m;
+  while ((m = re.exec(p))) sents.push({ s: m.index, e: m.index + m[0].length });
+  const keep = new Set();
+  marks.forEach(x => { const i = p.indexOf(x); sents.forEach((t, k) => { if (t.s < i + x.length && t.e > i) keep.add(k); }); });
+  const groups = []; [...keep].sort((x, y) => x - y).forEach(k => { const g = groups[groups.length - 1]; if (g && g.k === k - 1) { g.e = sents[k].e; g.k = k; } else groups.push({ s: sents[k].s, e: sents[k].e, k }); });
+  const parts = groups.length ? groups.map(g => p.slice(g.s, g.e).trim()) : [p];
+  const hl = t => { let h = esc(t); marks.map(esc).sort((x, y) => y.length - x.length).forEach(x => { if (h.includes(x)) h = h.replace(x, `<mark>${x}</mark>`); }); return h; };
+  return `<div class="evi"><span class="eyebrow">Back to the text</span>${parts.map(t => `<p><span class="pmk">¶${q.para}</span>${hl(t)}</p>`).join('')}</div>`;
+}
+function optCards(q, picked) {
+  const order = [];
+  if (picked != null && picked >= 0 && picked !== q.a) order.push(picked);
+  order.push(q.a); q.opts.forEach((o, i) => { if (!order.includes(i)) order.push(i); });
+  return `<div class="ocs">${order.map(i => { const c = i === q.a ? 'r' : i === picked ? 'w' : '', tag = i === q.a ? 'Correct' : i === picked ? 'Your answer' : 'Ruled out';
+    return `<div class="oc ${c}"><span class="ocl">${'ABCD'[i]}</span><div><div class="och"><b>${esc(q.opts[i])}</b><span class="octag">${tag}</span></div><div>${esc(q.optWhy[i])}</div></div></div>`; }).join('')}</div>`;
 }
 function explain(q, picked, a) {
-  return `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>
-    <div class="ow">${q.opts.map((o, i) => `<div class="owi ${i === q.a ? 'r' : i === picked ? 'w' : ''}"><b>${'ABCD'[i]}</b><span>${esc(q.optWhy[i])}</span></div>`).join('')}</div>
-    ${a ? evidenceBlock(q, a) : ''}`;
+  const ok = picked === q.a;
+  const steps = (q.steps || []).length
+    ? `<div class="solve"><span class="eyebrow">How to solve it</span><ol>${q.steps.map(x => `<li><b>${esc(x.h)}:</b> ${esc(x.t)}</li>`).join('')}</ol></div>`
+    : `<div class="solve"><span class="eyebrow">Why ${'ABCD'[q.a]}</span><div style="font-size:14.5px;line-height:1.5">${esc(q.fact)}</div></div>`;
+  const back = a ? evidenceBlock(q, a) : '';
+  return ok ? back + steps + `<details class="owd"><summary>See why each option is right or wrong</summary>${optCards(q, picked)}</details>`
+    : back + optCards(q, picked) + steps;
 }
 function testView(st) {
   const s = st.s, { id } = st.params, q = s.qs[s.i], n = s.qs.length, a = art(id), mine = s.answers[s.i];
