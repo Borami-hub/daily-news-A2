@@ -193,26 +193,31 @@
             "a farmer's life in Vermont"
           ],
           "a": 1,
-          "why": "Each paragraph answers a question about snow.",
+          "why": "全文每段回答一个关于雪的问题：雪是什么、怎么形成、为什么是白的。",
           "evidence": null,
           "optWhy": [
-            "Snowmen are not in the text.",
-            "Correct. It explains how snowflakes grow and why snow is white.",
-            "The farmer is only in one paragraph."
+            "文中根本没提到堆雪人。",
+            "正确。每段都在回答一个关于雪的问题：snowflake 怎么长大、为什么 white。",
+            "农民 Wilson Bentley 只出现在第6段，是细节，不是全文主旨。"
           ],
           "steps": [
             {
-              "h": "Read the first paragraph",
-              "t": "It asks three questions: What is snow? Where does it come from? Why is it white?"
+              "h": "先看第1段",
+              "t": "连问三个问题：What is snow? Where does it come from? Why is it white?"
             },
             {
-              "h": "Look at each paragraph",
-              "t": "Every paragraph answers one question about snow."
+              "h": "再扫每段开头",
+              "t": "每段都是先提一个问题再回答，全文都在讲雪。"
             },
             {
-              "h": "Check the options",
-              "t": "Snowmen are not in the text, and the farmer is only in paragraph 6."
+              "h": "排除",
+              "t": "只在一段出现的内容（农民）不是主旨。"
             }
+          ],
+          "traps": [
+            "无中生有",
+            null,
+            "以偏概全"
           ]
         },
         {
@@ -225,29 +230,34 @@
             "in a river"
           ],
           "a": 0,
-          "why": "It starts high up in a cloud.",
+          "why": "第2段原文：It starts high up in a cloud.",
           "evidence": "It starts high up in a cloud.",
           "optWhy": [
-            "Correct. It starts high up in a cloud.",
-            "It lands on the ground at the end.",
-            "Rivers are not in the text."
+            "正确。原文 starts high up in a cloud = 选项 in a cloud。",
+            "ground 是雪花最后落下的地方，是终点不是起点。",
+            "原文没提到 river。"
           ],
           "steps": [
             {
-              "h": "Find the key word",
-              "t": "Look for start in paragraph 2."
+              "h": "找关键词",
+              "t": "题目问 start，回第2段找 starts。"
             },
             {
-              "h": "Read the sentence",
-              "t": "\"It starts high up in a cloud.\""
+              "h": "读这一句",
+              "t": "It starts high up in a cloud."
             },
             {
-              "h": "Choose the match",
-              "t": "In a cloud is the same idea."
+              "h": "对应选项",
+              "t": "in a cloud 与原文一致。"
             }
           ],
           "marks": [
             "starts"
+          ],
+          "traps": [
+            null,
+            "细节偷换",
+            "无中生有"
           ]
         },
         {
@@ -260,26 +270,31 @@
             "Doesn't say"
           ],
           "a": 2,
-          "why": "The text says he took many photos, but not that he sold them.",
+          "why": "原文只说他拍了很多照片，没说卖照片。",
           "evidence": "In his life, he took more than 5,000 photos of snow crystals.",
           "optWhy": [
-            "The text does not tell us this.",
-            "The text does not tell us this.",
-            "Correct. We only know he took many photos."
+            "原文没有说他卖照片，不能选 Right。",
+            "选 Wrong 要原文说了相反的话（比如 he never sold them），原文没有。",
+            "正确。原文只有 he took more than 5,000 photos，没有 sold。"
           ],
           "steps": [
             {
-              "h": "Find Bentley",
-              "t": "Paragraph 6 is about Wilson Bentley."
+              "h": "定位",
+              "t": "第6段讲 Wilson Bentley。"
             },
             {
-              "h": "Look for selling",
-              "t": "The text says he took photos. It says nothing about money or selling."
+              "h": "找 sold",
+              "t": "原文只有 took photos，没有 sold 或 money。"
             },
             {
-              "h": "Choose Doesn't say",
-              "t": "Not in the text means Doesn't say, not Wrong."
+              "h": "分清 Wrong 和 Doesn't say",
+              "t": "原文说了相反的事 → Wrong；原文根本没提 → Doesn't say。"
             }
+          ],
+          "traps": [
+            "无中生有",
+            "混淆 Wrong / Doesn't say",
+            null
           ]
         },
         {
@@ -292,30 +307,35 @@
             "only one"
           ],
           "a": 2,
-          "why": "One piece of ice is clear, but a lot of crystals look white.",
+          "why": "single 在这里 = only one，和下一句 millions of ice crystals 形成对比。",
           "evidence": "A single piece of ice is clear, like glass.",
           "optWhy": [
-            "Single is not about cold.",
-            "Single is not about size.",
-            "Correct. Single means only one."
+            "原文 clear, like glass 讲的是透明，跟冷不冷无关。",
+            "下一句对比的是数量（millions），不是大小。",
+            "正确。a single piece = 只有一块，和 millions of crystals 相对。"
           ],
           "steps": [
             {
-              "h": "Read the whole sentence",
+              "h": "读整句",
               "t": "A single piece of ice is clear, like glass."
             },
             {
-              "h": "Look at the next sentence",
-              "t": "Snow has millions of crystals. Single is the opposite: only one."
+              "h": "看转折",
+              "t": "下一句 But snow has millions of ice crystals：But 表示对比，一块 vs 很多块。"
             },
             {
-              "h": "Put the answer back",
-              "t": "\"Only one piece of ice is clear\" makes sense."
+              "h": "代回验证",
+              "t": "Only one piece of ice is clear 说得通。"
             }
           ],
           "marks": [
             "single",
             "But snow has millions of ice crystals and a lot of air between them."
+          ],
+          "traps": [
+            "望文生义",
+            "偷换概念",
+            null
           ]
         },
         {
@@ -328,29 +348,34 @@
             "the ground"
           ],
           "a": 0,
-          "why": "The falling crystal grows arms.",
+          "why": "It 指前一句的 the crystal（冰晶）。",
           "evidence": "It grows arms, and it becomes a snowflake.",
           "optWhy": [
-            "Correct. The ice crystal grows arms.",
-            "The cloud does not grow arms.",
-            "The ground does not become a snowflake."
+            "正确。前一句 The crystal starts to fall slowly，It = the crystal。",
+            "云不会 grow arms，也不会变成 snowflake。",
+            "ground 是落地的地方，不会长出 arms。"
           ],
           "steps": [
             {
-              "h": "Look back",
-              "t": "What comes before It? The crystal starts to fall."
+              "h": "往前找",
+              "t": "代词一般指前面最近的名词：The crystal starts to fall slowly."
             },
             {
-              "h": "Ask what can grow",
-              "t": "A cloud or the ground cannot become a snowflake."
+              "h": "看动作",
+              "t": "grows arms、becomes a snowflake，只有冰晶做得到。"
             },
             {
-              "h": "Put the answer back",
-              "t": "\"The ice crystal grows arms\" makes sense."
+              "h": "代回验证",
+              "t": "The ice crystal grows arms 说得通。"
             }
           ],
           "marks": [
             "The crystal starts to fall slowly."
+          ],
+          "traps": [
+            null,
+            "指代错误",
+            "指代错误"
           ]
         },
         {
@@ -363,26 +388,31 @@
             "The wind breaks them."
           ],
           "a": 1,
-          "why": "Each snowflake meets different air on its way down.",
+          "why": "第5段：Every snowflake takes a different way from the cloud to the ground.",
           "evidence": "Every snowflake takes a different way from the cloud to the ground.",
           "optWhy": [
-            "The text does not say this.",
-            "Correct. Each one takes a different way to the ground.",
-            "Wind is not in the text."
+            "原文没说“不同的日子”。",
+            "正确。原文 takes a different way from the cloud to the ground = 选项 takes a different way down。",
+            "原文没提到 wind。"
           ],
           "steps": [
             {
-              "h": "Find the question in the text",
-              "t": "Paragraph 5 asks: Why are no two snowflakes the same?"
+              "h": "找原题",
+              "t": "第5段开头就是这个问题：Why are no two snowflakes the same?"
             },
             {
-              "h": "Read the answer",
-              "t": "Every snowflake takes a different way to the ground."
+              "h": "读答案句",
+              "t": "Every snowflake takes a different way from the cloud to the ground."
             },
             {
-              "h": "Check the options",
-              "t": "Days and wind are not in the text."
+              "h": "同义替换",
+              "t": "from the cloud to the ground = down。"
             }
+          ],
+          "traps": [
+            "无中生有",
+            null,
+            "无中生有"
           ]
         }
       ],
@@ -841,26 +871,31 @@
             "bored"
           ],
           "a": 0,
-          "why": "Thinking about it made her feel sick.",
+          "why": "made her feel sick：一想到就难受，说明她很害怕。",
           "evidence": "Just thinking about it made her feel sick.",
           "optWhy": [
-            "Correct. It made her feel sick, so she was scared.",
-            "She did not want to do it.",
-            "She loved music, so she was not bored."
+            "正确。原文 made her feel sick（难受想吐）= scared；第3段她也说 I'm still scared。",
+            "她根本不想在人前唱，不是兴奋。",
+            "她 loved music，并不 bored。"
           ],
           "steps": [
             {
-              "h": "Find the feeling words",
-              "t": "\"made her feel sick\" tells us how Zara feels."
+              "h": "找情绪词",
+              "t": "第1段 Just thinking about it made her feel sick."
             },
             {
-              "h": "Think about it",
-              "t": "You feel sick when you are scared, not excited or bored."
+              "h": "推断",
+              "t": "只是想想就难受，说明很害怕。"
             },
             {
-              "h": "Check later in the story",
-              "t": "In paragraph 3 she says, 'I'm still scared.'"
+              "h": "找印证",
+              "t": "第3段 But I'm still scared. 直接说出了 scared。"
             }
+          ],
+          "traps": [
+            null,
+            "与原文相反",
+            "与原文相反"
           ]
         },
         {
@@ -873,26 +908,31 @@
             "in the music room"
           ],
           "a": 2,
-          "why": "He heard her at lunch in the music room.",
+          "why": "Mr Kim 的原话：I heard you in the music room at lunch.",
           "evidence": "I heard you in the music room at lunch",
           "optWhy": [
-            "She sang in her bedroom, but Mr Kim did not hear her there.",
-            "The concert was later.",
-            "Correct. He heard her in the music room at lunch."
+            "地点被偷换：她在 bedroom 唱歌是真的，但 Mr Kim 不是在那里听到的。",
+            "时间被偷换：concert 是后来的事。",
+            "正确。原文 in the music room at lunch。"
           ],
           "steps": [
             {
-              "h": "Find Mr Kim",
-              "t": "In paragraph 2, Mr Kim talks to Zara."
+              "h": "定位人物",
+              "t": "第2段 Mr Kim 和 Zara 说话。"
             },
             {
-              "h": "Read his words",
-              "t": "\"I heard you in the music room at lunch.\""
+              "h": "读他的原话",
+              "t": "I heard you in the music room at lunch."
             },
             {
-              "h": "Watch out",
-              "t": "She sings in her bedroom too, but Mr Kim did not hear her there."
+              "h": "小心干扰",
+              "t": "bedroom 和 concert 文中都有，但都不是 Mr Kim 听到她的地方。"
             }
+          ],
+          "traps": [
+            "细节偷换",
+            "细节偷换",
+            null
           ]
         },
         {
@@ -905,26 +945,31 @@
             "Doesn't say"
           ],
           "a": 1,
-          "why": "Sami said she was really good.",
+          "why": "Sami 说 You're really good!，和 sang badly 意思相反。",
           "evidence": "'You're really good!' he told her.",
           "optWhy": [
-            "The story says the opposite.",
-            "Correct. He said she was really good.",
-            "The story does tell us what Sami thought."
+            "与原文意思相反。",
+            "正确。原文 really good，题干 badly，意思相反 → Wrong。",
+            "原文明确写了 Sami 的看法，不是没提。"
           ],
           "steps": [
             {
-              "h": "Find Sami",
-              "t": "In paragraph 3, Sami listens at the door."
+              "h": "定位",
+              "t": "第3段 Sami listens at the door."
             },
             {
-              "h": "Read what he says",
-              "t": "\"You're really good!\""
+              "h": "读原话",
+              "t": "You're really good!"
             },
             {
-              "h": "Compare",
-              "t": "Really good is the opposite of badly, so the answer is Wrong."
+              "h": "比较",
+              "t": "really good 和 badly 相反 → Wrong。"
             }
+          ],
+          "traps": [
+            "与原文相反",
+            null,
+            "混淆 Wrong / Doesn't say"
           ]
         },
         {
@@ -937,29 +982,34 @@
             "the students on the stage"
           ],
           "a": 1,
-          "why": "Lily sat next to Zara's parents.",
+          "why": "them 指同一句前面的 Zara's parents。",
           "evidence": "Zara's parents were in the second row, and her best friend, Lily, was next to them.",
           "optWhy": [
-            "Teachers are not in this sentence.",
-            "Correct. Them means Zara's parents.",
-            "Lily was not on the stage."
+            "这句话里没有老师。",
+            "正确。前半句 Zara's parents were in the second row，them = Zara's parents。",
+            "Lily 坐在观众席，不在台上。"
           ],
           "steps": [
             {
-              "h": "Look back",
-              "t": "Who is in the sentence before them? Zara's parents."
+              "h": "往前找",
+              "t": "同一句前半部分：Zara's parents were in the second row."
             },
             {
-              "h": "One or more people?",
-              "t": "Them means more than one person. Zara's parents are two people."
+              "h": "看单复数",
+              "t": "them 是复数，parents 是两个人，正好对上。"
             },
             {
-              "h": "Put the answer back",
-              "t": "\"Lily was next to Zara's parents\" makes sense."
+              "h": "代回验证",
+              "t": "Lily was next to Zara's parents 说得通。"
             }
           ],
           "marks": [
             "next to them"
+          ],
+          "traps": [
+            "指代错误",
+            null,
+            "指代错误"
           ]
         },
         {
@@ -972,29 +1022,34 @@
             "Lily sang the first line."
           ],
           "a": 2,
-          "why": "Lily sang quietly, and the words came back.",
+          "why": "Lily 小声唱出第一句，Zara 就想起歌词了。",
           "evidence": "She started to sing the first line quietly.",
           "optWhy": [
-            "Zara had the guitar, not Mr Kim.",
-            "There is no paper in the story.",
-            "Correct. Lily sang the first line."
+            "人物被偷换：吉他在 Zara 手里，Mr Kim 没弹。",
+            "原文没提到纸。",
+            "正确。原文 She started to sing the first line quietly ... and the words came back。"
           ],
           "steps": [
             {
-              "h": "Find the problem",
-              "t": "In paragraph 4, Zara forgot the words."
+              "h": "找问题",
+              "t": "第4段末：she forgot the first words of the song!"
             },
             {
-              "h": "Read what happened next",
-              "t": "Lily sang the first line quietly, and the words came back."
+              "h": "看下一段怎么解决",
+              "t": "Lily ... started to sing the first line quietly."
             },
             {
-              "h": "Check the options",
-              "t": "Mr Kim and paper are not in this part."
+              "h": "找结果",
+              "t": "Zara heard her, and the words came back. 因果就清楚了。"
             }
           ],
           "marks": [
             "the words came back"
+          ],
+          "traps": [
+            "细节偷换",
+            "无中生有",
+            null
           ]
         },
         {
@@ -1007,26 +1062,31 @@
             "a teacher who plans a concert"
           ],
           "a": 0,
-          "why": "Zara is shy, but she sings at the concert.",
+          "why": "故事主线：害羞的 Zara 在音乐会上唱歌，最后成功了。",
           "evidence": null,
           "optWhy": [
-            "Correct. Zara is shy, but she sings at the concert.",
-            "Zara plays the guitar, and she is a girl.",
-            "Mr Kim is in the story, but he is not the main person."
+            "正确。开头害羞、中间忘词、结尾成功，都围绕这件事。",
+            "人物被偷换：会弹吉他的是女孩 Zara。",
+            "Mr Kim 只是次要人物，不是故事中心。"
           ],
           "steps": [
             {
-              "h": "Think about the whole story",
-              "t": "Who is in every paragraph? Zara."
+              "h": "看主角",
+              "t": "每一段都有 Zara。"
             },
             {
-              "h": "Find the problem and the ending",
-              "t": "She is shy, but at the end she sings well."
+              "h": "抓开头和结局",
+              "t": "开头她不敢在人前唱，结尾 Maybe I'm not so shy after all."
             },
             {
-              "h": "Check the options",
-              "t": "Zara is a girl, and Mr Kim is not the main person."
+              "h": "排除",
+              "t": "只讲次要人物、或人物弄错的选项都不对。"
             }
+          ],
+          "traps": [
+            null,
+            "细节偷换",
+            "以偏概全"
           ]
         }
       ],
@@ -1492,26 +1552,31 @@
             "to share a teenager's way of learning languages"
           ],
           "a": 2,
-          "why": "Lucas talks about how he learns languages.",
+          "why": "第1段 We asked him about learning languages，全文都在讲他怎么学语言。",
           "evidence": null,
           "optWhy": [
-            "The app is only a small detail.",
-            "The trip is only in the last paragraph.",
-            "Correct. Lucas tells us how he learns languages."
+            "app 只在第5段出现，是细节。",
+            "Shanghai 之行只在最后一段，是细节。",
+            "正确。原文 asked him about learning languages = 选项 share a teenager's way of learning languages。"
           ],
           "steps": [
             {
-              "h": "Read the first paragraph",
-              "t": "\"We asked him about learning languages.\""
+              "h": "看第1段",
+              "t": "We asked him about learning languages."
             },
             {
-              "h": "Look at all the questions",
-              "t": "They all ask how Lucas learns languages."
+              "h": "看所有问题",
+              "t": "how did you start / how do you practise / best tip，全在问怎么学语言。"
             },
             {
-              "h": "Check the options",
-              "t": "The app and the trip are only small parts."
+              "h": "排除",
+              "t": "只出现在一段的内容不是写作目的。"
             }
+          ],
+          "traps": [
+            "以偏概全",
+            "以偏概全",
+            null
           ]
         },
         {
@@ -1524,26 +1589,31 @@
             "He watched English cartoons."
           ],
           "a": 1,
-          "why": "His mum always spoke English at home.",
+          "why": "第2段：My mum is from Ireland, so she always spoke English to me at home.",
           "evidence": "My mum is from Ireland, so she always spoke English to me at home.",
           "optWhy": [
-            "His mum is from Ireland, but he lives in Spain.",
-            "Correct. His mum spoke English to him at home.",
-            "He watches Chinese cartoons, not English ones."
+            "细节被偷换：妈妈来自 Ireland，但 Lucas 住在 Spain，没在爱尔兰上学。",
+            "正确。原文 she always spoke English to me = 选项 His mum spoke English to him。",
+            "细节被偷换：他看的是中文动画片（cartoons in Chinese）。"
           ],
           "steps": [
             {
-              "h": "Find English",
-              "t": "Paragraph 2 is about English."
+              "h": "定位",
+              "t": "第2段讲英语。"
             },
             {
-              "h": "Look for so",
-              "t": "\"My mum is from Ireland, so she always spoke English to me.\""
+              "h": "抓因果词 so",
+              "t": "My mum is from Ireland, so she always spoke English to me at home."
             },
             {
-              "h": "Watch out",
-              "t": "He lives in Spain, not Ireland, and his cartoons are in Chinese."
+              "h": "小心干扰",
+              "t": "Ireland 和 cartoons 文中都有，但被搬到了错误的位置。"
             }
+          ],
+          "traps": [
+            "细节偷换",
+            null,
+            "细节偷换"
           ]
         },
         {
@@ -1556,26 +1626,31 @@
             "Lucas's cousin"
           ],
           "a": 0,
-          "why": "Mei came to Lucas's class two years ago.",
+          "why": "第3段：a new student called Mei came to my class，她来自 Shanghai。",
           "evidence": "Two years ago, a new student called Mei came to my class.",
           "optWhy": [
-            "Correct. She is a new student from Shanghai.",
-            "She helps him, but she is a student, not a teacher.",
-            "The text does not say she is family."
+            "正确。原文 a new student called Mei ... She was from Shanghai。",
+            "她在帮 Lucas 练中文，但身份是学生，不是老师。",
+            "原文没说她是亲戚。"
           ],
           "steps": [
             {
-              "h": "Find the name Mei",
-              "t": "She first appears in paragraph 3."
+              "h": "找名字第一次出现",
+              "t": "Mei 第一次出现在第3段。"
             },
             {
-              "h": "Read the sentence",
-              "t": "\"a new student called Mei came to my class.\""
+              "h": "读介绍句",
+              "t": "a new student called Mei came to my class. She was from Shanghai."
             },
             {
-              "h": "Check the options",
-              "t": "She is a student, not a teacher or family."
+              "h": "排除",
+              "t": "帮他练中文 ≠ 老师。"
             }
+          ],
+          "traps": [
+            null,
+            "偷换身份",
+            "无中生有"
           ]
         },
         {
@@ -1588,30 +1663,35 @@
             "too fast"
           ],
           "a": 0,
-          "why": "Lucas said the wrong word: 'horse', not 'mum'.",
+          "why": "wrongly = wrong + -ly，不正确地；后面把 mum 说成 horse 就是例子。",
           "evidence": "If you say a word wrongly, it means something different.",
           "optWhy": [
-            "Correct. Wrongly means not in the correct way.",
-            "It is not about how loud you speak.",
-            "It is not about speed."
+            "正确。wrongly = 不正确地，原文例子：想说 mum 却说成了 horse。",
+            "和音量无关，只是乱猜词义。",
+            "和速度无关，只是乱猜词义。"
           ],
           "steps": [
             {
-              "h": "Break the word",
-              "t": "wrong + -ly: it tells us how you say a word."
+              "h": "拆词",
+              "t": "wrong + -ly：说明“怎么说”这个词。"
             },
             {
-              "h": "Use the example",
-              "t": "Lucas wanted to say 'mum' but said 'horse'. He said it in the wrong way."
+              "h": "看例子",
+              "t": "Once I wanted to say 'mum', but I said 'horse'! 就是说错了。"
             },
             {
-              "h": "Put the answer back",
-              "t": "\"If you say a word not correctly, it means something different.\""
+              "h": "代回验证",
+              "t": "If you say a word not correctly, it means something different. 说得通。"
             }
           ],
           "marks": [
             "wrongly",
             "Once I wanted to say 'mum', but I said 'horse'!"
+          ],
+          "traps": [
+            null,
+            "望文生义",
+            "望文生义"
           ]
         },
         {
@@ -1624,29 +1704,34 @@
             "Doesn't say"
           ],
           "a": 1,
-          "why": "He uses it for ten minutes a day.",
+          "why": "原文是 ten minutes，题干是 one hour，数字不符。",
           "evidence": "I use an app for ten minutes every day.",
           "optWhy": [
-            "The text says ten minutes, not one hour.",
-            "Correct. He uses it for ten minutes.",
-            "The text does tell us how long."
+            "数字不对：原文是 ten minutes，不是 one hour。",
+            "正确。原文 ten minutes every day，题干 one hour，不一致 → Wrong。",
+            "原文明确写了时间，不是没提。"
           ],
           "steps": [
             {
-              "h": "Find the app",
-              "t": "Paragraph 5: \"I use an app\"."
+              "h": "定位",
+              "t": "第5段 I use an app ..."
             },
             {
-              "h": "Check the time",
-              "t": "The text says ten minutes. The sentence says one hour."
+              "h": "核对数字",
+              "t": "原文 ten minutes ≠ 题干 one hour。"
             },
             {
-              "h": "Compare",
-              "t": "Different numbers, so the answer is Wrong."
+              "h": "判断",
+              "t": "原文写了、但不一致 → Wrong。"
             }
           ],
           "marks": [
             "ten minutes"
+          ],
+          "traps": [
+            "数字偷换",
+            null,
+            "混淆 Wrong / Doesn't say"
           ]
         },
         {
@@ -1659,26 +1744,31 @@
             "Doesn't say"
           ],
           "a": 2,
-          "why": "We know about his trip next summer, but not about any trip before.",
+          "why": "原文只说 Next summer, I'm going to visit，没说以前去没去过。",
           "evidence": "Next summer, I'm going to visit Mei's family in Shanghai.",
           "optWhy": [
-            "The text does not tell us this.",
-            "The text does not tell us this.",
-            "Correct. We only know about next summer."
+            "原文没说他去过。",
+            "原文也没说他没去过，不能选 Wrong。",
+            "正确。going to 是将来的计划，过去去没去过，原文没提。"
           ],
           "steps": [
             {
-              "h": "Find Shanghai",
-              "t": "Paragraph 7: \"I'm going to visit Mei's family in Shanghai.\""
+              "h": "定位",
+              "t": "第7段 Next summer, I'm going to visit Mei's family in Shanghai."
             },
             {
-              "h": "Look at the time",
-              "t": "Going to is about the future. Nothing is about the past."
+              "h": "看时态",
+              "t": "going to 讲将来；题干 has been 讲过去。"
             },
             {
-              "h": "Choose Doesn't say",
-              "t": "The text does not tell us about an earlier trip."
+              "h": "判断",
+              "t": "原文没提过去 → Doesn't say。"
             }
+          ],
+          "traps": [
+            "无中生有",
+            "混淆 Wrong / Doesn't say",
+            null
           ]
         }
       ],

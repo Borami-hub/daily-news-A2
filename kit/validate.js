@@ -54,11 +54,12 @@ const letters = [0, 0, 0];
     need(q.opts && q.opts.length === 3, `${qt}: need 3 options`);
     need(q.a >= 0 && q.a <= 2, `${qt}: answer index must be 0–2`); letters[q.a]++;
     need(q.why && q.optWhy && q.optWhy.length === 3, `${qt}: need why + 3 optWhy`);
-    if (q.optWhy) need(/^Correct\./.test(q.optWhy[q.a] || ''), `${qt}: optWhy for the answer must start with "Correct."`);
+    if (q.optWhy) need(/^(Correct\.|正确。)/.test(q.optWhy[q.a] || ''), `${qt}: optWhy for the answer must start with "正确。"`);
+    if (q.traps) need(q.traps.length === 3 && q.traps[q.a] == null && q.traps.every((t, i) => i === q.a || t), `${qt}: traps needs a label for each wrong option and null for the answer`);
     if (q.type === 'Right / Wrong / Doesn\'t say') { rwd++; need(JSON.stringify(q.opts) === JSON.stringify(['Right', 'Wrong', 'Doesn\'t say']), `${qt}: Right/Wrong/Doesn't say options must be exactly those three`); }
     need(typeof q.para === 'number' && q.para >= 0 && q.para <= a.paras.length, `${qt}: para must be 0 (whole) or a paragraph number`);
     need(Array.isArray(q.steps) && q.steps.length >= 2 && q.steps.length <= 3 && q.steps.every(x => x.h && x.t), `${qt}: need 2–3 steps { h, t } (How to solve it)`);
-    if (q.steps) q.steps.forEach(x => { if (x.t && x.t.split(/\s+/).length > 20) warn.push(`${qt}: step "${x.h}" is long for A2`); });
+    if (q.steps) q.steps.forEach(x => { if (x.t && x.t.length > 90) warn.push(`${qt}: step "${x.h}" is long`); });
     (q.marks || []).forEach(m => need(q.para && a.paras[q.para - 1].includes(m), `${qt}: mark "${m}" not found in paragraph ${q.para}`));
     if (q.para) { need(q.evidence, `${qt}: evidence missing`); if (q.evidence) need(a.paras[q.para - 1].includes(q.evidence), `${qt}: evidence not found verbatim in paragraph ${q.para}`); }
   });
@@ -107,7 +108,8 @@ const letters = [0, 0, 0];
   need(a.write && a.write.steps && a.write.steps.length === 3 && a.write.minWords >= 25 && a.write.minWords <= 35, `${tag}: write needs 3 steps and minWords 25–35`);
 });
 if (Math.max(...letters) - Math.min(...letters) > 2) warn.push(`answer letters unbalanced: A${letters[0]} B${letters[1]} C${letters[2]}`);
-if (/[一-鿿]/.test(JSON.stringify(day.articles))) warn.push('Chinese characters found in article content (app is English-only)');
+const noExplain = (day.articles || []).map(a => Object.assign({}, a, { questions: (a.questions || []).map(q => Object.assign({}, q, { why: '', optWhy: [], steps: [], traps: [] })) }));
+if (/[一-鿿]/.test(JSON.stringify(noExplain))) warn.push('Chinese characters found outside the question explanations (only why / optWhy / steps / traps are in Chinese)');
 warn.forEach(w => console.log('WARN', w));
 if (errs.length) { errs.forEach(e => console.log('ERROR', e)); process.exit(1); }
 console.log(`OK: ${day.date}, ${day.articles.length} articles`);
