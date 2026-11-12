@@ -1,0 +1,2130 @@
+{
+ "date": "2026-11-13",
+ "headline": "Onion tears, new school clubs and a climbing wall",
+ "teaser": "Why do onions make you cry? Which club would you join? Can Leo get to the top of the wall?",
+ "articles": [
+  {
+   "id": "k20261113-1",
+   "topic": "Food & drink",
+   "genre": "Article",
+   "title": "Why Do Onions Make Us Cry?",
+   "dek": "You are not sad, but the tears keep coming. What is the onion doing?",
+   "sources": [
+    {
+     "name": "Britannica: Why do onions make you cry?",
+     "url": "https://www.britannica.com/story/why-do-onions-make-you-cry"
+    },
+    {
+     "name": "Discover Magazine: Why do onions make us cry?",
+     "url": "https://discovermagazine.com/health/why-do-onions-make-us-cry"
+    }
+   ],
+   "paras": [
+    "You are helping in the kitchen. Your mum asks you to cut an onion. After a minute, your eyes start to hurt. Then tears run down your face. You are not sad, so why are you crying? Let's find the answer step by step.",
+    "An onion looks simple, but it is full of tiny cells. Inside these cells, there are special chemicals. They stay in different parts of each cell. When the onion is whole, they never meet. So a whole onion on the table can't hurt your eyes.",
+    "Everything changes when you cut it. The knife breaks the cells, and the chemicals mix. Very quickly, they make a new chemical. It is a kind of gas, and it goes up into the air. If you cut an onion, this gas will reach your face in a few seconds.",
+    "Your eyes don't like this gas at all. It touches the front of your eyes and makes them sting. Your eyes want to protect themselves. So they make lots of tears. The tears wash the gas away. Crying is your body's way to keep your eyes safe.",
+    "Why do onions do this? Scientists think it helps the plant. An onion grows under the ground. Small animals sometimes want to eat it. If an animal bites an onion, the gas will hurt its eyes and mouth. Then it will probably leave the onion alone!",
+    "Can you stop the tears? Here are some easy tips. If you put the onion in the fridge for half an hour first, you will cry less. Cold makes the chemicals slow. Use a sharp knife, too. A sharp knife breaks fewer cells than an old one. If you open a window, the gas will go away faster.",
+    "Cooking changes onions as well. When you cook them, the strong smell goes away. They become soft and sweet. So next time you cry in the kitchen, don't worry. It's only science!"
+   ],
+   "words": [
+    {
+     "w": "onion",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈʌn.jən/",
+     "syl": [
+      "on",
+      "ion"
+     ],
+     "def": "a round vegetable with a strong smell",
+     "ex": "I put an onion in the soup."
+    },
+    {
+     "w": "tear",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/tɪə/",
+     "syl": [
+      "tear"
+     ],
+     "def": "a drop of water from your eye when you cry",
+     "ex": "A tear ran down her face."
+    },
+    {
+     "w": "cell",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/sel/",
+     "syl": [
+      "cell"
+     ],
+     "def": "a very small part of a plant or animal",
+     "ex": "You need a microscope to see a cell."
+    },
+    {
+     "w": "chemical",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkem.ɪ.kəl/",
+     "syl": [
+      "chem",
+      "i",
+      "cal"
+     ],
+     "def": "a thing that scientists make or find in nature",
+     "ex": "Don't touch that chemical with your hands."
+    },
+    {
+     "w": "whole",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/həʊl/",
+     "syl": [
+      "whole"
+     ],
+     "def": "all of it, not cut or broken",
+     "ex": "My brother ate the whole pizza!"
+    },
+    {
+     "w": "gas",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɡæs/",
+     "syl": [
+      "gas"
+     ],
+     "def": "something like air, not solid and not liquid",
+     "ex": "You can't see this gas, but you can smell it."
+    },
+    {
+     "w": "sting",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/stɪŋ/",
+     "syl": [
+      "sting"
+     ],
+     "def": "to hurt with a quick, hot pain",
+     "ex": "Soap can sting your eyes."
+    },
+    {
+     "w": "protect",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/prəˈtekt/",
+     "syl": [
+      "pro",
+      "tect"
+     ],
+     "def": "to keep safe from danger",
+     "ex": "A helmet will protect your head."
+    },
+    {
+     "w": "sharp",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃɑːp/",
+     "syl": [
+      "sharp"
+     ],
+     "def": "able to cut things easily",
+     "ex": "Be careful! This knife is very sharp."
+    },
+    {
+     "w": "bite",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/baɪt/",
+     "syl": [
+      "bite"
+     ],
+     "def": "to cut something with your teeth",
+     "ex": "Our dog never tries to bite people."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "When the onion is whole, they never meet.",
+     "kind": "Key details",
+     "note": "The chemicals stay apart in a whole onion."
+    },
+    {
+     "para": 3,
+     "text": "The knife breaks the cells, and the chemicals mix.",
+     "kind": "Cause → effect",
+     "note": "Cutting the onion lets the chemicals meet."
+    },
+    {
+     "para": 4,
+     "text": "Crying is your body's way to keep your eyes safe.",
+     "kind": "Main idea",
+     "note": "Tears are a way to protect your eyes."
+    },
+    {
+     "para": 6,
+     "text": "If you put the onion in the fridge for half an hour first, you will cry less.",
+     "kind": "Grammar to notice",
+     "note": "If + present, will + verb: a real result in the future."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to cook onion soup",
+      "why cutting onions makes us cry",
+      "where onions grow in the world"
+     ],
+     "a": 1,
+     "why": "全文都在回答第1段的问题 why are you crying?：切洋葱为什么会流泪。",
+     "evidence": null,
+     "optWhy": [
+      "文中没有教做洋葱汤，只在最后一段说煮熟的洋葱会变甜。",
+      "正确。第1段提问 why are you crying?，后面每段都在解释原因和办法。",
+      "第5段只说 An onion grows under the ground，没讲世界上哪里种洋葱。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "结尾提问：You are not sad, so why are you crying?"
+      },
+      {
+       "h": "扫后面各段",
+       "t": "化学物质、气体、眼泪、小窍门，全都围绕“哭”。"
+      },
+      {
+       "h": "排除",
+       "t": "只出现一句的细节（煮洋葱、长在地下）不是主旨。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What happens when you cut an onion?",
+     "opts": [
+      "The chemicals inside it mix.",
+      "The onion becomes sweet.",
+      "The cells get bigger."
+     ],
+     "a": 0,
+     "why": "第3段原文：The knife breaks the cells, and the chemicals mix.",
+     "evidence": "The knife breaks the cells, and the chemicals mix.",
+     "optWhy": [
+      "正确。原文 the chemicals mix = 选项 The chemicals inside it mix。",
+      "变甜是第7段 When you cook them 时发生的，是“煮”不是“切”。",
+      "原文说刀把细胞 breaks（弄破），不是变大。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "题目 cut → 第3段 when you cut it。"
+      },
+      {
+       "h": "读下一句",
+       "t": "The knife breaks the cells, and the chemicals mix."
+      },
+      {
+       "h": "小心干扰",
+       "t": "sweet 出现在第7段，讲的是 cook。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Rabbits are the animals that eat onions most often.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只说 Small animals sometimes want to eat it，没有提到兔子。",
+     "evidence": "Small animals sometimes want to eat it.",
+     "optWhy": [
+      "原文没有提到 rabbits，不能选 Right。",
+      "要选 Wrong，原文得说出相反的话（比如 rabbits never eat onions），原文没有。",
+      "正确。原文只说 small animals，没说是哪种动物。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第5段讲动物吃洋葱。"
+      },
+      {
+       "h": "找 rabbits",
+       "t": "原文只有 Small animals，没有 rabbits。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提 → Doesn't say；说了相反的 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "\"It touches the front of your eyes and makes them sting.\" What does sting mean here?",
+     "opts": [
+      "become blue",
+      "hurt a little",
+      "close slowly"
+     ],
+     "a": 1,
+     "why": "sting = 刺痛；第1段也说 your eyes start to hurt。",
+     "evidence": "It touches the front of your eyes and makes them sting.",
+     "optWhy": [
+      "原文没有讲眼睛变颜色。",
+      "正确。气体让眼睛 sting（刺痛），后面眼睛要 protect themselves，说明是疼。",
+      "原文讲的是眼睛流泪，没说眼睛闭上。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "读整句",
+       "t": "It touches the front of your eyes and makes them sting."
+      },
+      {
+       "h": "看前后文",
+       "t": "前一句 Your eyes don't like this gas；后面 want to protect themselves。"
+      },
+      {
+       "h": "代回验证",
+       "t": "makes them hurt a little 说得通。"
+      }
+     ],
+     "marks": [
+      "sting",
+      "Your eyes don't like this gas at all."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "\"Then it will probably leave the onion alone!\" What does it mean?",
+     "opts": [
+      "the animal",
+      "the gas",
+      "the plant"
+     ],
+     "a": 0,
+     "why": "it 指前一句的 an animal：动物被辣到，就不吃洋葱了。",
+     "evidence": "Then it will probably leave the onion alone!",
+     "optWhy": [
+      "正确。前一句 If an animal bites an onion，the gas will hurt its eyes，所以 it = the animal。",
+      "气体不会“离开洋葱”去做选择，是气体让动物离开。",
+      "the plant 就是洋葱本身，不能“离开洋葱”。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句 If an animal bites an onion…"
+      },
+      {
+       "h": "代回验证",
+       "t": "The animal will leave the onion alone. 说得通。"
+      }
+     ],
+     "marks": [
+      "If an animal bites an onion, the gas will hurt its eyes and mouth."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the writer write this text?",
+     "opts": [
+      "to sell kitchen knives",
+      "to tell a funny story about a family",
+      "to explain some science and give tips"
+     ],
+     "a": 2,
+     "why": "文章先解释原因（cells、gas、tears），再在第6段给 easy tips。",
+     "evidence": null,
+     "optWhy": [
+      "第6段建议用 sharp knife，但没有在卖刀。",
+      "第1段只是一个开头场景，不是一个家庭故事。",
+      "正确。最后一句 It's only science!，第6段 Here are some easy tips。"
+     ],
+     "traps": [
+      "偷换概念",
+      "以偏概全",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看结构",
+       "t": "第2–5段讲原因，第6段给 tips。"
+      },
+      {
+       "h": "看结尾",
+       "t": "It's only science! 说明目的是讲科学。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "First conditional: if + present, will",
+    "rule": "Use the first conditional for a real thing that can happen in the future. The if part uses the present simple. The other part uses will or won't + verb. If the if part comes first, put a comma after it.",
+    "table": [
+     [
+      "if + present simple",
+      "will / won't + verb"
+     ],
+     [
+      "If you cut an onion,",
+      "the gas will reach your face."
+     ],
+     [
+      "If you open a window,",
+      "the gas will go away faster."
+     ],
+     [
+      "If it rains,",
+      "we won't go to the park."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 3,
+      "text": "If you cut an onion, this gas will reach your face in a few seconds.",
+      "mark": "If you cut an onion, this gas will reach"
+     },
+     {
+      "para": 5,
+      "text": "If an animal bites an onion, the gas will hurt its eyes and mouth.",
+      "mark": "If an animal bites an onion, the gas will hurt"
+     },
+     {
+      "para": 6,
+      "text": "If you put the onion in the fridge for half an hour first, you will cry less.",
+      "mark": "you will cry less"
+     },
+     {
+      "para": 6,
+      "text": "If you open a window, the gas will go away faster.",
+      "mark": "If you open a window, the gas will go"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "If you ___ the milk in the sun, it will go bad.",
+      "opts": [
+       "leave",
+       "will leave",
+       "left"
+      ],
+      "a": 0,
+      "why": "After if, use the present simple: leave."
+     },
+     {
+      "type": "mc",
+      "q": "If we cook the onions, they ___ sweet.",
+      "opts": [
+       "become",
+       "will become",
+       "became"
+      ],
+      "a": 1,
+      "why": "The result part uses will + verb."
+     },
+     {
+      "type": "mc",
+      "q": "If you don't eat breakfast, you ___ hungry at school.",
+      "opts": [
+       "are",
+       "were",
+       "will be"
+      ],
+      "a": 2,
+      "why": "The result is in the future, so use will be."
+     },
+     {
+      "type": "fill",
+      "q": "If it ___ tomorrow, we will have the picnic inside.",
+      "hint": "(rain)",
+      "a": "rains",
+      "why": "After if with it, use the present simple: rains."
+     },
+     {
+      "type": "fill",
+      "q": "If you use a sharp knife, you ___ less.",
+      "hint": "(cry)",
+      "a": "will cry / 'll cry",
+      "why": "The result part uses will + verb."
+     },
+     {
+      "type": "fill",
+      "q": "If Tom ___ his homework now, he won't watch TV later.",
+      "hint": "(not finish)",
+      "a": "doesn't finish / does not finish",
+      "why": "After if, use the present simple negative: doesn't finish."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261113-1-k1",
+     "tag": "Inside",
+     "fact": "An onion is full of tiny cells with special chemicals.",
+     "q": "What is inside an onion's cells?",
+     "opts": [
+      "water only",
+      "special chemicals",
+      "small animals"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261113-1-k2",
+     "tag": "Cutting",
+     "fact": "When you cut an onion, the chemicals mix and make a gas.",
+     "q": "What do the chemicals make when they mix?",
+     "opts": [
+      "a gas",
+      "sugar",
+      "a tear"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261113-1-k3",
+     "tag": "Tears",
+     "fact": "Your eyes make tears to wash the gas away.",
+     "q": "Why do your eyes make tears?",
+     "opts": [
+      "because you are sad",
+      "because you are hungry",
+      "to wash the gas away"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261113-1-k4",
+     "tag": "Plant",
+     "fact": "The gas helps the onion because animals leave it alone.",
+     "q": "How does the gas help the onion?",
+     "opts": [
+      "It helps it grow fast.",
+      "Animals don't want to eat it.",
+      "It makes it sweet."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261113-1-k5",
+     "tag": "Tips",
+     "fact": "A cold onion and a sharp knife mean fewer tears.",
+     "q": "Which tip helps you cry less?",
+     "opts": [
+      "Put the onion in the fridge first.",
+      "Use an old knife.",
+      "Close all the windows."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Onion tears",
+    "question": "Why do onions make us cry, and how can we stop it?",
+    "branches": [
+     {
+      "title": "Inside",
+      "paras": "2",
+      "blanks": [
+       "tiny cells",
+       "special chemicals"
+      ],
+      "kps": [
+       "k20261113-1-k1"
+      ]
+     },
+     {
+      "title": "Cutting",
+      "paras": "3",
+      "blanks": [
+       "the chemicals mix",
+       "a kind of gas"
+      ],
+      "kps": [
+       "k20261113-1-k2"
+      ]
+     },
+     {
+      "title": "Why",
+      "paras": "4–5",
+      "blanks": [
+       "wash the gas away",
+       "animals leave it"
+      ],
+      "kps": [
+       "k20261113-1-k3",
+       "k20261113-1-k4"
+      ]
+     },
+     {
+      "title": "Tips",
+      "paras": "6",
+      "blanks": [
+       "in the fridge",
+       "a sharp knife"
+      ],
+      "kps": [
+       "k20261113-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "add some salt",
+     "an old knife"
+    ]
+   },
+   "summary": {
+    "intro": "Many people cry when they cut onions. This text explains why.",
+    "model": "Cutting an onion makes a gas, so our eyes make tears. A cold onion and a sharp knife help, but cooking is the best way to make them sweet.",
+    "options": [
+     {
+      "t": "Cutting an onion breaks its cells, and the chemicals make a gas.",
+      "ok": true,
+      "why": "This is the main reason for the tears.",
+      "type": "main",
+      "para": 3,
+      "evidence": "The knife breaks the cells, and the chemicals mix."
+     },
+     {
+      "t": "Our eyes make tears to wash the gas away.",
+      "ok": true,
+      "why": "This explains why we cry.",
+      "type": "main",
+      "para": 4,
+      "evidence": "The tears wash the gas away."
+     },
+     {
+      "t": "A cold onion and a sharp knife can stop some tears.",
+      "ok": true,
+      "why": "These are the main tips.",
+      "type": "main",
+      "para": 6,
+      "evidence": "If you put the onion in the fridge for half an hour first, you will cry less."
+     },
+     {
+      "t": "An onion grows under the ground.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "An onion grows under the ground."
+     },
+     {
+      "t": "Red onions make people cry more than white onions.",
+      "ok": false,
+      "why": "The text doesn't talk about colours of onions.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "A whole onion on the table can hurt your eyes.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "So a whole onion on the table can't hurt your eyes."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you help to cook at home? What do you like to make, and why?",
+    "hint": "Try: 'I often help my … with …' and 'If I cook …, my family will …'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your friend wants to cook dinner for the first time. Write a message to your friend.",
+    "steps": [
+     "Say what easy dish your friend can make.",
+     "Give one tip with 'If you …, you will …'.",
+     "Say how you can help."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261113-2",
+   "topic": "School & study",
+   "genre": "Three people",
+   "title": "Which Club Did You Join?",
+   "dek": "Cooking, chess or photos? Three students tell us about their new after-school club.",
+   "sources": [],
+   "paras": [
+    "This term, our school started six new after-school clubs. They meet on Tuesdays and Thursdays from 4 to 5:30. We asked three students: Which club did you choose, and why?",
+    "Mia, 13: I chose the cooking club. I love making things for my family, but at home I usually just watch my dad. In the club, we learn to cook easy meals. Last week, we made vegetable soup. My little brother doesn't enjoy eating vegetables, but he finished my soup! Next month, I hope to cook dinner for my parents. It will be a surprise.",
+    "Daniel, 14: I wanted to join the football club, but it was already full. So I decided to try the chess club. At first, I didn't want to go. I thought chess was boring and slow. I was wrong! Now I really enjoy playing it! Our teacher, Mr Patel, is very patient. He keeps showing us clever new moves. In spring, we're going to enter a competition in the city. I can't wait!",
+    "Aiko, 12: I joined the photography club. I'm a bit shy, and I don't like talking in front of a lot of people. I wanted to find a quiet hobby. Every week, we walk around the school and take photos of trees, birds and people. Our teacher taught us to use the light well. I'd like to have my own camera one day. For now, I borrow one from the club.",
+    "So, who is happiest? All three students say the same thing. They have learned new skills, and they have made new friends. Which club would you like to join?"
+   ],
+   "words": [
+    {
+     "w": "club",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/klʌb/",
+     "syl": [
+      "club"
+     ],
+     "def": "a group of people who meet to do something they like",
+     "ex": "Our music club meets on Fridays."
+    },
+    {
+     "w": "term",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/tɜːm/",
+     "syl": [
+      "term"
+     ],
+     "def": "one part of the school year",
+     "ex": "The autumn term starts in September."
+    },
+    {
+     "w": "meal",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/miːl/",
+     "syl": [
+      "meal"
+     ],
+     "def": "food you eat at one time, like lunch",
+     "ex": "Dinner is my favourite meal of the day."
+    },
+    {
+     "w": "surprise",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/səˈpraɪz/",
+     "syl": [
+      "sur",
+      "prise"
+     ],
+     "def": "something nice that you don't know about before",
+     "ex": "The party was a big surprise for Mum."
+    },
+    {
+     "w": "chess",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tʃes/",
+     "syl": [
+      "chess"
+     ],
+     "def": "a game for two people on a board with 64 squares",
+     "ex": "My grandpa taught me to play chess."
+    },
+    {
+     "w": "patient",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈpeɪ.ʃənt/",
+     "syl": [
+      "pa",
+      "tient"
+     ],
+     "def": "able to wait and not get angry",
+     "ex": "Our teacher is patient with slow learners."
+    },
+    {
+     "w": "competition",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˌkɒm.pəˈtɪʃ.ən/",
+     "syl": [
+      "com",
+      "pe",
+      "ti",
+      "tion"
+     ],
+     "def": "an event where people try to win",
+     "ex": "She won first prize in the art competition."
+    },
+    {
+     "w": "photography",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/fəˈtɒɡ.rə.fi/",
+     "syl": [
+      "pho",
+      "tog",
+      "ra",
+      "phy"
+     ],
+     "def": "taking photos as a hobby or job",
+     "ex": "I want to learn photography this summer."
+    },
+    {
+     "w": "shy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃaɪ/",
+     "syl": [
+      "shy"
+     ],
+     "def": "nervous with people you don't know",
+     "ex": "The shy boy didn't say hello."
+    },
+    {
+     "w": "borrow",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈbɒr.əʊ/",
+     "syl": [
+      "bor",
+      "row"
+     ],
+     "def": "to take something and give it back later",
+     "ex": "Can I borrow your pen, please?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "We asked three students: Which club did you choose, and why?",
+     "kind": "Main idea",
+     "note": "Three students talk about their new club."
+    },
+    {
+     "para": 2,
+     "text": "I love making things for my family, but at home I usually just watch my dad.",
+     "kind": "Grammar to notice",
+     "note": "After love, use the -ing form: love making."
+    },
+    {
+     "para": 3,
+     "text": "I thought chess was boring and slow. I was wrong!",
+     "kind": "Opinion",
+     "note": "Daniel changed his opinion about chess."
+    },
+    {
+     "para": 4,
+     "text": "I'm a bit shy, and I don't like talking in front of a lot of people.",
+     "kind": "Cause → effect",
+     "note": "Aiko is shy, so she wanted a quiet hobby."
+    },
+    {
+     "para": 5,
+     "text": "They have learned new skills, and they have made new friends.",
+     "kind": "Main idea",
+     "note": "All three students are happy with their club."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "three students and the clubs they chose",
+      "how to win a chess competition",
+      "the best food to cook for parents"
+     ],
+     "a": 0,
+     "why": "第1段就说了：We asked three students: Which club did you choose, and why?",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 three students… Which club did you choose = 选项 three students and the clubs they chose。",
+      "chess competition 只在 Daniel 那段出现，而且只是计划，不是全文主旨。",
+      "做饭只是 Mia 一个人的内容。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "We asked three students: Which club did you choose, and why?"
+      },
+      {
+       "h": "看结构",
+       "t": "后面三段分别是 Mia、Daniel、Aiko。"
+      },
+      {
+       "h": "排除",
+       "t": "只讲一个人的选项不是主旨。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why was Mia happy about the soup?",
+     "opts": [
+      "Her dad helped her make it.",
+      "She made it in five minutes.",
+      "Her brother ate all of it."
+     ],
+     "a": 2,
+     "why": "第2段原文：My little brother doesn't enjoy eating vegetables, but he finished my soup!",
+     "evidence": "My little brother doesn't enjoy eating vegetables, but he finished my soup!",
+     "optWhy": [
+      "原文说在家 I usually just watch my dad，没说爸爸帮她做汤。",
+      "原文没有提到用了多长时间。",
+      "正确。原文 he finished my soup = 选项 Her brother ate all of it。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "soup → 第2段 vegetable soup。"
+      },
+      {
+       "h": "看转折",
+       "t": "doesn't enjoy eating vegetables, but he finished my soup!"
+      },
+      {
+       "h": "同义替换",
+       "t": "finished = ate all of it。"
+      }
+     ],
+     "marks": [
+      "Last week, we made vegetable soup."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How does Daniel feel about chess now?",
+     "opts": [
+      "He still thinks it is boring.",
+      "He likes it very much.",
+      "He is afraid of it."
+     ],
+     "a": 1,
+     "why": "第3段原文：Now I really enjoy playing it!",
+     "evidence": "Now I really enjoy playing it!",
+     "optWhy": [
+      "boring 是他以前的想法，后面马上说 I was wrong!",
+      "正确。原文 really enjoy playing it = 选项 likes it very much。",
+      "原文没有说他害怕下棋。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "注意时间",
+       "t": "At first … / Now …：题目问 now。"
+      },
+      {
+       "h": "看转折",
+       "t": "I thought chess was boring… I was wrong!"
+      },
+      {
+       "h": "找答案",
+       "t": "Now I really enjoy playing it!"
+      }
+     ],
+     "marks": [
+      "I was wrong!",
+      "At first, I didn't want to go."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Aiko has her own camera.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：I'd like to have my own camera one day. For now, I borrow one from the club.",
+     "evidence": "For now, I borrow one from the club.",
+     "optWhy": [
+      "她说 I'd like to have my own camera one day，是希望将来有，不是现在有。",
+      "正确。她现在 borrow one from the club，说明她还没有自己的相机。",
+      "原文清楚说了她现在借相机，所以不是“没提到”。"
+     ],
+     "traps": [
+      "偷换概念",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第4段最后两句讲 camera。"
+      },
+      {
+       "h": "看清时间",
+       "t": "I'd like … one day = 将来想要；For now, I borrow = 现在借。"
+      },
+      {
+       "h": "判断",
+       "t": "原文说了相反的情况 → Wrong。"
+      }
+     ],
+     "marks": [
+      "I'd like to have my own camera one day."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "\"He keeps showing us clever new moves.\" Who is He?",
+     "opts": [
+      "Daniel",
+      "a football player",
+      "Mr Patel"
+     ],
+     "a": 2,
+     "why": "He 指前一句的 Our teacher, Mr Patel。",
+     "evidence": "He keeps showing us clever new moves.",
+     "optWhy": [
+      "Daniel 是说话的人，他说的是 us，不是 He。",
+      "足球俱乐部满了，Daniel 没有去，这里讲的是象棋老师。",
+      "正确。前一句 Our teacher, Mr Patel, is very patient. 所以 He = Mr Patel。"
+     ],
+     "traps": [
+      "指代错误",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句：Our teacher, Mr Patel, is very patient."
+      },
+      {
+       "h": "代回验证",
+       "t": "Mr Patel keeps showing us new moves. 说得通。"
+      }
+     ],
+     "marks": [
+      "Our teacher, Mr Patel, is very patient."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "When do the clubs meet?",
+     "opts": [
+      "every day after lunch",
+      "on Tuesdays and Thursdays",
+      "on Saturday mornings"
+     ],
+     "a": 1,
+     "why": "第1段原文：They meet on Tuesdays and Thursdays from 4 to 5:30.",
+     "evidence": "They meet on Tuesdays and Thursdays from 4 to 5:30.",
+     "optWhy": [
+      "原文是 after-school（放学后），也不是每天。",
+      "正确。原文 on Tuesdays and Thursdays 与选项完全一致。",
+      "原文没有提到星期六。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "When … meet → 第1段 They meet …"
+      },
+      {
+       "h": "对照选项",
+       "t": "on Tuesdays and Thursdays from 4 to 5:30。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Verb + -ing or verb + to-infinitive",
+    "rule": "Some verbs take the -ing form: enjoy, like, love, don't like, keep, finish. Some verbs take to + verb: want, decide, hope, learn, would like. Learn which verbs go with which form.",
+    "table": [
+     [
+      "enjoy / love / keep",
+      "enjoy playing"
+     ],
+     [
+      "don't like / finish",
+      "don't like talking"
+     ],
+     [
+      "want / decide",
+      "decided to try"
+     ],
+     [
+      "hope / learn",
+      "hope to cook"
+     ],
+     [
+      "would like",
+      "I'd like to have"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I love making things for my family, but at home I usually just watch my dad.",
+      "mark": "love making"
+     },
+     {
+      "para": 3,
+      "text": "So I decided to try the chess club.",
+      "mark": "decided to try"
+     },
+     {
+      "para": 3,
+      "text": "Now I really enjoy playing it!",
+      "mark": "enjoy playing"
+     },
+     {
+      "para": 4,
+      "text": "I'd like to have my own camera one day.",
+      "mark": "I'd like to have"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My sister enjoys ___ in the school choir.",
+      "opts": [
+       "to sing",
+       "singing",
+       "sing"
+      ],
+      "a": 1,
+      "why": "After enjoy, use the -ing form."
+     },
+     {
+      "type": "mc",
+      "q": "We decided ___ the drama club this term.",
+      "opts": [
+       "to join",
+       "joining",
+       "join"
+      ],
+      "a": 0,
+      "why": "After decide, use to + verb."
+     },
+     {
+      "type": "mc",
+      "q": "Ben hopes ___ the art competition.",
+      "opts": [
+       "winning",
+       "win",
+       "to win"
+      ],
+      "a": 2,
+      "why": "After hope, use to + verb."
+     },
+     {
+      "type": "fill",
+      "q": "I don't like ___ up early on Saturdays.",
+      "hint": "(get)",
+      "a": "getting",
+      "why": "After like / don't like, use the -ing form."
+     },
+     {
+      "type": "fill",
+      "q": "Our coach wants ___ us a new game today.",
+      "hint": "(teach)",
+      "a": "to teach",
+      "why": "After want, use to + verb."
+     },
+     {
+      "type": "fill",
+      "q": "Please finish ___ your test before you leave.",
+      "hint": "(check)",
+      "a": "checking",
+      "why": "After finish, use the -ing form."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261113-2-k1",
+     "tag": "Clubs",
+     "fact": "The school has six new after-school clubs this term.",
+     "q": "How many new clubs are there?",
+     "opts": [
+      "three",
+      "six",
+      "ten"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261113-2-k2",
+     "tag": "Mia",
+     "fact": "Mia joined the cooking club and made vegetable soup.",
+     "q": "What did Mia make last week?",
+     "opts": [
+      "vegetable soup",
+      "a cake",
+      "dinner for her parents"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261113-2-k3",
+     "tag": "Daniel",
+     "fact": "Daniel thought chess was boring, but now he enjoys it.",
+     "q": "Why did Daniel choose chess?",
+     "opts": [
+      "He loves board games.",
+      "His dad plays chess.",
+      "The football club was full."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261113-2-k4",
+     "tag": "Aiko",
+     "fact": "Aiko is shy, so she chose a quiet hobby: photography.",
+     "q": "Why did Aiko want a quiet hobby?",
+     "opts": [
+      "She is a bit shy.",
+      "She is often tired.",
+      "She has no friends."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "New clubs",
+    "question": "Which clubs did the three students choose, and why?",
+    "branches": [
+     {
+      "title": "When",
+      "paras": "1",
+      "blanks": [
+       "after-school clubs",
+       "Tuesdays and Thursdays"
+      ],
+      "kps": [
+       "k20261113-2-k1"
+      ]
+     },
+     {
+      "title": "Mia",
+      "paras": "2",
+      "blanks": [
+       "cooking club",
+       "vegetable soup"
+      ],
+      "kps": [
+       "k20261113-2-k2"
+      ]
+     },
+     {
+      "title": "Daniel",
+      "paras": "3",
+      "blanks": [
+       "chess club",
+       "a competition"
+      ],
+      "kps": [
+       "k20261113-2-k3"
+      ]
+     },
+     {
+      "title": "Aiko",
+      "paras": "4",
+      "blanks": [
+       "photography club",
+       "a quiet hobby"
+      ],
+      "kps": [
+       "k20261113-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "swimming club",
+     "her own camera"
+    ]
+   },
+   "summary": {
+    "intro": "Three students talk about their new after-school clubs.",
+    "model": "Mia loves cooking, but Daniel only tried chess because football was full. Aiko is shy, so she chose photography.",
+    "options": [
+     {
+      "t": "Mia chose the cooking club because she loves making things for her family.",
+      "ok": true,
+      "why": "This is Mia's main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "I love making things for my family"
+     },
+     {
+      "t": "Daniel didn't want to play chess at first, but now he enjoys it.",
+      "ok": true,
+      "why": "This is Daniel's main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Now I really enjoy playing it!"
+     },
+     {
+      "t": "Aiko is shy, so she joined the quiet photography club.",
+      "ok": true,
+      "why": "This is Aiko's main idea.",
+      "type": "main",
+      "para": 4,
+      "evidence": "I wanted to find a quiet hobby."
+     },
+     {
+      "t": "The clubs finish at 5:30.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "They meet on Tuesdays and Thursdays from 4 to 5:30."
+     },
+     {
+      "t": "Daniel's chess team won a prize last year.",
+      "ok": false,
+      "why": "The text doesn't say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mia's brother didn't eat her soup.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "but he finished my soup!"
+     }
+    ]
+   },
+   "speak": {
+    "p": "What club or hobby would you like to try? Why?",
+    "hint": "Try: 'I'd like to join …' and 'I really enjoy …ing.'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Your English friend asks about clubs at your school. Write an email to your friend.",
+    "steps": [
+     "Say which club you go to or want to join.",
+     "Say what you do there.",
+     "Say why you enjoy it."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261113-3",
+   "topic": "Sport",
+   "genre": "Blog post",
+   "title": "My First Climbing Lesson",
+   "dek": "Leo tries to climb a twelve-metre wall. Will he get to the top?",
+   "sources": [],
+   "paras": [
+    "Hi everyone! It's Leo again. On Saturday, I did something new. I went to a climbing centre which opened last month near my school. My cousin Sofia, who climbs every week, came with me.",
+    "The centre has a huge wall that is twelve metres high. It is covered in small coloured holds. A hold is a little piece that you put your hands and feet on. Each colour shows a different route up the wall. The easy routes are green, and the hard ones are black.",
+    "First, we met our teacher, Kenji. He is the man who checks everyone's ropes. He gave me a harness. A harness is a kind of belt that goes around your waist and legs. Kenji showed me how to put it on. Then he tied the rope to it. He said, 'Always check your knot before you climb.'",
+    "My first climb was on a green route. I got to the middle, and then I looked down. Big mistake! My legs started to shake. Sofia shouted, 'Don't look down! Look for the next hold!' I listened to her. Slowly, I reached the top and touched the bell which hangs there. Ding!",
+    "Coming down was the best part. You sit back in your harness. Then the person who holds your rope lets you down slowly. It feels a bit like flying.",
+    "After two hours, my arms were really tired. My hands were red, too. But I wasn't sad at all. I was proud of myself.",
+    "Sofia gave me a tip that I want to share with you. Use your legs, not only your arms. Your legs are much stronger! I'm going to go back next Saturday, and I want to try a blue route. Have you ever tried climbing? Tell me in the comments!"
+   ],
+   "words": [
+    {
+     "w": "climb",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/klaɪm/",
+     "syl": [
+      "climb"
+     ],
+     "def": "to go up something using your hands and feet",
+     "ex": "We climb the hill every summer."
+    },
+    {
+     "w": "cousin",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkʌz.ən/",
+     "syl": [
+      "cous",
+      "in"
+     ],
+     "def": "the child of your aunt or uncle",
+     "ex": "My cousin lives in Canada."
+    },
+    {
+     "w": "huge",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/hjuːdʒ/",
+     "syl": [
+      "huge"
+     ],
+     "def": "very, very big",
+     "ex": "There is a huge tree in our garden."
+    },
+    {
+     "w": "route",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ruːt/",
+     "syl": [
+      "route"
+     ],
+     "def": "the way you go from one place to another",
+     "ex": "This route to school is shorter."
+    },
+    {
+     "w": "rope",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/rəʊp/",
+     "syl": [
+      "rope"
+     ],
+     "def": "a long, thick string",
+     "ex": "Hold the rope with both hands."
+    },
+    {
+     "w": "harness",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈhɑː.nəs/",
+     "syl": [
+      "har",
+      "ness"
+     ],
+     "def": "belts that hold your body safely to a rope",
+     "ex": "Check your harness before you start."
+    },
+    {
+     "w": "waist",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/weɪst/",
+     "syl": [
+      "waist"
+     ],
+     "def": "the middle part of your body",
+     "ex": "She wore a red belt around her waist."
+    },
+    {
+     "w": "knot",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/nɒt/",
+     "syl": [
+      "knot"
+     ],
+     "def": "a place where you tie string or rope",
+     "ex": "I tied a knot in my shoelace."
+    },
+    {
+     "w": "shake",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ʃeɪk/",
+     "syl": [
+      "shake"
+     ],
+     "def": "to move quickly up and down or side to side",
+     "ex": "My hands shake when I'm cold."
+    },
+    {
+     "w": "proud",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/praʊd/",
+     "syl": [
+      "proud"
+     ],
+     "def": "happy because you did something well",
+     "ex": "Mum was proud of my good marks."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "I went to a climbing centre which opened last month near my school.",
+     "kind": "Grammar to notice",
+     "note": "Which gives more information about the climbing centre."
+    },
+    {
+     "para": 3,
+     "text": "He is the man who checks everyone's ropes.",
+     "kind": "Grammar to notice",
+     "note": "Use who for a person."
+    },
+    {
+     "para": 4,
+     "text": "I got to the middle, and then I looked down. Big mistake!",
+     "kind": "Time order",
+     "note": "Looking down made Leo scared."
+    },
+    {
+     "para": 4,
+     "text": "Slowly, I reached the top and touched the bell which hangs there.",
+     "kind": "Key details",
+     "note": "Leo got to the top in the end."
+    },
+    {
+     "para": 7,
+     "text": "Use your legs, not only your arms.",
+     "kind": "Main idea",
+     "note": "This is the best tip for climbing."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Who went climbing with Leo?",
+     "opts": [
+      "his teacher from school",
+      "his best friend",
+      "his cousin"
+     ],
+     "a": 2,
+     "why": "第1段原文：My cousin Sofia, who climbs every week, came with me.",
+     "evidence": "My cousin Sofia, who climbs every week, came with me.",
+     "optWhy": [
+      "Kenji 是攀岩中心的老师，原文没说 Leo 学校的老师一起去。",
+      "原文没提到 best friend。",
+      "正确。原文 My cousin Sofia… came with me = 选项 his cousin。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "with Leo → 第1段 came with me。"
+      },
+      {
+       "h": "读这一句",
+       "t": "My cousin Sofia, who climbs every week, came with me."
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 2,
+     "q": "\"A hold is a little piece that you put your hands and feet on.\" What is a hold?",
+     "opts": [
+      "something on the wall that you stand on or hold",
+      "a kind of shoe for climbing",
+      "a coloured rope"
+     ],
+     "a": 0,
+     "why": "原文直接下了定义：A hold is a little piece that you put your hands and feet on。",
+     "evidence": "A hold is a little piece that you put your hands and feet on.",
+     "optWhy": [
+      "正确。holds 在墙上（The wall… is covered in small coloured holds），手脚踩抓的小块。",
+      "原文没有说 hold 是鞋。",
+      "holds 是彩色的，但它是墙上的小块，不是绳子。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "偷换概念"
+     ],
+     "steps": [
+      {
+       "h": "找定义句",
+       "t": "A hold is a little piece that…"
+      },
+      {
+       "h": "看前一句",
+       "t": "It is covered in small coloured holds：It = the wall。"
+      },
+      {
+       "h": "排除",
+       "t": "coloured 让人想到绳子，但原文说的是 piece。"
+      }
+     ],
+     "marks": [
+      "It is covered in small coloured holds."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "\"Then he tied the rope to it.\" What does it mean?",
+     "opts": [
+      "the wall",
+      "the harness",
+      "the bell"
+     ],
+     "a": 1,
+     "why": "it 指前面的 a harness：Kenji 先教他穿上安全带，再把绳子系在上面。",
+     "evidence": "Then he tied the rope to it.",
+     "optWhy": [
+      "墙上没有说要系绳子，前面几句讲的都是 harness。",
+      "正确。前一句 Kenji showed me how to put it on（it = the harness），所以绳子系在 harness 上。",
+      "bell 在第4段才出现。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "He gave me a harness… showed me how to put it on."
+      },
+      {
+       "h": "代回验证",
+       "t": "He tied the rope to the harness. 说得通。"
+      }
+     ],
+     "marks": [
+      "Kenji showed me how to put it on."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How did Leo feel in the middle of the wall?",
+     "opts": [
+      "bored",
+      "angry",
+      "scared"
+     ],
+     "a": 2,
+     "why": "第4段：I looked down. Big mistake! My legs started to shake.",
+     "evidence": "My legs started to shake.",
+     "optWhy": [
+      "腿发抖不是无聊的表现。",
+      "原文没有说他生气。",
+      "正确。往下看后 Big mistake!、My legs started to shake = 害怕。"
+     ],
+     "traps": [
+      "无中生有",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第4段 I got to the middle…"
+      },
+      {
+       "h": "找线索",
+       "t": "Big mistake! My legs started to shake."
+      },
+      {
+       "h": "推断",
+       "t": "腿发抖 + Sofia 喊 Don't look down → 他害怕。"
+      }
+     ],
+     "marks": [
+      "Big mistake!"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Leo was sad at the end of the lesson.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第6段原文：But I wasn't sad at all. I was proud of myself.",
+     "evidence": "But I wasn't sad at all.",
+     "optWhy": [
+      "原文说的正好相反：wasn't sad at all。",
+      "正确。原文 I wasn't sad at all. I was proud of myself. 和题目相反。",
+      "原文清楚说了他的感受，不是“没提到”。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第6段讲课后感受。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "arms were really tired 不等于 sad。"
+      },
+      {
+       "h": "判断",
+       "t": "原文说了相反的话 → Wrong。"
+      }
+     ],
+     "marks": [
+      "I was proud of myself."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did Leo write this blog post?",
+     "opts": [
+      "to tell readers about his first time climbing",
+      "to sell tickets for the climbing centre",
+      "to explain the rules of a climbing competition"
+     ],
+     "a": 0,
+     "why": "第1段 On Saturday, I did something new.，全文讲他第一次攀岩的经历。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 I did something new + 标题 My First Climbing Lesson = 讲第一次攀岩。",
+      "博客里没有提到票或价钱。",
+      "原文没有提到比赛。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "On Saturday, I did something new."
+      },
+      {
+       "h": "看结尾",
+       "t": "Have you ever tried climbing? Tell me in the comments!：在分享经历。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Relative clauses: who / which / that",
+    "rule": "A relative clause tells us more about a noun. Use who for people. Use which for things and places. You can use that for people or things.",
+    "table": [
+     [
+      "who → people",
+      "the man who checks the ropes"
+     ],
+     [
+      "which → things",
+      "the bell which hangs there"
+     ],
+     [
+      "that → people or things",
+      "a wall that is twelve metres high"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "My cousin Sofia, who climbs every week, came with me.",
+      "mark": "who climbs every week"
+     },
+     {
+      "para": 2,
+      "text": "The centre has a huge wall that is twelve metres high.",
+      "mark": "that is twelve metres high"
+     },
+     {
+      "para": 3,
+      "text": "He is the man who checks everyone's ropes.",
+      "mark": "who checks everyone's ropes"
+     },
+     {
+      "para": 4,
+      "text": "Slowly, I reached the top and touched the bell which hangs there.",
+      "mark": "which hangs there"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Mr Brown is the teacher ___ helps us in the swimming pool.",
+      "opts": [
+       "which",
+       "who",
+       "where"
+      ],
+      "a": 1,
+      "why": "Mr Brown is a person, so use who."
+     },
+     {
+      "type": "mc",
+      "q": "This is the ball ___ I got for my birthday.",
+      "opts": [
+       "who",
+       "which",
+       "when"
+      ],
+      "a": 1,
+      "why": "A ball is a thing, so use which."
+     },
+     {
+      "type": "mc",
+      "q": "I have a friend ___ plays tennis every day.",
+      "opts": [
+       "that",
+       "which",
+       "what"
+      ],
+      "a": 0,
+      "why": "That can be used for a person, like who."
+     },
+     {
+      "type": "fill",
+      "q": "The girl ___ won the race is in my class.",
+      "hint": "(person)",
+      "a": "who / that",
+      "why": "The girl is a person, so use who or that."
+     },
+     {
+      "type": "fill",
+      "q": "We played in the park ___ is next to the river.",
+      "hint": "(place / thing)",
+      "a": "which / that",
+      "why": "The park is a place, so use which or that."
+     },
+     {
+      "type": "fill",
+      "q": "A goalkeeper is a player ___ stops the ball.",
+      "hint": "(person)",
+      "a": "who / that",
+      "why": "A player is a person, so use who or that."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261113-3-k1",
+     "tag": "Where",
+     "fact": "Leo went to a new climbing centre near his school.",
+     "q": "Where is the climbing centre?",
+     "opts": [
+      "near Leo's school",
+      "next to the sea",
+      "in Sofia's house"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261113-3-k2",
+     "tag": "Wall",
+     "fact": "The wall is twelve metres high, and green routes are easy.",
+     "q": "Which routes are easy?",
+     "opts": [
+      "black",
+      "blue",
+      "green"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261113-3-k3",
+     "tag": "Safety",
+     "fact": "Kenji checks the ropes and tells climbers to check their knot.",
+     "q": "What must you always check before you climb?",
+     "opts": [
+      "your shoes",
+      "your knot",
+      "the bell"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261113-3-k4",
+     "tag": "Problem",
+     "fact": "Leo looked down and his legs started to shake.",
+     "q": "What happened when Leo looked down?",
+     "opts": [
+      "He fell.",
+      "His legs started to shake.",
+      "He laughed."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261113-3-k5",
+     "tag": "Tip",
+     "fact": "Use your legs, not only your arms, because legs are stronger.",
+     "q": "What was Sofia's tip?",
+     "opts": [
+      "Use your legs.",
+      "Climb fast.",
+      "Always look down."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "First climb",
+    "question": "What happened at Leo's first climbing lesson?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1–2",
+      "blanks": [
+       "climbing centre",
+       "twelve metres high"
+      ],
+      "kps": [
+       "k20261113-3-k1",
+       "k20261113-3-k2"
+      ]
+     },
+     {
+      "title": "Safety",
+      "paras": "3",
+      "blanks": [
+       "a harness",
+       "check your knot"
+      ],
+      "kps": [
+       "k20261113-3-k3"
+      ]
+     },
+     {
+      "title": "Climb",
+      "paras": "4–5",
+      "blanks": [
+       "looked down",
+       "touched the bell"
+      ],
+      "kps": [
+       "k20261113-3-k4"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "6–7",
+      "blanks": [
+       "use your legs",
+       "a blue route"
+      ],
+      "kps": [
+       "k20261113-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "fell off the wall",
+     "a black route"
+    ]
+   },
+   "summary": {
+    "intro": "Leo writes about his first climbing lesson.",
+    "model": "Leo was scared in the middle of the wall, but Sofia helped him. He reached the top, so he felt proud.",
+    "options": [
+     {
+      "t": "Leo went to a new climbing centre with his cousin Sofia.",
+      "ok": true,
+      "why": "This is the start of the blog.",
+      "type": "main",
+      "para": 1,
+      "evidence": "I went to a climbing centre which opened last month near my school."
+     },
+     {
+      "t": "He was scared on the wall, but he reached the top.",
+      "ok": true,
+      "why": "This is the big moment.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Slowly, I reached the top and touched the bell which hangs there."
+     },
+     {
+      "t": "He felt proud and wants to go back next week.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 7,
+      "evidence": "I'm going to go back next Saturday"
+     },
+     {
+      "t": "Black routes are hard.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "The easy routes are green, and the hard ones are black."
+     },
+     {
+      "t": "Leo paid a lot of money for the lesson.",
+      "ok": false,
+      "why": "The text doesn't say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Leo's first climb was on a black route.",
+      "ok": false,
+      "why": "The text says it was a green route.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "My first climb was on a green route."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Have you ever tried a new sport? How did you feel?",
+    "hint": "Try: 'The first time I tried …, I felt …' and 'It was a sport that …'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story that begins: 'I looked down, and my legs started to shake.'",
+    "steps": [
+     "Say where you were and who was with you.",
+     "Say what the problem was.",
+     "Say how the story ended and how you felt."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · male"
+  }
+ ],
+ "audio": {
+  "You are helping in the kitchen. Your mum asks you to cut an onion. After a minute, your eyes start to hurt. Then tears run down your face. You are not sad, so why are you crying? Let's find the answer step by step.": "audio/2026-11-13/a1-p1.mp3",
+  "An onion looks simple, but it is full of tiny cells. Inside these cells, there are special chemicals. They stay in different parts of each cell. When the onion is whole, they never meet. So a whole onion on the table can't hurt your eyes.": "audio/2026-11-13/a1-p2.mp3",
+  "Everything changes when you cut it. The knife breaks the cells, and the chemicals mix. Very quickly, they make a new chemical. It is a kind of gas, and it goes up into the air. If you cut an onion, this gas will reach your face in a few seconds.": "audio/2026-11-13/a1-p3.mp3",
+  "Your eyes don't like this gas at all. It touches the front of your eyes and makes them sting. Your eyes want to protect themselves. So they make lots of tears. The tears wash the gas away. Crying is your body's way to keep your eyes safe.": "audio/2026-11-13/a1-p4.mp3",
+  "Why do onions do this? Scientists think it helps the plant. An onion grows under the ground. Small animals sometimes want to eat it. If an animal bites an onion, the gas will hurt its eyes and mouth. Then it will probably leave the onion alone!": "audio/2026-11-13/a1-p5.mp3",
+  "Can you stop the tears? Here are some easy tips. If you put the onion in the fridge for half an hour first, you will cry less. Cold makes the chemicals slow. Use a sharp knife, too. A sharp knife breaks fewer cells than an old one. If you open a window, the gas will go away faster.": "audio/2026-11-13/a1-p6.mp3",
+  "Cooking changes onions as well. When you cook them, the strong smell goes away. They become soft and sweet. So next time you cry in the kitchen, don't worry. It's only science!": "audio/2026-11-13/a1-p7.mp3",
+  "onion": "audio/2026-11-13/a1-w-onion.mp3",
+  "I put an onion in the soup.": "audio/2026-11-13/a1-ex-onion.mp3",
+  "tear": "audio/2026-11-13/a1-w-tear.mp3",
+  "A tear ran down her face.": "audio/2026-11-13/a1-ex-tear.mp3",
+  "cell": "audio/2026-11-13/a1-w-cell.mp3",
+  "You need a microscope to see a cell.": "audio/2026-11-13/a1-ex-cell.mp3",
+  "chemical": "audio/2026-11-13/a1-w-chemical.mp3",
+  "Don't touch that chemical with your hands.": "audio/2026-11-13/a1-ex-chemical.mp3",
+  "whole": "audio/2026-11-13/a1-w-whole.mp3",
+  "My brother ate the whole pizza!": "audio/2026-11-13/a1-ex-whole.mp3",
+  "gas": "audio/2026-11-13/a1-w-gas.mp3",
+  "You can't see this gas, but you can smell it.": "audio/2026-11-13/a1-ex-gas.mp3",
+  "sting": "audio/2026-11-13/a1-w-sting.mp3",
+  "Soap can sting your eyes.": "audio/2026-11-13/a1-ex-sting.mp3",
+  "protect": "audio/2026-11-13/a1-w-protect.mp3",
+  "A helmet will protect your head.": "audio/2026-11-13/a1-ex-protect.mp3",
+  "sharp": "audio/2026-11-13/a1-w-sharp.mp3",
+  "Be careful! This knife is very sharp.": "audio/2026-11-13/a1-ex-sharp.mp3",
+  "bite": "audio/2026-11-13/a1-w-bite.mp3",
+  "Our dog never tries to bite people.": "audio/2026-11-13/a1-ex-bite.mp3",
+  "When the onion is whole, they never meet.": "audio/2026-11-13/a1-ks1.mp3",
+  "The knife breaks the cells, and the chemicals mix.": "audio/2026-11-13/a1-ks2.mp3",
+  "Crying is your body's way to keep your eyes safe.": "audio/2026-11-13/a1-ks3.mp3",
+  "If you put the onion in the fridge for half an hour first, you will cry less.": "audio/2026-11-13/a1-ks4.mp3",
+  "If you cut an onion, this gas will reach your face in a few seconds.": "audio/2026-11-13/a1-g1.mp3",
+  "If an animal bites an onion, the gas will hurt its eyes and mouth.": "audio/2026-11-13/a1-g2.mp3",
+  "If you open a window, the gas will go away faster.": "audio/2026-11-13/a1-g4.mp3",
+  "This term, our school started six new after-school clubs. They meet on Tuesdays and Thursdays from 4 to 5:30. We asked three students: Which club did you choose, and why?": "audio/2026-11-13/a2-p1.mp3",
+  "Mia, 13: I chose the cooking club. I love making things for my family, but at home I usually just watch my dad. In the club, we learn to cook easy meals. Last week, we made vegetable soup. My little brother doesn't enjoy eating vegetables, but he finished my soup! Next month, I hope to cook dinner for my parents. It will be a surprise.": "audio/2026-11-13/a2-p2.mp3",
+  "Daniel, 14: I wanted to join the football club, but it was already full. So I decided to try the chess club. At first, I didn't want to go. I thought chess was boring and slow. I was wrong! Now I really enjoy playing it! Our teacher, Mr Patel, is very patient. He keeps showing us clever new moves. In spring, we're going to enter a competition in the city. I can't wait!": "audio/2026-11-13/a2-p3.mp3",
+  "Aiko, 12: I joined the photography club. I'm a bit shy, and I don't like talking in front of a lot of people. I wanted to find a quiet hobby. Every week, we walk around the school and take photos of trees, birds and people. Our teacher taught us to use the light well. I'd like to have my own camera one day. For now, I borrow one from the club.": "audio/2026-11-13/a2-p4.mp3",
+  "So, who is happiest? All three students say the same thing. They have learned new skills, and they have made new friends. Which club would you like to join?": "audio/2026-11-13/a2-p5.mp3",
+  "club": "audio/2026-11-13/a2-w-club.mp3",
+  "Our music club meets on Fridays.": "audio/2026-11-13/a2-ex-club.mp3",
+  "term": "audio/2026-11-13/a2-w-term.mp3",
+  "The autumn term starts in September.": "audio/2026-11-13/a2-ex-term.mp3",
+  "meal": "audio/2026-11-13/a2-w-meal.mp3",
+  "Dinner is my favourite meal of the day.": "audio/2026-11-13/a2-ex-meal.mp3",
+  "surprise": "audio/2026-11-13/a2-w-surprise.mp3",
+  "The party was a big surprise for Mum.": "audio/2026-11-13/a2-ex-surprise.mp3",
+  "chess": "audio/2026-11-13/a2-w-chess.mp3",
+  "My grandpa taught me to play chess.": "audio/2026-11-13/a2-ex-chess.mp3",
+  "patient": "audio/2026-11-13/a2-w-patient.mp3",
+  "Our teacher is patient with slow learners.": "audio/2026-11-13/a2-ex-patient.mp3",
+  "competition": "audio/2026-11-13/a2-w-competition.mp3",
+  "She won first prize in the art competition.": "audio/2026-11-13/a2-ex-competition.mp3",
+  "photography": "audio/2026-11-13/a2-w-photography.mp3",
+  "I want to learn photography this summer.": "audio/2026-11-13/a2-ex-photography.mp3",
+  "shy": "audio/2026-11-13/a2-w-shy.mp3",
+  "The shy boy didn't say hello.": "audio/2026-11-13/a2-ex-shy.mp3",
+  "borrow": "audio/2026-11-13/a2-w-borrow.mp3",
+  "Can I borrow your pen, please?": "audio/2026-11-13/a2-ex-borrow.mp3",
+  "We asked three students: Which club did you choose, and why?": "audio/2026-11-13/a2-ks1.mp3",
+  "I love making things for my family, but at home I usually just watch my dad.": "audio/2026-11-13/a2-ks2.mp3",
+  "I thought chess was boring and slow. I was wrong!": "audio/2026-11-13/a2-ks3.mp3",
+  "I'm a bit shy, and I don't like talking in front of a lot of people.": "audio/2026-11-13/a2-ks4.mp3",
+  "They have learned new skills, and they have made new friends.": "audio/2026-11-13/a2-ks5.mp3",
+  "So I decided to try the chess club.": "audio/2026-11-13/a2-g2.mp3",
+  "Now I really enjoy playing it!": "audio/2026-11-13/a2-g3.mp3",
+  "I'd like to have my own camera one day.": "audio/2026-11-13/a2-g4.mp3",
+  "Hi everyone! It's Leo again. On Saturday, I did something new. I went to a climbing centre which opened last month near my school. My cousin Sofia, who climbs every week, came with me.": "audio/2026-11-13/a3-p1.mp3",
+  "The centre has a huge wall that is twelve metres high. It is covered in small coloured holds. A hold is a little piece that you put your hands and feet on. Each colour shows a different route up the wall. The easy routes are green, and the hard ones are black.": "audio/2026-11-13/a3-p2.mp3",
+  "First, we met our teacher, Kenji. He is the man who checks everyone's ropes. He gave me a harness. A harness is a kind of belt that goes around your waist and legs. Kenji showed me how to put it on. Then he tied the rope to it. He said, 'Always check your knot before you climb.'": "audio/2026-11-13/a3-p3.mp3",
+  "My first climb was on a green route. I got to the middle, and then I looked down. Big mistake! My legs started to shake. Sofia shouted, 'Don't look down! Look for the next hold!' I listened to her. Slowly, I reached the top and touched the bell which hangs there. Ding!": "audio/2026-11-13/a3-p4.mp3",
+  "Coming down was the best part. You sit back in your harness. Then the person who holds your rope lets you down slowly. It feels a bit like flying.": "audio/2026-11-13/a3-p5.mp3",
+  "After two hours, my arms were really tired. My hands were red, too. But I wasn't sad at all. I was proud of myself.": "audio/2026-11-13/a3-p6.mp3",
+  "Sofia gave me a tip that I want to share with you. Use your legs, not only your arms. Your legs are much stronger! I'm going to go back next Saturday, and I want to try a blue route. Have you ever tried climbing? Tell me in the comments!": "audio/2026-11-13/a3-p7.mp3",
+  "climb": "audio/2026-11-13/a3-w-climb.mp3",
+  "We climb the hill every summer.": "audio/2026-11-13/a3-ex-climb.mp3",
+  "cousin": "audio/2026-11-13/a3-w-cousin.mp3",
+  "My cousin lives in Canada.": "audio/2026-11-13/a3-ex-cousin.mp3",
+  "huge": "audio/2026-11-13/a3-w-huge.mp3",
+  "There is a huge tree in our garden.": "audio/2026-11-13/a3-ex-huge.mp3",
+  "route": "audio/2026-11-13/a3-w-route.mp3",
+  "This route to school is shorter.": "audio/2026-11-13/a3-ex-route.mp3",
+  "rope": "audio/2026-11-13/a3-w-rope.mp3",
+  "Hold the rope with both hands.": "audio/2026-11-13/a3-ex-rope.mp3",
+  "harness": "audio/2026-11-13/a3-w-harness.mp3",
+  "Check your harness before you start.": "audio/2026-11-13/a3-ex-harness.mp3",
+  "waist": "audio/2026-11-13/a3-w-waist.mp3",
+  "She wore a red belt around her waist.": "audio/2026-11-13/a3-ex-waist.mp3",
+  "knot": "audio/2026-11-13/a3-w-knot.mp3",
+  "I tied a knot in my shoelace.": "audio/2026-11-13/a3-ex-knot.mp3",
+  "shake": "audio/2026-11-13/a3-w-shake.mp3",
+  "My hands shake when I'm cold.": "audio/2026-11-13/a3-ex-shake.mp3",
+  "proud": "audio/2026-11-13/a3-w-proud.mp3",
+  "Mum was proud of my good marks.": "audio/2026-11-13/a3-ex-proud.mp3",
+  "I went to a climbing centre which opened last month near my school.": "audio/2026-11-13/a3-ks1.mp3",
+  "He is the man who checks everyone's ropes.": "audio/2026-11-13/a3-ks2.mp3",
+  "I got to the middle, and then I looked down. Big mistake!": "audio/2026-11-13/a3-ks3.mp3",
+  "Slowly, I reached the top and touched the bell which hangs there.": "audio/2026-11-13/a3-ks4.mp3",
+  "Use your legs, not only your arms.": "audio/2026-11-13/a3-ks5.mp3",
+  "My cousin Sofia, who climbs every week, came with me.": "audio/2026-11-13/a3-g1.mp3",
+  "The centre has a huge wall that is twelve metres high.": "audio/2026-11-13/a3-g2.mp3"
+ }
+}
