@@ -1,0 +1,2090 @@
+{
+ "date": "2026-11-14",
+ "headline": "Pencil secrets, a surprise party and a tiny tent",
+ "teaser": "How is a pencil made? Can Nina keep Grandpa's party a secret? What happens when Omar packs the wrong tent?",
+ "articles": [
+  {
+   "id": "k20261114-1",
+   "topic": "Technology",
+   "genre": "Article",
+   "title": "How Is a Pencil Made?",
+   "dek": "You use one every day. But do you know where it comes from?",
+   "sources": [
+    {
+     "name": "Simple English Wikipedia: Pencil",
+     "url": "https://simple.wikipedia.org/wiki/Pencil"
+    },
+    {
+     "name": "Encyclopedia.com: Pencil",
+     "url": "https://www.encyclopedia.com/literature-and-arts/art-and-architecture/art-general/pencil"
+    }
+   ],
+   "paras": [
+    "Look in your pencil case. There is probably a pencil inside. You use it every day, but have you ever thought about it? How is a pencil made? Let's find out step by step.",
+    "First, the black part. People call it the \"lead\", but there is no lead metal in it. It is made of graphite and clay. Graphite is a soft, dark mineral. It leaves a grey line on paper. In a factory, the graphite is mixed with clay and water.",
+    "Next, the soft mix is pushed through a small hole. It comes out like long, thin strings. These strings are cut and dried. Then they are baked in a very hot oven. After that, they are hard and strong.",
+    "Now for the wood. Most pencils are made of cedar wood. Cedar smells nice, and it is easy to cut. The wood is cut into thin, flat pieces. Then small lines, called grooves, are cut into each piece. The black strings are put into the grooves.",
+    "A second piece of wood is glued on top, like a sandwich. A machine cuts the sandwich into pencils. One sandwich makes six to nine pencils! Many pencils have six sides, so they don't roll off your desk easily. Finally, the pencils are painted.",
+    "Pencils have a long history. More than 450 years ago, a lot of pure graphite was found in Borrowdale, in the north of England. At first, local people used it to mark their sheep! Later, it was used for writing and drawing.",
+    "So next time you write with a pencil, think about its long journey. It started as a dark stone under the ground. Now it is in your hand!"
+   ],
+   "words": [
+    {
+     "w": "graphite",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɡræf.aɪt/",
+     "syl": [
+      "graph",
+      "ite"
+     ],
+     "def": "a soft black stone inside a pencil",
+     "ex": "My pencil leaves graphite on my fingers."
+    },
+    {
+     "w": "clay",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kleɪ/",
+     "syl": [
+      "clay"
+     ],
+     "def": "soft earth that gets hard when it is hot",
+     "ex": "We made a cup from clay in art class."
+    },
+    {
+     "w": "mineral",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmɪn.ər.əl/",
+     "syl": [
+      "min",
+      "er",
+      "al"
+     ],
+     "def": "a natural thing that we find in the ground",
+     "ex": "Gold is a mineral."
+    },
+    {
+     "w": "mix",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/mɪks/",
+     "syl": [
+      "mix"
+     ],
+     "def": "to put different things together",
+     "ex": "Mix the eggs and the milk in a bowl."
+    },
+    {
+     "w": "oven",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈʌv.ən/",
+     "syl": [
+      "ov",
+      "en"
+     ],
+     "def": "a hot box in a kitchen for cooking food",
+     "ex": "The bread is in the oven."
+    },
+    {
+     "w": "groove",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɡruːv/",
+     "syl": [
+      "groove"
+     ],
+     "def": "a long, thin line cut into something",
+     "ex": "The wheel goes along a groove."
+    },
+    {
+     "w": "glue",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ɡluː/",
+     "syl": [
+      "glue"
+     ],
+     "def": "to join things together with something sticky",
+     "ex": "Please glue the photo into your book."
+    },
+    {
+     "w": "roll",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/rəʊl/",
+     "syl": [
+      "roll"
+     ],
+     "def": "to move by turning over and over",
+     "ex": "The ball can roll down the hill."
+    },
+    {
+     "w": "pure",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/pjʊə/",
+     "syl": [
+      "pure"
+     ],
+     "def": "with nothing else mixed in it",
+     "ex": "This juice is pure orange."
+    },
+    {
+     "w": "history",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈhɪs.tər.i/",
+     "syl": [
+      "his",
+      "to",
+      "ry"
+     ],
+     "def": "things that happened a long time ago",
+     "ex": "Our town has an interesting history."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "It is made of graphite and clay.",
+     "kind": "Key details",
+     "note": "A pencil's black part is not lead metal."
+    },
+    {
+     "para": 3,
+     "text": "Then they are baked in a very hot oven.",
+     "kind": "Time order",
+     "note": "Baking makes the black strings hard."
+    },
+    {
+     "para": 5,
+     "text": "Many pencils have six sides, so they don't roll off your desk easily.",
+     "kind": "Cause → effect",
+     "note": "Six sides stop a pencil from rolling."
+    },
+    {
+     "para": 6,
+     "text": "More than 450 years ago, a lot of pure graphite was found in Borrowdale, in the north of England.",
+     "kind": "Grammar to notice",
+     "note": "was + found: we care about the graphite, not the finder."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "the best pencils to buy",
+      "how pencils are made and where they come from",
+      "how to draw well with a pencil"
+     ],
+     "a": 1,
+     "why": "第1段提问 How is a pencil made?，后面各段一步步讲做法，再讲历史。",
+     "evidence": null,
+     "optWhy": [
+      "文中没有比较哪种铅笔好、该买哪种。",
+      "正确。第1段 How is a pencil made? + 第6段讲 history = 选项 how pencils are made and where they come from。",
+      "文中没有教怎么画画，只在第6段提到 writing and drawing。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "结尾问题 How is a pencil made? 就是全文主线。"
+      },
+      {
+       "h": "扫各段开头",
+       "t": "First… Next… Now for the wood… 都是制作步骤。"
+      },
+      {
+       "h": "排除",
+       "t": "只出现一次的词（drawing）不是主旨。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What is the black part of a pencil made of?",
+     "opts": [
+      "graphite and clay",
+      "lead metal",
+      "wood and paint"
+     ],
+     "a": 0,
+     "why": "第2段原文：It is made of graphite and clay.",
+     "evidence": "It is made of graphite and clay.",
+     "optWhy": [
+      "正确。原文 It is made of graphite and clay = 选项 graphite and clay。",
+      "原文说 there is no lead metal in it，正好相反。",
+      "wood 和 paint 是铅笔外面的部分，不是黑芯。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第2段开头 First, the black part。"
+      },
+      {
+       "h": "找 made of",
+       "t": "It is made of graphite and clay."
+      },
+      {
+       "h": "小心干扰",
+       "t": "人们叫它 lead，但 there is no lead metal in it。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "The strings are baked in the oven for two hours.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第3段只说 they are baked in a very hot oven，没说烤多久。",
+     "evidence": "Then they are baked in a very hot oven.",
+     "optWhy": [
+      "原文没有出现 two hours，不能选 Right。",
+      "原文也没说别的时间，没有相反信息，不能选 Wrong。",
+      "正确。原文只说 a very hot oven，没提时间长短。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第3段 baked in a very hot oven。"
+      },
+      {
+       "h": "找时间",
+       "t": "整段没有 hours 或 minutes。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, what are \"grooves\"?",
+     "opts": [
+      "small lines cut into the wood",
+      "pieces of black string",
+      "a kind of tree"
+     ],
+     "a": 0,
+     "why": "第4段原文：small lines, called grooves, are cut into each piece。",
+     "evidence": "Then small lines, called grooves, are cut into each piece.",
+     "optWhy": [
+      "正确。原文 small lines, called grooves = 选项 small lines cut into the wood。",
+      "黑色的 strings 是放进 grooves 里的东西，不是 grooves 本身。",
+      "树的名字是 cedar，不是 grooves。"
+     ],
+     "traps": [
+      null,
+      "混淆",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "找解释",
+       "t": "called grooves 前面就是解释：small lines。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The black strings are put into the grooves → 放进木板上的小槽。"
+      }
+     ],
+     "marks": [
+      "grooves"
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, what does \"it\" mean in \"it is easy to cut\"?",
+     "opts": [
+      "the pencil",
+      "cedar wood",
+      "the black string"
+     ],
+     "a": 1,
+     "why": "原文 Cedar smells nice, and it is easy to cut. 前面的主语是 Cedar。",
+     "evidence": "Cedar smells nice, and it is easy to cut.",
+     "optWhy": [
+      "这句在讲木头的特点，还没做成铅笔。",
+      "正确。同一句前半句 Cedar smells nice，it 指 cedar wood。",
+      "黑芯在第3段，这句讲的是木头。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "it 前面最近的名词是 Cedar。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Cedar is easy to cut. 意思通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "Why do many pencils have six sides?",
+     "opts": [
+      "They look nicer.",
+      "They are easier to paint.",
+      "They don't roll off the desk easily."
+     ],
+     "a": 2,
+     "why": "第5段原文：Many pencils have six sides, so they don't roll off your desk easily.",
+     "evidence": "Many pencils have six sides, so they don't roll off your desk easily.",
+     "optWhy": [
+      "文中没说六边形更好看。",
+      "上漆在下一句 Finally, the pencils are painted，和六边无关。",
+      "正确。原文 so they don't roll off your desk easily = 选项。"
+     ],
+     "traps": [
+      "无中生有",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "six sides → 第5段。"
+      },
+      {
+       "h": "看 so",
+       "t": "so 后面就是结果：don't roll off your desk。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Passive: is made / was built",
+    "rule": "Use the passive when the thing is more important than the person who does the action. Make it with is / are / was / were + past participle (made, cut, found).",
+    "table": [
+     [
+      "is + past participle",
+      "It is made of graphite."
+     ],
+     [
+      "are + past participle",
+      "The pencils are painted."
+     ],
+     [
+      "was + past participle",
+      "Graphite was found in England."
+     ],
+     [
+      "were + past participle",
+      "The strings were dried."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "It is made of graphite and clay.",
+      "mark": "is made"
+     },
+     {
+      "para": 3,
+      "text": "Then they are baked in a very hot oven.",
+      "mark": "are baked"
+     },
+     {
+      "para": 5,
+      "text": "Finally, the pencils are painted.",
+      "mark": "are painted"
+     },
+     {
+      "para": 6,
+      "text": "More than 450 years ago, a lot of pure graphite was found in Borrowdale, in the north of England.",
+      "mark": "was found"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Paper ___ from wood.",
+      "opts": [
+       "is made",
+       "makes",
+       "are made"
+      ],
+      "a": 0,
+      "why": "Paper is one thing, so use is + made."
+     },
+     {
+      "type": "mc",
+      "q": "This old bridge ___ in 1890.",
+      "opts": [
+       "built",
+       "was built",
+       "is build"
+      ],
+      "a": 1,
+      "why": "It happened in the past, so use was + built."
+     },
+     {
+      "type": "mc",
+      "q": "These school bags ___ in China.",
+      "opts": [
+       "is made",
+       "making",
+       "are made"
+      ],
+      "a": 2,
+      "why": "Bags is plural, so use are + made."
+     },
+     {
+      "type": "fill",
+      "q": "Our school ___ in 2005.",
+      "hint": "(build)",
+      "a": "was built",
+      "why": "A past date, so use was + built."
+     },
+     {
+      "type": "fill",
+      "q": "English ___ in many countries.",
+      "hint": "(speak)",
+      "a": "is spoken",
+      "why": "A fact now, so use is + spoken."
+     },
+     {
+      "type": "fill",
+      "q": "Every day, the classrooms ___ after school.",
+      "hint": "(clean)",
+      "a": "are cleaned",
+      "why": "Classrooms is plural, so use are + cleaned."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261114-1-k1",
+     "tag": "Lead",
+     "fact": "The black part of a pencil is graphite and clay, not lead metal.",
+     "q": "What is in the black part of a pencil?",
+     "opts": [
+      "lead metal",
+      "graphite and clay",
+      "black paint"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261114-1-k2",
+     "tag": "Oven",
+     "fact": "The thin strings are baked in a hot oven to make them hard.",
+     "q": "Why are the strings baked?",
+     "opts": [
+      "to make them hard",
+      "to make them black",
+      "to make them smell nice"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261114-1-k3",
+     "tag": "Wood",
+     "fact": "Most pencils are made of cedar wood because it is easy to cut.",
+     "q": "Which wood is used for most pencils?",
+     "opts": [
+      "cedar",
+      "oak",
+      "pine"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261114-1-k4",
+     "tag": "Shape",
+     "fact": "Pencils with six sides don't roll off the desk easily.",
+     "q": "Why do pencils have six sides?",
+     "opts": [
+      "They are cheaper.",
+      "They don't roll easily.",
+      "They are longer."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261114-1-k5",
+     "tag": "History",
+     "fact": "Pure graphite was found in Borrowdale, England, more than 450 years ago.",
+     "q": "What did people in Borrowdale first use graphite for?",
+     "opts": [
+      "writing letters",
+      "drawing maps",
+      "marking sheep"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Making pencils",
+    "question": "How is a pencil made, step by step?",
+    "branches": [
+     {
+      "title": "Black part",
+      "paras": "2",
+      "blanks": [
+       "graphite and clay",
+       "no lead metal"
+      ],
+      "kps": [
+       "k20261114-1-k1"
+      ]
+     },
+     {
+      "title": "Strings",
+      "paras": "3",
+      "blanks": [
+       "long, thin strings",
+       "a very hot oven"
+      ],
+      "kps": [
+       "k20261114-1-k2"
+      ]
+     },
+     {
+      "title": "Wood",
+      "paras": "4–5",
+      "blanks": [
+       "cedar wood",
+       "six sides"
+      ],
+      "kps": [
+       "k20261114-1-k3",
+       "k20261114-1-k4"
+      ]
+     },
+     {
+      "title": "History",
+      "paras": "6",
+      "blanks": [
+       "Borrowdale, England",
+       "to mark sheep"
+      ],
+      "kps": [
+       "k20261114-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a plastic tube",
+     "made of lead metal"
+    ]
+   },
+   "summary": {
+    "intro": "The text explains how a pencil is made and where graphite was first found.",
+    "model": "A pencil's black part is made of graphite and clay, so it is not lead. It is put between two pieces of wood because wood protects it.",
+    "options": [
+     {
+      "t": "The black part is made of graphite and clay, then baked hard.",
+      "ok": true,
+      "why": "This is the first main step.",
+      "type": "main",
+      "para": 2,
+      "evidence": "It is made of graphite and clay."
+     },
+     {
+      "t": "The strings are put between two pieces of wood and cut into pencils.",
+      "ok": true,
+      "why": "This is the second main step.",
+      "type": "main",
+      "para": 5,
+      "evidence": "A machine cuts the sandwich into pencils."
+     },
+     {
+      "t": "Pure graphite was found in England more than 450 years ago.",
+      "ok": true,
+      "why": "This is the main idea of the history part.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Pencils have a long history."
+     },
+     {
+      "t": "Cedar wood smells nice.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Cedar smells nice, and it is easy to cut."
+     },
+     {
+      "t": "A pencil can draw a line 50 kilometres long.",
+      "ok": false,
+      "why": "The text doesn't say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "There is a lot of lead metal in a pencil.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "there is no lead metal in it"
+     }
+    ]
+   },
+   "speak": {
+    "p": "What do you use more often at school: a pencil or a pen? Why?",
+    "hint": "Try: 'I usually use … because …' and 'It is easy to …'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Your English friend wants to know about your pencil case. Write an email to your friend.",
+    "steps": [
+     "Say what is in your pencil case.",
+     "Say which thing you use most.",
+     "Say what you want to buy next."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261114-2",
+   "topic": "People & family",
+   "genre": "Email",
+   "title": "Grandpa's Surprise Party",
+   "dek": "Grandpa is going to be seventy. Can the family keep the secret?",
+   "sources": [],
+   "paras": [
+    "Hi Leo, Grandpa is going to be seventy next Sunday! Mum wants to have a surprise party for him, so she asked me to help. We're going to invite all the family, but Grandpa can't know about it. Can you and Aunt Rosa come? Please don't tell him, because he talks to your mum every day! Love, Nina",
+    "Hi Nina, What a great idea! Of course we can come. Grandpa loves music, so I can play the guitar for him. My sister Ella is good at art, and she wants to make a big card. Where is the party going to be? I need to know because Mum is going to drive us there. Leo",
+    "Hi Leo, It's at our house. First, Dad is going to take Grandpa to the park for a walk. Then we're going to decorate the living room with balloons. After that, everyone is going to hide in the kitchen. When Grandpa opens the door, we're all going to shout \"Surprise!\" Please come at two o'clock, because they're leaving at half past two. Love, Nina",
+    "Hi Nina, The party was amazing! Grandpa opened the door, and his mouth fell open. He was really surprised, but he was very happy, too. He didn't stop smiling all afternoon. I played two songs on my guitar, but I forgot some words in the second one! Grandpa didn't mind. He sang with me, so nobody noticed. Leo",
+    "Hi Leo, Thank you for coming! Grandpa says it was his best birthday ever. After everyone left, he looked at Ella's card for a long time. Then he put it on the wall next to his bed. He wants you to teach him your songs, because he has an old piano at home. Please come again soon! Love, Nina"
+   ],
+   "words": [
+    {
+     "w": "surprise",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/səˈpraɪz/",
+     "syl": [
+      "sur",
+      "prise"
+     ],
+     "def": "something nice that you did not know about",
+     "ex": "The cake was a big surprise for Mum."
+    },
+    {
+     "w": "invite",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ɪnˈvaɪt/",
+     "syl": [
+      "in",
+      "vite"
+     ],
+     "def": "to ask someone to come to a party or event",
+     "ex": "I want to invite ten friends to my party."
+    },
+    {
+     "w": "aunt",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ɑːnt/",
+     "syl": [
+      "aunt"
+     ],
+     "def": "the sister of your mother or father",
+     "ex": "My aunt lives in Spain."
+    },
+    {
+     "w": "decorate",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˈdek.ə.reɪt/",
+     "syl": [
+      "dec",
+      "o",
+      "rate"
+     ],
+     "def": "to make a place look nice for a party",
+     "ex": "Let's decorate the classroom for the holiday."
+    },
+    {
+     "w": "balloon",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/bəˈluːn/",
+     "syl": [
+      "bal",
+      "loon"
+     ],
+     "def": "a small bag of air in bright colours",
+     "ex": "The baby has a red balloon."
+    },
+    {
+     "w": "hide",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/haɪd/",
+     "syl": [
+      "hide"
+     ],
+     "def": "to go where people can't see you",
+     "ex": "The cat likes to hide under the bed."
+    },
+    {
+     "w": "shout",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ʃaʊt/",
+     "syl": [
+      "shout"
+     ],
+     "def": "to say something very loudly",
+     "ex": "Please don't shout in the library."
+    },
+    {
+     "w": "amazing",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/əˈmeɪ.zɪŋ/",
+     "syl": [
+      "a",
+      "maz",
+      "ing"
+     ],
+     "def": "very, very good",
+     "ex": "The view from the top was amazing."
+    },
+    {
+     "w": "mind",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/maɪnd/",
+     "syl": [
+      "mind"
+     ],
+     "def": "to feel unhappy or angry about something",
+     "ex": "I don't mind if you are late."
+    },
+    {
+     "w": "notice",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈnəʊ.tɪs/",
+     "syl": [
+      "no",
+      "tice"
+     ],
+     "def": "to see or hear something",
+     "ex": "Did you notice her new glasses?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Mum wants to have a surprise party for him, so she asked me to help.",
+     "kind": "Main idea",
+     "note": "The emails are about planning a surprise party."
+    },
+    {
+     "para": 3,
+     "text": "Then we're going to decorate the living room with balloons.",
+     "kind": "Time order",
+     "note": "First, then, after that: the plan in order."
+    },
+    {
+     "para": 4,
+     "text": "He sang with me, so nobody noticed.",
+     "kind": "Cause → effect",
+     "note": "Grandpa helped, so Leo's mistake didn't matter."
+    },
+    {
+     "para": 5,
+     "text": "Grandpa says it was his best birthday ever.",
+     "kind": "Opinion",
+     "note": "The party was a big success."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Nina write the first email?",
+     "opts": [
+      "to thank Leo for a present",
+      "to tell Leo about her new house",
+      "to ask Leo to come to a surprise party"
+     ],
+     "a": 2,
+     "why": "第1封邮件：Mum wants to have a surprise party… Can you and Aunt Rosa come?",
+     "evidence": null,
+     "optWhy": [
+      "感谢在最后一封邮件 Thank you for coming，而且谢的是来参加派对，不是礼物。",
+      "文中没有提到新房子。",
+      "正确。原文 a surprise party + Can you and Aunt Rosa come? = 选项 ask Leo to come to a surprise party。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "只看第1封",
+       "t": "目的常在问句里：Can you and Aunt Rosa come?"
+      },
+      {
+       "h": "小心干扰",
+       "t": "Thank you 出现在最后一封，不是第一封。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does Leo want to do at the party?",
+     "opts": [
+      "make a big card",
+      "play the guitar",
+      "drive the car"
+     ],
+     "a": 1,
+     "why": "第2段原文：Grandpa loves music, so I can play the guitar for him.",
+     "evidence": "Grandpa loves music, so I can play the guitar for him.",
+     "optWhy": [
+      "做卡片的是妹妹 Ella：she wants to make a big card。",
+      "正确。原文 I can play the guitar for him = 选项 play the guitar。",
+      "开车的是 Leo 的妈妈：Mum is going to drive us there。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第2封是 Leo 写的，找 I。"
+      },
+      {
+       "h": "分清人物",
+       "t": "I = Leo 弹吉他；she = Ella 做卡片；Mum 开车。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What time should Leo's family arrive?",
+     "opts": [
+      "at two o'clock",
+      "at half past two",
+      "after the walk in the park"
+     ],
+     "a": 0,
+     "why": "第3段原文：Please come at two o'clock, because they're leaving at half past two.",
+     "evidence": "Please come at two o'clock, because they're leaving at half past two.",
+     "optWhy": [
+      "正确。原文 Please come at two o'clock = 选项 at two o'clock。",
+      "half past two 是爸爸和爷爷出门的时间，不是到达时间。",
+      "大家要在爷爷散步回来前躲好，不是散步之后才来。"
+     ],
+     "traps": [
+      null,
+      "数字偷换",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "找时间",
+       "t": "第3段有两个时间：two o'clock 和 half past two。"
+      },
+      {
+       "h": "看清主语",
+       "t": "come at two = Leo 一家；they're leaving = 爸爸和爷爷。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Leo remembered all the words of his songs.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：I forgot some words in the second one!",
+     "evidence": "I played two songs on my guitar, but I forgot some words in the second one!",
+     "optWhy": [
+      "原文说 I forgot some words，他没记住全部。",
+      "正确。原文 forgot some words 和 remembered all the words 正好相反。",
+      "原文清楚说了他忘词，所以不是“没提到”。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第4段 songs on my guitar。"
+      },
+      {
+       "h": "看 but",
+       "t": "but 后面：I forgot some words。"
+      },
+      {
+       "h": "判断",
+       "t": "原文说了相反的事 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How did Grandpa feel at the party?",
+     "opts": [
+      "angry",
+      "tired",
+      "happy"
+     ],
+     "a": 2,
+     "why": "第4段原文：He didn't stop smiling all afternoon.",
+     "evidence": "He didn't stop smiling all afternoon.",
+     "optWhy": [
+      "Leo 忘词时 Grandpa didn't mind，他没有生气。",
+      "文中没说爷爷累了。",
+      "正确。原文 very happy 和 didn't stop smiling = 选项 happy。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找感受词",
+       "t": "第4段 surprised, very happy, smiling。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "didn't mind = 不介意，不是生气。"
+      }
+     ],
+     "marks": [
+      "he was very happy, too"
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In the last email, who does \"he\" mean in \"he put it on the wall\"?",
+     "opts": [
+      "Grandpa",
+      "Leo",
+      "Nina's dad"
+     ],
+     "a": 0,
+     "why": "前一句 he looked at Ella's card，这里的 he 都指 Grandpa。",
+     "evidence": "Then he put it on the wall next to his bed.",
+     "optWhy": [
+      "正确。这段一直在说 Grandpa：Grandpa says…, he looked at Ella's card…, he put it on the wall。",
+      "Leo 是收信人，信里用 you 指他。",
+      "这封信没有提到爸爸。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "段首 Grandpa says…，后面的 he 都接着说他。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Grandpa put Ella's card on the wall next to his bed. 通顺。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Linking words: and, but, so, because",
+    "rule": "Linking words join ideas. and adds an idea, but shows a different idea, so gives a result, and because gives a reason. First, then and after that put actions in order.",
+    "table": [
+     [
+      "and",
+      "add an idea"
+     ],
+     [
+      "but",
+      "a different idea"
+     ],
+     [
+      "so",
+      "a result"
+     ],
+     [
+      "because",
+      "a reason"
+     ],
+     [
+      "first / then / after that",
+      "order of actions"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Mum wants to have a surprise party for him, so she asked me to help.",
+      "mark": "so"
+     },
+     {
+      "para": 2,
+      "text": "I need to know because Mum is going to drive us there.",
+      "mark": "because"
+     },
+     {
+      "para": 3,
+      "text": "After that, everyone is going to hide in the kitchen.",
+      "mark": "After that"
+     },
+     {
+      "para": 4,
+      "text": "I played two songs on my guitar, but I forgot some words in the second one!",
+      "mark": "but"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "I was hungry, ___ I made a sandwich.",
+      "opts": [
+       "but",
+       "so",
+       "because"
+      ],
+      "a": 1,
+      "why": "Making a sandwich is the result, so use so."
+     },
+     {
+      "type": "mc",
+      "q": "Sam stayed at home ___ he was ill.",
+      "opts": [
+       "because",
+       "so",
+       "then"
+      ],
+      "a": 0,
+      "why": "Being ill is the reason, so use because."
+     },
+     {
+      "type": "mc",
+      "q": "I like tea, ___ my brother doesn't.",
+      "opts": [
+       "so",
+       "because",
+       "but"
+      ],
+      "a": 2,
+      "why": "The two ideas are different, so use but."
+     },
+     {
+      "type": "fill",
+      "q": "We watched a film. ___ that, we had dinner.",
+      "hint": "(time order)",
+      "a": "After",
+      "why": "After that tells us the next action."
+     },
+     {
+      "type": "fill",
+      "q": "Grandma loves flowers, ___ we bought her some roses.",
+      "hint": "(result)",
+      "a": "so",
+      "why": "Buying roses is the result of her love of flowers."
+     },
+     {
+      "type": "fill",
+      "q": "Tom can't come to the party ___ he is visiting his aunt.",
+      "hint": "(reason)",
+      "a": "because",
+      "why": "Visiting his aunt is the reason."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261114-2-k1",
+     "tag": "Plan",
+     "fact": "Nina's family is planning a surprise party for Grandpa's 70th birthday.",
+     "q": "How old is Grandpa going to be?",
+     "opts": [
+      "sixty",
+      "seventy",
+      "eighty"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261114-2-k2",
+     "tag": "Leo",
+     "fact": "Leo is going to play the guitar, and Ella is making a card.",
+     "q": "Who is making a card?",
+     "opts": [
+      "Leo",
+      "Nina",
+      "Ella"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261114-2-k3",
+     "tag": "Order",
+     "fact": "Dad takes Grandpa for a walk, then the family decorates and hides.",
+     "q": "Where is everyone going to hide?",
+     "opts": [
+      "in the kitchen",
+      "in the garden",
+      "in the car"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261114-2-k4",
+     "tag": "Party",
+     "fact": "Grandpa was surprised and happy, and he sang with Leo.",
+     "q": "What did Grandpa do when Leo forgot the words?",
+     "opts": [
+      "He laughed at him.",
+      "He sang with him.",
+      "He left the room."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261114-2-k5",
+     "tag": "After",
+     "fact": "Grandpa put Ella's card next to his bed and wants to learn Leo's songs.",
+     "q": "Where did Grandpa put the card?",
+     "opts": [
+      "on the wall next to his bed",
+      "on the piano",
+      "in the kitchen"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Grandpa's party",
+    "question": "How did the family plan Grandpa's surprise party, and how did it go?",
+    "branches": [
+     {
+      "title": "Why",
+      "paras": "1",
+      "blanks": [
+       "seventy next Sunday",
+       "a surprise party"
+      ],
+      "kps": [
+       "k20261114-2-k1"
+      ]
+     },
+     {
+      "title": "Who helps",
+      "paras": "2",
+      "blanks": [
+       "play the guitar",
+       "make a big card"
+      ],
+      "kps": [
+       "k20261114-2-k2"
+      ]
+     },
+     {
+      "title": "Plan",
+      "paras": "3",
+      "blanks": [
+       "walk in the park",
+       "hide in the kitchen"
+      ],
+      "kps": [
+       "k20261114-2-k3"
+      ]
+     },
+     {
+      "title": "Party",
+      "paras": "4–5",
+      "blanks": [
+       "didn't stop smiling",
+       "best birthday ever"
+      ],
+      "kps": [
+       "k20261114-2-k4",
+       "k20261114-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a big chocolate cake",
+     "Grandpa was angry"
+    ]
+   },
+   "summary": {
+    "intro": "Nina and her cousin Leo write emails about a surprise party for Grandpa.",
+    "model": "The family planned a surprise party because Grandpa was seventy. Leo forgot some words, but Grandpa sang with him, so it was a great day.",
+    "options": [
+     {
+      "t": "Nina's family planned a surprise party for Grandpa's 70th birthday.",
+      "ok": true,
+      "why": "This is the main idea of the first emails.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Mum wants to have a surprise party for him, so she asked me to help."
+     },
+     {
+      "t": "Everyone hid while Dad took Grandpa for a walk.",
+      "ok": true,
+      "why": "This is the main plan.",
+      "type": "main",
+      "para": 3,
+      "evidence": "After that, everyone is going to hide in the kitchen."
+     },
+     {
+      "t": "Grandpa was surprised and said it was his best birthday ever.",
+      "ok": true,
+      "why": "This is how the party went.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Grandpa says it was his best birthday ever."
+     },
+     {
+      "t": "Leo's mum is going to drive them to the party.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "I need to know because Mum is going to drive us there."
+     },
+     {
+      "t": "Grandpa got a new piano for his birthday.",
+      "ok": false,
+      "why": "The text doesn't say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Grandpa didn't like the songs and was angry.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Grandpa didn't mind."
+     }
+    ]
+   },
+   "speak": {
+    "p": "How does your family celebrate birthdays? Tell me about one.",
+    "hint": "Try: 'We usually … because …' and 'First we …, then we …'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your cousin is having a birthday party. Write an email to your cousin.",
+    "steps": [
+     "Say thank you for the invitation.",
+     "Say what present you are going to bring.",
+     "Ask what time the party starts."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261114-3",
+   "topic": "Travel & holidays",
+   "genre": "Story",
+   "title": "The Tent Was Too Small",
+   "dek": "Omar wanted to do everything himself. Then he packed the wrong tent.",
+   "sources": [],
+   "paras": [
+    "Last summer, Omar and his family went camping by a lake. Omar was very excited. He was fourteen, and he wanted to do everything himself. \"I'm old enough to pack the car,\" he told his dad. \"I'll get the tent from the garage.\"",
+    "They drove for three hours. When they arrived at the lake, Omar opened the tent bag. His face went red. It was his old tent from when he was ten, not the big family tent. \"It's too small for four people!\" said his sister Amira. The shops were too far away, and it was too late to drive home.",
+    "Dad had an idea. \"The car is big enough for two people,\" he said. \"Mum and I can sleep in the car. You two can have the tent.\" Omar felt very bad, but he said yes.",
+    "That night, it was very cold. Omar's sleeping bag was too thin, and he couldn't sleep. Then it started to rain. Water came in through a small hole in the tent. Amira woke up. \"My feet are wet!\" she cried. They weren't warm enough, and they weren't dry enough.",
+    "Omar didn't want to wake his parents. So he put his raincoat over the hole. He gave Amira his jumper. Then he told her funny stories until she laughed. Slowly, they both fell asleep.",
+    "In the morning, the sun came out. Mum made hot chocolate on a small cooker. Dad looked at the tent and smiled. \"You weren't careful enough with the tent,\" he said, \"but you were clever enough to fix the problem.\"",
+    "Omar laughed. Next time, he will check the bag before they leave. And he will pack the big tent!"
+   ],
+   "words": [
+    {
+     "w": "camping",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkæm.pɪŋ/",
+     "syl": [
+      "camp",
+      "ing"
+     ],
+     "def": "sleeping outside in a tent on holiday",
+     "ex": "We go camping in the mountains every summer."
+    },
+    {
+     "w": "tent",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tent/",
+     "syl": [
+      "tent"
+     ],
+     "def": "a small house made of cloth for camping",
+     "ex": "Our tent is green and blue."
+    },
+    {
+     "w": "lake",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/leɪk/",
+     "syl": [
+      "lake"
+     ],
+     "def": "a big area of water with land all around it",
+     "ex": "We swam in the lake."
+    },
+    {
+     "w": "pack",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/pæk/",
+     "syl": [
+      "pack"
+     ],
+     "def": "to put things in a bag or car for a trip",
+     "ex": "Don't forget to pack your toothbrush."
+    },
+    {
+     "w": "garage",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈɡær.ɑːʒ/",
+     "syl": [
+      "gar",
+      "age"
+     ],
+     "def": "a building at home where you keep a car",
+     "ex": "Dad's bike is in the garage."
+    },
+    {
+     "w": "sleeping bag",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsliː.pɪŋ.bæɡ/",
+     "syl": [
+      "sleep",
+      "ing",
+      "bag"
+     ],
+     "def": "a warm bag that you sleep in",
+     "ex": "My sleeping bag keeps me warm."
+    },
+    {
+     "w": "thin",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/θɪn/",
+     "syl": [
+      "thin"
+     ],
+     "def": "not thick",
+     "ex": "This coat is too thin for winter."
+    },
+    {
+     "w": "hole",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/həʊl/",
+     "syl": [
+      "hole"
+     ],
+     "def": "an empty space in something",
+     "ex": "There is a hole in my sock."
+    },
+    {
+     "w": "jumper",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdʒʌm.pə/",
+     "syl": [
+      "jump",
+      "er"
+     ],
+     "def": "a warm piece of clothing for the top of your body",
+     "ex": "Grandma made me a blue jumper."
+    },
+    {
+     "w": "cooker",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkʊk.ə/",
+     "syl": [
+      "cook",
+      "er"
+     ],
+     "def": "a machine for cooking food",
+     "ex": "We have a new cooker in the kitchen."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "It was his old tent from when he was ten, not the big family tent.",
+     "kind": "Key details",
+     "note": "This is the problem in the story."
+    },
+    {
+     "para": 3,
+     "text": "\"The car is big enough for two people,\" he said.",
+     "kind": "Grammar to notice",
+     "note": "adjective + enough: big enough = big as we need."
+    },
+    {
+     "para": 4,
+     "text": "Water came in through a small hole in the tent.",
+     "kind": "Cause → effect",
+     "note": "The hole made Amira's feet wet."
+    },
+    {
+     "para": 6,
+     "text": "\"You weren't careful enough with the tent,\" he said, \"but you were clever enough to fix the problem.\"",
+     "kind": "Opinion",
+     "note": "Dad thinks Omar made a mistake but fixed it well."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Why did Omar want to pack the car himself?",
+     "opts": [
+      "He thought he was old enough.",
+      "His dad was too tired.",
+      "His sister asked him to."
+     ],
+     "a": 0,
+     "why": "第1段原文：\"I'm old enough to pack the car,\" he told his dad.",
+     "evidence": "\"I'm old enough to pack the car,\" he told his dad.",
+     "optWhy": [
+      "正确。原文 I'm old enough to pack the car = 选项 He thought he was old enough。",
+      "文中没说爸爸累了。",
+      "妹妹没有让他做，是他自己 wanted to do everything himself。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第1段 he told his dad。"
+      },
+      {
+       "h": "找原因",
+       "t": "He was fourteen… I'm old enough → 他觉得自己够大了。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What was the problem with the tent?",
+     "opts": [
+      "It had no bag.",
+      "It was too heavy to carry.",
+      "It was too small for the family."
+     ],
+     "a": 2,
+     "why": "第2段原文：\"It's too small for four people!\" said his sister Amira.",
+     "evidence": "\"It's too small for four people!\" said his sister Amira.",
+     "optWhy": [
+      "Omar opened the tent bag，说明有袋子。",
+      "文中没说帐篷太重。",
+      "正确。原文 too small for four people = 选项 too small for the family。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找转折",
+       "t": "His face went red. → 出问题了。"
+      },
+      {
+       "h": "读下一句",
+       "t": "old tent from when he was ten → too small for four people。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Where did Mum and Dad sleep?",
+     "opts": [
+      "in the tent",
+      "in the car",
+      "at a hotel"
+     ],
+     "a": 1,
+     "why": "第3段原文：Mum and I can sleep in the car.",
+     "evidence": "\"Mum and I can sleep in the car.",
+     "optWhy": [
+      "帐篷给了孩子们：You two can have the tent。",
+      "正确。原文 Mum and I can sleep in the car = 选项 in the car。",
+      "文中没有提到酒店。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "sleep → 第3段爸爸的话。"
+      },
+      {
+       "h": "分清人物",
+       "t": "Mum and I = 爸妈睡车里；You two = 孩子睡帐篷。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Amira's sleeping bag was warmer than Omar's.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第4段只说 Omar's sleeping bag was too thin，没说 Amira 的睡袋怎样。",
+     "evidence": "Omar's sleeping bag was too thin, and he couldn't sleep.",
+     "optWhy": [
+      "原文没有比较两个睡袋，不能选 Right。",
+      "原文也没说 Amira 的更冷，没有相反信息。",
+      "正确。原文只讲了 Omar 的睡袋，Amira 的睡袋没提。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第4段 sleeping bag 只出现一次。"
+      },
+      {
+       "h": "看是谁的",
+       "t": "Omar's sleeping bag，没有 Amira's。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 6,
+     "q": "In paragraph 6, \"fix the problem\" means…",
+     "opts": [
+      "make the bad situation OK",
+      "find a new problem",
+      "talk about the problem"
+     ],
+     "a": 0,
+     "why": "第5段 Omar 用雨衣堵洞、给妹妹毛衣，让问题变好了，所以 fix = 解决。",
+     "evidence": "\"You weren't careful enough with the tent,\" he said, \"but you were clever enough to fix the problem.\"",
+     "optWhy": [
+      "正确。Omar 堵洞、让妹妹暖和起来 = 选项 make the bad situation OK。",
+      "but 后面是夸奖，不会是“找新问题”。",
+      "Omar 是动手解决，不只是说说。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看转折",
+       "t": "weren't careful enough… but … clever enough → 后半句是好事。"
+      },
+      {
+       "h": "往前找",
+       "t": "第5段 put his raincoat over the hole = 他做的事。"
+      }
+     ],
+     "marks": [
+      "fix"
+     ]
+    },
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the best title for the story?",
+     "opts": [
+      "A Week in a Hotel",
+      "A Bad Night, a Good Brother",
+      "How to Buy a Tent"
+     ],
+     "a": 1,
+     "why": "故事讲帐篷带错、夜里又冷又湿，但 Omar 照顾好了妹妹。",
+     "evidence": null,
+     "optWhy": [
+      "他们是露营，住的是帐篷和车，不是酒店。",
+      "正确。冷雨夜 = A Bad Night；Omar 给妹妹毛衣、讲故事 = a Good Brother。",
+      "文中没有讲怎么买帐篷。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "想整个故事",
+       "t": "问题（帐篷太小、下雨）+ 结局（Omar 解决了）。"
+      },
+      {
+       "h": "排除",
+       "t": "标题要包含问题和结局，不能只抓一个词 tent。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "too / enough · very",
+    "rule": "too + adjective means more than we want, so there is a problem: too small. adjective + enough means as much as we need: big enough. very only makes an adjective stronger: very cold.",
+    "table": [
+     [
+      "too + adjective",
+      "too small, too late"
+     ],
+     [
+      "adjective + enough",
+      "big enough, old enough"
+     ],
+     [
+      "not + adjective + enough",
+      "weren't warm enough"
+     ],
+     [
+      "very + adjective",
+      "very cold, very excited"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "The shops were too far away, and it was too late to drive home.",
+      "mark": "too late"
+     },
+     {
+      "para": 3,
+      "text": "\"The car is big enough for two people,\" he said.",
+      "mark": "big enough"
+     },
+     {
+      "para": 4,
+      "text": "They weren't warm enough, and they weren't dry enough.",
+      "mark": "weren't warm enough"
+     },
+     {
+      "para": 4,
+      "text": "That night, it was very cold.",
+      "mark": "very cold"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "This bag is ___ heavy. I can't carry it.",
+      "opts": [
+       "too",
+       "enough",
+       "very much"
+      ],
+      "a": 0,
+      "why": "There is a problem (I can't carry it), so use too."
+     },
+     {
+      "type": "mc",
+      "q": "My little brother isn't ___ to ride a bike.",
+      "opts": [
+       "enough old",
+       "old enough",
+       "too old"
+      ],
+      "a": 1,
+      "why": "enough comes after the adjective: old enough."
+     },
+     {
+      "type": "mc",
+      "q": "Is the water warm ___ for swimming?",
+      "opts": [
+       "too",
+       "very",
+       "enough"
+      ],
+      "a": 2,
+      "why": "We ask if it is as warm as we need, so use enough."
+     },
+     {
+      "type": "fill",
+      "q": "The soup is ___ hot to eat. Wait a minute.",
+      "hint": "(too / enough)",
+      "a": "too",
+      "why": "It is a problem, so use too."
+     },
+     {
+      "type": "fill",
+      "q": "We don't have ___ chairs for everyone.",
+      "hint": "(too / enough)",
+      "a": "enough",
+      "why": "We need more chairs, so use enough before the noun."
+     },
+     {
+      "type": "fill",
+      "q": "The camping trip was ___ good. I loved it!",
+      "hint": "(too / very)",
+      "a": "very",
+      "why": "There is no problem, so use very, not too."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261114-3-k1",
+     "tag": "Start",
+     "fact": "Omar, fourteen, wanted to pack the car himself for a camping trip.",
+     "q": "How old was Omar?",
+     "opts": [
+      "ten",
+      "twelve",
+      "fourteen"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261114-3-k2",
+     "tag": "Problem",
+     "fact": "Omar packed his old small tent, not the big family tent.",
+     "q": "Which tent did Omar pack?",
+     "opts": [
+      "his old small tent",
+      "a new tent",
+      "the big family tent"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261114-3-k3",
+     "tag": "Night",
+     "fact": "It was cold and it rained, and water came through a hole.",
+     "q": "How did the water come into the tent?",
+     "opts": [
+      "through the door",
+      "through a small hole",
+      "under the floor"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261114-3-k4",
+     "tag": "Fix",
+     "fact": "Omar covered the hole with his raincoat and gave Amira his jumper.",
+     "q": "What did Omar put over the hole?",
+     "opts": [
+      "his jumper",
+      "a towel",
+      "his raincoat"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261114-3-k5",
+     "tag": "Ending",
+     "fact": "Dad said Omar was clever enough to fix the problem.",
+     "q": "What will Omar do next time?",
+     "opts": [
+      "check the bag before they leave",
+      "sleep in the car",
+      "stay at home"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Camping trip",
+    "question": "What went wrong on the camping trip, and how did Omar help?",
+    "branches": [
+     {
+      "title": "Who / Where",
+      "paras": "1",
+      "blanks": [
+       "by a lake",
+       "old enough"
+      ],
+      "kps": [
+       "k20261114-3-k1"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "2–3",
+      "blanks": [
+       "his old tent",
+       "sleep in the car"
+      ],
+      "kps": [
+       "k20261114-3-k2"
+      ]
+     },
+     {
+      "title": "Night",
+      "paras": "4–5",
+      "blanks": [
+       "a small hole",
+       "his raincoat"
+      ],
+      "kps": [
+       "k20261114-3-k3",
+       "k20261114-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "hot chocolate",
+       "check the bag"
+      ],
+      "kps": [
+       "k20261114-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a big hotel room",
+     "Omar was angry"
+    ]
+   },
+   "summary": {
+    "intro": "Omar packs the wrong tent for a family camping trip.",
+    "model": "Omar packed a tent that was too small, so his parents slept in the car. The night was cold and wet, but Omar looked after his sister.",
+    "options": [
+     {
+      "t": "Omar packed his old tent, and it was too small for the family.",
+      "ok": true,
+      "why": "This is the problem.",
+      "type": "main",
+      "para": 2,
+      "evidence": "\"It's too small for four people!\" said his sister Amira."
+     },
+     {
+      "t": "On a cold, wet night, Omar helped his sister.",
+      "ok": true,
+      "why": "This is the main event.",
+      "type": "main",
+      "para": 5,
+      "evidence": "He gave Amira his jumper."
+     },
+     {
+      "t": "Dad said Omar was clever enough to fix the problem.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "but you were clever enough to fix the problem."
+     },
+     {
+      "t": "Mum made hot chocolate in the morning.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 6,
+      "evidence": "Mum made hot chocolate on a small cooker."
+     },
+     {
+      "t": "The family caught a big fish in the lake.",
+      "ok": false,
+      "why": "The text doesn't say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Omar woke his parents in the night.",
+      "ok": false,
+      "why": "The text says the opposite.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Omar didn't want to wake his parents."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Would you like to go camping? Why or why not?",
+    "hint": "Try: 'I'd like to … because …' and 'It's too … for me.'",
+    "sec": 35
+   },
+   "write": {
+    "p": "Look at the story idea: a family trip goes wrong. Write the story.",
+    "steps": [
+     "Say where the family went.",
+     "Say what went wrong.",
+     "Say how the problem was fixed."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · female"
+  }
+ ],
+ "audio": {
+  "Look in your pencil case. There is probably a pencil inside. You use it every day, but have you ever thought about it? How is a pencil made? Let's find out step by step.": "audio/2026-11-14/a1-p1.mp3",
+  "First, the black part. People call it the \"lead\", but there is no lead metal in it. It is made of graphite and clay. Graphite is a soft, dark mineral. It leaves a grey line on paper. In a factory, the graphite is mixed with clay and water.": "audio/2026-11-14/a1-p2.mp3",
+  "Next, the soft mix is pushed through a small hole. It comes out like long, thin strings. These strings are cut and dried. Then they are baked in a very hot oven. After that, they are hard and strong.": "audio/2026-11-14/a1-p3.mp3",
+  "Now for the wood. Most pencils are made of cedar wood. Cedar smells nice, and it is easy to cut. The wood is cut into thin, flat pieces. Then small lines, called grooves, are cut into each piece. The black strings are put into the grooves.": "audio/2026-11-14/a1-p4.mp3",
+  "A second piece of wood is glued on top, like a sandwich. A machine cuts the sandwich into pencils. One sandwich makes six to nine pencils! Many pencils have six sides, so they don't roll off your desk easily. Finally, the pencils are painted.": "audio/2026-11-14/a1-p5.mp3",
+  "Pencils have a long history. More than 450 years ago, a lot of pure graphite was found in Borrowdale, in the north of England. At first, local people used it to mark their sheep! Later, it was used for writing and drawing.": "audio/2026-11-14/a1-p6.mp3",
+  "So next time you write with a pencil, think about its long journey. It started as a dark stone under the ground. Now it is in your hand!": "audio/2026-11-14/a1-p7.mp3",
+  "graphite": "audio/2026-11-14/a1-w-graphite.mp3",
+  "My pencil leaves graphite on my fingers.": "audio/2026-11-14/a1-ex-graphite.mp3",
+  "clay": "audio/2026-11-14/a1-w-clay.mp3",
+  "We made a cup from clay in art class.": "audio/2026-11-14/a1-ex-clay.mp3",
+  "mineral": "audio/2026-11-14/a1-w-mineral.mp3",
+  "Gold is a mineral.": "audio/2026-11-14/a1-ex-mineral.mp3",
+  "mix": "audio/2026-11-14/a1-w-mix.mp3",
+  "Mix the eggs and the milk in a bowl.": "audio/2026-11-14/a1-ex-mix.mp3",
+  "oven": "audio/2026-11-14/a1-w-oven.mp3",
+  "The bread is in the oven.": "audio/2026-11-14/a1-ex-oven.mp3",
+  "groove": "audio/2026-11-14/a1-w-groove.mp3",
+  "The wheel goes along a groove.": "audio/2026-11-14/a1-ex-groove.mp3",
+  "glue": "audio/2026-11-14/a1-w-glue.mp3",
+  "Please glue the photo into your book.": "audio/2026-11-14/a1-ex-glue.mp3",
+  "roll": "audio/2026-11-14/a1-w-roll.mp3",
+  "The ball can roll down the hill.": "audio/2026-11-14/a1-ex-roll.mp3",
+  "pure": "audio/2026-11-14/a1-w-pure.mp3",
+  "This juice is pure orange.": "audio/2026-11-14/a1-ex-pure.mp3",
+  "history": "audio/2026-11-14/a1-w-history.mp3",
+  "Our town has an interesting history.": "audio/2026-11-14/a1-ex-history.mp3",
+  "It is made of graphite and clay.": "audio/2026-11-14/a1-ks1.mp3",
+  "Then they are baked in a very hot oven.": "audio/2026-11-14/a1-ks2.mp3",
+  "Many pencils have six sides, so they don't roll off your desk easily.": "audio/2026-11-14/a1-ks3.mp3",
+  "More than 450 years ago, a lot of pure graphite was found in Borrowdale, in the north of England.": "audio/2026-11-14/a1-ks4.mp3",
+  "Finally, the pencils are painted.": "audio/2026-11-14/a1-g3.mp3",
+  "Hi Leo, Grandpa is going to be seventy next Sunday! Mum wants to have a surprise party for him, so she asked me to help. We're going to invite all the family, but Grandpa can't know about it. Can you and Aunt Rosa come? Please don't tell him, because he talks to your mum every day! Love, Nina": "audio/2026-11-14/a2-p1.mp3",
+  "Hi Nina, What a great idea! Of course we can come. Grandpa loves music, so I can play the guitar for him. My sister Ella is good at art, and she wants to make a big card. Where is the party going to be? I need to know because Mum is going to drive us there. Leo": "audio/2026-11-14/a2-p2.mp3",
+  "Hi Leo, It's at our house. First, Dad is going to take Grandpa to the park for a walk. Then we're going to decorate the living room with balloons. After that, everyone is going to hide in the kitchen. When Grandpa opens the door, we're all going to shout \"Surprise!\" Please come at two o'clock, because they're leaving at half past two. Love, Nina": "audio/2026-11-14/a2-p3.mp3",
+  "Hi Nina, The party was amazing! Grandpa opened the door, and his mouth fell open. He was really surprised, but he was very happy, too. He didn't stop smiling all afternoon. I played two songs on my guitar, but I forgot some words in the second one! Grandpa didn't mind. He sang with me, so nobody noticed. Leo": "audio/2026-11-14/a2-p4.mp3",
+  "Hi Leo, Thank you for coming! Grandpa says it was his best birthday ever. After everyone left, he looked at Ella's card for a long time. Then he put it on the wall next to his bed. He wants you to teach him your songs, because he has an old piano at home. Please come again soon! Love, Nina": "audio/2026-11-14/a2-p5.mp3",
+  "surprise": "audio/2026-11-14/a2-w-surprise.mp3",
+  "The cake was a big surprise for Mum.": "audio/2026-11-14/a2-ex-surprise.mp3",
+  "invite": "audio/2026-11-14/a2-w-invite.mp3",
+  "I want to invite ten friends to my party.": "audio/2026-11-14/a2-ex-invite.mp3",
+  "aunt": "audio/2026-11-14/a2-w-aunt.mp3",
+  "My aunt lives in Spain.": "audio/2026-11-14/a2-ex-aunt.mp3",
+  "decorate": "audio/2026-11-14/a2-w-decorate.mp3",
+  "Let's decorate the classroom for the holiday.": "audio/2026-11-14/a2-ex-decorate.mp3",
+  "balloon": "audio/2026-11-14/a2-w-balloon.mp3",
+  "The baby has a red balloon.": "audio/2026-11-14/a2-ex-balloon.mp3",
+  "hide": "audio/2026-11-14/a2-w-hide.mp3",
+  "The cat likes to hide under the bed.": "audio/2026-11-14/a2-ex-hide.mp3",
+  "shout": "audio/2026-11-14/a2-w-shout.mp3",
+  "Please don't shout in the library.": "audio/2026-11-14/a2-ex-shout.mp3",
+  "amazing": "audio/2026-11-14/a2-w-amazing.mp3",
+  "The view from the top was amazing.": "audio/2026-11-14/a2-ex-amazing.mp3",
+  "mind": "audio/2026-11-14/a2-w-mind.mp3",
+  "I don't mind if you are late.": "audio/2026-11-14/a2-ex-mind.mp3",
+  "notice": "audio/2026-11-14/a2-w-notice.mp3",
+  "Did you notice her new glasses?": "audio/2026-11-14/a2-ex-notice.mp3",
+  "Mum wants to have a surprise party for him, so she asked me to help.": "audio/2026-11-14/a2-ks1.mp3",
+  "Then we're going to decorate the living room with balloons.": "audio/2026-11-14/a2-ks2.mp3",
+  "He sang with me, so nobody noticed.": "audio/2026-11-14/a2-ks3.mp3",
+  "Grandpa says it was his best birthday ever.": "audio/2026-11-14/a2-ks4.mp3",
+  "I need to know because Mum is going to drive us there.": "audio/2026-11-14/a2-g2.mp3",
+  "After that, everyone is going to hide in the kitchen.": "audio/2026-11-14/a2-g3.mp3",
+  "I played two songs on my guitar, but I forgot some words in the second one!": "audio/2026-11-14/a2-g4.mp3",
+  "Last summer, Omar and his family went camping by a lake. Omar was very excited. He was fourteen, and he wanted to do everything himself. \"I'm old enough to pack the car,\" he told his dad. \"I'll get the tent from the garage.\"": "audio/2026-11-14/a3-p1.mp3",
+  "They drove for three hours. When they arrived at the lake, Omar opened the tent bag. His face went red. It was his old tent from when he was ten, not the big family tent. \"It's too small for four people!\" said his sister Amira. The shops were too far away, and it was too late to drive home.": "audio/2026-11-14/a3-p2.mp3",
+  "Dad had an idea. \"The car is big enough for two people,\" he said. \"Mum and I can sleep in the car. You two can have the tent.\" Omar felt very bad, but he said yes.": "audio/2026-11-14/a3-p3.mp3",
+  "That night, it was very cold. Omar's sleeping bag was too thin, and he couldn't sleep. Then it started to rain. Water came in through a small hole in the tent. Amira woke up. \"My feet are wet!\" she cried. They weren't warm enough, and they weren't dry enough.": "audio/2026-11-14/a3-p4.mp3",
+  "Omar didn't want to wake his parents. So he put his raincoat over the hole. He gave Amira his jumper. Then he told her funny stories until she laughed. Slowly, they both fell asleep.": "audio/2026-11-14/a3-p5.mp3",
+  "In the morning, the sun came out. Mum made hot chocolate on a small cooker. Dad looked at the tent and smiled. \"You weren't careful enough with the tent,\" he said, \"but you were clever enough to fix the problem.\"": "audio/2026-11-14/a3-p6.mp3",
+  "Omar laughed. Next time, he will check the bag before they leave. And he will pack the big tent!": "audio/2026-11-14/a3-p7.mp3",
+  "camping": "audio/2026-11-14/a3-w-camping.mp3",
+  "We go camping in the mountains every summer.": "audio/2026-11-14/a3-ex-camping.mp3",
+  "tent": "audio/2026-11-14/a3-w-tent.mp3",
+  "Our tent is green and blue.": "audio/2026-11-14/a3-ex-tent.mp3",
+  "lake": "audio/2026-11-14/a3-w-lake.mp3",
+  "We swam in the lake.": "audio/2026-11-14/a3-ex-lake.mp3",
+  "pack": "audio/2026-11-14/a3-w-pack.mp3",
+  "Don't forget to pack your toothbrush.": "audio/2026-11-14/a3-ex-pack.mp3",
+  "garage": "audio/2026-11-14/a3-w-garage.mp3",
+  "Dad's bike is in the garage.": "audio/2026-11-14/a3-ex-garage.mp3",
+  "sleeping bag": "audio/2026-11-14/a3-w-sleeping-bag.mp3",
+  "My sleeping bag keeps me warm.": "audio/2026-11-14/a3-ex-sleeping-bag.mp3",
+  "thin": "audio/2026-11-14/a3-w-thin.mp3",
+  "This coat is too thin for winter.": "audio/2026-11-14/a3-ex-thin.mp3",
+  "hole": "audio/2026-11-14/a3-w-hole.mp3",
+  "There is a hole in my sock.": "audio/2026-11-14/a3-ex-hole.mp3",
+  "jumper": "audio/2026-11-14/a3-w-jumper.mp3",
+  "Grandma made me a blue jumper.": "audio/2026-11-14/a3-ex-jumper.mp3",
+  "cooker": "audio/2026-11-14/a3-w-cooker.mp3",
+  "We have a new cooker in the kitchen.": "audio/2026-11-14/a3-ex-cooker.mp3",
+  "It was his old tent from when he was ten, not the big family tent.": "audio/2026-11-14/a3-ks1.mp3",
+  "\"The car is big enough for two people,\" he said.": "audio/2026-11-14/a3-ks2.mp3",
+  "Water came in through a small hole in the tent.": "audio/2026-11-14/a3-ks3.mp3",
+  "\"You weren't careful enough with the tent,\" he said, \"but you were clever enough to fix the problem.\"": "audio/2026-11-14/a3-ks4.mp3",
+  "The shops were too far away, and it was too late to drive home.": "audio/2026-11-14/a3-g1.mp3",
+  "They weren't warm enough, and they weren't dry enough.": "audio/2026-11-14/a3-g3.mp3",
+  "That night, it was very cold.": "audio/2026-11-14/a3-g4.mp3"
+ }
+}
