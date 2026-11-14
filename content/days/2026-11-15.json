@@ -1,0 +1,2091 @@
+{
+ "date": "2026-11-15",
+ "headline": "Tiny ear bones, Saturday hobbies and a snowy train",
+ "teaser": "What is inside your ear? What do three teenagers do every Saturday? Why is Sofia's train not moving?",
+ "articles": [
+  {
+   "id": "k20261115-1",
+   "topic": "Health & exercise",
+   "genre": "Article",
+   "title": "What Is Inside Your Ear?",
+   "dek": "Your ears work all day. Let's look inside and find out how they do it.",
+   "sources": [
+    {
+     "name": "KidsHealth: Your Ears",
+     "url": "https://kidshealth.org/en/kids/ears.html"
+    },
+    {
+     "name": "NIDCD (NIH): How Do We Hear?",
+     "url": "https://www.nidcd.nih.gov/health/how-do-we-hear"
+    },
+    {
+     "name": "Wikipedia: Stapes",
+     "url": "https://en.wikipedia.org/wiki/Stapes"
+    }
+   ],
+   "paras": [
+    "Close your eyes and listen. What can you hear? Maybe there is a car outside. Maybe your friend is talking. Your ears are very busy all day. But what is inside them? Let's take a look.",
+    "Your ear has got three main parts: the outer ear, the middle ear and the inner ear. The outer ear is the part on the side of your head. It is a bit like a cup. It catches sounds and sends them into a short tube.",
+    "At the end of the tube, there is a thin piece of skin. It is called the eardrum. Sounds hit the eardrum, and it moves very quickly. These fast, small movements are called vibrations.",
+    "Behind the eardrum is the middle ear. There are three tiny bones here. Their names are the hammer, the anvil and the stirrup. The stirrup is the smallest bone in your body. It is only about three millimetres long! The bones pass the vibrations on to the inner ear.",
+    "The inner ear has got a part called the cochlea. It is round, like a snail's shell. The cochlea is full of liquid, and there are thousands of tiny hair cells inside it. When the liquid moves, the hairs move too. They change the vibrations into signals. Then a nerve carries the signals to your brain. Now you can hear!",
+    "Your inner ear has got another job, too. There are three small tubes with liquid in them. They help you with your balance. That is why you can stand on one leg and not fall over.",
+    "Your ears are amazing, so look after them. Don't listen to very loud music for a long time. And never put small things inside your ears!"
+   ],
+   "words": [
+    {
+     "w": "eardrum",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɪə.drʌm/",
+     "syl": [
+      "ear",
+      "drum"
+     ],
+     "def": "thin skin inside your ear that moves with sound",
+     "ex": "A very loud noise can hurt your eardrum."
+    },
+    {
+     "w": "vibration",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/vaɪˈbreɪ.ʃən/",
+     "syl": [
+      "vi",
+      "bra",
+      "tion"
+     ],
+     "def": "a very fast, small movement",
+     "ex": "I can feel the vibration of my phone."
+    },
+    {
+     "w": "tube",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/tjuːb/",
+     "syl": [
+      "tube"
+     ],
+     "def": "a long, thin, round thing that is empty inside",
+     "ex": "Water goes through this tube."
+    },
+    {
+     "w": "bone",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/bəʊn/",
+     "syl": [
+      "bone"
+     ],
+     "def": "one of the hard white parts inside your body",
+     "ex": "The dog is eating a bone."
+    },
+    {
+     "w": "tiny",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈtaɪ.ni/",
+     "syl": [
+      "ti",
+      "ny"
+     ],
+     "def": "very, very small",
+     "ex": "A tiny bird sat on my window."
+    },
+    {
+     "w": "liquid",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈlɪk.wɪd/",
+     "syl": [
+      "liq",
+      "uid"
+     ],
+     "def": "something like water that can move and flow",
+     "ex": "Milk is a liquid."
+    },
+    {
+     "w": "signal",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsɪɡ.nəl/",
+     "syl": [
+      "sig",
+      "nal"
+     ],
+     "def": "a message that goes from one place to another",
+     "ex": "My phone has no signal here."
+    },
+    {
+     "w": "nerve",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/nɜːv/",
+     "syl": [
+      "nerve"
+     ],
+     "def": "a thin part of your body that carries messages to the brain",
+     "ex": "A nerve in my tooth hurts."
+    },
+    {
+     "w": "brain",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/breɪn/",
+     "syl": [
+      "brain"
+     ],
+     "def": "the part in your head that thinks",
+     "ex": "Your brain needs sleep."
+    },
+    {
+     "w": "balance",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈbæl.əns/",
+     "syl": [
+      "bal",
+      "ance"
+     ],
+     "def": "being able to stay steady and not fall",
+     "ex": "Riding a bike needs good balance."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "Your ear has got three main parts: the outer ear, the middle ear and the inner ear.",
+     "kind": "Main idea",
+     "note": "The text explains the three parts one by one."
+    },
+    {
+     "para": 3,
+     "text": "Sounds hit the eardrum, and it moves very quickly.",
+     "kind": "Cause → effect",
+     "note": "Sound makes the eardrum move."
+    },
+    {
+     "para": 4,
+     "text": "The stirrup is the smallest bone in your body.",
+     "kind": "Key details",
+     "note": "A surprising fact: the smallest bone is in your ear."
+    },
+    {
+     "para": 5,
+     "text": "Then a nerve carries the signals to your brain.",
+     "kind": "Time order",
+     "note": "The last step: the brain gets the message."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to clean your ears",
+      "the parts of the ear and how we hear",
+      "why loud music is bad"
+     ],
+     "a": 1,
+     "why": "第1段问 what is inside them?，后面各段一部分一部分讲耳朵怎么听到声音。",
+     "evidence": null,
+     "optWhy": [
+      "文中没有讲怎么清洁耳朵。",
+      "正确。第2段 three main parts + 第5段 Now you can hear! = 选项 the parts of the ear and how we hear。",
+      "loud music 只在最后一段提了一句，不是全文主旨。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "结尾问题 But what is inside them? 就是全文主线。"
+      },
+      {
+       "h": "扫各段开头",
+       "t": "outer ear → eardrum → middle ear → inner ear，一步步讲。"
+      },
+      {
+       "h": "排除",
+       "t": "只在最后出现一次的 loud music 不是主旨。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What happens when sounds hit the eardrum?",
+     "opts": [
+      "It moves very quickly.",
+      "It breaks.",
+      "It makes liquid."
+     ],
+     "a": 0,
+     "why": "第3段原文：Sounds hit the eardrum, and it moves very quickly.",
+     "evidence": "Sounds hit the eardrum, and it moves very quickly.",
+     "optWhy": [
+      "正确。原文 it moves very quickly = 选项 It moves very quickly。",
+      "文中没说鼓膜会破。",
+      "liquid 在第5段的 cochlea 里，不是鼓膜产生的。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 eardrum：第3段。"
+      },
+      {
+       "h": "找关键句",
+       "t": "Sounds hit the eardrum, and it moves very quickly."
+      },
+      {
+       "h": "小心干扰",
+       "t": "liquid 属于第5段的 inner ear。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "The stirrup is the biggest of the three bones.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段说 The stirrup is the smallest bone in your body，和 biggest 相反。",
+     "evidence": "The stirrup is the smallest bone in your body.",
+     "optWhy": [
+      "原文是 smallest，不是 biggest。",
+      "正确。原文 the smallest bone in your body，与 biggest 相反 → Wrong。",
+      "原文明确写了大小，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 stirrup：第4段。"
+      },
+      {
+       "h": "比较",
+       "t": "原文 smallest，题目 biggest，意思相反。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文说了相反的信息 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, what does \"They\" mean in \"They change the vibrations into signals\"?",
+     "opts": [
+      "the bones",
+      "the signals",
+      "the tiny hairs"
+     ],
+     "a": 2,
+     "why": "前一句是 When the liquid moves, the hairs move too.，They 指 the hairs。",
+     "evidence": "They change the vibrations into signals.",
+     "marks": [
+      "When the liquid moves, the hairs move too."
+     ],
+     "optWhy": [
+      "the bones 在第4段，第5段讲的是 cochlea 里面。",
+      "signals 是被变出来的东西，不能自己变自己。",
+      "正确。前一句 the hairs move too，接着 They change… = 选项 the tiny hairs。"
+     ],
+     "traps": [
+      "指代错误",
+      "指代错误",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "They 前一句：the hairs move too。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The hairs change the vibrations into signals. 通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 6,
+     "q": "In paragraph 6, what does \"balance\" mean?",
+     "opts": [
+      "staying steady and not falling",
+      "hearing very quiet sounds",
+      "moving very fast"
+     ],
+     "a": 0,
+     "why": "后一句 you can stand on one leg and not fall over 解释了 balance。",
+     "evidence": "They help you with your balance.",
+     "marks": [
+      "That is why you can stand on one leg and not fall over."
+     ],
+     "optWhy": [
+      "正确。原文 stand on one leg and not fall over = 选项 staying steady and not falling。",
+      "第6段讲的是 another job，不是听声音。",
+      "文中没有说快速移动。"
+     ],
+     "traps": [
+      null,
+      "偷换概念",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看后一句",
+       "t": "That is why you can stand on one leg and not fall over."
+      },
+      {
+       "h": "代回验证",
+       "t": "帮你站稳不摔倒 = balance。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 7,
+     "q": "What does the writer tell you never to do?",
+     "opts": [
+      "listen to music",
+      "put small things inside your ears",
+      "close your eyes"
+     ],
+     "a": 1,
+     "why": "第7段原文：And never put small things inside your ears!",
+     "evidence": "And never put small things inside your ears!",
+     "optWhy": [
+      "作者只说不要长时间听 very loud music，没说不能听音乐。",
+      "正确。原文 never put small things inside your ears = 选项。",
+      "close your eyes 是第1段作者让你做的事。"
+     ],
+     "traps": [
+      "以偏概全",
+      null,
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 never：最后一段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "音乐那句有 very loud 和 for a long time 两个条件。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "be, have got · there is / are",
+    "rule": "Use be (am / is / are) to describe things. Use have got / has got for parts of something or things people own. Use there is with one thing and there are with more than one thing.",
+    "table": [
+     [
+      "there is / isn't",
+      "one thing: there is a tube"
+     ],
+     [
+      "there are / aren't",
+      "more things: there are three bones"
+     ],
+     [
+      "Is there…? / Are there…?",
+      "questions"
+     ],
+     [
+      "have got / haven't got",
+      "I, you, we, they"
+     ],
+     [
+      "has got / hasn't got",
+      "he, she, it"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Your ear has got three main parts: the outer ear, the middle ear and the inner ear.",
+      "mark": "has got"
+     },
+     {
+      "para": 3,
+      "text": "At the end of the tube, there is a thin piece of skin.",
+      "mark": "there is"
+     },
+     {
+      "para": 4,
+      "text": "There are three tiny bones here.",
+      "mark": "There are"
+     },
+     {
+      "para": 5,
+      "text": "The cochlea is full of liquid, and there are thousands of tiny hair cells inside it.",
+      "mark": "there are"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ any water in the bottle? No, it's empty.",
+      "opts": [
+       "Are there",
+       "Is there",
+       "Has it got"
+      ],
+      "a": 1,
+      "why": "Water is uncountable, so use Is there."
+     },
+     {
+      "type": "mc",
+      "q": "My cat ___ green eyes and a long tail.",
+      "opts": [
+       "have got",
+       "has got",
+       "there is"
+      ],
+      "a": 1,
+      "why": "My cat = it, so use has got."
+     },
+     {
+      "type": "fill",
+      "q": "How many bones ___ there in your ear? Three tiny ones.",
+      "hint": "(be)",
+      "a": "are",
+      "why": "Bones is plural, so use are."
+     },
+     {
+      "type": "fill",
+      "q": "Owls ___ got very good ears.",
+      "hint": "(have)",
+      "a": "have",
+      "why": "Owls is plural, so use have got."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ a nurse at our school, but there aren't any doctors.",
+      "hint": "(be)",
+      "a": "is",
+      "why": "A nurse is one person, so use there is."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ got a pencil. Can I borrow yours?",
+      "hint": "(not have)",
+      "a": "haven't / have not",
+      "why": "With I, the negative is haven't got."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261115-1-k1",
+     "tag": "Parts",
+     "fact": "The ear has got three main parts: outer, middle and inner.",
+     "q": "How many main parts has the ear got?",
+     "opts": [
+      "two",
+      "three",
+      "four"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261115-1-k2",
+     "tag": "Eardrum",
+     "fact": "Sounds make the eardrum move very quickly. These movements are vibrations.",
+     "q": "What are the fast, small movements called?",
+     "opts": [
+      "vibrations",
+      "signals",
+      "bones"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261115-1-k3",
+     "tag": "Bones",
+     "fact": "There are three tiny bones in the middle ear. The stirrup is the smallest bone in the body.",
+     "q": "Which is the smallest bone in your body?",
+     "opts": [
+      "the hammer",
+      "the anvil",
+      "the stirrup"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261115-1-k4",
+     "tag": "Cochlea",
+     "fact": "Tiny hairs in the cochlea change vibrations into signals for the brain.",
+     "q": "What is the cochlea like?",
+     "opts": [
+      "a snail's shell",
+      "a cup",
+      "a drum"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261115-1-k5",
+     "tag": "Balance",
+     "fact": "Three small tubes in the inner ear help you with your balance.",
+     "q": "What do the three small tubes help with?",
+     "opts": [
+      "hearing",
+      "balance",
+      "sleeping"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Inside your ear",
+    "question": "How does a sound travel from outside to your brain?",
+    "branches": [
+     {
+      "title": "Outer ear",
+      "paras": "2",
+      "blanks": [
+       "like a cup",
+       "a short tube"
+      ],
+      "kps": [
+       "k20261115-1-k1"
+      ]
+     },
+     {
+      "title": "Eardrum",
+      "paras": "3",
+      "blanks": [
+       "thin piece of skin",
+       "moves very quickly"
+      ],
+      "kps": [
+       "k20261115-1-k2"
+      ]
+     },
+     {
+      "title": "Middle ear",
+      "paras": "4",
+      "blanks": [
+       "three tiny bones",
+       "about three millimetres"
+      ],
+      "kps": [
+       "k20261115-1-k3"
+      ]
+     },
+     {
+      "title": "Inner ear",
+      "paras": "5–6",
+      "blanks": [
+       "full of liquid",
+       "helps your balance"
+      ],
+      "kps": [
+       "k20261115-1-k4",
+       "k20261115-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "ten big bones",
+     "a dry, empty cochlea"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Sounds make the eardrum and three tiny bones move, so the cochlea can send signals to the brain. The inner ear helps with balance too, but we must look after it.",
+    "options": [
+     {
+      "t": "Sounds go into the ear and make the eardrum move.",
+      "ok": true,
+      "why": "This is the first step of hearing.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Sounds hit the eardrum, and it moves very quickly."
+     },
+     {
+      "t": "Three tiny bones and the cochlea send the sound to the brain.",
+      "ok": true,
+      "why": "This is how the sound reaches the brain.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Then a nerve carries the signals to your brain."
+     },
+     {
+      "t": "The inner ear also helps us with our balance.",
+      "ok": true,
+      "why": "This is the ear's second job.",
+      "type": "main",
+      "para": 6,
+      "evidence": "They help you with your balance."
+     },
+     {
+      "t": "The stirrup is about three millimetres long.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "It is only about three millimetres long!"
+     },
+     {
+      "t": "Doctors clean your ears every year.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The cochlea is empty inside.",
+      "ok": false,
+      "why": "Wrong: the text says it is full of liquid.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "The cochlea is full of liquid, and there are thousands of tiny hair cells inside it."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you often listen to music? How do you look after your ears?",
+    "hint": "I usually listen to… / I never turn the music up too loud because…",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a message to a friend about something interesting you learned about the ear. Write 25 words or more.",
+    "steps": [
+     "Say what you read about.",
+     "Tell your friend one surprising fact.",
+     "Give your friend one tip for their ears."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261115-2",
+   "topic": "Hobbies & leisure",
+   "genre": "Three people",
+   "title": "My Saturday Hobby",
+   "dek": "Three teenagers tell us what they usually do on Saturdays.",
+   "sources": [],
+   "paras": [
+    "What do teenagers do at the weekend? Some sleep late, and some play computer games. But many young people have got a special hobby. We asked three readers about their Saturdays. Here are their answers.",
+    "Hi, I'm Lucas, and I'm fourteen. On Saturday mornings, I always go to the chess club at our town library. It starts at ten o'clock. There are about twenty players, and the youngest is only eight! I usually play three or four games. I sometimes lose, but I never get angry. My teacher, Mr Patel, often says, \"Every lost game teaches you something.\" After the club, I usually have lunch with my grandpa. He taught me chess when I was six.",
+    "My name is Hana, and I'm thirteen. I love baking, and Saturday is my baking day. My dad and I usually make bread together. We often try a new recipe from the internet. Last week it was bread with cheese and onions. It was delicious! I hardly ever bake cakes, because they have too much sugar. We never sell our bread. We always give some to our neighbour, Mrs Kim. She is eighty, and she lives alone.",
+    "I'm Amira, and I'm fifteen. My hobby is photography. On Saturdays, I often get up at six o'clock and go to the park with my camera. It's very quiet then. I usually take photos of birds and flowers. Sometimes I wait for an hour for one good photo! I don't always have good luck, but I'm a patient person. Once a month, I put my best photos on our school website. My friends sometimes ask me to teach them.",
+    "And what about you? How often do you do your hobby? Send us a message, and we might put your answer in next month's magazine!"
+   ],
+   "words": [
+    {
+     "w": "chess",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tʃes/",
+     "syl": [
+      "chess"
+     ],
+     "def": "a game for two people on a black and white board",
+     "ex": "My sister and I play chess after dinner."
+    },
+    {
+     "w": "library",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈlaɪ.brər.i/",
+     "syl": [
+      "li",
+      "brar",
+      "y"
+     ],
+     "def": "a building where you can borrow books",
+     "ex": "I study in the library after school."
+    },
+    {
+     "w": "lose",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/luːz/",
+     "syl": [
+      "lose"
+     ],
+     "def": "not to win a game",
+     "ex": "Our team didn't want to lose the match."
+    },
+    {
+     "w": "recipe",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈres.ə.pi/",
+     "syl": [
+      "rec",
+      "i",
+      "pe"
+     ],
+     "def": "instructions that tell you how to cook something",
+     "ex": "This recipe needs two eggs."
+    },
+    {
+     "w": "delicious",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/dɪˈlɪʃ.əs/",
+     "syl": [
+      "de",
+      "li",
+      "cious"
+     ],
+     "def": "very good to eat",
+     "ex": "Grandma's soup is delicious."
+    },
+    {
+     "w": "neighbour",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈneɪ.bə/",
+     "syl": [
+      "neigh",
+      "bour"
+     ],
+     "def": "a person who lives next to you",
+     "ex": "Our neighbour has got a big dog."
+    },
+    {
+     "w": "alone",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/əˈləʊn/",
+     "syl": [
+      "a",
+      "lone"
+     ],
+     "def": "with no other people",
+     "ex": "I don't like walking home alone."
+    },
+    {
+     "w": "photography",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/fəˈtɒɡ.rə.fi/",
+     "syl": [
+      "pho",
+      "tog",
+      "ra",
+      "phy"
+     ],
+     "def": "taking photos as a hobby or job",
+     "ex": "She is learning photography at a club."
+    },
+    {
+     "w": "camera",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkæm.rə/",
+     "syl": [
+      "cam",
+      "era"
+     ],
+     "def": "a thing you use to take photos",
+     "ex": "I forgot my camera at home."
+    },
+    {
+     "w": "patient",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈpeɪ.ʃənt/",
+     "syl": [
+      "pa",
+      "tient"
+     ],
+     "def": "able to wait calmly without getting angry",
+     "ex": "Our teacher is very patient with us."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But many young people have got a special hobby.",
+     "kind": "Main idea",
+     "note": "The text is about teenagers and their hobbies."
+    },
+    {
+     "para": 2,
+     "text": "I sometimes lose, but I never get angry.",
+     "kind": "Grammar to notice",
+     "note": "sometimes and never go before the main verb."
+    },
+    {
+     "para": 3,
+     "text": "I hardly ever bake cakes, because they have too much sugar.",
+     "kind": "Cause → effect",
+     "note": "Hana gives a reason for her choice."
+    },
+    {
+     "para": 4,
+     "text": "I don't always have good luck, but I'm a patient person.",
+     "kind": "Opinion",
+     "note": "Amira talks about herself."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What time does the chess club start?",
+     "opts": [
+      "at eight o'clock",
+      "at six o'clock",
+      "at ten o'clock"
+     ],
+     "a": 2,
+     "why": "第2段原文：It starts at ten o'clock.",
+     "evidence": "It starts at ten o'clock.",
+     "optWhy": [
+      "eight 是最小选手的年龄（only eight），不是时间。",
+      "six o'clock 是 Amira 起床的时间（第4段）。",
+      "正确。原文 It starts at ten o'clock = 选项 at ten o'clock。"
+     ],
+     "traps": [
+      "数字偷换",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "chess club 在第2段 Lucas 的部分。"
+      },
+      {
+       "h": "找关键词",
+       "t": "starts → It starts at ten o'clock."
+      },
+      {
+       "h": "小心干扰",
+       "t": "文中还有 eight、six 等数字，看清说的是什么。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 2,
+     "q": "In paragraph 2, who is \"He\" in \"He taught me chess when I was six\"?",
+     "opts": [
+      "Mr Patel",
+      "Lucas's grandpa",
+      "the youngest player"
+     ],
+     "a": 1,
+     "why": "前一句是 I usually have lunch with my grandpa.，He 指 grandpa。",
+     "evidence": "He taught me chess when I was six.",
+     "marks": [
+      "After the club, I usually have lunch with my grandpa."
+     ],
+     "optWhy": [
+      "Mr Patel 是俱乐部老师，但 He 前面最近提到的人是 grandpa。",
+      "正确。前一句 my grandpa → He = 选项 Lucas's grandpa。",
+      "最小的选手只有8岁，不可能在 Lucas 6岁时教他。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "He 前一句：have lunch with my grandpa。"
+      },
+      {
+       "h": "代回验证",
+       "t": "My grandpa taught me chess when I was six. 通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Hana and her dad sell their bread to their neighbours.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段说 We never sell our bread.，他们是送给邻居的。",
+     "evidence": "We never sell our bread.",
+     "optWhy": [
+      "原文说 never sell，不是卖。",
+      "正确。原文 We never sell our bread，和 sell 相反 → Wrong。",
+      "原文明确说了 never sell，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 sell：第3段。"
+      },
+      {
+       "h": "看频率词",
+       "t": "never = 从不，和题目意思相反。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文有相反信息 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why does Hana hardly ever bake cakes?",
+     "opts": [
+      "They have too much sugar.",
+      "Her dad doesn't like them.",
+      "They are difficult to make."
+     ],
+     "a": 0,
+     "why": "第3段原文：I hardly ever bake cakes, because they have too much sugar.",
+     "evidence": "I hardly ever bake cakes, because they have too much sugar.",
+     "optWhy": [
+      "正确。because they have too much sugar = 选项 They have too much sugar。",
+      "文中没说爸爸不喜欢蛋糕。",
+      "文中没说蛋糕难做。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 cakes：第3段。"
+      },
+      {
+       "h": "找原因词",
+       "t": "because 后面就是答案：too much sugar。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, what does \"patient\" mean?",
+     "opts": [
+      "ill and in hospital",
+      "able to wait calmly",
+      "often late"
+     ],
+     "a": 1,
+     "why": "前文 Sometimes I wait for an hour for one good photo! 说明 patient = 能耐心等待。",
+     "evidence": "I don't always have good luck, but I'm a patient person.",
+     "marks": [
+      "Sometimes I wait for an hour for one good photo!"
+     ],
+     "optWhy": [
+      "patient 作名词是“病人”，但这里是 a patient person，形容人的性格。",
+      "正确。原文 wait for an hour for one good photo = 选项 able to wait calmly。",
+      "文中没说 Amira 常迟到，她6点就起床。"
+     ],
+     "traps": [
+      "望文生义",
+      null,
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "看前文",
+       "t": "Sometimes I wait for an hour for one good photo!"
+      },
+      {
+       "h": "小心干扰",
+       "t": "patient 也有“病人”的意思，这里形容 person。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Amira has won a photo competition.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第4段只说她把照片放到 school website，没有提比赛。",
+     "evidence": "Once a month, I put my best photos on our school website.",
+     "optWhy": [
+      "原文没有 competition，不能选 Right。",
+      "原文也没说她没赢过，没有相反信息。",
+      "正确。原文只说 put my best photos on our school website，没提比赛。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Amira 的部分：第4段。"
+      },
+      {
+       "h": "找关键词",
+       "t": "整段没有 competition 或 win。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提 → Doesn't say。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present simple · adverbs of frequency",
+    "rule": "Use the present simple for habits and things that happen again and again. Adverbs of frequency say how often. They go before the main verb, but after am / is / are.",
+    "table": [
+     [
+      "always",
+      "100% of the time"
+     ],
+     [
+      "usually",
+      "most of the time"
+     ],
+     [
+      "often",
+      "many times"
+     ],
+     [
+      "sometimes",
+      "some of the time"
+     ],
+     [
+      "hardly ever",
+      "almost never"
+     ],
+     [
+      "never",
+      "0% of the time"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "On Saturday mornings, I always go to the chess club at our town library.",
+      "mark": "always go"
+     },
+     {
+      "para": 2,
+      "text": "I sometimes lose, but I never get angry.",
+      "mark": "never get"
+     },
+     {
+      "para": 3,
+      "text": "I hardly ever bake cakes, because they have too much sugar.",
+      "mark": "hardly ever bake"
+     },
+     {
+      "para": 4,
+      "text": "I don't always have good luck, but I'm a patient person.",
+      "mark": "don't always have"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Mia gets up early every day. She is ___ late for school.",
+      "opts": [
+       "always",
+       "never",
+       "often"
+      ],
+      "a": 1,
+      "why": "She gets up early, so she is never late."
+     },
+     {
+      "type": "mc",
+      "q": "Tom ___ football on Sundays.",
+      "opts": [
+       "often plays",
+       "plays often",
+       "often play"
+      ],
+      "a": 0,
+      "why": "The adverb goes before the verb, and Tom needs plays."
+     },
+     {
+      "type": "fill",
+      "q": "My dad ___ dinner on Fridays.",
+      "hint": "(usually / cook)",
+      "a": "usually cooks",
+      "why": "usually goes before the verb; my dad = he, so add -s."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ tired after PE.",
+      "hint": "(be / sometimes)",
+      "a": "are sometimes",
+      "why": "The adverb goes after be."
+     },
+     {
+      "type": "fill",
+      "q": "My grandparents ___ TV in the morning.",
+      "hint": "(not / often / watch)",
+      "a": "don't often watch / do not often watch",
+      "why": "Negative: don't + adverb + verb."
+     },
+     {
+      "type": "fill",
+      "q": "How often ___ your brother play computer games?",
+      "hint": "(do)",
+      "a": "does",
+      "why": "Your brother = he, so the question uses does."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261115-2-k1",
+     "tag": "Lucas",
+     "fact": "Lucas always goes to a chess club at the library on Saturday mornings.",
+     "q": "Where is Lucas's chess club?",
+     "opts": [
+      "at school",
+      "at the library",
+      "at his grandpa's house"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261115-2-k2",
+     "tag": "Lucas",
+     "fact": "Lucas sometimes loses, but he never gets angry.",
+     "q": "How does Lucas feel when he loses?",
+     "opts": [
+      "He never gets angry.",
+      "He always cries.",
+      "He stops playing."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261115-2-k3",
+     "tag": "Hana",
+     "fact": "Hana and her dad usually bake bread and give some to their neighbour.",
+     "q": "Who gets some of Hana's bread?",
+     "opts": [
+      "her teacher",
+      "her friends",
+      "Mrs Kim"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261115-2-k4",
+     "tag": "Amira",
+     "fact": "Amira often goes to the park early to take photos of birds and flowers.",
+     "q": "What does Amira usually take photos of?",
+     "opts": [
+      "birds and flowers",
+      "her friends",
+      "cars"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Saturday hobbies",
+    "question": "What do the three teenagers do on Saturdays, and how often?",
+    "branches": [
+     {
+      "title": "Why",
+      "paras": "1",
+      "blanks": [
+       "a special hobby"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Lucas",
+      "paras": "2",
+      "blanks": [
+       "chess club",
+       "never gets angry"
+      ],
+      "kps": [
+       "k20261115-2-k1",
+       "k20261115-2-k2"
+      ]
+     },
+     {
+      "title": "Hana",
+      "paras": "3",
+      "blanks": [
+       "bakes bread",
+       "gives some away"
+      ],
+      "kps": [
+       "k20261115-2-k3"
+      ]
+     },
+     {
+      "title": "Amira",
+      "paras": "4",
+      "blanks": [
+       "takes photos",
+       "wait for an hour"
+      ],
+      "kps": [
+       "k20261115-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "plays tennis",
+     "sells cakes"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Lucas plays chess and Hana bakes bread on Saturdays. Amira takes photos in the park, but she sometimes waits a long time because she is patient.",
+    "options": [
+     {
+      "t": "Lucas always plays chess at the library on Saturday mornings.",
+      "ok": true,
+      "why": "This is Lucas's hobby.",
+      "type": "main",
+      "para": 2,
+      "evidence": "On Saturday mornings, I always go to the chess club at our town library."
+     },
+     {
+      "t": "Hana usually bakes bread with her dad.",
+      "ok": true,
+      "why": "This is Hana's hobby.",
+      "type": "main",
+      "para": 3,
+      "evidence": "My dad and I usually make bread together."
+     },
+     {
+      "t": "Amira often takes photos in the park early in the morning.",
+      "ok": true,
+      "why": "This is Amira's hobby.",
+      "type": "main",
+      "para": 4,
+      "evidence": "On Saturdays, I often get up at six o'clock and go to the park with my camera."
+     },
+     {
+      "t": "The youngest chess player is eight.",
+      "ok": false,
+      "why": "True, but only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "There are about twenty players, and the youngest is only eight!"
+     },
+     {
+      "t": "All three teenagers go to the same school.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Hana bakes cakes every Saturday.",
+      "ok": false,
+      "why": "Wrong: she hardly ever bakes cakes.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "I hardly ever bake cakes, because they have too much sugar."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What do you usually do on Saturdays? How often do you do your hobby?",
+    "hint": "I usually… on Saturday mornings. / I go to… once a week.",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a message to the magazine about your hobby. Write 25 words or more.",
+    "steps": [
+     "Say what your hobby is.",
+     "Say how often and where you do it.",
+     "Say why you like it."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261115-3",
+   "topic": "Transport",
+   "genre": "Email",
+   "title": "Emails from a Snowy Train",
+   "dek": "Sofia is on a long train journey, and Ben is waiting for a late bus.",
+   "sources": [],
+   "paras": [
+    "Hi Ben, Guess where I am! I'm sitting on a train, and I'm writing this email on Mum's phone. We're going to my aunt's house in the mountains. The journey takes six hours, so we're spending most of the day on the train.",
+    "I usually go everywhere by bike, so this is very different. Right now, the train is going along a river. Mum is reading a book, and my little brother Max is sleeping. There's a café on the train, and it sells hot chocolate. I'm drinking my second cup! The seats are comfortable, but the Wi-Fi doesn't work very well. Write soon! Love, Sofia",
+    "Hi Sofia, Lucky you! I'm not on a train. I'm standing at the bus stop in the rain. My bus usually comes at 4.15, but today it's late again. It's 4.40 now, and I'm getting wet! Our town buses are often late in winter. Do trains usually arrive on time in your country? Say hello to Max. Ben",
+    "Hi Ben, Poor you! Yes, trains here usually arrive on time. But today something strange is happening. Our train isn't moving! We're waiting at a small station because there's snow on the line. A man in an orange jacket is cleaning it now. Everyone is looking out of the window.",
+    "Good news! The train is moving again. We're only twenty minutes late. My aunt is waiting for us at the station, and she always brings sandwiches. I'll send you some photos of the mountains tomorrow. Love, Sofia"
+   ],
+   "words": [
+    {
+     "w": "journey",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈdʒɜː.ni/",
+     "syl": [
+      "jour",
+      "ney"
+     ],
+     "def": "a trip from one place to another",
+     "ex": "The journey to school takes ten minutes."
+    },
+    {
+     "w": "mountain",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈmaʊn.tɪn/",
+     "syl": [
+      "moun",
+      "tain"
+     ],
+     "def": "a very high hill",
+     "ex": "There is snow on the mountain."
+    },
+    {
+     "w": "spend",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/spend/",
+     "syl": [
+      "spend"
+     ],
+     "def": "to use time doing something",
+     "ex": "I spend an hour on homework every day."
+    },
+    {
+     "w": "comfortable",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈkʌm.fə.tə.bəl/",
+     "syl": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+     ],
+     "def": "nice and soft, so you feel good",
+     "ex": "This sofa is very comfortable."
+    },
+    {
+     "w": "lucky",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈlʌk.i/",
+     "syl": [
+      "luck",
+      "y"
+     ],
+     "def": "having good things happen to you",
+     "ex": "You are lucky to have a dog."
+    },
+    {
+     "w": "station",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsteɪ.ʃən/",
+     "syl": [
+      "sta",
+      "tion"
+     ],
+     "def": "a place where trains stop for people",
+     "ex": "Let's meet at the station at nine."
+    },
+    {
+     "w": "arrive",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/əˈraɪv/",
+     "syl": [
+      "ar",
+      "rive"
+     ],
+     "def": "to get to a place",
+     "ex": "When does the bus arrive?"
+    },
+    {
+     "w": "strange",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/streɪndʒ/",
+     "syl": [
+      "strange"
+     ],
+     "def": "different and surprising",
+     "ex": "I heard a strange noise outside."
+    },
+    {
+     "w": "line",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/laɪn/",
+     "syl": [
+      "line"
+     ],
+     "def": "the metal track that a train goes on",
+     "ex": "A tree fell on the line."
+    },
+    {
+     "w": "jacket",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdʒæk.ɪt/",
+     "syl": [
+      "jack",
+      "et"
+     ],
+     "def": "a short coat",
+     "ex": "Take your jacket. It's cold."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "I'm sitting on a train, and I'm writing this email on Mum's phone.",
+     "kind": "Main idea",
+     "note": "Sofia writes from the train."
+    },
+    {
+     "para": 2,
+     "text": "I usually go everywhere by bike, so this is very different.",
+     "kind": "Grammar to notice",
+     "note": "usually go = a habit (present simple)."
+    },
+    {
+     "para": 4,
+     "text": "We're waiting at a small station because there's snow on the line.",
+     "kind": "Cause → effect",
+     "note": "Snow stops the train."
+    },
+    {
+     "para": 5,
+     "text": "Good news! The train is moving again.",
+     "kind": "Time order",
+     "note": "The problem ends."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Sofia write her first email?",
+     "opts": [
+      "to tell Ben about her train journey",
+      "to ask Ben for help",
+      "to invite Ben to her aunt's house"
+     ],
+     "a": 0,
+     "why": "Sofia 第一封邮件一直在讲火车上的情况：I'm sitting on a train…",
+     "evidence": null,
+     "optWhy": [
+      "正确。第1–2段 I'm sitting on a train… the train is going along a river = 选项 tell Ben about her train journey。",
+      "Sofia 没有请 Ben 帮忙。",
+      "她没有邀请 Ben 去姑姑家。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "Guess where I am! I'm sitting on a train."
+      },
+      {
+       "h": "看整封邮件",
+       "t": "内容都是火车上的事：river、café、seats。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "How does Sofia usually travel?",
+     "opts": [
+      "by train",
+      "by bus",
+      "by bike"
+     ],
+     "a": 2,
+     "why": "第2段原文：I usually go everywhere by bike。",
+     "evidence": "I usually go everywhere by bike, so this is very different.",
+     "optWhy": [
+      "她今天坐火车，但这不是平时，原文说 this is very different。",
+      "坐公交的是 Ben。",
+      "正确。原文 I usually go everywhere by bike = 选项 by bike。"
+     ],
+     "traps": [
+      "偷换概念",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "题目 usually → 原文 I usually go everywhere by bike。"
+      },
+      {
+       "h": "分清时态",
+       "t": "usually = 平时；I'm sitting on a train = 现在。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 2,
+     "q": "The café on the train sells sandwiches.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第2段只说 it sells hot chocolate，没说卖不卖三明治。",
+     "evidence": "There's a café on the train, and it sells hot chocolate.",
+     "optWhy": [
+      "原文只提 hot chocolate，不能选 Right。",
+      "原文没说不卖三明治，没有相反信息。",
+      "正确。原文只说 sells hot chocolate；sandwiches 是第5段姑姑带的。"
+     ],
+     "traps": [
+      "细节偷换",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "café 在第2段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "sandwiches 出现在第5段，是姑姑带的。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "没提咖啡馆卖不卖 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How does Ben probably feel at the bus stop?",
+     "opts": [
+      "unhappy, because he is getting wet",
+      "excited about his bus",
+      "angry with Sofia"
+     ],
+     "a": 0,
+     "why": "第3段：bus 晚了25分钟，I'm getting wet!，Ben 肯定不开心。",
+     "evidence": "It's 4.40 now, and I'm getting wet!",
+     "optWhy": [
+      "正确。原文 today it's late again + I'm getting wet = 选项 unhappy, because he is getting wet。",
+      "公交又晚了，他不会为此兴奋。",
+      "他说 Lucky you!，没有生 Sofia 的气。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找情况",
+       "t": "in the rain + late again + getting wet。"
+      },
+      {
+       "h": "推断心情",
+       "t": "等车又淋雨 → unhappy。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Why is the train not moving?",
+     "opts": [
+      "There is snow on the line.",
+      "The driver is ill.",
+      "The train is broken."
+     ],
+     "a": 0,
+     "why": "第4段原文：because there's snow on the line。",
+     "evidence": "We're waiting at a small station because there's snow on the line.",
+     "optWhy": [
+      "正确。原文 because there's snow on the line = 选项。",
+      "文中没提司机生病。",
+      "文中没说火车坏了。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Our train isn't moving! 在第4段。"
+      },
+      {
+       "h": "找原因词",
+       "t": "because 后面：there's snow on the line。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who is \"she\" in \"she always brings sandwiches\"?",
+     "opts": [
+      "Mum",
+      "Sofia",
+      "Sofia's aunt"
+     ],
+     "a": 2,
+     "why": "同一句前面是 My aunt is waiting for us，she 指 aunt。",
+     "evidence": "My aunt is waiting for us at the station, and she always brings sandwiches.",
+     "optWhy": [
+      "Mum 在第2段，这一句没有提到她。",
+      "Sofia 是写信的人，自称 I，不是 she。",
+      "正确。My aunt … and she always brings sandwiches → she = Sofia's aunt。"
+     ],
+     "traps": [
+      "指代错误",
+      "指代错误",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "and 前面的主语：My aunt。"
+      },
+      {
+       "h": "代回验证",
+       "t": "My aunt always brings sandwiches. 通顺。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present continuous vs present simple",
+    "rule": "Use the present simple for habits and things that are usually true: I usually go by bike. Use the present continuous (am / is / are + -ing) for things happening now: I'm sitting on a train. Now, right now and today often go with the present continuous.",
+    "table": [
+     [
+      "usually / often / every day",
+      "present simple: I go"
+     ],
+     [
+      "now / right now / today",
+      "present continuous: I'm going"
+     ],
+     [
+      "it doesn't work",
+      "it isn't working"
+     ],
+     [
+      "Do trains arrive…?",
+      "Is the train moving?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I usually go everywhere by bike, so this is very different.",
+      "mark": "usually go"
+     },
+     {
+      "para": 2,
+      "text": "Right now, the train is going along a river.",
+      "mark": "is going"
+     },
+     {
+      "para": 3,
+      "text": "My bus usually comes at 4.15, but today it's late again.",
+      "mark": "usually comes"
+     },
+     {
+      "para": 4,
+      "text": "A man in an orange jacket is cleaning it now.",
+      "mark": "is cleaning"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Shh! The baby ___.",
+      "opts": [
+       "sleeps",
+       "is sleeping",
+       "sleep"
+      ],
+      "a": 1,
+      "why": "It is happening now, so use the present continuous."
+     },
+     {
+      "type": "mc",
+      "q": "My mum ___ to work by train every day.",
+      "opts": [
+       "goes",
+       "is going",
+       "go"
+      ],
+      "a": 0,
+      "why": "Every day is a habit, so use the present simple."
+     },
+     {
+      "type": "fill",
+      "q": "Look! The bus ___.",
+      "hint": "(come)",
+      "a": "is coming / 's coming",
+      "why": "Look! shows it is happening now."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ a taxi, but today it is raining, so we're taking one.",
+      "hint": "(not / usually / take)",
+      "a": "don't usually take / do not usually take",
+      "why": "usually = a habit, so use the present simple negative."
+     },
+     {
+      "type": "fill",
+      "q": "Ben ___ at the bus stop right now.",
+      "hint": "(wait)",
+      "a": "is waiting / 's waiting",
+      "why": "Right now = present continuous."
+     },
+     {
+      "type": "fill",
+      "q": "The train ___ at 9.30 every morning.",
+      "hint": "(leave)",
+      "a": "leaves",
+      "why": "Every morning is a timetable habit; the train = it, so add -s."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261115-3-k1",
+     "tag": "Sofia",
+     "fact": "Sofia is on a six-hour train journey to her aunt's house in the mountains.",
+     "q": "How long is Sofia's journey?",
+     "opts": [
+      "two hours",
+      "six hours",
+      "twenty minutes"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261115-3-k2",
+     "tag": "Habit",
+     "fact": "Sofia usually goes everywhere by bike.",
+     "q": "How does Sofia usually go everywhere?",
+     "opts": [
+      "by bike",
+      "by bus",
+      "by car"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261115-3-k3",
+     "tag": "Ben",
+     "fact": "Ben's bus is late again, and he is getting wet in the rain.",
+     "q": "When does Ben's bus usually come?",
+     "opts": [
+      "at 4.40",
+      "at 6.00",
+      "at 4.15"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261115-3-k4",
+     "tag": "Problem",
+     "fact": "The train stops because there is snow on the line.",
+     "q": "What stops the train?",
+     "opts": [
+      "snow",
+      "rain",
+      "a river"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261115-3-k5",
+     "tag": "Ending",
+     "fact": "The train moves again, and it is only twenty minutes late.",
+     "q": "How late is the train in the end?",
+     "opts": [
+      "one hour",
+      "twenty minutes",
+      "six hours"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Train emails",
+    "question": "What happens to Sofia and Ben today?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "on a train",
+       "aunt's house"
+      ],
+      "kps": [
+       "k20261115-3-k1"
+      ]
+     },
+     {
+      "title": "On board",
+      "paras": "2",
+      "blanks": [
+       "along a river",
+       "hot chocolate"
+      ],
+      "kps": [
+       "k20261115-3-k2"
+      ]
+     },
+     {
+      "title": "Ben",
+      "paras": "3",
+      "blanks": [
+       "at the bus stop",
+       "getting wet"
+      ],
+      "kps": [
+       "k20261115-3-k3"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "4–5",
+      "blanks": [
+       "snow on the line",
+       "twenty minutes late"
+      ],
+      "kps": [
+       "k20261115-3-k4",
+       "k20261115-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a plane to London",
+     "the train is broken"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the emails.",
+    "model": "Sofia is travelling by train to her aunt's house, but snow stops the train for a while. Ben's bus is late, so he is getting wet.",
+    "options": [
+     {
+      "t": "Sofia is travelling by train to her aunt's house.",
+      "ok": true,
+      "why": "This is the main idea of her first email.",
+      "type": "main",
+      "para": 1,
+      "evidence": "We're going to my aunt's house in the mountains."
+     },
+     {
+      "t": "Ben is waiting for a late bus in the rain.",
+      "ok": true,
+      "why": "This is Ben's email.",
+      "type": "main",
+      "para": 3,
+      "evidence": "My bus usually comes at 4.15, but today it's late again."
+     },
+     {
+      "t": "Snow stops the train, but it moves again soon.",
+      "ok": true,
+      "why": "This is the problem and the ending.",
+      "type": "main",
+      "para": 4,
+      "evidence": "We're waiting at a small station because there's snow on the line."
+     },
+     {
+      "t": "Max is sleeping on the train.",
+      "ok": false,
+      "why": "True, but only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "Mum is reading a book, and my little brother Max is sleeping."
+     },
+     {
+      "t": "Ben is going to visit Sofia next week.",
+      "ok": false,
+      "why": "The emails never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Trains in Sofia's country are often late.",
+      "ok": false,
+      "why": "Wrong: Sofia says they usually arrive on time.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Yes, trains here usually arrive on time."
+     }
+    ]
+   },
+   "speak": {
+    "p": "How do you usually go to school? What are you doing right now?",
+    "hint": "I usually go to school by… / Right now I'm…",
+    "sec": 35
+   },
+   "write": {
+    "p": "You are on a bus or train. Write an email to a friend. Write 25 words or more.",
+    "steps": [
+     "Say where you are going.",
+     "Say what you can see right now.",
+     "Say how you usually travel."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  }
+ ],
+ "audio": {
+  "Close your eyes and listen. What can you hear? Maybe there is a car outside. Maybe your friend is talking. Your ears are very busy all day. But what is inside them? Let's take a look.": "audio/2026-11-15/a1-p1.mp3",
+  "Your ear has got three main parts: the outer ear, the middle ear and the inner ear. The outer ear is the part on the side of your head. It is a bit like a cup. It catches sounds and sends them into a short tube.": "audio/2026-11-15/a1-p2.mp3",
+  "At the end of the tube, there is a thin piece of skin. It is called the eardrum. Sounds hit the eardrum, and it moves very quickly. These fast, small movements are called vibrations.": "audio/2026-11-15/a1-p3.mp3",
+  "Behind the eardrum is the middle ear. There are three tiny bones here. Their names are the hammer, the anvil and the stirrup. The stirrup is the smallest bone in your body. It is only about three millimetres long! The bones pass the vibrations on to the inner ear.": "audio/2026-11-15/a1-p4.mp3",
+  "The inner ear has got a part called the cochlea. It is round, like a snail's shell. The cochlea is full of liquid, and there are thousands of tiny hair cells inside it. When the liquid moves, the hairs move too. They change the vibrations into signals. Then a nerve carries the signals to your brain. Now you can hear!": "audio/2026-11-15/a1-p5.mp3",
+  "Your inner ear has got another job, too. There are three small tubes with liquid in them. They help you with your balance. That is why you can stand on one leg and not fall over.": "audio/2026-11-15/a1-p6.mp3",
+  "Your ears are amazing, so look after them. Don't listen to very loud music for a long time. And never put small things inside your ears!": "audio/2026-11-15/a1-p7.mp3",
+  "eardrum": "audio/2026-11-15/a1-w-eardrum.mp3",
+  "A very loud noise can hurt your eardrum.": "audio/2026-11-15/a1-ex-eardrum.mp3",
+  "vibration": "audio/2026-11-15/a1-w-vibration.mp3",
+  "I can feel the vibration of my phone.": "audio/2026-11-15/a1-ex-vibration.mp3",
+  "tube": "audio/2026-11-15/a1-w-tube.mp3",
+  "Water goes through this tube.": "audio/2026-11-15/a1-ex-tube.mp3",
+  "bone": "audio/2026-11-15/a1-w-bone.mp3",
+  "The dog is eating a bone.": "audio/2026-11-15/a1-ex-bone.mp3",
+  "tiny": "audio/2026-11-15/a1-w-tiny.mp3",
+  "A tiny bird sat on my window.": "audio/2026-11-15/a1-ex-tiny.mp3",
+  "liquid": "audio/2026-11-15/a1-w-liquid.mp3",
+  "Milk is a liquid.": "audio/2026-11-15/a1-ex-liquid.mp3",
+  "signal": "audio/2026-11-15/a1-w-signal.mp3",
+  "My phone has no signal here.": "audio/2026-11-15/a1-ex-signal.mp3",
+  "nerve": "audio/2026-11-15/a1-w-nerve.mp3",
+  "A nerve in my tooth hurts.": "audio/2026-11-15/a1-ex-nerve.mp3",
+  "brain": "audio/2026-11-15/a1-w-brain.mp3",
+  "Your brain needs sleep.": "audio/2026-11-15/a1-ex-brain.mp3",
+  "balance": "audio/2026-11-15/a1-w-balance.mp3",
+  "Riding a bike needs good balance.": "audio/2026-11-15/a1-ex-balance.mp3",
+  "Your ear has got three main parts: the outer ear, the middle ear and the inner ear.": "audio/2026-11-15/a1-ks1.mp3",
+  "Sounds hit the eardrum, and it moves very quickly.": "audio/2026-11-15/a1-ks2.mp3",
+  "The stirrup is the smallest bone in your body.": "audio/2026-11-15/a1-ks3.mp3",
+  "Then a nerve carries the signals to your brain.": "audio/2026-11-15/a1-ks4.mp3",
+  "At the end of the tube, there is a thin piece of skin.": "audio/2026-11-15/a1-g2.mp3",
+  "There are three tiny bones here.": "audio/2026-11-15/a1-g3.mp3",
+  "The cochlea is full of liquid, and there are thousands of tiny hair cells inside it.": "audio/2026-11-15/a1-g4.mp3",
+  "What do teenagers do at the weekend? Some sleep late, and some play computer games. But many young people have got a special hobby. We asked three readers about their Saturdays. Here are their answers.": "audio/2026-11-15/a2-p1.mp3",
+  "Hi, I'm Lucas, and I'm fourteen. On Saturday mornings, I always go to the chess club at our town library. It starts at ten o'clock. There are about twenty players, and the youngest is only eight! I usually play three or four games. I sometimes lose, but I never get angry. My teacher, Mr Patel, often says, \"Every lost game teaches you something.\" After the club, I usually have lunch with my grandpa. He taught me chess when I was six.": "audio/2026-11-15/a2-p2.mp3",
+  "My name is Hana, and I'm thirteen. I love baking, and Saturday is my baking day. My dad and I usually make bread together. We often try a new recipe from the internet. Last week it was bread with cheese and onions. It was delicious! I hardly ever bake cakes, because they have too much sugar. We never sell our bread. We always give some to our neighbour, Mrs Kim. She is eighty, and she lives alone.": "audio/2026-11-15/a2-p3.mp3",
+  "I'm Amira, and I'm fifteen. My hobby is photography. On Saturdays, I often get up at six o'clock and go to the park with my camera. It's very quiet then. I usually take photos of birds and flowers. Sometimes I wait for an hour for one good photo! I don't always have good luck, but I'm a patient person. Once a month, I put my best photos on our school website. My friends sometimes ask me to teach them.": "audio/2026-11-15/a2-p4.mp3",
+  "And what about you? How often do you do your hobby? Send us a message, and we might put your answer in next month's magazine!": "audio/2026-11-15/a2-p5.mp3",
+  "chess": "audio/2026-11-15/a2-w-chess.mp3",
+  "My sister and I play chess after dinner.": "audio/2026-11-15/a2-ex-chess.mp3",
+  "library": "audio/2026-11-15/a2-w-library.mp3",
+  "I study in the library after school.": "audio/2026-11-15/a2-ex-library.mp3",
+  "lose": "audio/2026-11-15/a2-w-lose.mp3",
+  "Our team didn't want to lose the match.": "audio/2026-11-15/a2-ex-lose.mp3",
+  "recipe": "audio/2026-11-15/a2-w-recipe.mp3",
+  "This recipe needs two eggs.": "audio/2026-11-15/a2-ex-recipe.mp3",
+  "delicious": "audio/2026-11-15/a2-w-delicious.mp3",
+  "Grandma's soup is delicious.": "audio/2026-11-15/a2-ex-delicious.mp3",
+  "neighbour": "audio/2026-11-15/a2-w-neighbour.mp3",
+  "Our neighbour has got a big dog.": "audio/2026-11-15/a2-ex-neighbour.mp3",
+  "alone": "audio/2026-11-15/a2-w-alone.mp3",
+  "I don't like walking home alone.": "audio/2026-11-15/a2-ex-alone.mp3",
+  "photography": "audio/2026-11-15/a2-w-photography.mp3",
+  "She is learning photography at a club.": "audio/2026-11-15/a2-ex-photography.mp3",
+  "camera": "audio/2026-11-15/a2-w-camera.mp3",
+  "I forgot my camera at home.": "audio/2026-11-15/a2-ex-camera.mp3",
+  "patient": "audio/2026-11-15/a2-w-patient.mp3",
+  "Our teacher is very patient with us.": "audio/2026-11-15/a2-ex-patient.mp3",
+  "But many young people have got a special hobby.": "audio/2026-11-15/a2-ks1.mp3",
+  "I sometimes lose, but I never get angry.": "audio/2026-11-15/a2-ks2.mp3",
+  "I hardly ever bake cakes, because they have too much sugar.": "audio/2026-11-15/a2-ks3.mp3",
+  "I don't always have good luck, but I'm a patient person.": "audio/2026-11-15/a2-ks4.mp3",
+  "On Saturday mornings, I always go to the chess club at our town library.": "audio/2026-11-15/a2-g1.mp3",
+  "Hi Ben, Guess where I am! I'm sitting on a train, and I'm writing this email on Mum's phone. We're going to my aunt's house in the mountains. The journey takes six hours, so we're spending most of the day on the train.": "audio/2026-11-15/a3-p1.mp3",
+  "I usually go everywhere by bike, so this is very different. Right now, the train is going along a river. Mum is reading a book, and my little brother Max is sleeping. There's a café on the train, and it sells hot chocolate. I'm drinking my second cup! The seats are comfortable, but the Wi-Fi doesn't work very well. Write soon! Love, Sofia": "audio/2026-11-15/a3-p2.mp3",
+  "Hi Sofia, Lucky you! I'm not on a train. I'm standing at the bus stop in the rain. My bus usually comes at 4.15, but today it's late again. It's 4.40 now, and I'm getting wet! Our town buses are often late in winter. Do trains usually arrive on time in your country? Say hello to Max. Ben": "audio/2026-11-15/a3-p3.mp3",
+  "Hi Ben, Poor you! Yes, trains here usually arrive on time. But today something strange is happening. Our train isn't moving! We're waiting at a small station because there's snow on the line. A man in an orange jacket is cleaning it now. Everyone is looking out of the window.": "audio/2026-11-15/a3-p4.mp3",
+  "Good news! The train is moving again. We're only twenty minutes late. My aunt is waiting for us at the station, and she always brings sandwiches. I'll send you some photos of the mountains tomorrow. Love, Sofia": "audio/2026-11-15/a3-p5.mp3",
+  "journey": "audio/2026-11-15/a3-w-journey.mp3",
+  "The journey to school takes ten minutes.": "audio/2026-11-15/a3-ex-journey.mp3",
+  "mountain": "audio/2026-11-15/a3-w-mountain.mp3",
+  "There is snow on the mountain.": "audio/2026-11-15/a3-ex-mountain.mp3",
+  "spend": "audio/2026-11-15/a3-w-spend.mp3",
+  "I spend an hour on homework every day.": "audio/2026-11-15/a3-ex-spend.mp3",
+  "comfortable": "audio/2026-11-15/a3-w-comfortable.mp3",
+  "This sofa is very comfortable.": "audio/2026-11-15/a3-ex-comfortable.mp3",
+  "lucky": "audio/2026-11-15/a3-w-lucky.mp3",
+  "You are lucky to have a dog.": "audio/2026-11-15/a3-ex-lucky.mp3",
+  "station": "audio/2026-11-15/a3-w-station.mp3",
+  "Let's meet at the station at nine.": "audio/2026-11-15/a3-ex-station.mp3",
+  "arrive": "audio/2026-11-15/a3-w-arrive.mp3",
+  "When does the bus arrive?": "audio/2026-11-15/a3-ex-arrive.mp3",
+  "strange": "audio/2026-11-15/a3-w-strange.mp3",
+  "I heard a strange noise outside.": "audio/2026-11-15/a3-ex-strange.mp3",
+  "line": "audio/2026-11-15/a3-w-line.mp3",
+  "A tree fell on the line.": "audio/2026-11-15/a3-ex-line.mp3",
+  "jacket": "audio/2026-11-15/a3-w-jacket.mp3",
+  "Take your jacket. It's cold.": "audio/2026-11-15/a3-ex-jacket.mp3",
+  "I'm sitting on a train, and I'm writing this email on Mum's phone.": "audio/2026-11-15/a3-ks1.mp3",
+  "I usually go everywhere by bike, so this is very different.": "audio/2026-11-15/a3-ks2.mp3",
+  "We're waiting at a small station because there's snow on the line.": "audio/2026-11-15/a3-ks3.mp3",
+  "Good news! The train is moving again.": "audio/2026-11-15/a3-ks4.mp3",
+  "Right now, the train is going along a river.": "audio/2026-11-15/a3-g2.mp3",
+  "My bus usually comes at 4.15, but today it's late again.": "audio/2026-11-15/a3-g3.mp3",
+  "A man in an orange jacket is cleaning it now.": "audio/2026-11-15/a3-g4.mp3"
+ }
+}
