@@ -1,0 +1,2055 @@
+{
+ "date": "2026-11-16",
+ "headline": "School lunch in Japan, an old cinema and the wrong bag",
+ "teaser": "Who cleans the classroom in Japan? What was the cinema like 60 years ago? Why is there a box of dog biscuits in Mia's bag?",
+ "articles": [
+  {
+   "id": "k20261116-1",
+   "topic": "Daily life",
+   "genre": "Article",
+   "title": "A School Day in Japan",
+   "dek": "Indoor shoes, lunch in the classroom and cleaning time: meet Haruto.",
+   "sources": [
+    {
+     "name": "Wikipedia: School lunch in Japan",
+     "url": "https://en.wikipedia.org/wiki/School_lunch_in_Japan"
+    },
+    {
+     "name": "Wikipedia: Education in Japan",
+     "url": "https://en.wikipedia.org/wiki/Education_in_Japan"
+    },
+    {
+     "name": "The Japan Forum: Changing our shoes",
+     "url": "https://tjf.or.jp/shogakusei/6-1/donna/ichinichi/i03_e.htm"
+    }
+   ],
+   "paras": [
+    "What is a school day like for a teenager in Japan? Meet Haruto. He is thirteen, and he lives in Osaka. His school day has got a lot of things that may surprise you.",
+    "Haruto walks to school with some friends. When he arrives, he doesn't go straight into his classroom. First, he takes off his outdoor shoes and puts them in a small locker. Then he puts on a pair of indoor shoes. In this way, the students don't bring much dirt into the school.",
+    "Lessons start at about half past eight. Haruto has six lessons a day. His favourite subject is science. He doesn't like maths very much, but he always does his homework.",
+    "At lunchtime, the students don't go to a dining room. They eat in their classroom. Some students put on white coats and caps. They bring the food from the kitchen and serve it to their classmates. Today there is some rice, a bowl of soup, some fish and a carton of milk. 'There isn't much meat today,' Haruto says, 'but there are a lot of vegetables.' Everybody eats the same food.",
+    "After lunch, there isn't any time to play. It is cleaning time! In many Japanese schools, the students clean their classrooms themselves. Haruto takes a broom and sweeps the floor. His friend Yui cleans the board. Two other students wipe the floor in the hall. It takes about fifteen minutes.",
+    "Why do they do it? Teachers say that cleaning teaches students to work together. Students also learn to look after their school. 'At first I didn't like it,' says Haruto. 'Now I don't mind. Our classroom is always clean!'",
+    "Here is one more fact. The school year in Japan doesn't start in September. It starts in April. How many differences can you find between Haruto's school and yours?"
+   ],
+   "words": [
+    {
+     "w": "locker",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈlɒk.ə/",
+     "syl": [
+      "lock",
+      "er"
+     ],
+     "def": "a small cupboard where you keep your things",
+     "ex": "I put my bag in my locker."
+    },
+    {
+     "w": "dirt",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/dɜːt/",
+     "syl": [
+      "dirt"
+     ],
+     "def": "something that makes things not clean, like mud",
+     "ex": "There is dirt on your shoes."
+    },
+    {
+     "w": "serve",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/sɜːv/",
+     "syl": [
+      "serve"
+     ],
+     "def": "to give food or drink to people",
+     "ex": "The café can serve breakfast all day."
+    },
+    {
+     "w": "classmate",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈklɑːs.meɪt/",
+     "syl": [
+      "class",
+      "mate"
+     ],
+     "def": "a student in the same class as you",
+     "ex": "My classmate helped me with my homework."
+    },
+    {
+     "w": "carton",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɑː.tən/",
+     "syl": [
+      "car",
+      "ton"
+     ],
+     "def": "a paper box for milk or juice",
+     "ex": "There is a carton of juice in the fridge."
+    },
+    {
+     "w": "broom",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/bruːm/",
+     "syl": [
+      "broom"
+     ],
+     "def": "a brush with a long handle for cleaning floors",
+     "ex": "Can you give me the broom, please?"
+    },
+    {
+     "w": "sweep",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/swiːp/",
+     "syl": [
+      "sweep"
+     ],
+     "def": "to clean the floor with a brush",
+     "ex": "We sweep the kitchen every evening."
+    },
+    {
+     "w": "wipe",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/waɪp/",
+     "syl": [
+      "wipe"
+     ],
+     "def": "to clean something with a cloth",
+     "ex": "Please wipe the table after dinner."
+    },
+    {
+     "w": "difference",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdɪf.ər.əns/",
+     "syl": [
+      "dif",
+      "fer",
+      "ence"
+     ],
+     "def": "the way two things are not the same",
+     "ex": "What is the difference between these two pictures?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "First, he takes off his outdoor shoes and puts them in a small locker.",
+     "kind": "Time order",
+     "note": "The first thing Haruto does at school is change his shoes."
+    },
+    {
+     "para": 4,
+     "text": "They bring the food from the kitchen and serve it to their classmates.",
+     "kind": "Key details",
+     "note": "Students, not cooks, serve lunch in the classroom."
+    },
+    {
+     "para": 5,
+     "text": "In many Japanese schools, the students clean their classrooms themselves.",
+     "kind": "Main idea",
+     "note": "This is the biggest surprise in the text."
+    },
+    {
+     "para": 6,
+     "text": "Teachers say that cleaning teaches students to work together.",
+     "kind": "Cause → effect",
+     "note": "This is why the students clean."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to cook Japanese food",
+      "a normal school day for a boy in Japan",
+      "why Haruto doesn't like maths"
+     ],
+     "a": 1,
+     "why": "第1段问 What is a school day like for a teenager in Japan?，后面按时间讲 Haruto 一天的学校生活。",
+     "evidence": null,
+     "optWhy": [
+      "文中只写了午饭吃什么，没教怎么做饭。",
+      "正确。第1段 a school day + Meet Haruto = 选项 a normal school day for a boy in Japan。",
+      "maths 只在第3段提了一句，不是全文主旨。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "开头问题 What is a school day like…? 就是主线。"
+      },
+      {
+       "h": "扫各段",
+       "t": "鞋子 → 上课 → 午饭 → 打扫，按一天的时间走。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does Haruto do first when he arrives at school?",
+     "opts": [
+      "He changes his shoes.",
+      "He goes into his classroom.",
+      "He cleans the board."
+     ],
+     "a": 0,
+     "why": "第2段原文：First, he takes off his outdoor shoes and puts them in a small locker.",
+     "evidence": "First, he takes off his outdoor shoes and puts them in a small locker.",
+     "optWhy": [
+      "正确。原文 takes off his outdoor shoes … puts on a pair of indoor shoes = 选项 changes his shoes。",
+      "原文 he doesn't go straight into his classroom，与选项相反。",
+      "cleans the board 是第5段 Yui 午饭后做的事。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "arrives → 第2段，再找 First。"
+      },
+      {
+       "h": "同义替换",
+       "t": "takes off … puts on indoor shoes = changes his shoes。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Haruto likes fish more than meat.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第4段只说 There isn't much meat today，没说 Haruto 更喜欢鱼还是肉。",
+     "evidence": "'There isn't much meat today,' Haruto says, 'but there are a lot of vegetables.'",
+     "optWhy": [
+      "原文只说今天肉不多，没有说他喜欢鱼。",
+      "原文也没说他喜欢肉，所以不能判 Wrong。",
+      "正确。文中没有比较 Haruto 对 fish 和 meat 的喜好 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 fish 和 meat：第4段午饭。"
+      },
+      {
+       "h": "看清说了什么",
+       "t": "原文只描述饭菜：isn't much meat，没提 likes。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文既没说对也没说反 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, what does \"They\" mean in \"They bring the food from the kitchen\"?",
+     "opts": [
+      "the teachers",
+      "some students in white coats",
+      "the cooks"
+     ],
+     "a": 1,
+     "why": "前一句是 Some students put on white coats and caps.，They 指这些学生。",
+     "evidence": "They bring the food from the kitchen and serve it to their classmates.",
+     "marks": [
+      "Some students put on white coats and caps."
+     ],
+     "optWhy": [
+      "第4段没有提到老师。",
+      "正确。前一句 Some students put on white coats and caps = 选项 some students in white coats。",
+      "the cooks 文中没出现，kitchen 只是地点。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句主语：Some students。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Some students bring the food… serve it to their classmates. 通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what does \"sweeps\" mean?",
+     "opts": [
+      "washes with water",
+      "paints",
+      "cleans with a broom"
+     ],
+     "a": 2,
+     "why": "原文 Haruto takes a broom and sweeps the floor.，拿着扫帚对地面做的事就是扫。",
+     "evidence": "Haruto takes a broom and sweeps the floor.",
+     "marks": [
+      "sweeps"
+     ],
+     "optWhy": [
+      "用水擦是 wipe，是第5段另两个学生做的事。",
+      "文中没有提到画画。",
+      "正确。takes a broom and sweeps = 选项 cleans with a broom。"
+     ],
+     "traps": [
+      "偷换概念",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看同一句",
+       "t": "takes a broom 是线索：扫帚用来扫地。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "wipe the floor 是另一个动作，别混。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How does Haruto feel about cleaning now?",
+     "opts": [
+      "He doesn't mind it.",
+      "He hates it.",
+      "He is afraid of it."
+     ],
+     "a": 0,
+     "why": "第6段原文：Now I don't mind.",
+     "evidence": "Now I don't mind.",
+     "marks": [
+      "At first I didn't like it"
+     ],
+     "optWhy": [
+      "正确。原文 Now I don't mind = 选项 He doesn't mind it。",
+      "At first I didn't like it 是以前的感受，Now 已经变了。",
+      "文中没有说他害怕。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看时间词",
+       "t": "At first（以前）和 Now（现在）不同。"
+      },
+      {
+       "h": "抓 Now",
+       "t": "题目问 now → Now I don't mind。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Countable / uncountable · some / any",
+    "rule": "Countable nouns have a plural (vegetables, lessons). Uncountable nouns have no plural (rice, milk, dirt). Use some in positive sentences, any in negatives and questions. Use many with countable nouns, much with uncountable nouns, and a lot of with both.",
+    "table": [
+     [
+      "many + countable",
+      "How many differences?"
+     ],
+     [
+      "much + uncountable",
+      "There isn't much meat."
+     ],
+     [
+      "a lot of + both",
+      "a lot of vegetables / a lot of milk"
+     ],
+     [
+      "some (+)",
+      "some rice, some fish"
+     ],
+     [
+      "any (− / ?)",
+      "There isn't any time."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "In this way, the students don't bring much dirt into the school.",
+      "mark": "much dirt"
+     },
+     {
+      "para": 4,
+      "text": "Today there is some rice, a bowl of soup, some fish and a carton of milk.",
+      "mark": "some rice"
+     },
+     {
+      "para": 4,
+      "text": "'There isn't much meat today,' Haruto says, 'but there are a lot of vegetables.'",
+      "mark": "a lot of vegetables"
+     },
+     {
+      "para": 7,
+      "text": "How many differences can you find between Haruto's school and yours?",
+      "mark": "How many differences"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "There ___ much milk in the carton. Let's buy some more.",
+      "opts": [
+       "aren't",
+       "isn't",
+       "haven't"
+      ],
+      "a": 1,
+      "why": "Milk is uncountable, so we use isn't (singular)."
+     },
+     {
+      "type": "mc",
+      "q": "How ___ students clean the hall every day?",
+      "opts": [
+       "much",
+       "many",
+       "any"
+      ],
+      "a": 1,
+      "why": "Students can be counted, so we use How many."
+     },
+     {
+      "type": "fill",
+      "q": "Have you got ___ homework tonight? No, I haven't.",
+      "hint": "(some / any)",
+      "a": "any",
+      "why": "It is a question, so we use any."
+     },
+     {
+      "type": "fill",
+      "q": "We don't eat ___ bread at school. We usually eat rice.",
+      "hint": "(much / many)",
+      "a": "much",
+      "why": "Bread is uncountable, so we use much."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ a lot of brooms in the cupboard.",
+      "hint": "(be)",
+      "a": "are",
+      "why": "Brooms is plural, so we use there are."
+     },
+     {
+      "type": "fill",
+      "q": "Yui always ___ some fruit after lunch.",
+      "hint": "(eat)",
+      "a": "eats",
+      "why": "Present simple with she: add -s, and some goes with a positive sentence."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261116-1-k1",
+     "tag": "Shoes",
+     "fact": "Japanese students change into indoor shoes when they arrive at school.",
+     "q": "Where does Haruto put his outdoor shoes?",
+     "opts": [
+      "in his bag",
+      "in a small locker",
+      "in the classroom"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261116-1-k2",
+     "tag": "Lunch",
+     "fact": "Students eat lunch in their classroom, and some students serve the food.",
+     "q": "Where do the students eat lunch?",
+     "opts": [
+      "in their classroom",
+      "in a dining room",
+      "at home"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261116-1-k3",
+     "tag": "Cleaning",
+     "fact": "After lunch, the students clean their school for about fifteen minutes.",
+     "q": "Who cleans the classrooms in many Japanese schools?",
+     "opts": [
+      "the teachers",
+      "the parents",
+      "the students"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261116-1-k4",
+     "tag": "Why clean",
+     "fact": "Cleaning teaches students to work together and look after their school.",
+     "q": "What does cleaning teach students?",
+     "opts": [
+      "to work together",
+      "to cook",
+      "to play football"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261116-1-k5",
+     "tag": "School year",
+     "fact": "The school year in Japan starts in April.",
+     "q": "When does the school year start in Japan?",
+     "opts": [
+      "in September",
+      "in January",
+      "in April"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Haruto's school day",
+    "question": "What is different about a school day in Japan?",
+    "branches": [
+     {
+      "title": "Morning",
+      "paras": "2",
+      "blanks": [
+       "indoor shoes",
+       "a small locker"
+      ],
+      "kps": [
+       "k20261116-1-k1"
+      ]
+     },
+     {
+      "title": "Lunch",
+      "paras": "4",
+      "blanks": [
+       "eat in the classroom",
+       "white coats and caps"
+      ],
+      "kps": [
+       "k20261116-1-k2"
+      ]
+     },
+     {
+      "title": "Cleaning",
+      "paras": "5–6",
+      "blanks": [
+       "sweeps the floor",
+       "work together"
+      ],
+      "kps": [
+       "k20261116-1-k3",
+       "k20261116-1-k4"
+      ]
+     },
+     {
+      "title": "School year",
+      "paras": "7",
+      "blanks": [
+       "starts in April"
+      ],
+      "kps": [
+       "k20261116-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a big swimming pool",
+     "starts in September"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Haruto changes his shoes and eats lunch in his classroom. After lunch the students clean the school, because it teaches them to work together.",
+    "options": [
+     {
+      "t": "Students wear indoor shoes at school.",
+      "ok": true,
+      "why": "This is the first difference in Haruto's day.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Then he puts on a pair of indoor shoes."
+     },
+     {
+      "t": "Students eat and serve lunch in their classroom.",
+      "ok": true,
+      "why": "This is how lunch works in his school.",
+      "type": "main",
+      "para": 4,
+      "evidence": "They eat in their classroom."
+     },
+     {
+      "t": "Students clean their school after lunch, and it teaches them to work together.",
+      "ok": true,
+      "why": "This is the biggest idea of the text.",
+      "type": "main",
+      "para": 5,
+      "evidence": "In many Japanese schools, the students clean their classrooms themselves."
+     },
+     {
+      "t": "Haruto's favourite subject is science.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "His favourite subject is science."
+     },
+     {
+      "t": "Haruto plays football with Yui after school.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Cleaners clean the classrooms at night.",
+      "ok": false,
+      "why": "Wrong: the students clean their classrooms themselves.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "In many Japanese schools, the students clean their classrooms themselves."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What do you do at lunchtime at your school? Would you like to clean your classroom? Why?",
+    "hint": "At lunchtime, I usually… / I'd like to clean it because…",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write an email to Haruto about your school. Write 25 words or more.",
+    "steps": [
+     "Tell him where you eat lunch.",
+     "Say who cleans your classroom.",
+     "Ask him one question about his school."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261116-2",
+   "topic": "Entertainment & media",
+   "genre": "Interview",
+   "title": "When the Cinema Was Magic",
+   "dek": "Mr Haddad is 72. He tells us about the old cinema in his town.",
+   "sources": [],
+   "paras": [
+    "Mr Omar Haddad is seventy-two. When he was a boy, not many families had a TV at home. But there was a big cinema in his town. Our school reporter, Lily, asked him about it.",
+    "Lily: Where was the cinema, Mr Haddad? Omar: It was in the main square, next to the bank. It was a beautiful old building with red doors. There were about four hundred seats inside.",
+    "Lily: How often did you go there? Omar: Every Saturday afternoon. Tickets were very cheap. My friends and I were always in the front row. We were very noisy, too!",
+    "Lily: Were the films in colour? Omar: Some films were in colour, but a lot of them were black and white. Before the film, there was always a short news programme. It was the only way to see the news with pictures.",
+    "Lily: What was your favourite film? Omar: That's easy. It was a cowboy film. I was nine, and I was so excited. The horses on the big screen were enormous! After the film, we were cowboys in the street all evening.",
+    "Lily: Is the cinema still there? Omar: No, it isn't. It closed a long time ago, and now the building is a supermarket. I was sad when it closed. But last month I was at the new cinema in the shopping centre with my granddaughter. The seats were very comfortable, and the sound was great. It wasn't the same, but it was a lovely afternoon.",
+    "Lily: Which is better, the cinema or TV at home? Omar: For me, the cinema. A big screen and a dark room are magic. You forget everything else for two hours."
+   ],
+   "words": [
+    {
+     "w": "square",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skweə/",
+     "syl": [
+      "square"
+     ],
+     "def": "an open place in a town with buildings around it",
+     "ex": "We met in the square at ten o'clock."
+    },
+    {
+     "w": "seat",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/siːt/",
+     "syl": [
+      "seat"
+     ],
+     "def": "a thing you sit on",
+     "ex": "Is this seat free?"
+    },
+    {
+     "w": "ticket",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtɪk.ɪt/",
+     "syl": [
+      "tick",
+      "et"
+     ],
+     "def": "a paper you buy to go into a cinema or travel",
+     "ex": "I bought a ticket for the film."
+    },
+    {
+     "w": "row",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/rəʊ/",
+     "syl": [
+      "row"
+     ],
+     "def": "a line of seats next to each other",
+     "ex": "We sat in the back row."
+    },
+    {
+     "w": "noisy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɔɪ.zi/",
+     "syl": [
+      "noi",
+      "sy"
+     ],
+     "def": "making a lot of loud sounds",
+     "ex": "The classroom was very noisy today."
+    },
+    {
+     "w": "screen",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/skriːn/",
+     "syl": [
+      "screen"
+     ],
+     "def": "the flat place where you watch a film",
+     "ex": "The screen in this cinema is huge."
+    },
+    {
+     "w": "cowboy",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkaʊ.bɔɪ/",
+     "syl": [
+      "cow",
+      "boy"
+     ],
+     "def": "a man who rides a horse and looks after cows",
+     "ex": "My little brother loves cowboy stories."
+    },
+    {
+     "w": "comfortable",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈkʌm.fə.tə.bəl/",
+     "syl": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+     ],
+     "def": "nice and soft, so you feel good",
+     "ex": "This sofa is very comfortable."
+    },
+    {
+     "w": "granddaughter",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈɡræn.dɔː.tə/",
+     "syl": [
+      "grand",
+      "daugh",
+      "ter"
+     ],
+     "def": "the daughter of your son or daughter",
+     "ex": "Her granddaughter visits her every Sunday."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But there was a big cinema in his town.",
+     "kind": "Main idea",
+     "note": "The interview is about this cinema."
+    },
+    {
+     "para": 3,
+     "text": "My friends and I were always in the front row.",
+     "kind": "Grammar to notice",
+     "note": "My friends and I = we, so we use were."
+    },
+    {
+     "para": 4,
+     "text": "Some films were in colour, but a lot of them were black and white.",
+     "kind": "Key details",
+     "note": "Films were different in the past."
+    },
+    {
+     "para": 6,
+     "text": "I was sad when it closed.",
+     "kind": "Opinion",
+     "note": "Omar's feeling about the end of the old cinema."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the interview mainly about?",
+     "opts": [
+      "how to make a film",
+      "the new shopping centre",
+      "Mr Haddad's memories of his town's cinema"
+     ],
+     "a": 2,
+     "why": "第1段 there was a big cinema in his town … asked him about it，整篇采访都在问老电影院。",
+     "evidence": null,
+     "optWhy": [
+      "采访里没讲怎么拍电影。",
+      "shopping centre 只在第6段提了一次。",
+      "正确。第1段 asked him about it（the cinema）= 选项 his memories of his town's cinema。"
+     ],
+     "traps": [
+      "无中生有",
+      "以偏概全",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "asked him about it → it 指 a big cinema。"
+      },
+      {
+       "h": "扫问题",
+       "t": "Where was the cinema? / Were the films…? 都围绕电影院。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Where was the old cinema?",
+     "opts": [
+      "in the shopping centre",
+      "in the main square",
+      "next to the school"
+     ],
+     "a": 1,
+     "why": "第2段原文：It was in the main square, next to the bank.",
+     "evidence": "It was in the main square, next to the bank.",
+     "optWhy": [
+      "shopping centre 里的是第6段的新电影院。",
+      "正确。原文 in the main square = 选项 in the main square。",
+      "原文是 next to the bank，不是 school。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "问题 Where was the cinema? 在第2段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "新旧两个电影院位置不同；next to 后面是 bank。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "It didn't cost a lot of money to go to the cinema.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第3段原文 Tickets were very cheap.，票很便宜 = 花钱不多。",
+     "evidence": "Tickets were very cheap.",
+     "optWhy": [
+      "正确。原文 Tickets were very cheap = 题目 didn't cost a lot of money → Right。",
+      "原文说 cheap，和题目意思一致，不是相反。",
+      "原文明确说了票价便宜，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "cost / money → 原文 Tickets … cheap。"
+      },
+      {
+       "h": "同义替换",
+       "t": "very cheap = didn't cost a lot of money。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "What was always on before the film?",
+     "opts": [
+      "a short news programme",
+      "a cowboy film",
+      "some music"
+     ],
+     "a": 0,
+     "why": "第4段原文：Before the film, there was always a short news programme.",
+     "evidence": "Before the film, there was always a short news programme.",
+     "optWhy": [
+      "正确。原文 there was always a short news programme = 选项。",
+      "cowboy film 是第5段他最喜欢的电影，不是放映前的节目。",
+      "文中没有提到音乐。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "before the film → 第4段。"
+      },
+      {
+       "h": "核对",
+       "t": "原文 a short news programme 和选项完全一致。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who does \"we\" mean in \"we were cowboys in the street\"?",
+     "opts": [
+      "the horses",
+      "the people in the film",
+      "Omar and his friends"
+     ],
+     "a": 2,
+     "why": "看完电影在街上扮牛仔的是 Omar 和朋友们，第3段也说 My friends and I。",
+     "evidence": "After the film, we were cowboys in the street all evening.",
+     "optWhy": [
+      "horses 是银幕上的马，不是 we。",
+      "电影里的人不会走到街上来，we 是说话人这一方。",
+      "正确。we = Omar（I）+ 他的朋友们 = 选项 Omar and his friends。"
+     ],
+     "traps": [
+      "指代错误",
+      "指代错误",
+      null
+     ],
+     "steps": [
+      {
+       "h": "想清说话人",
+       "t": "说话的是 Omar，we 一定包括 Omar 自己。"
+      },
+      {
+       "h": "往前找",
+       "t": "第3段 My friends and I 就是 we。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How did Omar feel when the old cinema closed?",
+     "opts": [
+      "happy",
+      "sad",
+      "angry"
+     ],
+     "a": 1,
+     "why": "第6段原文：I was sad when it closed.",
+     "evidence": "I was sad when it closed.",
+     "optWhy": [
+      "happy 不对；他只说新电影院那天 a lovely afternoon。",
+      "正确。原文 I was sad = 选项 sad。",
+      "文中没有说他生气。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 closed：第6段。"
+      },
+      {
+       "h": "抓感受词",
+       "t": "I was sad when it closed. 直接给出答案。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple of be: was / were",
+    "rule": "Use was with I, he, she and it. Use were with you, we and they. For negatives, say wasn't / weren't. For questions, put was / were first: Were the films in colour?",
+    "table": [
+     [
+      "I / he / she / it",
+      "was · wasn't"
+     ],
+     [
+      "you / we / they",
+      "were · weren't"
+     ],
+     [
+      "question",
+      "Was it…? / Were they…?"
+     ],
+     [
+      "short answer",
+      "Yes, it was. / No, they weren't."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "It was in the main square, next to the bank.",
+      "mark": "was"
+     },
+     {
+      "para": 3,
+      "text": "Tickets were very cheap.",
+      "mark": "were"
+     },
+     {
+      "para": 4,
+      "text": "Were the films in colour?",
+      "mark": "Were"
+     },
+     {
+      "para": 6,
+      "text": "It wasn't the same, but it was a lovely afternoon.",
+      "mark": "wasn't"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My grandparents ___ at the cinema last night.",
+      "opts": [
+       "was",
+       "were",
+       "are"
+      ],
+      "a": 1,
+      "why": "My grandparents = they, and last night is the past, so we use were."
+     },
+     {
+      "type": "mc",
+      "q": "___ the film long? Yes, it was three hours!",
+      "opts": [
+       "Was",
+       "Were",
+       "Did"
+      ],
+      "a": 0,
+      "why": "The film = it, so the question starts with Was."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ at home yesterday. I was at my friend's house.",
+      "hint": "(not be)",
+      "a": "wasn't / was not",
+      "why": "With I, the past negative is wasn't."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ only ten people in the cinema on Monday.",
+      "hint": "(be)",
+      "a": "were",
+      "why": "Ten people is plural, so we use there were."
+     },
+     {
+      "type": "fill",
+      "q": "___ you and your sister at the party on Saturday?",
+      "hint": "(be)",
+      "a": "Were",
+      "why": "You and your sister = you, so the question starts with Were."
+     },
+     {
+      "type": "fill",
+      "q": "The tickets ___ expensive, so we didn't go.",
+      "hint": "(be)",
+      "a": "were",
+      "why": "The tickets is plural, so we use were."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261116-2-k1",
+     "tag": "Old cinema",
+     "fact": "The old cinema was in the main square and had about four hundred seats.",
+     "q": "How many seats were in the old cinema?",
+     "opts": [
+      "about forty",
+      "about four hundred",
+      "about four thousand"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261116-2-k2",
+     "tag": "Saturdays",
+     "fact": "Omar went every Saturday, and the tickets were very cheap.",
+     "q": "When did Omar go to the cinema?",
+     "opts": [
+      "every Saturday afternoon",
+      "every evening",
+      "once a year"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261116-2-k3",
+     "tag": "Films",
+     "fact": "Many films were black and white, and there was always a news programme first.",
+     "q": "What were a lot of the films like?",
+     "opts": [
+      "very short",
+      "black and white",
+      "about the news"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261116-2-k4",
+     "tag": "Favourite",
+     "fact": "His favourite film was a cowboy film. He was nine.",
+     "q": "How old was Omar when he saw his favourite film?",
+     "opts": [
+      "seven",
+      "nine",
+      "seventy-two"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261116-2-k5",
+     "tag": "Today",
+     "fact": "The old cinema is now a supermarket, but Omar still loves going to the cinema.",
+     "q": "What is the old cinema building now?",
+     "opts": [
+      "a bank",
+      "a new cinema",
+      "a supermarket"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "The old cinema",
+    "question": "What was the cinema like when Omar was young?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "2",
+      "blanks": [
+       "in the main square",
+       "red doors"
+      ],
+      "kps": [
+       "k20261116-2-k1"
+      ]
+     },
+     {
+      "title": "When",
+      "paras": "3",
+      "blanks": [
+       "every Saturday afternoon",
+       "very cheap"
+      ],
+      "kps": [
+       "k20261116-2-k2"
+      ]
+     },
+     {
+      "title": "Films",
+      "paras": "4–5",
+      "blanks": [
+       "black and white",
+       "a cowboy film"
+      ],
+      "kps": [
+       "k20261116-2-k3",
+       "k20261116-2-k4"
+      ]
+     },
+     {
+      "title": "Now",
+      "paras": "6–7",
+      "blanks": [
+       "a supermarket",
+       "a lovely afternoon"
+      ],
+      "kps": [
+       "k20261116-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a popcorn machine",
+     "expensive tickets"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the interview.",
+    "model": "When Omar was young, the cinema was cheap and exciting. The old cinema closed, so he was sad, but he still loves films on a big screen.",
+    "options": [
+     {
+      "t": "When Omar was young, the town's cinema was very important to him.",
+      "ok": true,
+      "why": "This is what the whole interview is about.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Every Saturday afternoon."
+     },
+     {
+      "t": "The old cinema closed, and now it is a supermarket.",
+      "ok": true,
+      "why": "This tells us what happened to the cinema.",
+      "type": "main",
+      "para": 6,
+      "evidence": "It closed a long time ago, and now the building is a supermarket."
+     },
+     {
+      "t": "Omar still thinks the cinema is better than TV at home.",
+      "ok": true,
+      "why": "This is Omar's opinion at the end.",
+      "type": "main",
+      "para": 7,
+      "evidence": "For me, the cinema."
+     },
+     {
+      "t": "The old cinema had red doors.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "It was a beautiful old building with red doors."
+     },
+     {
+      "t": "Omar worked at the cinema as a boy.",
+      "ok": false,
+      "why": "The interview never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Omar and his friends were always very quiet in the cinema.",
+      "ok": false,
+      "why": "Wrong: Omar says they were very noisy.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "We were very noisy, too!"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like going to the cinema? What was the last film you saw?",
+    "hint": "The last film I saw was… / It was really… because…",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a message to a friend about a film you saw last weekend. Write 25 words or more.",
+    "steps": [
+     "Say where you were.",
+     "Say what the film was about.",
+     "Say how you felt about it."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261116-3",
+   "topic": "Shopping",
+   "genre": "Story",
+   "title": "The Wrong Bag",
+   "dek": "Mia bought a present for Mum. But what is inside her shopping bag?",
+   "sources": [],
+   "paras": [
+    "Last Saturday, Mia went to the shopping centre with her brother, Leo. It was their mum's birthday on Sunday, and they wanted to buy her a present. They looked in a lot of shops. Finally, they found a soft blue jumper. It cost twenty-five pounds. Mia paid for it, and the shop assistant put it in a big green bag.",
+    "After that, they were hungry, so they went to a café. Mia put the green bag under the table. They ordered two hot chocolates and talked about the party. The café was very busy. An old man sat at the next table. He had a green bag too, but Mia didn't notice it.",
+    "When they got home, Mia opened the bag. She wanted to wrap the present. But there was no jumper inside! There was a big box of dog biscuits and a red ball. 'Oh no!' she shouted. 'This isn't our bag!'",
+    "Leo thought for a moment. 'The man in the café!' he said. 'He took our bag, and we took his.' Mia felt terrible. The party was the next day. What could they do?",
+    "Then Mia saw a piece of paper in the bag. It was a receipt from a pet shop, and it had a phone number on it. She called the number. A woman answered. 'Yes, my dad was in that café,' she said. 'He came home with a jumper. He was very surprised!'",
+    "The next morning, Mia and Leo met the old man and his daughter outside the café. His name was Mr Kim. He gave them the jumper, and they gave him the dog biscuits. 'My dog Buster was very sad last night,' he laughed. 'He doesn't wear jumpers, but he loves biscuits!'",
+    "In the afternoon, Mum opened her present and smiled. 'It's beautiful!' she said. Mia and Leo looked at each other and laughed. Now they never put their shopping bags on the floor."
+   ],
+   "words": [
+    {
+     "w": "jumper",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈdʒʌm.pə/",
+     "syl": [
+      "jump",
+      "er"
+     ],
+     "def": "a warm piece of clothing for the top of your body",
+     "ex": "I wear a jumper when it is cold."
+    },
+    {
+     "w": "assistant",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/əˈsɪs.tənt/",
+     "syl": [
+      "as",
+      "sis",
+      "tant"
+     ],
+     "def": "a person who helps people in a shop",
+     "ex": "The assistant found my size."
+    },
+    {
+     "w": "cost",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/kɒst/",
+     "syl": [
+      "cost"
+     ],
+     "def": "to have a price",
+     "ex": "How much does this cost?"
+    },
+    {
+     "w": "order",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈɔː.də/",
+     "syl": [
+      "or",
+      "der"
+     ],
+     "def": "to ask for food or drink in a café",
+     "ex": "Let's order some pizza."
+    },
+    {
+     "w": "notice",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈnəʊ.tɪs/",
+     "syl": [
+      "no",
+      "tice"
+     ],
+     "def": "to see something and think about it",
+     "ex": "Did you notice his new haircut?"
+    },
+    {
+     "w": "wrap",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ræp/",
+     "syl": [
+      "wrap"
+     ],
+     "def": "to put paper around a present",
+     "ex": "Can you help me wrap this book?"
+    },
+    {
+     "w": "receipt",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/rɪˈsiːt/",
+     "syl": [
+      "re",
+      "ceipt"
+     ],
+     "def": "a paper from a shop that shows what you paid",
+     "ex": "Keep the receipt in case it doesn't fit."
+    },
+    {
+     "w": "terrible",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈter.ə.bəl/",
+     "syl": [
+      "ter",
+      "ri",
+      "ble"
+     ],
+     "def": "very bad",
+     "ex": "The weather was terrible yesterday."
+    },
+    {
+     "w": "biscuit",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈbɪs.kɪt/",
+     "syl": [
+      "bis",
+      "cuit"
+     ],
+     "def": "a small, flat, dry cake",
+     "ex": "Would you like a biscuit with your tea?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "It was their mum's birthday on Sunday, and they wanted to buy her a present.",
+     "kind": "Main idea",
+     "note": "This is why they went shopping."
+    },
+    {
+     "para": 2,
+     "text": "He had a green bag too, but Mia didn't notice it.",
+     "kind": "Cause → effect",
+     "note": "Two green bags: this starts the problem."
+    },
+    {
+     "para": 3,
+     "text": "There was a big box of dog biscuits and a red ball.",
+     "kind": "Key details",
+     "note": "Mia finds the wrong things in the bag."
+    },
+    {
+     "para": 6,
+     "text": "He gave them the jumper, and they gave him the dog biscuits.",
+     "kind": "Time order",
+     "note": "The problem ends: they change bags back."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "two people who took the wrong bag",
+      "a dog that got lost",
+      "a birthday party in a café"
+     ],
+     "a": 0,
+     "why": "故事核心：第3段 This isn't our bag!，后面讲他们怎样把包换回来。",
+     "evidence": null,
+     "optWhy": [
+      "正确。He took our bag, and we took his = 选项 took the wrong bag。",
+      "狗 Buster 没有丢，只是没吃到饼干。",
+      "生日在家过，café 只是他们喝热巧克力的地方。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "找问题",
+       "t": "故事的麻烦：'This isn't our bag!'"
+      },
+      {
+       "h": "找结局",
+       "t": "第6段两边把东西换回来 → 主线是拿错包。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Why did Mia and Leo go to the shopping centre?",
+     "opts": [
+      "to meet Mr Kim",
+      "to buy a new bag",
+      "to buy a present for their mum"
+     ],
+     "a": 2,
+     "why": "第1段原文：It was their mum's birthday on Sunday, and they wanted to buy her a present.",
+     "evidence": "It was their mum's birthday on Sunday, and they wanted to buy her a present.",
+     "optWhy": [
+      "他们是第6段才认识 Mr Kim 的。",
+      "green bag 是店员装东西给的，不是要买的东西。",
+      "正确。原文 wanted to buy her a present = 选项 to buy a present for their mum。"
+     ],
+     "traps": [
+      "细节偷换",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第1段 shopping centre 后面就说了原因。"
+      },
+      {
+       "h": "找原因",
+       "t": "mum's birthday … wanted to buy her a present。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 2,
+     "q": "Mia saw the old man's green bag in the café.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第2段原文 Mia didn't notice it，她没有注意到那个包。",
+     "evidence": "He had a green bag too, but Mia didn't notice it.",
+     "optWhy": [
+      "原文说 didn't notice，不是 saw。",
+      "正确。原文 Mia didn't notice it，与 saw 相反 → Wrong。",
+      "原文明确说了她没注意到，不是没提。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "old man 和 green bag：第2段最后两句。"
+      },
+      {
+       "h": "看否定",
+       "t": "but Mia didn't notice it = 她没看到。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文说了相反信息 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what is a \"receipt\"?",
+     "opts": [
+      "a kind of dog food",
+      "a phone",
+      "a piece of paper from a shop"
+     ],
+     "a": 2,
+     "why": "前一句 a piece of paper in the bag，接着说 It was a receipt from a pet shop。",
+     "evidence": "It was a receipt from a pet shop, and it had a phone number on it.",
+     "marks": [
+      "Then Mia saw a piece of paper in the bag."
+     ],
+     "optWhy": [
+      "receipt 来自宠物店，但不是狗粮。",
+      "receipt 上面有电话号码，它本身不是电话。",
+      "正确。a piece of paper … a receipt from a pet shop = 选项 a piece of paper from a shop。"
+     ],
+     "traps": [
+      "望文生义",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "It 指前一句的 a piece of paper。"
+      },
+      {
+       "h": "代回验证",
+       "t": "a piece of paper from a pet shop with a phone number，说得通。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How did Mia feel when she understood the problem?",
+     "opts": [
+      "terrible",
+      "happy",
+      "bored"
+     ],
+     "a": 0,
+     "why": "第4段原文：Mia felt terrible.",
+     "evidence": "Mia felt terrible.",
+     "optWhy": [
+      "正确。原文 Mia felt terrible = 选项 terrible。",
+      "她开心是在故事结尾，不是发现问题时。",
+      "文中没说她无聊。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Leo 说明原因后，下一句就是 Mia 的感受。"
+      },
+      {
+       "h": "抓感受词",
+       "t": "felt terrible。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In paragraph 6, who is \"He\" in \"He doesn't wear jumpers\"?",
+     "opts": [
+      "Leo",
+      "Buster, the dog",
+      "Mr Kim"
+     ],
+     "a": 1,
+     "why": "前一句 My dog Buster was very sad last night，He 指 Buster。",
+     "evidence": "He doesn't wear jumpers, but he loves biscuits!",
+     "marks": [
+      "My dog Buster was very sad last night"
+     ],
+     "optWhy": [
+      "Leo 不在这句话里，说话的是 Mr Kim。",
+      "正确。前面 My dog Buster，接着 He doesn't wear jumpers … loves biscuits = 选项 Buster, the dog。",
+      "说话人是 Mr Kim 自己，他会说 I，不会说 He。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "同一段引语里前面提到 My dog Buster。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Buster loves biscuits —— 狗爱吃狗饼干，说得通。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple: regular and irregular verbs",
+    "rule": "Regular verbs add -ed in the past: look → looked, open → opened. Many common verbs are irregular, so learn them: go → went, buy → bought, take → took. The past form is the same for I, you, he, she, we and they.",
+    "table": [
+     [
+      "go",
+      "went"
+     ],
+     [
+      "take",
+      "took"
+     ],
+     [
+      "pay",
+      "paid"
+     ],
+     [
+      "see",
+      "saw"
+     ],
+     [
+      "give",
+      "gave"
+     ],
+     [
+      "open (regular)",
+      "opened"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Last Saturday, Mia went to the shopping centre with her brother, Leo.",
+      "mark": "went"
+     },
+     {
+      "para": 1,
+      "text": "Mia paid for it, and the shop assistant put it in a big green bag.",
+      "mark": "paid"
+     },
+     {
+      "para": 4,
+      "text": "'He took our bag, and we took his.'",
+      "mark": "took"
+     },
+     {
+      "para": 7,
+      "text": "In the afternoon, Mum opened her present and smiled.",
+      "mark": "opened"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Yesterday I ___ a new pair of trainers.",
+      "opts": [
+       "buyed",
+       "bought",
+       "buy"
+      ],
+      "a": 1,
+      "why": "Buy is irregular: buy → bought."
+     },
+     {
+      "type": "mc",
+      "q": "We ___ the shop assistant for help.",
+      "opts": [
+       "asked",
+       "askt",
+       "ask"
+      ],
+      "a": 0,
+      "why": "Ask is regular, so we add -ed."
+     },
+     {
+      "type": "fill",
+      "q": "Leo ___ his phone on the bus last week.",
+      "hint": "(leave)",
+      "a": "left",
+      "why": "Leave is irregular: leave → left."
+     },
+     {
+      "type": "fill",
+      "q": "My sister ___ for the bag, and then we went home.",
+      "hint": "(pay)",
+      "a": "paid",
+      "why": "Pay is irregular: pay → paid (not payed)."
+     },
+     {
+      "type": "fill",
+      "q": "The shop ___ at six o'clock, so we were too late.",
+      "hint": "(close)",
+      "a": "closed",
+      "why": "Close is regular and ends in e, so we add only -d."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ two green bags in the café, so Mia took the wrong one.",
+      "hint": "(be)",
+      "a": "were",
+      "why": "Two bags is plural, so the past of there are is there were."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261116-3-k1",
+     "tag": "Present",
+     "fact": "Mia and Leo bought a blue jumper for their mum's birthday.",
+     "q": "What did they buy for Mum?",
+     "opts": [
+      "a green bag",
+      "a blue jumper",
+      "a red ball"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261116-3-k2",
+     "tag": "Café",
+     "fact": "In the café, an old man had the same green bag.",
+     "q": "Where did Mia put the bag in the café?",
+     "opts": [
+      "under the table",
+      "on the chair",
+      "next to the door"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261116-3-k3",
+     "tag": "Problem",
+     "fact": "At home, Mia found dog biscuits in the bag, not the jumper.",
+     "q": "What was in the wrong bag?",
+     "opts": [
+      "a jumper",
+      "two hot chocolates",
+      "dog biscuits and a ball"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261116-3-k4",
+     "tag": "Receipt",
+     "fact": "A receipt in the bag had a phone number on it.",
+     "q": "How did Mia find Mr Kim?",
+     "opts": [
+      "She went back to the shop.",
+      "She called the number on a receipt.",
+      "She asked the police."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261116-3-k5",
+     "tag": "Ending",
+     "fact": "They changed bags the next morning, and Mum loved her present.",
+     "q": "What did Mum say about the jumper?",
+     "opts": [
+      "'It's beautiful!'",
+      "'It's too big!'",
+      "'I don't like blue.'"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "The wrong bag",
+    "question": "How did Mia get Mum's present back?",
+    "branches": [
+     {
+      "title": "Shopping",
+      "paras": "1",
+      "blanks": [
+       "a soft blue jumper",
+       "a big green bag"
+      ],
+      "kps": [
+       "k20261116-3-k1"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "2–4",
+      "blanks": [
+       "under the table",
+       "a box of dog biscuits"
+      ],
+      "kps": [
+       "k20261116-3-k2",
+       "k20261116-3-k3"
+      ]
+     },
+     {
+      "title": "Idea",
+      "paras": "5",
+      "blanks": [
+       "a receipt",
+       "called the number"
+      ],
+      "kps": [
+       "k20261116-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "met Mr Kim",
+       "Mum smiled"
+      ],
+      "kps": [
+       "k20261116-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "went to the police",
+     "a red jumper"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "Mia took the wrong bag in a café, so she lost Mum's present. She found a phone number on a receipt, and she got the jumper back.",
+    "options": [
+     {
+      "t": "Mia and Leo bought a jumper for their mum's birthday.",
+      "ok": true,
+      "why": "This is how the story starts.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Finally, they found a soft blue jumper."
+     },
+     {
+      "t": "They took an old man's bag by mistake in a café.",
+      "ok": true,
+      "why": "This is the problem in the story.",
+      "type": "main",
+      "para": 4,
+      "evidence": "'He took our bag, and we took his.'"
+     },
+     {
+      "t": "A receipt helped them find the man and get the jumper back.",
+      "ok": true,
+      "why": "This is how the problem ends.",
+      "type": "main",
+      "para": 6,
+      "evidence": "He gave them the jumper, and they gave him the dog biscuits."
+     },
+     {
+      "t": "The jumper cost twenty-five pounds.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "It cost twenty-five pounds."
+     },
+     {
+      "t": "Mum wanted a new dog for her birthday.",
+      "ok": false,
+      "why": "The story never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mia saw the old man's bag and took it on purpose.",
+      "ok": false,
+      "why": "Wrong: Mia didn't notice the other bag.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "He had a green bag too, but Mia didn't notice it."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Did you ever lose something when you went shopping? What happened?",
+    "hint": "Once I lost my… / In the end, I found it…",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story that begins: 'When I got home, I opened my shopping bag.' Write 35 words or more.",
+    "steps": [
+     "Say what you bought and where.",
+     "Say what was wrong with the bag.",
+     "Say how the story ended."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · female"
+  }
+ ],
+ "audio": {
+  "What is a school day like for a teenager in Japan? Meet Haruto. He is thirteen, and he lives in Osaka. His school day has got a lot of things that may surprise you.": "audio/2026-11-16/a1-p1.mp3",
+  "Haruto walks to school with some friends. When he arrives, he doesn't go straight into his classroom. First, he takes off his outdoor shoes and puts them in a small locker. Then he puts on a pair of indoor shoes. In this way, the students don't bring much dirt into the school.": "audio/2026-11-16/a1-p2.mp3",
+  "Lessons start at about half past eight. Haruto has six lessons a day. His favourite subject is science. He doesn't like maths very much, but he always does his homework.": "audio/2026-11-16/a1-p3.mp3",
+  "At lunchtime, the students don't go to a dining room. They eat in their classroom. Some students put on white coats and caps. They bring the food from the kitchen and serve it to their classmates. Today there is some rice, a bowl of soup, some fish and a carton of milk. 'There isn't much meat today,' Haruto says, 'but there are a lot of vegetables.' Everybody eats the same food.": "audio/2026-11-16/a1-p4.mp3",
+  "After lunch, there isn't any time to play. It is cleaning time! In many Japanese schools, the students clean their classrooms themselves. Haruto takes a broom and sweeps the floor. His friend Yui cleans the board. Two other students wipe the floor in the hall. It takes about fifteen minutes.": "audio/2026-11-16/a1-p5.mp3",
+  "Why do they do it? Teachers say that cleaning teaches students to work together. Students also learn to look after their school. 'At first I didn't like it,' says Haruto. 'Now I don't mind. Our classroom is always clean!'": "audio/2026-11-16/a1-p6.mp3",
+  "Here is one more fact. The school year in Japan doesn't start in September. It starts in April. How many differences can you find between Haruto's school and yours?": "audio/2026-11-16/a1-p7.mp3",
+  "locker": "audio/2026-11-16/a1-w-locker.mp3",
+  "I put my bag in my locker.": "audio/2026-11-16/a1-ex-locker.mp3",
+  "dirt": "audio/2026-11-16/a1-w-dirt.mp3",
+  "There is dirt on your shoes.": "audio/2026-11-16/a1-ex-dirt.mp3",
+  "serve": "audio/2026-11-16/a1-w-serve.mp3",
+  "The café can serve breakfast all day.": "audio/2026-11-16/a1-ex-serve.mp3",
+  "classmate": "audio/2026-11-16/a1-w-classmate.mp3",
+  "My classmate helped me with my homework.": "audio/2026-11-16/a1-ex-classmate.mp3",
+  "carton": "audio/2026-11-16/a1-w-carton.mp3",
+  "There is a carton of juice in the fridge.": "audio/2026-11-16/a1-ex-carton.mp3",
+  "broom": "audio/2026-11-16/a1-w-broom.mp3",
+  "Can you give me the broom, please?": "audio/2026-11-16/a1-ex-broom.mp3",
+  "sweep": "audio/2026-11-16/a1-w-sweep.mp3",
+  "We sweep the kitchen every evening.": "audio/2026-11-16/a1-ex-sweep.mp3",
+  "wipe": "audio/2026-11-16/a1-w-wipe.mp3",
+  "Please wipe the table after dinner.": "audio/2026-11-16/a1-ex-wipe.mp3",
+  "difference": "audio/2026-11-16/a1-w-difference.mp3",
+  "What is the difference between these two pictures?": "audio/2026-11-16/a1-ex-difference.mp3",
+  "First, he takes off his outdoor shoes and puts them in a small locker.": "audio/2026-11-16/a1-ks1.mp3",
+  "They bring the food from the kitchen and serve it to their classmates.": "audio/2026-11-16/a1-ks2.mp3",
+  "In many Japanese schools, the students clean their classrooms themselves.": "audio/2026-11-16/a1-ks3.mp3",
+  "Teachers say that cleaning teaches students to work together.": "audio/2026-11-16/a1-ks4.mp3",
+  "In this way, the students don't bring much dirt into the school.": "audio/2026-11-16/a1-g1.mp3",
+  "Today there is some rice, a bowl of soup, some fish and a carton of milk.": "audio/2026-11-16/a1-g2.mp3",
+  "'There isn't much meat today,' Haruto says, 'but there are a lot of vegetables.'": "audio/2026-11-16/a1-g3.mp3",
+  "How many differences can you find between Haruto's school and yours?": "audio/2026-11-16/a1-g4.mp3",
+  "Mr Omar Haddad is seventy-two. When he was a boy, not many families had a TV at home. But there was a big cinema in his town. Our school reporter, Lily, asked him about it.": "audio/2026-11-16/a2-p1.mp3",
+  "Lily: Where was the cinema, Mr Haddad? Omar: It was in the main square, next to the bank. It was a beautiful old building with red doors. There were about four hundred seats inside.": "audio/2026-11-16/a2-p2.mp3",
+  "Lily: How often did you go there? Omar: Every Saturday afternoon. Tickets were very cheap. My friends and I were always in the front row. We were very noisy, too!": "audio/2026-11-16/a2-p3.mp3",
+  "Lily: Were the films in colour? Omar: Some films were in colour, but a lot of them were black and white. Before the film, there was always a short news programme. It was the only way to see the news with pictures.": "audio/2026-11-16/a2-p4.mp3",
+  "Lily: What was your favourite film? Omar: That's easy. It was a cowboy film. I was nine, and I was so excited. The horses on the big screen were enormous! After the film, we were cowboys in the street all evening.": "audio/2026-11-16/a2-p5.mp3",
+  "Lily: Is the cinema still there? Omar: No, it isn't. It closed a long time ago, and now the building is a supermarket. I was sad when it closed. But last month I was at the new cinema in the shopping centre with my granddaughter. The seats were very comfortable, and the sound was great. It wasn't the same, but it was a lovely afternoon.": "audio/2026-11-16/a2-p6.mp3",
+  "Lily: Which is better, the cinema or TV at home? Omar: For me, the cinema. A big screen and a dark room are magic. You forget everything else for two hours.": "audio/2026-11-16/a2-p7.mp3",
+  "square": "audio/2026-11-16/a2-w-square.mp3",
+  "We met in the square at ten o'clock.": "audio/2026-11-16/a2-ex-square.mp3",
+  "seat": "audio/2026-11-16/a2-w-seat.mp3",
+  "Is this seat free?": "audio/2026-11-16/a2-ex-seat.mp3",
+  "ticket": "audio/2026-11-16/a2-w-ticket.mp3",
+  "I bought a ticket for the film.": "audio/2026-11-16/a2-ex-ticket.mp3",
+  "row": "audio/2026-11-16/a2-w-row.mp3",
+  "We sat in the back row.": "audio/2026-11-16/a2-ex-row.mp3",
+  "noisy": "audio/2026-11-16/a2-w-noisy.mp3",
+  "The classroom was very noisy today.": "audio/2026-11-16/a2-ex-noisy.mp3",
+  "screen": "audio/2026-11-16/a2-w-screen.mp3",
+  "The screen in this cinema is huge.": "audio/2026-11-16/a2-ex-screen.mp3",
+  "cowboy": "audio/2026-11-16/a2-w-cowboy.mp3",
+  "My little brother loves cowboy stories.": "audio/2026-11-16/a2-ex-cowboy.mp3",
+  "comfortable": "audio/2026-11-16/a2-w-comfortable.mp3",
+  "This sofa is very comfortable.": "audio/2026-11-16/a2-ex-comfortable.mp3",
+  "granddaughter": "audio/2026-11-16/a2-w-granddaughter.mp3",
+  "Her granddaughter visits her every Sunday.": "audio/2026-11-16/a2-ex-granddaughter.mp3",
+  "But there was a big cinema in his town.": "audio/2026-11-16/a2-ks1.mp3",
+  "My friends and I were always in the front row.": "audio/2026-11-16/a2-ks2.mp3",
+  "Some films were in colour, but a lot of them were black and white.": "audio/2026-11-16/a2-ks3.mp3",
+  "I was sad when it closed.": "audio/2026-11-16/a2-ks4.mp3",
+  "It was in the main square, next to the bank.": "audio/2026-11-16/a2-g1.mp3",
+  "Tickets were very cheap.": "audio/2026-11-16/a2-g2.mp3",
+  "Were the films in colour?": "audio/2026-11-16/a2-g3.mp3",
+  "It wasn't the same, but it was a lovely afternoon.": "audio/2026-11-16/a2-g4.mp3",
+  "Last Saturday, Mia went to the shopping centre with her brother, Leo. It was their mum's birthday on Sunday, and they wanted to buy her a present. They looked in a lot of shops. Finally, they found a soft blue jumper. It cost twenty-five pounds. Mia paid for it, and the shop assistant put it in a big green bag.": "audio/2026-11-16/a3-p1.mp3",
+  "After that, they were hungry, so they went to a café. Mia put the green bag under the table. They ordered two hot chocolates and talked about the party. The café was very busy. An old man sat at the next table. He had a green bag too, but Mia didn't notice it.": "audio/2026-11-16/a3-p2.mp3",
+  "When they got home, Mia opened the bag. She wanted to wrap the present. But there was no jumper inside! There was a big box of dog biscuits and a red ball. 'Oh no!' she shouted. 'This isn't our bag!'": "audio/2026-11-16/a3-p3.mp3",
+  "Leo thought for a moment. 'The man in the café!' he said. 'He took our bag, and we took his.' Mia felt terrible. The party was the next day. What could they do?": "audio/2026-11-16/a3-p4.mp3",
+  "Then Mia saw a piece of paper in the bag. It was a receipt from a pet shop, and it had a phone number on it. She called the number. A woman answered. 'Yes, my dad was in that café,' she said. 'He came home with a jumper. He was very surprised!'": "audio/2026-11-16/a3-p5.mp3",
+  "The next morning, Mia and Leo met the old man and his daughter outside the café. His name was Mr Kim. He gave them the jumper, and they gave him the dog biscuits. 'My dog Buster was very sad last night,' he laughed. 'He doesn't wear jumpers, but he loves biscuits!'": "audio/2026-11-16/a3-p6.mp3",
+  "In the afternoon, Mum opened her present and smiled. 'It's beautiful!' she said. Mia and Leo looked at each other and laughed. Now they never put their shopping bags on the floor.": "audio/2026-11-16/a3-p7.mp3",
+  "jumper": "audio/2026-11-16/a3-w-jumper.mp3",
+  "I wear a jumper when it is cold.": "audio/2026-11-16/a3-ex-jumper.mp3",
+  "assistant": "audio/2026-11-16/a3-w-assistant.mp3",
+  "The assistant found my size.": "audio/2026-11-16/a3-ex-assistant.mp3",
+  "cost": "audio/2026-11-16/a3-w-cost.mp3",
+  "How much does this cost?": "audio/2026-11-16/a3-ex-cost.mp3",
+  "order": "audio/2026-11-16/a3-w-order.mp3",
+  "Let's order some pizza.": "audio/2026-11-16/a3-ex-order.mp3",
+  "notice": "audio/2026-11-16/a3-w-notice.mp3",
+  "Did you notice his new haircut?": "audio/2026-11-16/a3-ex-notice.mp3",
+  "wrap": "audio/2026-11-16/a3-w-wrap.mp3",
+  "Can you help me wrap this book?": "audio/2026-11-16/a3-ex-wrap.mp3",
+  "receipt": "audio/2026-11-16/a3-w-receipt.mp3",
+  "Keep the receipt in case it doesn't fit.": "audio/2026-11-16/a3-ex-receipt.mp3",
+  "terrible": "audio/2026-11-16/a3-w-terrible.mp3",
+  "The weather was terrible yesterday.": "audio/2026-11-16/a3-ex-terrible.mp3",
+  "biscuit": "audio/2026-11-16/a3-w-biscuit.mp3",
+  "Would you like a biscuit with your tea?": "audio/2026-11-16/a3-ex-biscuit.mp3",
+  "It was their mum's birthday on Sunday, and they wanted to buy her a present.": "audio/2026-11-16/a3-ks1.mp3",
+  "He had a green bag too, but Mia didn't notice it.": "audio/2026-11-16/a3-ks2.mp3",
+  "There was a big box of dog biscuits and a red ball.": "audio/2026-11-16/a3-ks3.mp3",
+  "He gave them the jumper, and they gave him the dog biscuits.": "audio/2026-11-16/a3-ks4.mp3",
+  "Last Saturday, Mia went to the shopping centre with her brother, Leo.": "audio/2026-11-16/a3-g1.mp3",
+  "Mia paid for it, and the shop assistant put it in a big green bag.": "audio/2026-11-16/a3-g2.mp3",
+  "'He took our bag, and we took his.'": "audio/2026-11-16/a3-g3.mp3",
+  "In the afternoon, Mum opened her present and smiled.": "audio/2026-11-16/a3-g4.mp3"
+ }
+}
