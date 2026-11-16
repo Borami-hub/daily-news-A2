@@ -1,0 +1,2044 @@
+{
+ "date": "2026-11-17",
+ "headline": "Cat eyes at night, a bike shop job and lost in a museum",
+ "teaser": "Why do a cat's eyes shine in the dark? Did Daniel's first day at work go well? How did Ana get lost in a big museum?",
+ "articles": [
+  {
+   "id": "k20261117-1",
+   "topic": "The natural world",
+   "genre": "Article",
+   "title": "Why Can Cats See in the Dark?",
+   "dek": "Big pupils, special cells and a mirror inside the eye: discover a cat's night-time secret.",
+   "sources": [
+    {
+     "name": "Wikipedia: Tapetum lucidum",
+     "url": "https://en.wikipedia.org/wiki/Tapetum_lucidum"
+    },
+    {
+     "name": "Wikipedia: Cat senses",
+     "url": "https://en.wikipedia.org/wiki/Cat_senses"
+    },
+    {
+     "name": "Purina UK: Can cats see in the dark?",
+     "url": "https://www.purina.co.uk/articles/cats/behaviour/common-questions/can-cats-see-in-the-dark"
+    }
+   ],
+   "paras": [
+    "Have you ever seen a cat in a garden at night? It walks around easily, but you can't see much at all. So why can cats see better than us in the dark? Let's look inside a cat's eye.",
+    "First, look at a cat's pupils. The pupil is the black circle in the middle of your eye. Light goes into the eye through it. In bright light, a cat's pupils are very thin, like a line. In the dark, they get much bigger and rounder. A cat's pupils can open wider than ours, so more light gets in.",
+    "Second, think about the back of the eye. It has got two kinds of cells for seeing. Some cells work well in bright light and help us see colours. Other cells work better in dim light. Cats have got a lot more of the second kind than people. This makes their eyes more sensitive in the dark.",
+    "Third, cats have got a special layer at the back of the eye. It works like a mirror. Light goes through the eye, hits the mirror and comes back again. So the eye uses the same light two times! This is why a cat's eyes shine when you point a torch at them.",
+    "Because of all this, a cat needs much less light than a person. Scientists say that a cat can see with only about one sixth of the light that we need. That is why cats are such good hunters at night.",
+    "But cat eyes are not better in every way. In the daytime, our eyes are sharper. Things that are far away look clearer to us than to cats. People can also see more colours. Cats see the world in softer, paler colours, a bit like an old photo.",
+    "And here is one more surprise. In a room with no light at all, a cat can't see anything. It needs a little light from the moon, the stars or a street lamp. Next time your cat runs around at night, you'll know its secret!"
+   ],
+   "words": [
+    {
+     "w": "pupil",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpjuː.pəl/",
+     "syl": [
+      "pu",
+      "pil"
+     ],
+     "def": "the black circle in the middle of your eye",
+     "ex": "Your pupil gets smaller in bright sun."
+    },
+    {
+     "w": "dim",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/dɪm/",
+     "syl": [
+      "dim"
+     ],
+     "def": "not bright; with only a little light",
+     "ex": "It was hard to read in the dim room."
+    },
+    {
+     "w": "cell",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/sel/",
+     "syl": [
+      "cell"
+     ],
+     "def": "one of the very small parts of a body",
+     "ex": "A cell is too small to see with your eyes."
+    },
+    {
+     "w": "sensitive",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈsen.sə.tɪv/",
+     "syl": [
+      "sen",
+      "si",
+      "tive"
+     ],
+     "def": "able to notice very small changes",
+     "ex": "Dogs have got a very sensitive nose."
+    },
+    {
+     "w": "layer",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈleɪ.ə/",
+     "syl": [
+      "lay",
+      "er"
+     ],
+     "def": "a flat part that covers or lies under something",
+     "ex": "The cake has got a layer of chocolate on top."
+    },
+    {
+     "w": "mirror",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈmɪr.ə/",
+     "syl": [
+      "mir",
+      "ror"
+     ],
+     "def": "a piece of glass where you can see yourself",
+     "ex": "She looked at her hair in the mirror."
+    },
+    {
+     "w": "shine",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ʃaɪn/",
+     "syl": [
+      "shine"
+     ],
+     "def": "to give or send back bright light",
+     "ex": "The stars shine in the night sky."
+    },
+    {
+     "w": "torch",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/tɔːtʃ/",
+     "syl": [
+      "torch"
+     ],
+     "def": "a small light that you hold in your hand",
+     "ex": "Take a torch when you go camping."
+    },
+    {
+     "w": "hunter",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈhʌn.tə/",
+     "syl": [
+      "hun",
+      "ter"
+     ],
+     "def": "an animal or person that catches animals for food",
+     "ex": "An owl is a quiet hunter."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "So why can cats see better than us in the dark?",
+     "kind": "Main idea",
+     "note": "This is the big question of the whole text."
+    },
+    {
+     "para": 2,
+     "text": "A cat's pupils can open wider than ours, so more light gets in.",
+     "kind": "Cause → effect",
+     "note": "Big pupils let in more light."
+    },
+    {
+     "para": 4,
+     "text": "Light goes through the eye, hits the mirror and comes back again.",
+     "kind": "Time order",
+     "note": "The light travels through the eye two times."
+    },
+    {
+     "para": 6,
+     "text": "In the daytime, our eyes are sharper.",
+     "kind": "Grammar to notice",
+     "note": "sharper is a comparative: sharp + -er."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "why cats are good pets",
+      "how a cat's eyes work in the dark",
+      "how people can see better at night"
+     ],
+     "a": 1,
+     "why": "第1段提出问题 why can cats see better than us in the dark?，后面各段都在回答这个问题。",
+     "evidence": null,
+     "optWhy": [
+      "文中没有讲猫适不适合当宠物。",
+      "正确。第1段 why can cats see better than us in the dark + Let's look inside a cat's eye = 选项 how a cat's eyes work in the dark。",
+      "文章讲的是猫的眼睛，没有教人怎样在夜里看得更清楚。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "偷换概念"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "开头的问题 why can cats see better…? 就是主线。"
+      },
+      {
+       "h": "扫各段",
+       "t": "First / Second / Third 依次讲瞳孔、细胞、反光层。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What happens to a cat's pupils in the dark?",
+     "opts": [
+      "They get thinner.",
+      "They change colour.",
+      "They get bigger and rounder."
+     ],
+     "a": 2,
+     "why": "第2段原文：In the dark, they get much bigger and rounder.",
+     "evidence": "In the dark, they get much bigger and rounder.",
+     "optWhy": [
+      "very thin, like a line 是在 bright light 里，不是在黑暗中。",
+      "文中没说瞳孔会变颜色。",
+      "正确。原文 they get much bigger and rounder = 选项 They get bigger and rounder。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "In the dark → 第2段后半。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "In bright light 才是 thin，别看错条件。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, what does \"dim\" mean?",
+     "opts": [
+      "not very bright",
+      "very hot",
+      "full of colour"
+     ],
+     "a": 0,
+     "why": "第3段把 bright light 和 dim light 对比，dim 就是“不亮、昏暗”。",
+     "evidence": "Other cells work better in dim light.",
+     "optWhy": [
+      "正确。前一句 bright light 与 dim light 对比 = 选项 not very bright。",
+      "文中讲的是光线，不是温度。",
+      "help us see colours 是亮光下的细胞，不是 dim 的意思。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看对比",
+       "t": "Some cells… bright light / Other cells… dim light。"
+      },
+      {
+       "h": "推词义",
+       "t": "和 bright 相反 → not very bright。"
+      }
+     ],
+     "marks": [
+      "dim",
+      "bright light"
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, what does \"It\" mean in \"It works like a mirror\"?",
+     "opts": [
+      "the cat's pupil",
+      "a special layer in the eye",
+      "the torch"
+     ],
+     "a": 1,
+     "why": "前一句 cats have got a special layer at the back of the eye，It 指这层特殊的膜。",
+     "evidence": "It works like a mirror.",
+     "optWhy": [
+      "pupil 是第2段讲的内容，不在这里。",
+      "正确。前一句 a special layer at the back of the eye = 选项 a special layer in the eye。",
+      "torch 在本段最后才出现，不是 It 指的东西。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句的名词：a special layer。"
+      },
+      {
+       "h": "代回验证",
+       "t": "A special layer works like a mirror. 通顺。"
+      }
+     ],
+     "marks": [
+      "cats have got a special layer at the back of the eye"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "People can see more colours than cats.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第6段原文：People can also see more colours.",
+     "evidence": "People can also see more colours.",
+     "optWhy": [
+      "正确。原文 People can also see more colours = 题干 People can see more colours than cats。",
+      "原文和题干意思一样，不是 Wrong。",
+      "原文直接说了，不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "找 colours：第6段。"
+      },
+      {
+       "h": "对比",
+       "t": "原文 more colours，后面还说猫看到 paler colours，所以 Right。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 7,
+     "q": "Cats can see well in a room with no light at all.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第7段原文：In a room with no light at all, a cat can't see anything.",
+     "evidence": "In a room with no light at all, a cat can't see anything.",
+     "optWhy": [
+      "原文 can't see anything，与题干相反。",
+      "正确。原文 a cat can't see anything 与题干 can see well 相反 → Wrong。",
+      "原文有明确说明，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "no light at all → 第7段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文说了相反的话 can't see → Wrong。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Comparative adjectives",
+    "rule": "Use a comparative + than to compare two things. Short adjectives add -er (big → bigger, wide → wider). Long adjectives use more (more sensitive). Some are irregular: good → better, little → less.",
+    "table": [
+     [
+      "short: + -er",
+      "sharp → sharper"
+     ],
+     [
+      "ends in -e: + -r",
+      "wide → wider"
+     ],
+     [
+      "one vowel + consonant",
+      "big → bigger"
+     ],
+     [
+      "-y → -ier",
+      "easy → easier"
+     ],
+     [
+      "long: more + adjective",
+      "more sensitive"
+     ],
+     [
+      "irregular",
+      "good → better, little → less"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "In the dark, they get much bigger and rounder.",
+      "mark": "bigger and rounder"
+     },
+     {
+      "para": 2,
+      "text": "A cat's pupils can open wider than ours, so more light gets in.",
+      "mark": "wider than"
+     },
+     {
+      "para": 3,
+      "text": "This makes their eyes more sensitive in the dark.",
+      "mark": "more sensitive"
+     },
+     {
+      "para": 6,
+      "text": "Things that are far away look clearer to us than to cats.",
+      "mark": "clearer to us than"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My cat's eyes are ___ than my dog's eyes.",
+      "opts": [
+       "bigger",
+       "more big",
+       "biggest"
+      ],
+      "a": 0,
+      "why": "Big is short: double the g and add -er."
+     },
+     {
+      "type": "mc",
+      "q": "Last night was ___ than usual, so we didn't see the stars.",
+      "opts": [
+       "dark",
+       "darker",
+       "more dark"
+      ],
+      "a": 1,
+      "why": "We compare two nights, so use dark + -er."
+     },
+     {
+      "type": "fill",
+      "q": "Cats need ___ light than people.",
+      "hint": "(little)",
+      "a": "less",
+      "why": "Little is irregular: little → less."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday the moon ___ brighter than the street lamp.",
+      "hint": "(be)",
+      "a": "was",
+      "why": "Yesterday = past, and the moon = it, so use was."
+     },
+     {
+      "type": "fill",
+      "q": "My new torch is ___ than my old one.",
+      "hint": "(good)",
+      "a": "better",
+      "why": "Good is irregular: good → better."
+     },
+     {
+      "type": "fill",
+      "q": "Is a cat's nose ___ than a person's nose?",
+      "hint": "(sensitive)",
+      "a": "more sensitive",
+      "why": "Sensitive is a long adjective, so use more."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261117-1-k1",
+     "tag": "Pupils",
+     "fact": "In the dark, a cat's pupils open wide and let in more light.",
+     "q": "What do a cat's pupils do in the dark?",
+     "opts": [
+      "They close.",
+      "They open wide.",
+      "They turn red."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261117-1-k2",
+     "tag": "Cells",
+     "fact": "Cats have got more cells for dim light than people.",
+     "q": "Which cells have cats got more of?",
+     "opts": [
+      "cells for dim light",
+      "cells for colours",
+      "cells for hearing"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261117-1-k3",
+     "tag": "Mirror",
+     "fact": "A special layer in a cat's eye works like a mirror.",
+     "q": "Why do a cat's eyes shine in torch light?",
+     "opts": [
+      "They are wet.",
+      "They are very small.",
+      "A layer works like a mirror."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261117-1-k4",
+     "tag": "Less light",
+     "fact": "A cat needs only about one sixth of the light that people need.",
+     "q": "How much light does a cat need?",
+     "opts": [
+      "about one sixth of our light",
+      "two times more than us",
+      "the same as us"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261117-1-k5",
+     "tag": "No light",
+     "fact": "In a room with no light at all, a cat can't see anything.",
+     "q": "Can a cat see with no light at all?",
+     "opts": [
+      "Yes, very well.",
+      "No, it can't.",
+      "Only colours."
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Cat eyes",
+    "question": "Why can cats see better than us in the dark?",
+    "branches": [
+     {
+      "title": "Pupils",
+      "paras": "2",
+      "blanks": [
+       "bigger and rounder",
+       "more light gets in"
+      ],
+      "kps": [
+       "k20261117-1-k1"
+      ]
+     },
+     {
+      "title": "Cells",
+      "paras": "3",
+      "blanks": [
+       "dim light",
+       "more sensitive"
+      ],
+      "kps": [
+       "k20261117-1-k2"
+      ]
+     },
+     {
+      "title": "Mirror",
+      "paras": "4–5",
+      "blanks": [
+       "a special layer",
+       "one sixth of the light"
+      ],
+      "kps": [
+       "k20261117-1-k3",
+       "k20261117-1-k4"
+      ]
+     },
+     {
+      "title": "Limits",
+      "paras": "6–7",
+      "blanks": [
+       "paler colours",
+       "no light at all"
+      ],
+      "kps": [
+       "k20261117-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "long whiskers",
+     "more colours than us"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Cats see better than us in the dark because of big pupils, special cells and a mirror layer. But in the daytime our eyes are sharper.",
+    "options": [
+     {
+      "t": "A cat's pupils open wider than ours in the dark.",
+      "ok": true,
+      "why": "This is the first reason.",
+      "type": "main",
+      "para": 2,
+      "evidence": "A cat's pupils can open wider than ours, so more light gets in."
+     },
+     {
+      "t": "Cats have got more cells for dim light and a mirror layer.",
+      "ok": true,
+      "why": "These are the second and third reasons.",
+      "type": "main",
+      "para": 4,
+      "evidence": "It works like a mirror."
+     },
+     {
+      "t": "Our eyes are sharper in the daytime, and cats need some light.",
+      "ok": true,
+      "why": "This shows what cat eyes can't do.",
+      "type": "main",
+      "para": 6,
+      "evidence": "In the daytime, our eyes are sharper."
+     },
+     {
+      "t": "A cat's eyes shine when you point a torch at them.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "This is why a cat's eyes shine when you point a torch at them."
+     },
+     {
+      "t": "Cats hear better than dogs at night.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Cats see more colours than people.",
+      "ok": false,
+      "why": "Wrong: people can see more colours.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "People can also see more colours."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like cats or dogs better? Why?",
+    "hint": "I like … better because… / … are more … than …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a message to a friend about an animal you like. Write 25 words or more.",
+    "steps": [
+     "Say which animal you like.",
+     "Compare it with another animal (bigger, faster…).",
+     "Ask your friend about their favourite animal."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261117-2",
+   "topic": "Work & jobs",
+   "genre": "Email",
+   "title": "My First Day at the Bike Shop",
+   "dek": "Daniel starts a Saturday job at his uncle's shop. Did everything go well?",
+   "sources": [],
+   "paras": [
+    "Hi Daniel, How was your first day at your uncle's bike shop? Did you like it? Did you fix any bikes? I want to hear everything! I started my job at the pet shop last month, so I know how you feel. The first day is always hard. Write soon! Aisha",
+    "Hi Aisha, Thanks for your email. My first day was on Saturday. It wasn't easy! I arrived at eight o'clock, but Uncle Raj wasn't there. He was at the bank. I didn't have a key, so I waited outside in the cold for twenty minutes.",
+    "When he came, he gave me a blue work shirt. It was too big, but I didn't say anything. My first job was to clean the bikes. Then I put new tyres on a children's bike. I didn't fix any big problems. Uncle Raj did those himself.",
+    "In the afternoon, a woman came into the shop. She wanted a helmet for her son. I didn't know the prices, and I couldn't find the right size. I felt silly! Uncle Raj helped me, and the woman bought a red helmet. Did you make any mistakes on your first day? Daniel",
+    "Hi Daniel, Of course I did! On my first day, I gave a customer the wrong fish food. He didn't notice, but his fish didn't eat it. He came back the next day and laughed about it. So don't worry! Did Uncle Raj pay you? Aisha",
+    "Hi Aisha, Yes, he did! He gave me thirty pounds. I didn't spend it. I'm saving for a new phone. And guess what? Uncle Raj didn't get angry about the helmet. He said, 'Everybody learns on the job.' I'm going back next Saturday! Daniel"
+   ],
+   "words": [
+    {
+     "w": "fix",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/fɪks/",
+     "syl": [
+      "fix"
+     ],
+     "def": "to make something work again",
+     "ex": "Can you fix my bike, please?"
+    },
+    {
+     "w": "tyre",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/taɪə/",
+     "syl": [
+      "tyre"
+     ],
+     "def": "the round rubber part on a wheel",
+     "ex": "My bike has got a flat tyre."
+    },
+    {
+     "w": "helmet",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈhel.mɪt/",
+     "syl": [
+      "hel",
+      "met"
+     ],
+     "def": "a hard hat that keeps your head safe",
+     "ex": "Always wear a helmet on your bike."
+    },
+    {
+     "w": "price",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/praɪs/",
+     "syl": [
+      "price"
+     ],
+     "def": "how much money something costs",
+     "ex": "What is the price of this jacket?"
+    },
+    {
+     "w": "size",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/saɪz/",
+     "syl": [
+      "size"
+     ],
+     "def": "how big or small something is",
+     "ex": "These shoes are the wrong size."
+    },
+    {
+     "w": "silly",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈsɪl.i/",
+     "syl": [
+      "sil",
+      "ly"
+     ],
+     "def": "not clever; a bit stupid",
+     "ex": "I made a silly mistake in my test."
+    },
+    {
+     "w": "mistake",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/mɪˈsteɪk/",
+     "syl": [
+      "mis",
+      "take"
+     ],
+     "def": "something that is wrong",
+     "ex": "There is a mistake in this sentence."
+    },
+    {
+     "w": "customer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkʌs.tə.mə/",
+     "syl": [
+      "cus",
+      "tom",
+      "er"
+     ],
+     "def": "a person who buys things in a shop",
+     "ex": "The customer paid for the helmet."
+    },
+    {
+     "w": "notice",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈnəʊ.tɪs/",
+     "syl": [
+      "no",
+      "tice"
+     ],
+     "def": "to see or hear something",
+     "ex": "Did you notice her new haircut?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "How was your first day at your uncle's bike shop?",
+     "kind": "Main idea",
+     "note": "Aisha's question starts the emails."
+    },
+    {
+     "para": 2,
+     "text": "I didn't have a key, so I waited outside in the cold for twenty minutes.",
+     "kind": "Cause → effect",
+     "note": "No key, so Daniel had to wait."
+    },
+    {
+     "para": 4,
+     "text": "I didn't know the prices, and I couldn't find the right size.",
+     "kind": "Grammar to notice",
+     "note": "didn't + know: a past simple negative."
+    },
+    {
+     "para": 6,
+     "text": "Uncle Raj didn't get angry about the helmet.",
+     "kind": "Key details",
+     "note": "His uncle was kind about the mistake."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Aisha write the first email?",
+     "opts": [
+      "to ask about Daniel's first day at work",
+      "to ask for a job at the bike shop",
+      "to tell Daniel about her fish"
+     ],
+     "a": 0,
+     "why": "第1封邮件全是提问：How was your first day…? Did you like it? 目的是问 Daniel 第一天工作怎么样。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 How was your first day at your uncle's bike shop? = 选项 to ask about Daniel's first day at work。",
+      "Aisha 自己在 pet shop 工作，没有要找工作。",
+      "fish food 是第5段的事，不是第一封邮件的目的。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "连续几个问题：How was…? Did you…?"
+      },
+      {
+       "h": "排除",
+       "t": "fish 出现在第5段，不是写信目的。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why did Daniel wait outside the shop?",
+     "opts": [
+      "He was late.",
+      "He didn't have a key.",
+      "The shop was closed for a holiday."
+     ],
+     "a": 1,
+     "why": "第2段原文：I didn't have a key, so I waited outside in the cold for twenty minutes.",
+     "evidence": "I didn't have a key, so I waited outside in the cold for twenty minutes.",
+     "optWhy": [
+      "他八点到，原文没说他迟到。",
+      "正确。原文 I didn't have a key, so I waited outside = 选项 He didn't have a key。",
+      "店没开是因为 Uncle Raj was at the bank，不是放假。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "waited outside → 第2段。"
+      },
+      {
+       "h": "看 so 前面",
+       "t": "so 前面是原因：I didn't have a key。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Daniel liked his blue work shirt.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第3段只说 It was too big, but I didn't say anything，没说他喜不喜欢这件衬衫。",
+     "evidence": "It was too big, but I didn't say anything.",
+     "optWhy": [
+      "原文只说衬衫太大，没说喜欢。",
+      "太大不等于不喜欢，原文没说他不喜欢，所以不能判 Wrong。",
+      "正确。原文没有提到 Daniel 喜不喜欢衬衫 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "shirt → 第3段开头。"
+      },
+      {
+       "h": "看清说了什么",
+       "t": "只说 too big 和 didn't say anything。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "没提 like / not like → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How did Daniel feel when he couldn't help the woman?",
+     "opts": [
+      "angry",
+      "silly",
+      "bored"
+     ],
+     "a": 1,
+     "why": "第4段原文：I felt silly!",
+     "evidence": "I felt silly!",
+     "optWhy": [
+      "文中没说 Daniel 生气；didn't get angry 说的是 Uncle Raj。",
+      "正确。原文 I felt silly = 选项 silly。",
+      "文中没有提到无聊。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "the woman → 第4段。"
+      },
+      {
+       "h": "找感受词",
+       "t": "I felt silly!"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who does \"He\" mean in \"He came back the next day\"?",
+     "opts": [
+      "Uncle Raj",
+      "Daniel",
+      "a customer at the pet shop"
+     ],
+     "a": 2,
+     "why": "前文 I gave a customer the wrong fish food. He didn't notice…，He 指这位顾客。",
+     "evidence": "He came back the next day and laughed about it.",
+     "optWhy": [
+      "Uncle Raj 在这封邮件最后才出现，和鱼食无关。",
+      "这封邮件是 Aisha 写给 Daniel 的，He 不是 Daniel。",
+      "正确。前文 a customer → He = 选项 a customer at the pet shop。"
+     ],
+     "traps": [
+      "指代错误",
+      "指代错误",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前面的男性名词：a customer。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The customer came back and laughed. 通顺。"
+      }
+     ],
+     "marks": [
+      "I gave a customer the wrong fish food."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "What did Daniel do with his money?",
+     "opts": [
+      "He bought a new phone.",
+      "He kept it for a new phone.",
+      "He gave it to Aisha."
+     ],
+     "a": 1,
+     "why": "第6段原文：I didn't spend it. I'm saving for a new phone.",
+     "evidence": "I'm saving for a new phone.",
+     "optWhy": [
+      "他还在攒钱，没有已经买手机：I didn't spend it。",
+      "正确。原文 I didn't spend it. I'm saving for a new phone = 选项 He kept it for a new phone。",
+      "文中没说把钱给 Aisha。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "thirty pounds → 第6段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "saving for ≠ bought，还没买。"
+      }
+     ],
+     "marks": [
+      "I didn't spend it."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple questions and negatives",
+    "rule": "For questions, use Did + person + verb (no -ed): Did you fix any bikes? For negatives, use didn't + verb: I didn't know. With be, don't use did: use was / wasn't, were / weren't.",
+    "table": [
+     [
+      "question",
+      "Did you like it?"
+     ],
+     [
+      "short answer",
+      "Yes, he did. / No, he didn't."
+     ],
+     [
+      "negative",
+      "I didn't have a key."
+     ],
+     [
+      "wh- question",
+      "Where did you work?"
+     ],
+     [
+      "be (no did)",
+      "It wasn't easy."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Did you fix any bikes?",
+      "mark": "Did you fix"
+     },
+     {
+      "para": 2,
+      "text": "I didn't have a key, so I waited outside in the cold for twenty minutes.",
+      "mark": "didn't have"
+     },
+     {
+      "para": 4,
+      "text": "I didn't know the prices, and I couldn't find the right size.",
+      "mark": "didn't know"
+     },
+     {
+      "para": 5,
+      "text": "Did Uncle Raj pay you?",
+      "mark": "Did Uncle Raj pay"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ you go to work last Sunday?",
+      "opts": [
+       "Do",
+       "Did",
+       "Were"
+      ],
+      "a": 1,
+      "why": "Last Sunday = past, and go is a verb, so use Did."
+     },
+     {
+      "type": "mc",
+      "q": "The shop ___ open yesterday because it was a holiday.",
+      "opts": [
+       "didn't",
+       "wasn't",
+       "doesn't"
+      ],
+      "a": 1,
+      "why": "Open here goes with be, so use wasn't, not didn't."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ the price, so I asked my boss.",
+      "hint": "(not / know)",
+      "a": "didn't know / did not know",
+      "why": "Negative: didn't + know (no -ed, no knew)."
+     },
+     {
+      "type": "fill",
+      "q": "Where ___ Daniel find his first job?",
+      "hint": "(do)",
+      "a": "did",
+      "why": "A past wh- question: Where + did + person + verb."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ at the bike shop yesterday. We were at the bank.",
+      "hint": "(not / be)",
+      "a": "weren't / were not",
+      "why": "With be and we, the past negative is weren't."
+     },
+     {
+      "type": "fill",
+      "q": "Did the customer ___ a helmet? Yes, he did.",
+      "hint": "(buy)",
+      "a": "buy",
+      "why": "After did, use the verb with no change: buy, not bought."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261117-2-k1",
+     "tag": "Waiting",
+     "fact": "Daniel waited outside because he didn't have a key.",
+     "q": "Where was Uncle Raj at eight o'clock?",
+     "opts": [
+      "at the bank",
+      "at home",
+      "in the café"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261117-2-k2",
+     "tag": "Jobs",
+     "fact": "Daniel cleaned bikes and put new tyres on a children's bike.",
+     "q": "What was Daniel's first job?",
+     "opts": [
+      "to sell helmets",
+      "to clean the bikes",
+      "to fix big problems"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261117-2-k3",
+     "tag": "Helmet",
+     "fact": "Daniel didn't know the prices, and Uncle Raj helped him.",
+     "q": "What did the woman buy?",
+     "opts": [
+      "a blue shirt",
+      "a new bike",
+      "a red helmet"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261117-2-k4",
+     "tag": "Aisha's mistake",
+     "fact": "Aisha gave a customer the wrong fish food on her first day.",
+     "q": "What did Aisha give the customer?",
+     "opts": [
+      "the wrong fish food",
+      "the wrong fish",
+      "the wrong money"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261117-2-k5",
+     "tag": "Pay",
+     "fact": "Uncle Raj paid Daniel thirty pounds, and Daniel is saving it.",
+     "q": "How much did Daniel get?",
+     "opts": [
+      "twenty pounds",
+      "thirty pounds",
+      "thirteen pounds"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Daniel's first day",
+    "question": "What happened on Daniel's first day at work?",
+    "branches": [
+     {
+      "title": "Morning",
+      "paras": "2",
+      "blanks": [
+       "didn't have a key",
+       "waited outside"
+      ],
+      "kps": [
+       "k20261117-2-k1"
+      ]
+     },
+     {
+      "title": "Work",
+      "paras": "3",
+      "blanks": [
+       "clean the bikes",
+       "new tyres"
+      ],
+      "kps": [
+       "k20261117-2-k2"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "4",
+      "blanks": [
+       "didn't know the prices",
+       "felt silly"
+      ],
+      "kps": [
+       "k20261117-2-k3"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "5–6",
+      "blanks": [
+       "wrong fish food",
+       "thirty pounds"
+      ],
+      "kps": [
+       "k20261117-2-k4",
+       "k20261117-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "sold three bikes",
+     "Uncle Raj got angry"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the emails.",
+    "model": "Daniel's first day at the bike shop wasn't easy, because he made a mistake with a helmet. But Uncle Raj didn't get angry, so Daniel is going back.",
+    "options": [
+     {
+      "t": "Daniel's first day at his uncle's bike shop wasn't easy.",
+      "ok": true,
+      "why": "This is what the emails are about.",
+      "type": "main",
+      "para": 2,
+      "evidence": "It wasn't easy!"
+     },
+     {
+      "t": "Daniel didn't know the prices when a customer wanted a helmet.",
+      "ok": true,
+      "why": "This was his biggest problem.",
+      "type": "main",
+      "para": 4,
+      "evidence": "I didn't know the prices, and I couldn't find the right size."
+     },
+     {
+      "t": "Aisha made mistakes too, and Uncle Raj wasn't angry with Daniel.",
+      "ok": true,
+      "why": "This is the happy ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Uncle Raj didn't get angry about the helmet."
+     },
+     {
+      "t": "Daniel's work shirt was too big.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "It was too big, but I didn't say anything."
+     },
+     {
+      "t": "Aisha wants to work at the bike shop too.",
+      "ok": false,
+      "why": "The emails never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Daniel spent his money on a new phone.",
+      "ok": false,
+      "why": "Wrong: he didn't spend it.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "I didn't spend it."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Would you like a Saturday job? What job would you like? Why?",
+    "hint": "I'd like to work in/at… / I think it is fun because…",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your friend started a new Saturday job. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Ask where the job is.",
+     "Ask what your friend did on the first day.",
+     "Ask if your friend liked it."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261117-3",
+   "topic": "Places & buildings",
+   "genre": "Story",
+   "title": "Lost in the Museum",
+   "dek": "Ana is looking at an old map when her class disappears. What can she do?",
+   "sources": [],
+   "paras": [
+    "Last Friday, Ana's class went on a school trip to the city museum. It was a huge old building with tall stone columns. Inside, there were dinosaur bones, Egyptian mummies and a lot of old maps. Ana loved maps, so she was very excited.",
+    "At eleven o'clock, the class was standing in the Egypt room. Mr Patel was talking about mummies. But Ana wasn't listening. She was looking at a big old map of the world on the wall. While she was reading the names of the old cities, the class left the room.",
+    "When Ana turned round, the room was empty. 'Where is everybody?' she thought. She ran into the next room, but she couldn't see her class. The museum had a lot of rooms and stairs. Ana felt scared. She didn't have a phone with her.",
+    "While she was walking down the stairs, she heard a noise. A small boy was sitting on the bottom step. He was crying. 'I can't find my mum,' he said. His name was Sam, and he was five years old. Ana held his hand. 'Don't worry. We'll find her together,' she said.",
+    "Ana remembered the information desk near the entrance. They walked there together. A guard was working at the desk. When Ana told him about Sam, he picked up a microphone. 'Can Sam's mum come to the information desk, please?' he said. His voice was very loud in the quiet halls.",
+    "Two minutes later, Sam's mum ran to the desk. She was very happy. Then Ana saw someone else. It was Mr Patel! He was looking for Ana when he heard the message.",
+    "'Ana! You were lost too!' he said. 'Yes,' said Ana with a smile. 'But I found Sam while I was lost!' Mr Patel laughed. 'Next time, stay with the group,' he said. 'And please look at maps after the trip!'"
+   ],
+   "words": [
+    {
+     "w": "huge",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/hjuːdʒ/",
+     "syl": [
+      "huge"
+     ],
+     "def": "very, very big",
+     "ex": "They live in a huge house."
+    },
+    {
+     "w": "column",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɒl.əm/",
+     "syl": [
+      "col",
+      "umn"
+     ],
+     "def": "a tall, round stone post that holds up a roof",
+     "ex": "There is a tall column in front of the bank."
+    },
+    {
+     "w": "empty",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈemp.ti/",
+     "syl": [
+      "emp",
+      "ty"
+     ],
+     "def": "with nothing or nobody inside",
+     "ex": "The classroom was empty after school."
+    },
+    {
+     "w": "stairs",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/steəz/",
+     "syl": [
+      "stairs"
+     ],
+     "def": "steps that go up or down inside a building",
+     "ex": "Walk up the stairs to the second floor."
+    },
+    {
+     "w": "noise",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/nɔɪz/",
+     "syl": [
+      "noise"
+     ],
+     "def": "a sound, often loud or strange",
+     "ex": "I heard a noise in the kitchen."
+    },
+    {
+     "w": "step",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/step/",
+     "syl": [
+      "step"
+     ],
+     "def": "one part of the stairs",
+     "ex": "Sit on the step and wait for me."
+    },
+    {
+     "w": "entrance",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈen.trəns/",
+     "syl": [
+      "en",
+      "trance"
+     ],
+     "def": "the door or place where you go in",
+     "ex": "Meet me at the entrance of the park."
+    },
+    {
+     "w": "guard",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɡɑːd/",
+     "syl": [
+      "guard"
+     ],
+     "def": "a person whose job is to watch a place",
+     "ex": "A guard stood at the museum door."
+    },
+    {
+     "w": "microphone",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmaɪ.krə.fəʊn/",
+     "syl": [
+      "mi",
+      "cro",
+      "phone"
+     ],
+     "def": "a thing that makes your voice louder",
+     "ex": "The singer held the microphone."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "While she was reading the names of the old cities, the class left the room.",
+     "kind": "Grammar to notice",
+     "note": "while + past continuous (long action), past simple (short action)."
+    },
+    {
+     "para": 3,
+     "text": "When Ana turned round, the room was empty.",
+     "kind": "Key details",
+     "note": "This is the problem: Ana is lost."
+    },
+    {
+     "para": 4,
+     "text": "While she was walking down the stairs, she heard a noise.",
+     "kind": "Time order",
+     "note": "Ana finds Sam on the stairs."
+    },
+    {
+     "para": 6,
+     "text": "He was looking for Ana when he heard the message.",
+     "kind": "Cause → effect",
+     "note": "The message helped Mr Patel find Ana too."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "a girl who gets lost in a museum and helps a lost boy",
+      "a class that learns about mummies",
+      "a boy who works at a museum"
+     ],
+     "a": 0,
+     "why": "故事主线：Ana 在博物馆走丢，又帮迷路的小男孩 Sam 找到妈妈。",
+     "evidence": null,
+     "optWhy": [
+      "正确。第3段 the room was empty + 第4段 I can't find my mum = 选项 a girl who gets lost … helps a lost boy。",
+      "mummies 只是第2段的背景，不是主线。",
+      "Sam 只有五岁，不在博物馆工作；在博物馆工作的是 guard。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "偷换概念"
+     ],
+     "steps": [
+      {
+       "h": "抓问题",
+       "t": "Ana 和班级走散了（第3段）。"
+      },
+      {
+       "h": "抓结局",
+       "t": "Ana 帮 Sam 找到妈妈，自己也被找到。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What was Ana doing when the class left the room?",
+     "opts": [
+      "She was talking to Mr Patel.",
+      "She was looking at the mummies.",
+      "She was reading names on an old map."
+     ],
+     "a": 2,
+     "why": "第2段原文：While she was reading the names of the old cities, the class left the room.",
+     "evidence": "While she was reading the names of the old cities, the class left the room.",
+     "optWhy": [
+      "在讲话的是 Mr Patel，而且是讲 mummies，不是和 Ana 说话。",
+      "讲 mummies 的是 Mr Patel；Ana wasn't listening，在看地图。",
+      "正确。原文 was reading the names of the old cities（地图上的）= 选项 reading names on an old map。"
+     ],
+     "traps": [
+      "细节偷换",
+      "与原文相反",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "the class left the room → 第2段最后一句。"
+      },
+      {
+       "h": "看 while",
+       "t": "While 后面就是 Ana 当时在做的事。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 1,
+     "q": "Ana visited this museum before with her family.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第1段只说 Ana loved maps, so she was very excited，没说她以前来没来过。",
+     "evidence": "Ana loved maps, so she was very excited.",
+     "optWhy": [
+      "原文没说她以前来过。",
+      "原文也没说她以前没来过，所以不能判 Wrong。",
+      "正确。全文没有提到 Ana 以前和家人来过 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第1段介绍博物馆和 Ana。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提 before / family → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, who does \"He\" mean in \"He was crying\"?",
+     "opts": [
+      "a small boy on the step",
+      "Mr Patel",
+      "the guard"
+     ],
+     "a": 0,
+     "why": "前一句 A small boy was sitting on the bottom step.，He 指这个小男孩。",
+     "evidence": "He was crying.",
+     "optWhy": [
+      "正确。前一句 A small boy was sitting on the bottom step = 选项 a small boy on the step。",
+      "Mr Patel 不在这一段。",
+      "guard 在第5段才出现。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句主语：A small boy。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The small boy was crying. 'I can't find my mum.' 通顺。"
+      }
+     ],
+     "marks": [
+      "A small boy was sitting on the bottom step."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How did Ana feel when she couldn't find her class?",
+     "opts": [
+      "happy",
+      "bored",
+      "scared"
+     ],
+     "a": 2,
+     "why": "第3段原文：Ana felt scared.",
+     "evidence": "Ana felt scared.",
+     "optWhy": [
+      "happy 是第6段 Sam's mum 的感受。",
+      "文中没有说 Ana 无聊。",
+      "正确。原文 Ana felt scared = 选项 scared。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "couldn't see her class → 第3段。"
+      },
+      {
+       "h": "找感受词",
+       "t": "Ana felt scared."
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "Why did Mr Patel come to the information desk?",
+     "opts": [
+      "He was looking for Ana and heard the message.",
+      "He wanted to buy a map.",
+      "Sam's mum called him."
+     ],
+     "a": 0,
+     "why": "第6段原文：He was looking for Ana when he heard the message.",
+     "evidence": "He was looking for Ana when he heard the message.",
+     "optWhy": [
+      "正确。原文 He was looking for Ana when he heard the message = 选项 He was looking for Ana and heard the message。",
+      "文中没有说他要买地图。",
+      "Sam's mum 自己跑到服务台，没有打电话给他。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Mr Patel 出现在第6段最后。"
+      },
+      {
+       "h": "看 when 句",
+       "t": "was looking for Ana（长动作）+ heard the message（短动作）。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past continuous with when / while",
+    "rule": "Use was / were + verb-ing for a longer action in the past. Use the past simple for a short action that happens in the middle of it. Put while before the long action and when before the short action.",
+    "table": [
+     [
+      "I / he / she / it",
+      "was looking"
+     ],
+     [
+      "you / we / they",
+      "were looking"
+     ],
+     [
+      "negative",
+      "wasn't listening"
+     ],
+     [
+      "while + long action",
+      "While she was reading, the class left."
+     ],
+     [
+      "when + short action",
+      "He was looking for Ana when he heard it."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Mr Patel was talking about mummies.",
+      "mark": "was talking"
+     },
+     {
+      "para": 2,
+      "text": "While she was reading the names of the old cities, the class left the room.",
+      "mark": "While she was reading"
+     },
+     {
+      "para": 4,
+      "text": "While she was walking down the stairs, she heard a noise.",
+      "mark": "was walking"
+     },
+     {
+      "para": 6,
+      "text": "He was looking for Ana when he heard the message.",
+      "mark": "was looking for Ana when"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "I ___ a map when my phone rang.",
+      "opts": [
+       "was reading",
+       "read",
+       "am reading"
+      ],
+      "a": 0,
+      "why": "Reading is the long action, so use was + -ing."
+     },
+     {
+      "type": "mc",
+      "q": "While we ___ the museum, it started to rain.",
+      "opts": [
+       "visited",
+       "were visiting",
+       "was visiting"
+      ],
+      "a": 1,
+      "why": "While + long action; we goes with were."
+     },
+     {
+      "type": "fill",
+      "q": "Sam ___ on the step when Ana found him.",
+      "hint": "(sit)",
+      "a": "was sitting",
+      "why": "Sitting is the long action; double the t: sitting."
+     },
+     {
+      "type": "fill",
+      "q": "What ___ you doing at eleven o'clock yesterday?",
+      "hint": "(be)",
+      "a": "were",
+      "why": "You goes with were in the past continuous."
+     },
+     {
+      "type": "fill",
+      "q": "The guard ___ when we arrived. He was very quiet.",
+      "hint": "(not / talk)",
+      "a": "wasn't talking / was not talking",
+      "why": "Negative past continuous: wasn't + -ing."
+     },
+     {
+      "type": "fill",
+      "q": "When the lights went out, the children ___ at the dinosaur bones.",
+      "hint": "(look)",
+      "a": "were looking",
+      "why": "The long action uses were + -ing with the children."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261117-3-k1",
+     "tag": "Museum",
+     "fact": "The class went on a trip to a huge old museum with stone columns.",
+     "q": "What did Ana love in the museum?",
+     "opts": [
+      "mummies",
+      "maps",
+      "dinosaur bones"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261117-3-k2",
+     "tag": "Lost",
+     "fact": "Ana was reading an old map when her class left the room.",
+     "q": "What was Mr Patel talking about?",
+     "opts": [
+      "maps",
+      "mummies",
+      "dinosaurs"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261117-3-k3",
+     "tag": "Sam",
+     "fact": "Ana found a five-year-old boy who couldn't find his mum.",
+     "q": "Where did Ana find Sam?",
+     "opts": [
+      "on the bottom step",
+      "at the entrance",
+      "in the Egypt room"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261117-3-k4",
+     "tag": "Message",
+     "fact": "A guard used a microphone to call Sam's mum.",
+     "q": "What did the guard use?",
+     "opts": [
+      "a phone",
+      "a map",
+      "a microphone"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261117-3-k5",
+     "tag": "Ending",
+     "fact": "Mr Patel heard the message and found Ana at the desk.",
+     "q": "What did Mr Patel tell Ana?",
+     "opts": [
+      "Stay with the group.",
+      "Buy a map.",
+      "Go home."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Lost in the museum",
+    "question": "How did Ana get lost, and how did she find her class?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "the city museum",
+       "stone columns"
+      ],
+      "kps": [
+       "k20261117-3-k1"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "2–3",
+      "blanks": [
+       "reading an old map",
+       "the room was empty"
+      ],
+      "kps": [
+       "k20261117-3-k2"
+      ]
+     },
+     {
+      "title": "Sam",
+      "paras": "4–5",
+      "blanks": [
+       "sitting on the step",
+       "the information desk"
+      ],
+      "kps": [
+       "k20261117-3-k3",
+       "k20261117-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "heard the message",
+       "stay with the group"
+      ],
+      "kps": [
+       "k20261117-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a big gift shop",
+     "Ana called her mum"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "Ana got lost in the museum because she was reading a map. But she helped a lost boy, so Mr Patel found her at the information desk.",
+    "options": [
+     {
+      "t": "Ana was reading a map when her class left the room.",
+      "ok": true,
+      "why": "This is how the problem starts.",
+      "type": "main",
+      "para": 2,
+      "evidence": "While she was reading the names of the old cities, the class left the room."
+     },
+     {
+      "t": "Ana found a lost boy and took him to the information desk.",
+      "ok": true,
+      "why": "This is the middle of the story.",
+      "type": "main",
+      "para": 5,
+      "evidence": "They walked there together."
+     },
+     {
+      "t": "Mr Patel heard the message and found Ana.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "He was looking for Ana when he heard the message."
+     },
+     {
+      "t": "The museum had dinosaur bones and mummies.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "Inside, there were dinosaur bones, Egyptian mummies and a lot of old maps."
+     },
+     {
+      "t": "Ana bought a map in the museum shop.",
+      "ok": false,
+      "why": "The story never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Ana called Mr Patel on her phone.",
+      "ok": false,
+      "why": "Wrong: she didn't have a phone with her.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "She didn't have a phone with her."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Have you ever visited a museum? What were you doing there, and what did you like?",
+    "hint": "I went to… / While I was walking around, I saw…",
+    "sec": 45
+   },
+   "write": {
+    "p": "Look at the idea: a boy was walking in a big shop when he lost his little sister. Write the story in 35 words or more.",
+    "steps": [
+     "Say where the boy was and what he was doing.",
+     "Say how he lost his sister.",
+     "Say how he found her."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · male"
+  }
+ ],
+ "audio": {
+  "Have you ever seen a cat in a garden at night? It walks around easily, but you can't see much at all. So why can cats see better than us in the dark? Let's look inside a cat's eye.": "audio/2026-11-17/a1-p1.mp3",
+  "First, look at a cat's pupils. The pupil is the black circle in the middle of your eye. Light goes into the eye through it. In bright light, a cat's pupils are very thin, like a line. In the dark, they get much bigger and rounder. A cat's pupils can open wider than ours, so more light gets in.": "audio/2026-11-17/a1-p2.mp3",
+  "Second, think about the back of the eye. It has got two kinds of cells for seeing. Some cells work well in bright light and help us see colours. Other cells work better in dim light. Cats have got a lot more of the second kind than people. This makes their eyes more sensitive in the dark.": "audio/2026-11-17/a1-p3.mp3",
+  "Third, cats have got a special layer at the back of the eye. It works like a mirror. Light goes through the eye, hits the mirror and comes back again. So the eye uses the same light two times! This is why a cat's eyes shine when you point a torch at them.": "audio/2026-11-17/a1-p4.mp3",
+  "Because of all this, a cat needs much less light than a person. Scientists say that a cat can see with only about one sixth of the light that we need. That is why cats are such good hunters at night.": "audio/2026-11-17/a1-p5.mp3",
+  "But cat eyes are not better in every way. In the daytime, our eyes are sharper. Things that are far away look clearer to us than to cats. People can also see more colours. Cats see the world in softer, paler colours, a bit like an old photo.": "audio/2026-11-17/a1-p6.mp3",
+  "And here is one more surprise. In a room with no light at all, a cat can't see anything. It needs a little light from the moon, the stars or a street lamp. Next time your cat runs around at night, you'll know its secret!": "audio/2026-11-17/a1-p7.mp3",
+  "pupil": "audio/2026-11-17/a1-w-pupil.mp3",
+  "Your pupil gets smaller in bright sun.": "audio/2026-11-17/a1-ex-pupil.mp3",
+  "dim": "audio/2026-11-17/a1-w-dim.mp3",
+  "It was hard to read in the dim room.": "audio/2026-11-17/a1-ex-dim.mp3",
+  "cell": "audio/2026-11-17/a1-w-cell.mp3",
+  "A cell is too small to see with your eyes.": "audio/2026-11-17/a1-ex-cell.mp3",
+  "sensitive": "audio/2026-11-17/a1-w-sensitive.mp3",
+  "Dogs have got a very sensitive nose.": "audio/2026-11-17/a1-ex-sensitive.mp3",
+  "layer": "audio/2026-11-17/a1-w-layer.mp3",
+  "The cake has got a layer of chocolate on top.": "audio/2026-11-17/a1-ex-layer.mp3",
+  "mirror": "audio/2026-11-17/a1-w-mirror.mp3",
+  "She looked at her hair in the mirror.": "audio/2026-11-17/a1-ex-mirror.mp3",
+  "shine": "audio/2026-11-17/a1-w-shine.mp3",
+  "The stars shine in the night sky.": "audio/2026-11-17/a1-ex-shine.mp3",
+  "torch": "audio/2026-11-17/a1-w-torch.mp3",
+  "Take a torch when you go camping.": "audio/2026-11-17/a1-ex-torch.mp3",
+  "hunter": "audio/2026-11-17/a1-w-hunter.mp3",
+  "An owl is a quiet hunter.": "audio/2026-11-17/a1-ex-hunter.mp3",
+  "So why can cats see better than us in the dark?": "audio/2026-11-17/a1-ks1.mp3",
+  "A cat's pupils can open wider than ours, so more light gets in.": "audio/2026-11-17/a1-ks2.mp3",
+  "Light goes through the eye, hits the mirror and comes back again.": "audio/2026-11-17/a1-ks3.mp3",
+  "In the daytime, our eyes are sharper.": "audio/2026-11-17/a1-ks4.mp3",
+  "In the dark, they get much bigger and rounder.": "audio/2026-11-17/a1-g1.mp3",
+  "This makes their eyes more sensitive in the dark.": "audio/2026-11-17/a1-g3.mp3",
+  "Things that are far away look clearer to us than to cats.": "audio/2026-11-17/a1-g4.mp3",
+  "Hi Daniel, How was your first day at your uncle's bike shop? Did you like it? Did you fix any bikes? I want to hear everything! I started my job at the pet shop last month, so I know how you feel. The first day is always hard. Write soon! Aisha": "audio/2026-11-17/a2-p1.mp3",
+  "Hi Aisha, Thanks for your email. My first day was on Saturday. It wasn't easy! I arrived at eight o'clock, but Uncle Raj wasn't there. He was at the bank. I didn't have a key, so I waited outside in the cold for twenty minutes.": "audio/2026-11-17/a2-p2.mp3",
+  "When he came, he gave me a blue work shirt. It was too big, but I didn't say anything. My first job was to clean the bikes. Then I put new tyres on a children's bike. I didn't fix any big problems. Uncle Raj did those himself.": "audio/2026-11-17/a2-p3.mp3",
+  "In the afternoon, a woman came into the shop. She wanted a helmet for her son. I didn't know the prices, and I couldn't find the right size. I felt silly! Uncle Raj helped me, and the woman bought a red helmet. Did you make any mistakes on your first day? Daniel": "audio/2026-11-17/a2-p4.mp3",
+  "Hi Daniel, Of course I did! On my first day, I gave a customer the wrong fish food. He didn't notice, but his fish didn't eat it. He came back the next day and laughed about it. So don't worry! Did Uncle Raj pay you? Aisha": "audio/2026-11-17/a2-p5.mp3",
+  "Hi Aisha, Yes, he did! He gave me thirty pounds. I didn't spend it. I'm saving for a new phone. And guess what? Uncle Raj didn't get angry about the helmet. He said, 'Everybody learns on the job.' I'm going back next Saturday! Daniel": "audio/2026-11-17/a2-p6.mp3",
+  "fix": "audio/2026-11-17/a2-w-fix.mp3",
+  "Can you fix my bike, please?": "audio/2026-11-17/a2-ex-fix.mp3",
+  "tyre": "audio/2026-11-17/a2-w-tyre.mp3",
+  "My bike has got a flat tyre.": "audio/2026-11-17/a2-ex-tyre.mp3",
+  "helmet": "audio/2026-11-17/a2-w-helmet.mp3",
+  "Always wear a helmet on your bike.": "audio/2026-11-17/a2-ex-helmet.mp3",
+  "price": "audio/2026-11-17/a2-w-price.mp3",
+  "What is the price of this jacket?": "audio/2026-11-17/a2-ex-price.mp3",
+  "size": "audio/2026-11-17/a2-w-size.mp3",
+  "These shoes are the wrong size.": "audio/2026-11-17/a2-ex-size.mp3",
+  "silly": "audio/2026-11-17/a2-w-silly.mp3",
+  "I made a silly mistake in my test.": "audio/2026-11-17/a2-ex-silly.mp3",
+  "mistake": "audio/2026-11-17/a2-w-mistake.mp3",
+  "There is a mistake in this sentence.": "audio/2026-11-17/a2-ex-mistake.mp3",
+  "customer": "audio/2026-11-17/a2-w-customer.mp3",
+  "The customer paid for the helmet.": "audio/2026-11-17/a2-ex-customer.mp3",
+  "notice": "audio/2026-11-17/a2-w-notice.mp3",
+  "Did you notice her new haircut?": "audio/2026-11-17/a2-ex-notice.mp3",
+  "How was your first day at your uncle's bike shop?": "audio/2026-11-17/a2-ks1.mp3",
+  "I didn't have a key, so I waited outside in the cold for twenty minutes.": "audio/2026-11-17/a2-ks2.mp3",
+  "I didn't know the prices, and I couldn't find the right size.": "audio/2026-11-17/a2-ks3.mp3",
+  "Uncle Raj didn't get angry about the helmet.": "audio/2026-11-17/a2-ks4.mp3",
+  "Did you fix any bikes?": "audio/2026-11-17/a2-g1.mp3",
+  "Did Uncle Raj pay you?": "audio/2026-11-17/a2-g4.mp3",
+  "Last Friday, Ana's class went on a school trip to the city museum. It was a huge old building with tall stone columns. Inside, there were dinosaur bones, Egyptian mummies and a lot of old maps. Ana loved maps, so she was very excited.": "audio/2026-11-17/a3-p1.mp3",
+  "At eleven o'clock, the class was standing in the Egypt room. Mr Patel was talking about mummies. But Ana wasn't listening. She was looking at a big old map of the world on the wall. While she was reading the names of the old cities, the class left the room.": "audio/2026-11-17/a3-p2.mp3",
+  "When Ana turned round, the room was empty. 'Where is everybody?' she thought. She ran into the next room, but she couldn't see her class. The museum had a lot of rooms and stairs. Ana felt scared. She didn't have a phone with her.": "audio/2026-11-17/a3-p3.mp3",
+  "While she was walking down the stairs, she heard a noise. A small boy was sitting on the bottom step. He was crying. 'I can't find my mum,' he said. His name was Sam, and he was five years old. Ana held his hand. 'Don't worry. We'll find her together,' she said.": "audio/2026-11-17/a3-p4.mp3",
+  "Ana remembered the information desk near the entrance. They walked there together. A guard was working at the desk. When Ana told him about Sam, he picked up a microphone. 'Can Sam's mum come to the information desk, please?' he said. His voice was very loud in the quiet halls.": "audio/2026-11-17/a3-p5.mp3",
+  "Two minutes later, Sam's mum ran to the desk. She was very happy. Then Ana saw someone else. It was Mr Patel! He was looking for Ana when he heard the message.": "audio/2026-11-17/a3-p6.mp3",
+  "'Ana! You were lost too!' he said. 'Yes,' said Ana with a smile. 'But I found Sam while I was lost!' Mr Patel laughed. 'Next time, stay with the group,' he said. 'And please look at maps after the trip!'": "audio/2026-11-17/a3-p7.mp3",
+  "huge": "audio/2026-11-17/a3-w-huge.mp3",
+  "They live in a huge house.": "audio/2026-11-17/a3-ex-huge.mp3",
+  "column": "audio/2026-11-17/a3-w-column.mp3",
+  "There is a tall column in front of the bank.": "audio/2026-11-17/a3-ex-column.mp3",
+  "empty": "audio/2026-11-17/a3-w-empty.mp3",
+  "The classroom was empty after school.": "audio/2026-11-17/a3-ex-empty.mp3",
+  "stairs": "audio/2026-11-17/a3-w-stairs.mp3",
+  "Walk up the stairs to the second floor.": "audio/2026-11-17/a3-ex-stairs.mp3",
+  "noise": "audio/2026-11-17/a3-w-noise.mp3",
+  "I heard a noise in the kitchen.": "audio/2026-11-17/a3-ex-noise.mp3",
+  "step": "audio/2026-11-17/a3-w-step.mp3",
+  "Sit on the step and wait for me.": "audio/2026-11-17/a3-ex-step.mp3",
+  "entrance": "audio/2026-11-17/a3-w-entrance.mp3",
+  "Meet me at the entrance of the park.": "audio/2026-11-17/a3-ex-entrance.mp3",
+  "guard": "audio/2026-11-17/a3-w-guard.mp3",
+  "A guard stood at the museum door.": "audio/2026-11-17/a3-ex-guard.mp3",
+  "microphone": "audio/2026-11-17/a3-w-microphone.mp3",
+  "The singer held the microphone.": "audio/2026-11-17/a3-ex-microphone.mp3",
+  "While she was reading the names of the old cities, the class left the room.": "audio/2026-11-17/a3-ks1.mp3",
+  "When Ana turned round, the room was empty.": "audio/2026-11-17/a3-ks2.mp3",
+  "While she was walking down the stairs, she heard a noise.": "audio/2026-11-17/a3-ks3.mp3",
+  "He was looking for Ana when he heard the message.": "audio/2026-11-17/a3-ks4.mp3",
+  "Mr Patel was talking about mummies.": "audio/2026-11-17/a3-g1.mp3"
+ }
+}
