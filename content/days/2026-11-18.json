@@ -1,0 +1,2062 @@
+{
+ "date": "2026-11-18",
+ "headline": "The coldest place on Earth, new skills and a holiday house",
+ "teaser": "Where is the coldest place in the world? What couldn't Leo, Sofia and Kenji do last year? What must the Novak family do at their holiday house?",
+ "articles": [
+  {
+   "id": "k20261118-1",
+   "topic": "Weather",
+   "genre": "Article",
+   "title": "Where Is the Wildest Weather on Earth?",
+   "dek": "The coldest, the hottest, the wettest, the driest and the windiest: visit five record places.",
+   "sources": [
+    {
+     "name": "Wikipedia: Vostok Station",
+     "url": "https://en.wikipedia.org/wiki/Vostok_Station"
+    },
+    {
+     "name": "Wikipedia: List of weather records",
+     "url": "https://en.wikipedia.org/wiki/List_of_weather_records"
+    },
+    {
+     "name": "Wikipedia: Mawsynram",
+     "url": "https://en.wikipedia.org/wiki/Mawsynram"
+    },
+    {
+     "name": "Wikipedia: Atacama Desert",
+     "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+    },
+    {
+     "name": "Wikipedia: Barrow Island",
+     "url": "https://en.wikipedia.org/wiki/Barrow_Island_(Western_Australia)"
+    }
+   ],
+   "paras": [
+    "What is the coldest place on Earth? And where is the hottest? Every country has got its own weather. But some places have the most extreme weather in the world. Scientists measure it and keep records. Let's visit five record places together.",
+    "Let's start with the coldest place. It is in Antarctica, near the South Pole. On 21 July 1983, scientists at Vostok Station measured an air temperature of −89.2°C. It is still the lowest temperature in the world's records. A freezer at home is only about −18°C! Nobody can stay outside for long there.",
+    "Now let's go to the hottest place. Death Valley is a desert in the USA. On 10 July 1913, the temperature there was 56.7°C. Some scientists think this number is not correct, but it is still the official record. Even today, summer days there are often hotter than 45°C.",
+    "For the wettest weather, we have to travel to India. A village called Mawsynram is one of the wettest places on Earth. It gets nearly 12 metres of rain every year. That is as tall as a building with four floors! Most of the rain falls between June and September.",
+    "The Atacama Desert in Chile is the opposite. It is the driest desert in the world outside the North and South Poles. Some weather stations there have never recorded any rain at all. The land looks a lot like Mars. That is why scientists test space robots there.",
+    "What about wind? The strongest gust of wind ever measured was on Barrow Island in Australia. In April 1996, a big storm hit the island. One gust was 408 kilometres an hour. That is faster than a racing car!",
+    "So which place has got the worst weather? It's hard to say! Death Valley isn't as cold as Antarctica, and the Atacama isn't as wet as Mawsynram. Every place is extreme in a different way. Is your town's weather as wild as these places?"
+   ],
+   "words": [
+    {
+     "w": "extreme",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ɪk.ˈstriːm/",
+     "syl": [
+      "ex",
+      "treme"
+     ],
+     "def": "very, very strong; much more than usual",
+     "ex": "The extreme heat closed the schools for a day."
+    },
+    {
+     "w": "measure",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈmeʒ.ə/",
+     "syl": [
+      "mea",
+      "sure"
+     ],
+     "def": "to find out how big, hot or long something is",
+     "ex": "We measure the rain in our school garden."
+    },
+    {
+     "w": "record",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈrek.ɔːd/",
+     "syl": [
+      "rec",
+      "ord"
+     ],
+     "def": "the best, biggest or most ever",
+     "ex": "She broke the school record for running."
+    },
+    {
+     "w": "temperature",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtem.prə.tʃə/",
+     "syl": [
+      "tem",
+      "pera",
+      "ture"
+     ],
+     "def": "how hot or cold something is",
+     "ex": "The temperature today is 12°C."
+    },
+    {
+     "w": "freezer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfriː.zə/",
+     "syl": [
+      "freez",
+      "er"
+     ],
+     "def": "a very cold box for keeping food frozen",
+     "ex": "Put the ice cream back in the freezer."
+    },
+    {
+     "w": "desert",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdez.ət/",
+     "syl": [
+      "des",
+      "ert"
+     ],
+     "def": "a big dry place with very little rain",
+     "ex": "Camels can walk in the desert for days."
+    },
+    {
+     "w": "opposite",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈɒp.ə.zɪt/",
+     "syl": [
+      "op",
+      "po",
+      "site"
+     ],
+     "def": "a thing that is completely different",
+     "ex": "Hot is the opposite of cold."
+    },
+    {
+     "w": "gust",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɡʌst/",
+     "syl": [
+      "gust"
+     ],
+     "def": "a sudden strong wind that lasts a short time",
+     "ex": "A gust of wind took my hat."
+    },
+    {
+     "w": "storm",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/stɔːm/",
+     "syl": [
+      "storm"
+     ],
+     "def": "very bad weather with strong wind and rain",
+     "ex": "We stayed at home during the storm."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But some places have the most extreme weather in the world.",
+     "kind": "Main idea",
+     "note": "The text visits these extreme places."
+    },
+    {
+     "para": 2,
+     "text": "It is still the lowest temperature in the world's records.",
+     "kind": "Grammar to notice",
+     "note": "lowest is a superlative: low + -est."
+    },
+    {
+     "para": 5,
+     "text": "The land looks a lot like Mars. That is why scientists test space robots there.",
+     "kind": "Cause → effect",
+     "note": "It looks like Mars, so it is good for testing robots."
+    },
+    {
+     "para": 7,
+     "text": "Death Valley isn't as cold as Antarctica, and the Atacama isn't as wet as Mawsynram.",
+     "kind": "Grammar to notice",
+     "note": "not as … as means less."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to stay safe in bad weather",
+      "why it rains a lot in India",
+      "places with record weather"
+     ],
+     "a": 2,
+     "why": "第1段 some places have the most extreme weather + Let's visit five record places，全文介绍五个天气纪录之地。",
+     "evidence": null,
+     "optWhy": [
+      "文中没有教人怎样在坏天气里保护自己。",
+      "印度下雨只是第4段的内容，不是全文。",
+      "正确。原文 Let's visit five record places = 选项 places with record weather。"
+     ],
+     "traps": [
+      "无中生有",
+      "以偏概全",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "最后一句 Let's visit five record places 说明全文主线。"
+      },
+      {
+       "h": "扫各段",
+       "t": "最冷、最热、最湿、最干、风最大，各占一段。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What temperature did scientists measure at Vostok Station in 1983?",
+     "opts": [
+      "−18°C",
+      "−89.2°C",
+      "56.7°C"
+     ],
+     "a": 1,
+     "why": "第2段原文：scientists at Vostok Station measured an air temperature of −89.2°C。",
+     "evidence": "On 21 July 1983, scientists at Vostok Station measured an air temperature of −89.2°C.",
+     "optWhy": [
+      "−18°C 是家里冰箱冷冻室的温度。",
+      "正确。原文 measured an air temperature of −89.2°C = 选项 −89.2°C。",
+      "56.7°C 是 Death Valley 的最高温。"
+     ],
+     "traps": [
+      "数字偷换",
+      null,
+      "数字偷换"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "Vostok Station → 第2段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "文中有好几个数字，只看 Vostok 后面那个。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "The Death Valley temperature is still the official record.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第3段原文：it is still the official record。",
+     "evidence": "Some scientists think this number is not correct, but it is still the official record.",
+     "optWhy": [
+      "正确。原文 it is still the official record = 题干 still the official record。",
+      "有科学家怀疑，但 but 后面说它仍是官方纪录，不是 Wrong。",
+      "原文直接说了，不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "official record → 第3段。"
+      },
+      {
+       "h": "看转折",
+       "t": "but 后面才是重点：it is still the official record。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what does \"the opposite\" mean?",
+     "opts": [
+      "very different",
+      "very near",
+      "the same"
+     ],
+     "a": 0,
+     "why": "第4段讲最湿的地方，第5段讲 the driest desert，两者完全相反。",
+     "evidence": "The Atacama Desert in Chile is the opposite.",
+     "optWhy": [
+      "正确。最湿 wettest 和最干 driest 对比 = 选项 very different。",
+      "Chile 和 India 并不近，文中也没讲距离。",
+      "一个最湿一个最干，不是 the same。"
+     ],
+     "traps": [
+      null,
+      "望文生义",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "看上下文",
+       "t": "前一段 wettest，这段 driest。"
+      },
+      {
+       "h": "推词义",
+       "t": "wet 和 dry 相反 → very different。"
+      }
+     ],
+     "marks": [
+      "the opposite",
+      "the driest desert"
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, where is \"there\" in \"scientists test space robots there\"?",
+     "opts": [
+      "on Mars",
+      "in the Atacama Desert",
+      "at the South Pole"
+     ],
+     "a": 1,
+     "why": "整段讲 The Atacama Desert，那里看起来像火星，所以在那里测试机器人。",
+     "evidence": "That is why scientists test space robots there.",
+     "optWhy": [
+      "Mars 只是比较对象，科学家没有去火星测试。",
+      "正确。本段主语 The Atacama Desert = 选项 in the Atacama Desert。",
+      "South Pole 在第2段，不在这里。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "本段讲的地方：The Atacama Desert。"
+      },
+      {
+       "h": "代回验证",
+       "t": "looks like Mars 只是像，不是真的在 Mars。"
+      }
+     ],
+     "marks": [
+      "The Atacama Desert in Chile"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "The storm on Barrow Island hurt a lot of people.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第6段只说风速 408 kilometres an hour，没有提到有没有人受伤。",
+     "evidence": "In April 1996, a big storm hit the island.",
+     "optWhy": [
+      "文中没说有人受伤，不能选 Right。",
+      "文中也没说没人受伤，不能选 Wrong。",
+      "正确。原文只有 a big storm hit the island，没有提到人 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Barrow Island → 第6段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提 people，既不对也不错 → Doesn't say。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Superlatives · as … as",
+    "rule": "Use the + superlative to say a thing is number one in a group. Short adjectives add -est (cold → the coldest). Long ones use the most (the most extreme). Use as … as for things that are the same, and not as … as for less.",
+    "table": [
+     [
+      "short: + -est",
+      "cold → the coldest"
+     ],
+     [
+      "one vowel + consonant",
+      "hot → the hottest"
+     ],
+     [
+      "-y → -iest",
+      "dry → the driest"
+     ],
+     [
+      "long: the most …",
+      "the most extreme"
+     ],
+     [
+      "irregular",
+      "bad → the worst"
+     ],
+     [
+      "not as … as",
+      "not as cold as"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Let's start with the coldest place.",
+      "mark": "the coldest"
+     },
+     {
+      "para": 4,
+      "text": "A village called Mawsynram is one of the wettest places on Earth.",
+      "mark": "the wettest"
+     },
+     {
+      "para": 7,
+      "text": "So which place has got the worst weather?",
+      "mark": "the worst"
+     },
+     {
+      "para": 7,
+      "text": "Death Valley isn't as cold as Antarctica, and the Atacama isn't as wet as Mawsynram.",
+      "mark": "isn't as cold as"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "January is ___ month of the year in Harbin.",
+      "opts": [
+       "the colder",
+       "the coldest",
+       "coldest"
+      ],
+      "a": 1,
+      "why": "Superlative: the + cold + -est."
+     },
+     {
+      "type": "mc",
+      "q": "Today isn't as ___ as yesterday. I don't need my coat.",
+      "opts": [
+       "cold",
+       "colder",
+       "coldest"
+      ],
+      "a": 0,
+      "why": "After as … as, use the normal adjective."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday was ___ day of the year so far.",
+      "hint": "(hot)",
+      "a": "the hottest",
+      "why": "hot → hottest: double the t, and use the."
+     },
+     {
+      "type": "fill",
+      "q": "That was ___ storm we have ever had in our town.",
+      "hint": "(bad)",
+      "a": "the worst",
+      "why": "bad is irregular: bad → the worst."
+     },
+     {
+      "type": "fill",
+      "q": "Is it ___ place in the world?",
+      "hint": "(dry)",
+      "a": "the driest",
+      "why": "-y after a consonant changes to -iest."
+     },
+     {
+      "type": "fill",
+      "q": "Our winter is ___ yours. Both are very cold.",
+      "hint": "(as / cold)",
+      "a": "as cold as",
+      "why": "The same → as + adjective + as."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261118-1-k1",
+     "tag": "Coldest",
+     "fact": "The lowest air temperature, −89.2°C, was at Vostok Station in Antarctica.",
+     "q": "Where is the coldest place?",
+     "opts": [
+      "Antarctica",
+      "India",
+      "Australia"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261118-1-k2",
+     "tag": "Hottest",
+     "fact": "Death Valley in the USA had 56.7°C in 1913.",
+     "q": "Where was the hottest temperature?",
+     "opts": [
+      "in Chile",
+      "in Death Valley",
+      "in Mawsynram"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261118-1-k3",
+     "tag": "Wettest",
+     "fact": "Mawsynram in India gets nearly 12 metres of rain a year.",
+     "q": "How much rain does Mawsynram get?",
+     "opts": [
+      "almost none",
+      "about 1 metre",
+      "nearly 12 metres"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261118-1-k4",
+     "tag": "Driest",
+     "fact": "The Atacama is the driest desert outside the Poles.",
+     "q": "Why do scientists test space robots in the Atacama?",
+     "opts": [
+      "It looks like Mars.",
+      "It is very wet.",
+      "It is very cold."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261118-1-k5",
+     "tag": "Windiest",
+     "fact": "A gust of 408 km/h hit Barrow Island in 1996.",
+     "q": "How fast was the strongest gust?",
+     "opts": [
+      "45 km/h",
+      "408 km/h",
+      "1,996 km/h"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Record weather",
+    "question": "Where is the most extreme weather on Earth?",
+    "branches": [
+     {
+      "title": "Coldest",
+      "paras": "2",
+      "blanks": [
+       "Vostok Station",
+       "−89.2°C"
+      ],
+      "kps": [
+       "k20261118-1-k1"
+      ]
+     },
+     {
+      "title": "Hottest",
+      "paras": "3",
+      "blanks": [
+       "Death Valley",
+       "the official record"
+      ],
+      "kps": [
+       "k20261118-1-k2"
+      ]
+     },
+     {
+      "title": "Wet, dry",
+      "paras": "4–5",
+      "blanks": [
+       "nearly 12 metres",
+       "looks like Mars"
+      ],
+      "kps": [
+       "k20261118-1-k3",
+       "k20261118-1-k4"
+      ]
+     },
+     {
+      "title": "Windiest",
+      "paras": "6",
+      "blanks": [
+       "Barrow Island",
+       "408 kilometres an hour"
+      ],
+      "kps": [
+       "k20261118-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "snow in the Sahara",
+     "the wettest desert"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Antarctica is the coldest place and Death Valley is the hottest. Mawsynram is very wet, but the Atacama is very dry.",
+    "options": [
+     {
+      "t": "Antarctica is the coldest place, and Death Valley is the hottest.",
+      "ok": true,
+      "why": "This covers paragraphs 2 and 3.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Let's start with the coldest place."
+     },
+     {
+      "t": "Mawsynram is very wet, but the Atacama is very dry.",
+      "ok": true,
+      "why": "This covers paragraphs 4 and 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "It is the driest desert in the world outside the North and South Poles."
+     },
+     {
+      "t": "The strongest wind gust was on Barrow Island in Australia.",
+      "ok": true,
+      "why": "This is the last record place.",
+      "type": "main",
+      "para": 6,
+      "evidence": "The strongest gust of wind ever measured was on Barrow Island in Australia."
+     },
+     {
+      "t": "A freezer at home is about −18°C.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "A freezer at home is only about −18°C!"
+     },
+     {
+      "t": "London has got the most snow in Europe.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Death Valley is colder than Antarctica.",
+      "ok": false,
+      "why": "Wrong: Death Valley isn't as cold as Antarctica.",
+      "type": "contra",
+      "para": 7,
+      "evidence": "Death Valley isn't as cold as Antarctica, and the Atacama isn't as wet as Mawsynram."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is the weather like in your town? What is the best season there? Why?",
+    "hint": "The best season is … because … / It isn't as … as …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write an email to a friend about the weather in your town. Write 25 words or more.",
+    "steps": [
+     "Say what the weather is like today.",
+     "Say which month is the hottest or coldest.",
+     "Ask about the weather in your friend's town."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261118-2",
+   "topic": "Personal feelings & experiences",
+   "genre": "Three people",
+   "title": "Last Year I Couldn't Do It",
+   "dek": "Three teenagers tell us about something new they can do this year.",
+   "sources": [],
+   "paras": [
+    "Do you remember something you couldn't do a year ago? Maybe you can do it now. Learning something new is not always easy. Sometimes you feel scared or silly. We asked three teenagers about a new skill.",
+    "Hi, I'm Leo, and I'm thirteen. Last summer, I couldn't swim. All my friends could swim, so I felt embarrassed at the beach. I always stayed on the sand with my little sister. In September, I started lessons at the sports centre. At first, I swallowed a lot of water! But my teacher was very kind. Now I can swim fifty metres without stopping. I still can't dive, but I'm going to learn next year.",
+    "My name is Sofia, and I'm fifteen. A year ago, I was very shy. I couldn't speak in front of my class. My face went red, and I forgot all my words. Then my English teacher asked me to join the school drama club. I didn't want to go, but I went. We played funny games and acted in short plays. Slowly, I became brave. Last month I gave a talk to two hundred students, and I wasn't nervous at all!",
+    "I'm Kenji, and I'm fourteen. My grandma lives with us, and she cooks every day. Last year I couldn't cook anything, not even an egg. Then Grandma broke her arm, and she couldn't use the kitchen for six weeks. So she sat on a chair and gave me instructions. I burned the rice two times! But now I can make soup, noodles and her famous dumplings. Grandma says mine are almost as good as hers.",
+    "What can you do now? What couldn't you do last year? Write and tell us about it. We'd love to hear your story!"
+   ],
+   "words": [
+    {
+     "w": "skill",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɪl/",
+     "syl": [
+      "skill"
+     ],
+     "def": "something you can do well after you learn it",
+     "ex": "Cooking is a useful skill."
+    },
+    {
+     "w": "embarrassed",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ɪm.ˈbær.əst/",
+     "syl": [
+      "em",
+      "bar",
+      "rassed"
+     ],
+     "def": "feeling silly because people are looking at you",
+     "ex": "I was embarrassed when I fell on the stage."
+    },
+    {
+     "w": "swallow",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˈswɒl.əʊ/",
+     "syl": [
+      "swal",
+      "low"
+     ],
+     "def": "to make food or water go down your throat",
+     "ex": "Don't swallow the water in the pool!"
+    },
+    {
+     "w": "dive",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/daɪv/",
+     "syl": [
+      "dive"
+     ],
+     "def": "to jump into water with your head first",
+     "ex": "My sister can dive into the pool."
+    },
+    {
+     "w": "shy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃaɪ/",
+     "syl": [
+      "shy"
+     ],
+     "def": "not happy to talk to people you don't know",
+     "ex": "The new boy is shy, so he is quiet."
+    },
+    {
+     "w": "drama",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈdrɑː.mə/",
+     "syl": [
+      "dra",
+      "ma"
+     ],
+     "def": "acting in plays, often as a school subject",
+     "ex": "We have drama on Friday afternoons."
+    },
+    {
+     "w": "brave",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/breɪv/",
+     "syl": [
+      "brave"
+     ],
+     "def": "not afraid to do difficult or scary things",
+     "ex": "It was brave of you to sing alone."
+    },
+    {
+     "w": "nervous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɜː.vəs/",
+     "syl": [
+      "ner",
+      "vous"
+     ],
+     "def": "a little worried or afraid about something",
+     "ex": "I always feel nervous before a test."
+    },
+    {
+     "w": "instruction",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ɪn.ˈstrʌk.ʃən/",
+     "syl": [
+      "in",
+      "struc",
+      "tion"
+     ],
+     "def": "words that tell you how to do something",
+     "ex": "Read the instruction on the box first."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Do you remember something you couldn't do a year ago?",
+     "kind": "Main idea",
+     "note": "All three texts answer this question."
+    },
+    {
+     "para": 2,
+     "text": "All my friends could swim, so I felt embarrassed at the beach.",
+     "kind": "Cause → effect",
+     "note": "Leo felt bad because he was different from his friends."
+    },
+    {
+     "para": 3,
+     "text": "Slowly, I became brave.",
+     "kind": "Key details",
+     "note": "The drama club changed Sofia step by step."
+    },
+    {
+     "para": 4,
+     "text": "But now I can make soup, noodles and her famous dumplings.",
+     "kind": "Grammar to notice",
+     "note": "can + verb for ability now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What do the three teenagers write about?",
+     "opts": [
+      "their favourite sports",
+      "something new they can do now",
+      "their school teachers"
+     ],
+     "a": 1,
+     "why": "第1段 Do you remember something you couldn't do a year ago? Maybe you can do it now.，三人都讲去年不会、现在会的事。",
+     "evidence": null,
+     "optWhy": [
+      "只有 Leo 讲游泳，Sofia 和 Kenji 讲的不是运动。",
+      "正确。原文 a new skill / you can do it now = 选项 something new they can do now。",
+      "老师只是故事里的小细节，不是主题。"
+     ],
+     "traps": [
+      "以偏概全",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "问题 something you couldn't do a year ago 就是主题。"
+      },
+      {
+       "h": "对比三人",
+       "t": "游泳、演讲、做饭：都是新学会的本领。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 2,
+     "q": "How did Leo feel at the beach last summer?",
+     "opts": [
+      "embarrassed",
+      "excited",
+      "angry"
+     ],
+     "a": 0,
+     "why": "第2段原文：so I felt embarrassed at the beach。",
+     "evidence": "All my friends could swim, so I felt embarrassed at the beach.",
+     "optWhy": [
+      "正确。原文 I felt embarrassed at the beach = 选项 embarrassed。",
+      "他不会游泳，只能待在沙滩上，没有兴奋。",
+      "文中没说他生气。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "beach + felt → 第2段。"
+      },
+      {
+       "h": "看原因",
+       "t": "All my friends could swim，只有他不会 → 难为情。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 2,
+     "q": "Leo's little sister can swim.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第2段只说 I always stayed on the sand with my little sister，没说妹妹会不会游泳。",
+     "evidence": "I always stayed on the sand with my little sister.",
+     "optWhy": [
+      "文中没说妹妹会游泳。",
+      "文中也没说妹妹不会游泳。",
+      "正确。原文只提到 with my little sister，没有说她会不会游泳 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "little sister → 第2段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "只说一起待在沙滩上，会不会游没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Who asked Sofia to join the drama club?",
+     "opts": [
+      "her best friend",
+      "her mum",
+      "her English teacher"
+     ],
+     "a": 2,
+     "why": "第3段原文：my English teacher asked me to join the school drama club。",
+     "evidence": "Then my English teacher asked me to join the school drama club.",
+     "optWhy": [
+      "文中没有提到她的好朋友。",
+      "文中没有提到她妈妈。",
+      "正确。原文 my English teacher asked me = 选项 her English teacher。"
+     ],
+     "traps": [
+      "无中生有",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "drama club → 第3段。"
+      },
+      {
+       "h": "看主语",
+       "t": "谁 asked me？my English teacher。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, who is \"she\" in \"she couldn't use the kitchen for six weeks\"?",
+     "opts": [
+      "Kenji's grandma",
+      "Kenji's mum",
+      "Kenji's teacher"
+     ],
+     "a": 0,
+     "why": "同一句前半 Grandma broke her arm，she 指奶奶。",
+     "evidence": "Then Grandma broke her arm, and she couldn't use the kitchen for six weeks.",
+     "optWhy": [
+      "正确。前半句 Grandma broke her arm = 选项 Kenji's grandma。",
+      "Kenji 的妈妈在文中没出现。",
+      "文中没有老师教 Kenji 做饭。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "同一句里的女性：Grandma。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Grandma couldn't use the kitchen，因为手臂断了，通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Grandma thinks Kenji's dumplings are better than hers.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：mine are almost as good as hers，“几乎一样好”，不是“更好”。",
+     "evidence": "Grandma says mine are almost as good as hers.",
+     "optWhy": [
+      "almost as good as 是“差一点点”，不是 better。",
+      "正确。原文 almost as good as hers 与题干 better than hers 相反 → Wrong。",
+      "原文有明确说法，不是 Doesn't say。"
+     ],
+     "traps": [
+      "偷换概念",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "dumplings → 第4段最后一句。"
+      },
+      {
+       "h": "抠字眼",
+       "t": "almost as good as = 还没那么好，所以 better 是错的。"
+      }
+     ],
+     "marks": [
+      "almost as good as"
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "can / can't · could for past ability",
+    "rule": "Use can / can't + verb for things you are able to do now. Use could / couldn't + verb for the past. The verb after can and could never changes: she can swim, not she can swims.",
+    "table": [
+     [
+      "now: can",
+      "I can swim."
+     ],
+     [
+      "now: can't",
+      "I can't dive."
+     ],
+     [
+      "past: could",
+      "My friends could swim."
+     ],
+     [
+      "past: couldn't",
+      "I couldn't cook."
+     ],
+     [
+      "question",
+      "Could you swim last year?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Last summer, I couldn't swim.",
+      "mark": "couldn't swim"
+     },
+     {
+      "para": 2,
+      "text": "Now I can swim fifty metres without stopping.",
+      "mark": "can swim"
+     },
+     {
+      "para": 3,
+      "text": "I couldn't speak in front of my class.",
+      "mark": "couldn't speak"
+     },
+     {
+      "para": 4,
+      "text": "But now I can make soup, noodles and her famous dumplings.",
+      "mark": "can make"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "When I was five, I ___ ride a bike. Now I ride to school every day.",
+      "opts": [
+       "can",
+       "could",
+       "can't"
+      ],
+      "a": 1,
+      "why": "When I was five is the past, so use could."
+     },
+     {
+      "type": "mc",
+      "q": "My baby brother ___ walk yet. He is only six months old.",
+      "opts": [
+       "can't",
+       "couldn't",
+       "can"
+      ],
+      "a": 0,
+      "why": "He is a baby now, so use can't for the present."
+     },
+     {
+      "type": "fill",
+      "q": "My grandpa ___ run very fast when he was young.",
+      "hint": "(can)",
+      "a": "could",
+      "why": "when he was young is the past: can → could."
+     },
+     {
+      "type": "fill",
+      "q": "Sorry, I ___ come to your party on Saturday. I'm busy.",
+      "hint": "(can / not)",
+      "a": "can't / cannot / can not",
+      "why": "Saturday is in the future and it is a plan now, so use can't."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday I ___ open the door because I lost my key.",
+      "hint": "(can / not)",
+      "a": "couldn't / could not",
+      "why": "Yesterday is the past, so use couldn't."
+     },
+     {
+      "type": "fill",
+      "q": "___ you speak English when you started school?",
+      "hint": "(can)",
+      "a": "Could",
+      "why": "A past question starts with Could."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261118-2-k1",
+     "tag": "Leo",
+     "fact": "Leo couldn't swim last summer, but now he can swim fifty metres.",
+     "q": "What can Leo do now?",
+     "opts": [
+      "dive",
+      "swim fifty metres",
+      "teach swimming"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261118-2-k2",
+     "tag": "Leo",
+     "fact": "Leo took lessons at the sports centre in September.",
+     "q": "Where did Leo learn to swim?",
+     "opts": [
+      "at the beach",
+      "at school",
+      "at the sports centre"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261118-2-k3",
+     "tag": "Sofia",
+     "fact": "Sofia was shy, but the drama club helped her.",
+     "q": "What helped Sofia?",
+     "opts": [
+      "the drama club",
+      "a music club",
+      "her sister"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261118-2-k4",
+     "tag": "Sofia",
+     "fact": "Last month Sofia gave a talk to two hundred students.",
+     "q": "How did Sofia feel during her talk?",
+     "opts": [
+      "very nervous",
+      "not nervous at all",
+      "angry"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261118-2-k5",
+     "tag": "Kenji",
+     "fact": "Kenji learned to cook when his grandma broke her arm.",
+     "q": "Why did Kenji start cooking?",
+     "opts": [
+      "His grandma broke her arm.",
+      "He wanted to be a chef.",
+      "His mum was away."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "New skills",
+    "question": "What couldn't they do last year, and what can they do now?",
+    "branches": [
+     {
+      "title": "Leo",
+      "paras": "2",
+      "blanks": [
+       "couldn't swim",
+       "fifty metres"
+      ],
+      "kps": [
+       "k20261118-2-k1",
+       "k20261118-2-k2"
+      ]
+     },
+     {
+      "title": "Sofia",
+      "paras": "3",
+      "blanks": [
+       "very shy",
+       "the drama club"
+      ],
+      "kps": [
+       "k20261118-2-k3",
+       "k20261118-2-k4"
+      ]
+     },
+     {
+      "title": "Kenji",
+      "paras": "4",
+      "blanks": [
+       "broke her arm",
+       "famous dumplings"
+      ],
+      "kps": [
+       "k20261118-2-k5"
+      ]
+     },
+     {
+      "title": "You",
+      "paras": "5",
+      "blanks": [
+       "tell us about it"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "learned to drive",
+     "can dive now"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Leo couldn't swim, but now he can. Sofia was shy and Kenji couldn't cook, but they learned, so now they can.",
+    "options": [
+     {
+      "t": "Leo couldn't swim last year, but now he can.",
+      "ok": true,
+      "why": "This is Leo's main idea.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Last summer, I couldn't swim."
+     },
+     {
+      "t": "Shy Sofia joined a drama club and became brave.",
+      "ok": true,
+      "why": "This is Sofia's main idea.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Slowly, I became brave."
+     },
+     {
+      "t": "Kenji learned to cook when his grandma broke her arm.",
+      "ok": true,
+      "why": "This is Kenji's main idea.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Then Grandma broke her arm, and she couldn't use the kitchen for six weeks."
+     },
+     {
+      "t": "Kenji burned the rice two times.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "I burned the rice two times!"
+     },
+     {
+      "t": "Leo wants to be a swimming teacher.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Sofia was very nervous during her big talk.",
+      "ok": false,
+      "why": "Wrong: she wasn't nervous at all.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "Last month I gave a talk to two hundred students, and I wasn't nervous at all!"
+     }
+    ]
+   },
+   "speak": {
+    "p": "What can you do now that you couldn't do when you were small? How did you learn it?",
+    "hint": "When I was small, I couldn't … / Now I can … because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write an email to a friend about a new skill. Write 25 words or more.",
+    "steps": [
+     "Say what you couldn't do before.",
+     "Say how you learned it.",
+     "Say what you can do now."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261118-3",
+   "topic": "House & home",
+   "genre": "Notices & messages",
+   "title": "Notes at the Holiday House",
+   "dek": "Where is the key? What goes in the green bin? Read the notes and find out.",
+   "sources": [],
+   "paras": [
+    "The Novak family is spending a week at a holiday house by the sea. When they arrived, they found lots of notes from the owner, Mrs Brown. The family also wrote some messages. Here are some of them.",
+    "NOTE on the front door: Welcome! The key for the back door is under the blue plant pot. You don't have to lock the back door during the day, but you must lock both doors at night. Please put the keys back in the box when you leave.",
+    "SIGN in the kitchen: Please read! You have to wash and dry your plates before you go. You don't have to clean the oven – my cleaner does that. Don't put food in the small bin. Food waste must go in the green bin outside.",
+    "NOTE on the washing machine: This machine is very old! You must close the door hard, or it won't start. Wait five minutes before you open it. Beach towels are in the cupboard by the stairs, so you don't have to bring your own.",
+    "Text message from Mum to Petra: Hi Petra, Dad and I are at the supermarket. Can you take Max for a walk? Remember, he has to stay on his lead near the road. And he mustn't eat Mrs Brown's flowers again! We'll be back at twelve.",
+    "Note on the fridge from Dad: Kids, we have to leave at nine tomorrow morning, so please pack your bags tonight. You don't have to make breakfast. I'm going to buy croissants at the café. Dad",
+    "Message in the visitors' book from Petra: We loved this house! The beds were very comfortable, and the view of the sea was amazing. My brother didn't want to go home. Next time we must stay for two weeks! Thank you, Mrs Brown. Petra Novak (14)"
+   ],
+   "words": [
+    {
+     "w": "lock",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/lɒk/",
+     "syl": [
+      "lock"
+     ],
+     "def": "to close a door with a key",
+     "ex": "Did you lock the front door?"
+    },
+    {
+     "w": "oven",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈʌv.ən/",
+     "syl": [
+      "ov",
+      "en"
+     ],
+     "def": "a hot box in the kitchen for cooking food",
+     "ex": "The pizza is in the oven."
+    },
+    {
+     "w": "bin",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/bɪn/",
+     "syl": [
+      "bin"
+     ],
+     "def": "a box or bag for things you throw away",
+     "ex": "Please put the paper in the bin."
+    },
+    {
+     "w": "waste",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/weɪst/",
+     "syl": [
+      "waste"
+     ],
+     "def": "things you don't need and throw away",
+     "ex": "We put kitchen waste in a special bag."
+    },
+    {
+     "w": "washing machine",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈwɒʃ.ɪŋ.mə.ʃiːn/",
+     "syl": [
+      "wash",
+      "ing",
+      "ma",
+      "chine"
+     ],
+     "def": "a machine that washes clothes",
+     "ex": "My socks are in the washing machine."
+    },
+    {
+     "w": "towel",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtaʊ.əl/",
+     "syl": [
+      "tow",
+      "el"
+     ],
+     "def": "a soft cloth for drying your body",
+     "ex": "Bring a towel to the swimming pool."
+    },
+    {
+     "w": "cupboard",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkʌb.əd/",
+     "syl": [
+      "cup",
+      "board"
+     ],
+     "def": "a piece of furniture with doors, for keeping things",
+     "ex": "The cups are in the cupboard."
+    },
+    {
+     "w": "lead",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/liːd/",
+     "syl": [
+      "lead"
+     ],
+     "def": "a long rope that you use to walk a dog",
+     "ex": "Keep your dog on a lead in the park."
+    },
+    {
+     "w": "pack",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/pæk/",
+     "syl": [
+      "pack"
+     ],
+     "def": "to put your things in a bag for a trip",
+     "ex": "I always pack my bag the night before."
+    },
+    {
+     "w": "view",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/vjuː/",
+     "syl": [
+      "view"
+     ],
+     "def": "what you can see from a place",
+     "ex": "The view from the hill is beautiful."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "When they arrived, they found lots of notes from the owner, Mrs Brown.",
+     "kind": "Main idea",
+     "note": "Most of the texts are Mrs Brown's notes."
+    },
+    {
+     "para": 2,
+     "text": "You don't have to lock the back door during the day, but you must lock both doors at night.",
+     "kind": "Grammar to notice",
+     "note": "don't have to = it isn't necessary; must = it is necessary."
+    },
+    {
+     "para": 4,
+     "text": "You must close the door hard, or it won't start.",
+     "kind": "Cause → effect",
+     "note": "If you don't close it hard, the machine won't start."
+    },
+    {
+     "para": 7,
+     "text": "My brother didn't want to go home.",
+     "kind": "Opinion",
+     "note": "The family liked the house a lot."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What are all the texts about?",
+     "opts": [
+      "a family's holiday in a house by the sea",
+      "a family's new home in the city",
+      "the rules of a school trip"
+     ],
+     "a": 0,
+     "why": "第1段 spending a week at a holiday house by the sea，所有便条都和这间度假屋有关。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 a week at a holiday house by the sea = 选项 a family's holiday in a house by the sea。",
+      "这是度假屋，只住一周，不是新家，也不在城市。",
+      "文中没有学校旅行。"
+     ],
+     "traps": [
+      null,
+      "偷换概念",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "框架段交代背景：holiday house by the sea。"
+      },
+      {
+       "h": "排除",
+       "t": "只住 a week → 不是 new home。"
+      }
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 2,
+     "q": "What does the note on the front door say?",
+     "opts": [
+      "Lock both doors at night.",
+      "Always lock the back door during the day.",
+      "You can keep the keys after the holiday."
+     ],
+     "a": 0,
+     "why": "第2段原文：you must lock both doors at night。",
+     "evidence": "You don't have to lock the back door during the day, but you must lock both doors at night.",
+     "optWhy": [
+      "正确。原文 you must lock both doors at night = 选项 Lock both doors at night。",
+      "原文 You don't have to lock the back door during the day，白天不必锁。",
+      "原文 put the keys back in the box when you leave，要还钥匙。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "NOTE on the front door → 第2段。"
+      },
+      {
+       "h": "分清",
+       "t": "don't have to = 不必；must = 必须。"
+      }
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 3,
+     "q": "What does the sign in the kitchen say?",
+     "opts": [
+      "The family has to clean the oven.",
+      "The family doesn't have to wash the plates.",
+      "Put old food in the bin outside."
+     ],
+     "a": 2,
+     "why": "第3段原文：Food waste must go in the green bin outside。",
+     "evidence": "Food waste must go in the green bin outside.",
+     "optWhy": [
+      "原文 You don't have to clean the oven，清洁工会做。",
+      "原文 You have to wash and dry your plates，必须洗盘子。",
+      "正确。原文 Food waste must go in the green bin outside = 选项 Put old food in the bin outside。"
+     ],
+     "traps": [
+      "与原文相反",
+      "与原文相反",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "SIGN in the kitchen → 第3段。"
+      },
+      {
+       "h": "同义替换",
+       "t": "food waste = old food；green bin outside = bin outside。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "The family has to bring their own beach towels.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：so you don't have to bring your own，房子里有毛巾。",
+     "evidence": "Beach towels are in the cupboard by the stairs, so you don't have to bring your own.",
+     "optWhy": [
+      "原文说 don't have to bring，不是 has to。",
+      "正确。原文 you don't have to bring your own 与题干 has to bring 相反 → Wrong。",
+      "原文说得很清楚，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "towels → 第4段。"
+      },
+      {
+       "h": "抠字眼",
+       "t": "don't have to（不必）≠ has to（必须）。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what is a \"lead\"?",
+     "opts": [
+      "a kind of dog food",
+      "a long rope for walking a dog",
+      "a dog's bed"
+     ],
+     "a": 1,
+     "why": "第5段 take Max for a walk + stay on his lead near the road，遛狗时在路边要用的东西就是狗绳。",
+     "evidence": "Remember, he has to stay on his lead near the road.",
+     "optWhy": [
+      "文中没说 Max 在吃东西（只说不能吃花）。",
+      "正确。take Max for a walk + near the road → a long rope for walking a dog。",
+      "文中没有讲狗睡觉的地方。"
+     ],
+     "traps": [
+      "望文生义",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看上下文",
+       "t": "前一句 take Max for a walk，是在遛狗。"
+      },
+      {
+       "h": "推词义",
+       "t": "路边狗要 stay on his lead → 牵狗绳。"
+      }
+     ],
+     "marks": [
+      "lead",
+      "take Max for a walk"
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "Who is going to get breakfast tomorrow?",
+     "opts": [
+      "Petra",
+      "Mrs Brown",
+      "Dad"
+     ],
+     "a": 2,
+     "why": "第6段是爸爸的便条：I'm going to buy croissants at the café。",
+     "evidence": "I'm going to buy croissants at the café.",
+     "optWhy": [
+      "原文 You don't have to make breakfast，孩子们不用做早餐。",
+      "Mrs Brown 是房东，便条里没提她。",
+      "正确。便条署名 Dad，原文 I'm going to buy croissants = 选项 Dad。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "breakfast → 第6段冰箱上的便条。"
+      },
+      {
+       "h": "看署名",
+       "t": "I 是谁？便条最后写着 Dad。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "must / have to / don't have to",
+    "rule": "must and have to + verb mean it is necessary. don't have to means it isn't necessary, but you can if you want. mustn't means don't do it! For the past, use had to.",
+    "table": [
+     [
+      "must",
+      "You must lock the doors."
+     ],
+     [
+      "have to / has to",
+      "He has to stay on his lead."
+     ],
+     [
+      "don't have to",
+      "You don't have to clean the oven."
+     ],
+     [
+      "mustn't",
+      "He mustn't eat the flowers."
+     ],
+     [
+      "past: had to",
+      "We had to leave early."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "You don't have to lock the back door during the day, but you must lock both doors at night.",
+      "mark": "must lock"
+     },
+     {
+      "para": 3,
+      "text": "You have to wash and dry your plates before you go.",
+      "mark": "have to wash"
+     },
+     {
+      "para": 3,
+      "text": "You don't have to clean the oven – my cleaner does that.",
+      "mark": "don't have to clean"
+     },
+     {
+      "para": 5,
+      "text": "And he mustn't eat Mrs Brown's flowers again!",
+      "mark": "mustn't eat"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "It's Saturday, so I ___ get up early. I can sleep late.",
+      "opts": [
+       "must",
+       "don't have to",
+       "have to"
+      ],
+      "a": 1,
+      "why": "It isn't necessary, so use don't have to."
+     },
+     {
+      "type": "mc",
+      "q": "You ___ use your phone during the exam. It's against the rules.",
+      "opts": [
+       "mustn't",
+       "don't have to",
+       "have to"
+      ],
+      "a": 0,
+      "why": "It is not allowed, so use mustn't."
+     },
+     {
+      "type": "fill",
+      "q": "My sister ___ wear a uniform at her new school.",
+      "hint": "(have to)",
+      "a": "has to",
+      "why": "My sister = she, so have to → has to."
+     },
+     {
+      "type": "fill",
+      "q": "Last night we ___ clean the kitchen after dinner.",
+      "hint": "(have to)",
+      "a": "had to",
+      "why": "Last night is the past: have to → had to."
+     },
+     {
+      "type": "fill",
+      "q": "Visitors ___ smoke in the house. It is dangerous.",
+      "hint": "(must – negative)",
+      "a": "mustn't / must not",
+      "why": "Don't do it! → mustn't."
+     },
+     {
+      "type": "fill",
+      "q": "You ___ bring food. There is a café near the beach.",
+      "hint": "(have to – negative)",
+      "a": "don't have to / do not have to",
+      "why": "It isn't necessary to bring food."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261118-3-k1",
+     "tag": "Keys",
+     "fact": "The family must lock both doors at night and leave the keys in the box.",
+     "q": "When must the family lock both doors?",
+     "opts": [
+      "at night",
+      "in the morning",
+      "never"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261118-3-k2",
+     "tag": "Kitchen",
+     "fact": "The family has to wash the plates, but they don't have to clean the oven.",
+     "q": "What doesn't the family have to clean?",
+     "opts": [
+      "the plates",
+      "the oven",
+      "the cups"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261118-3-k3",
+     "tag": "Machine",
+     "fact": "You must close the old washing machine door hard.",
+     "q": "What happens if you don't close the door hard?",
+     "opts": [
+      "It breaks.",
+      "It gets hot.",
+      "It won't start."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261118-3-k4",
+     "tag": "Max",
+     "fact": "Max the dog has to stay on his lead near the road.",
+     "q": "Where does Max have to stay on his lead?",
+     "opts": [
+      "near the road",
+      "on the beach",
+      "in the house"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261118-3-k5",
+     "tag": "Leaving",
+     "fact": "The family has to leave at nine, and Dad is going to buy croissants.",
+     "q": "What is Dad going to buy?",
+     "opts": [
+      "bread",
+      "croissants",
+      "eggs"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Holiday house",
+    "question": "What do the notes and messages tell the Novak family?",
+    "branches": [
+     {
+      "title": "Doors",
+      "paras": "2",
+      "blanks": [
+       "under the blue plant pot",
+       "both doors at night"
+      ],
+      "kps": [
+       "k20261118-3-k1"
+      ]
+     },
+     {
+      "title": "Kitchen",
+      "paras": "3–4",
+      "blanks": [
+       "the green bin",
+       "close the door hard"
+      ],
+      "kps": [
+       "k20261118-3-k2",
+       "k20261118-3-k3"
+      ]
+     },
+     {
+      "title": "Max",
+      "paras": "5",
+      "blanks": [
+       "on his lead"
+      ],
+      "kps": [
+       "k20261118-3-k4"
+      ]
+     },
+     {
+      "title": "Going home",
+      "paras": "6–7",
+      "blanks": [
+       "leave at nine",
+       "stay for two weeks"
+      ],
+      "kps": [
+       "k20261118-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "feed the cat",
+     "clean the oven"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the texts.",
+    "model": "Mrs Brown left notes because the family had to follow some house rules. The Novaks loved the house, so they want to come back.",
+    "options": [
+     {
+      "t": "The owner left notes with rules for the house.",
+      "ok": true,
+      "why": "Most texts are Mrs Brown's notes.",
+      "type": "main",
+      "para": 1,
+      "evidence": "When they arrived, they found lots of notes from the owner, Mrs Brown."
+     },
+     {
+      "t": "The family wrote messages about the dog and leaving.",
+      "ok": true,
+      "why": "Mum and Dad wrote messages too.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Kids, we have to leave at nine tomorrow morning, so please pack your bags tonight."
+     },
+     {
+      "t": "Petra loved the house and wants to stay longer next time.",
+      "ok": true,
+      "why": "This is how the holiday ends.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Next time we must stay for two weeks!"
+     },
+     {
+      "t": "The beach towels are in the cupboard by the stairs.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Beach towels are in the cupboard by the stairs, so you don't have to bring your own."
+     },
+     {
+      "t": "Mrs Brown lives next door to the holiday house.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The family must clean the oven before they leave.",
+      "ok": false,
+      "why": "Wrong: they don't have to clean the oven.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "You don't have to clean the oven – my cleaner does that."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What jobs do you have to do at home? Which jobs don't you have to do?",
+    "hint": "I have to … every day. / I don't have to … because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You are staying at a friend's house. Write a note to your friend's mum. Write 25 words or more.",
+    "steps": [
+     "Say thank you for something.",
+     "Ask if you have to do a job (wash plates, make your bed…).",
+     "Say what time you must go home."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  }
+ ],
+ "audio": {
+  "What is the coldest place on Earth? And where is the hottest? Every country has got its own weather. But some places have the most extreme weather in the world. Scientists measure it and keep records. Let's visit five record places together.": "audio/2026-11-18/a1-p1.mp3",
+  "Let's start with the coldest place. It is in Antarctica, near the South Pole. On 21 July 1983, scientists at Vostok Station measured an air temperature of −89.2°C. It is still the lowest temperature in the world's records. A freezer at home is only about −18°C! Nobody can stay outside for long there.": "audio/2026-11-18/a1-p2.mp3",
+  "Now let's go to the hottest place. Death Valley is a desert in the USA. On 10 July 1913, the temperature there was 56.7°C. Some scientists think this number is not correct, but it is still the official record. Even today, summer days there are often hotter than 45°C.": "audio/2026-11-18/a1-p3.mp3",
+  "For the wettest weather, we have to travel to India. A village called Mawsynram is one of the wettest places on Earth. It gets nearly 12 metres of rain every year. That is as tall as a building with four floors! Most of the rain falls between June and September.": "audio/2026-11-18/a1-p4.mp3",
+  "The Atacama Desert in Chile is the opposite. It is the driest desert in the world outside the North and South Poles. Some weather stations there have never recorded any rain at all. The land looks a lot like Mars. That is why scientists test space robots there.": "audio/2026-11-18/a1-p5.mp3",
+  "What about wind? The strongest gust of wind ever measured was on Barrow Island in Australia. In April 1996, a big storm hit the island. One gust was 408 kilometres an hour. That is faster than a racing car!": "audio/2026-11-18/a1-p6.mp3",
+  "So which place has got the worst weather? It's hard to say! Death Valley isn't as cold as Antarctica, and the Atacama isn't as wet as Mawsynram. Every place is extreme in a different way. Is your town's weather as wild as these places?": "audio/2026-11-18/a1-p7.mp3",
+  "extreme": "audio/2026-11-18/a1-w-extreme.mp3",
+  "The extreme heat closed the schools for a day.": "audio/2026-11-18/a1-ex-extreme.mp3",
+  "measure": "audio/2026-11-18/a1-w-measure.mp3",
+  "We measure the rain in our school garden.": "audio/2026-11-18/a1-ex-measure.mp3",
+  "record": "audio/2026-11-18/a1-w-record.mp3",
+  "She broke the school record for running.": "audio/2026-11-18/a1-ex-record.mp3",
+  "temperature": "audio/2026-11-18/a1-w-temperature.mp3",
+  "The temperature today is 12°C.": "audio/2026-11-18/a1-ex-temperature.mp3",
+  "freezer": "audio/2026-11-18/a1-w-freezer.mp3",
+  "Put the ice cream back in the freezer.": "audio/2026-11-18/a1-ex-freezer.mp3",
+  "desert": "audio/2026-11-18/a1-w-desert.mp3",
+  "Camels can walk in the desert for days.": "audio/2026-11-18/a1-ex-desert.mp3",
+  "opposite": "audio/2026-11-18/a1-w-opposite.mp3",
+  "Hot is the opposite of cold.": "audio/2026-11-18/a1-ex-opposite.mp3",
+  "gust": "audio/2026-11-18/a1-w-gust.mp3",
+  "A gust of wind took my hat.": "audio/2026-11-18/a1-ex-gust.mp3",
+  "storm": "audio/2026-11-18/a1-w-storm.mp3",
+  "We stayed at home during the storm.": "audio/2026-11-18/a1-ex-storm.mp3",
+  "But some places have the most extreme weather in the world.": "audio/2026-11-18/a1-ks1.mp3",
+  "It is still the lowest temperature in the world's records.": "audio/2026-11-18/a1-ks2.mp3",
+  "The land looks a lot like Mars. That is why scientists test space robots there.": "audio/2026-11-18/a1-ks3.mp3",
+  "Death Valley isn't as cold as Antarctica, and the Atacama isn't as wet as Mawsynram.": "audio/2026-11-18/a1-ks4.mp3",
+  "Let's start with the coldest place.": "audio/2026-11-18/a1-g1.mp3",
+  "A village called Mawsynram is one of the wettest places on Earth.": "audio/2026-11-18/a1-g2.mp3",
+  "So which place has got the worst weather?": "audio/2026-11-18/a1-g3.mp3",
+  "Do you remember something you couldn't do a year ago? Maybe you can do it now. Learning something new is not always easy. Sometimes you feel scared or silly. We asked three teenagers about a new skill.": "audio/2026-11-18/a2-p1.mp3",
+  "Hi, I'm Leo, and I'm thirteen. Last summer, I couldn't swim. All my friends could swim, so I felt embarrassed at the beach. I always stayed on the sand with my little sister. In September, I started lessons at the sports centre. At first, I swallowed a lot of water! But my teacher was very kind. Now I can swim fifty metres without stopping. I still can't dive, but I'm going to learn next year.": "audio/2026-11-18/a2-p2.mp3",
+  "My name is Sofia, and I'm fifteen. A year ago, I was very shy. I couldn't speak in front of my class. My face went red, and I forgot all my words. Then my English teacher asked me to join the school drama club. I didn't want to go, but I went. We played funny games and acted in short plays. Slowly, I became brave. Last month I gave a talk to two hundred students, and I wasn't nervous at all!": "audio/2026-11-18/a2-p3.mp3",
+  "I'm Kenji, and I'm fourteen. My grandma lives with us, and she cooks every day. Last year I couldn't cook anything, not even an egg. Then Grandma broke her arm, and she couldn't use the kitchen for six weeks. So she sat on a chair and gave me instructions. I burned the rice two times! But now I can make soup, noodles and her famous dumplings. Grandma says mine are almost as good as hers.": "audio/2026-11-18/a2-p4.mp3",
+  "What can you do now? What couldn't you do last year? Write and tell us about it. We'd love to hear your story!": "audio/2026-11-18/a2-p5.mp3",
+  "skill": "audio/2026-11-18/a2-w-skill.mp3",
+  "Cooking is a useful skill.": "audio/2026-11-18/a2-ex-skill.mp3",
+  "embarrassed": "audio/2026-11-18/a2-w-embarrassed.mp3",
+  "I was embarrassed when I fell on the stage.": "audio/2026-11-18/a2-ex-embarrassed.mp3",
+  "swallow": "audio/2026-11-18/a2-w-swallow.mp3",
+  "Don't swallow the water in the pool!": "audio/2026-11-18/a2-ex-swallow.mp3",
+  "dive": "audio/2026-11-18/a2-w-dive.mp3",
+  "My sister can dive into the pool.": "audio/2026-11-18/a2-ex-dive.mp3",
+  "shy": "audio/2026-11-18/a2-w-shy.mp3",
+  "The new boy is shy, so he is quiet.": "audio/2026-11-18/a2-ex-shy.mp3",
+  "drama": "audio/2026-11-18/a2-w-drama.mp3",
+  "We have drama on Friday afternoons.": "audio/2026-11-18/a2-ex-drama.mp3",
+  "brave": "audio/2026-11-18/a2-w-brave.mp3",
+  "It was brave of you to sing alone.": "audio/2026-11-18/a2-ex-brave.mp3",
+  "nervous": "audio/2026-11-18/a2-w-nervous.mp3",
+  "I always feel nervous before a test.": "audio/2026-11-18/a2-ex-nervous.mp3",
+  "instruction": "audio/2026-11-18/a2-w-instruction.mp3",
+  "Read the instruction on the box first.": "audio/2026-11-18/a2-ex-instruction.mp3",
+  "Do you remember something you couldn't do a year ago?": "audio/2026-11-18/a2-ks1.mp3",
+  "All my friends could swim, so I felt embarrassed at the beach.": "audio/2026-11-18/a2-ks2.mp3",
+  "Slowly, I became brave.": "audio/2026-11-18/a2-ks3.mp3",
+  "But now I can make soup, noodles and her famous dumplings.": "audio/2026-11-18/a2-ks4.mp3",
+  "Last summer, I couldn't swim.": "audio/2026-11-18/a2-g1.mp3",
+  "Now I can swim fifty metres without stopping.": "audio/2026-11-18/a2-g2.mp3",
+  "I couldn't speak in front of my class.": "audio/2026-11-18/a2-g3.mp3",
+  "The Novak family is spending a week at a holiday house by the sea. When they arrived, they found lots of notes from the owner, Mrs Brown. The family also wrote some messages. Here are some of them.": "audio/2026-11-18/a3-p1.mp3",
+  "NOTE on the front door: Welcome! The key for the back door is under the blue plant pot. You don't have to lock the back door during the day, but you must lock both doors at night. Please put the keys back in the box when you leave.": "audio/2026-11-18/a3-p2.mp3",
+  "SIGN in the kitchen: Please read! You have to wash and dry your plates before you go. You don't have to clean the oven – my cleaner does that. Don't put food in the small bin. Food waste must go in the green bin outside.": "audio/2026-11-18/a3-p3.mp3",
+  "NOTE on the washing machine: This machine is very old! You must close the door hard, or it won't start. Wait five minutes before you open it. Beach towels are in the cupboard by the stairs, so you don't have to bring your own.": "audio/2026-11-18/a3-p4.mp3",
+  "Text message from Mum to Petra: Hi Petra, Dad and I are at the supermarket. Can you take Max for a walk? Remember, he has to stay on his lead near the road. And he mustn't eat Mrs Brown's flowers again! We'll be back at twelve.": "audio/2026-11-18/a3-p5.mp3",
+  "Note on the fridge from Dad: Kids, we have to leave at nine tomorrow morning, so please pack your bags tonight. You don't have to make breakfast. I'm going to buy croissants at the café. Dad": "audio/2026-11-18/a3-p6.mp3",
+  "Message in the visitors' book from Petra: We loved this house! The beds were very comfortable, and the view of the sea was amazing. My brother didn't want to go home. Next time we must stay for two weeks! Thank you, Mrs Brown. Petra Novak (14)": "audio/2026-11-18/a3-p7.mp3",
+  "lock": "audio/2026-11-18/a3-w-lock.mp3",
+  "Did you lock the front door?": "audio/2026-11-18/a3-ex-lock.mp3",
+  "oven": "audio/2026-11-18/a3-w-oven.mp3",
+  "The pizza is in the oven.": "audio/2026-11-18/a3-ex-oven.mp3",
+  "bin": "audio/2026-11-18/a3-w-bin.mp3",
+  "Please put the paper in the bin.": "audio/2026-11-18/a3-ex-bin.mp3",
+  "waste": "audio/2026-11-18/a3-w-waste.mp3",
+  "We put kitchen waste in a special bag.": "audio/2026-11-18/a3-ex-waste.mp3",
+  "washing machine": "audio/2026-11-18/a3-w-washing-machine.mp3",
+  "My socks are in the washing machine.": "audio/2026-11-18/a3-ex-washing-machine.mp3",
+  "towel": "audio/2026-11-18/a3-w-towel.mp3",
+  "Bring a towel to the swimming pool.": "audio/2026-11-18/a3-ex-towel.mp3",
+  "cupboard": "audio/2026-11-18/a3-w-cupboard.mp3",
+  "The cups are in the cupboard.": "audio/2026-11-18/a3-ex-cupboard.mp3",
+  "lead": "audio/2026-11-18/a3-w-lead.mp3",
+  "Keep your dog on a lead in the park.": "audio/2026-11-18/a3-ex-lead.mp3",
+  "pack": "audio/2026-11-18/a3-w-pack.mp3",
+  "I always pack my bag the night before.": "audio/2026-11-18/a3-ex-pack.mp3",
+  "view": "audio/2026-11-18/a3-w-view.mp3",
+  "The view from the hill is beautiful.": "audio/2026-11-18/a3-ex-view.mp3",
+  "When they arrived, they found lots of notes from the owner, Mrs Brown.": "audio/2026-11-18/a3-ks1.mp3",
+  "You don't have to lock the back door during the day, but you must lock both doors at night.": "audio/2026-11-18/a3-ks2.mp3",
+  "You must close the door hard, or it won't start.": "audio/2026-11-18/a3-ks3.mp3",
+  "My brother didn't want to go home.": "audio/2026-11-18/a3-ks4.mp3",
+  "You have to wash and dry your plates before you go.": "audio/2026-11-18/a3-g2.mp3",
+  "You don't have to clean the oven – my cleaner does that.": "audio/2026-11-18/a3-g3.mp3",
+  "And he mustn't eat Mrs Brown's flowers again!": "audio/2026-11-18/a3-g4.mp3"
+ }
+}
