@@ -1,0 +1,2046 @@
+{
+ "date": "2026-11-19",
+ "headline": "Popping corn, a science fair and a muddy race",
+ "teaser": "Why does popcorn go pop? What are Lucas and Mia going to make for the science fair? Will Amira finish her race?",
+ "articles": [
+  {
+   "id": "k20261119-1",
+   "topic": "Food & drink",
+   "genre": "Article",
+   "title": "Why Does Popcorn Pop?",
+   "dek": "A tiny hard seed turns into a big white snack. How does it happen?",
+   "sources": [
+    {
+     "name": "Wikipedia: Popcorn",
+     "url": "https://en.wikipedia.org/wiki/Popcorn"
+    }
+   ],
+   "paras": [
+    "Do you like eating popcorn at the cinema? It is light, warm and crunchy. But every piece starts as a small, hard yellow seed. How does a tiny seed turn into a big white snack? Let's find out step by step.",
+    "First, popcorn is a special kind of corn. Every seed, or kernel, has a very hard skin. Inside the skin, there is soft starch and a little water. About fourteen percent of the kernel is water. That small drop of water is the secret.",
+    "Next, you heat the kernels. When they get hot, the water inside turns into steam. Steam needs a lot of space, but it can't get out through the hard skin. So the pressure inside the kernel grows and grows.",
+    "At about 180 degrees Celsius, the skin can't hold the steam any more. Suddenly it breaks open with a loud pop! The soft starch comes out and turns into a white foam. It cools very quickly and becomes crunchy. A popped kernel can be twenty to fifty times bigger than before!",
+    "Why do some kernels stay hard at the bottom of the bowl? Usually they are too dry. With too little water, there isn't enough steam to break the skin. That is why you shouldn't keep popcorn kernels in a warm, dry place. You should keep them in a closed box.",
+    "Do you want to make popcorn at home? You should always ask an adult for help, because hot oil is dangerous. You should put a lid on the pan, or the popcorn will fly everywhere! And you shouldn't eat the hard kernels, because they can hurt your teeth.",
+    "People have enjoyed popcorn for a very long time. Scientists found very old popcorn in Peru, in South America. It is more than six thousand years old! So next time you hear that pop, remember the tiny drop of water inside."
+   ],
+   "words": [
+    {
+     "w": "kernel",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɜː.nəl/",
+     "syl": [
+      "ker",
+      "nel"
+     ],
+     "def": "one seed of corn",
+     "ex": "There is one hard kernel in my bowl."
+    },
+    {
+     "w": "steam",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/stiːm/",
+     "syl": [
+      "steam"
+     ],
+     "def": "the hot air that comes from boiling water",
+     "ex": "Steam is coming out of the pot."
+    },
+    {
+     "w": "pressure",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpreʃ.ə/",
+     "syl": [
+      "pres",
+      "sure"
+     ],
+     "def": "the force of something pushing hard",
+     "ex": "The pressure in the ball is too high."
+    },
+    {
+     "w": "skin",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɪn/",
+     "syl": [
+      "skin"
+     ],
+     "def": "the outside part of a fruit, seed or body",
+     "ex": "Wash the apple, but don't take off the skin."
+    },
+    {
+     "w": "crunchy",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈkrʌn.tʃi/",
+     "syl": [
+      "crun",
+      "chy"
+     ],
+     "def": "hard and making a noise when you eat it",
+     "ex": "I love crunchy apples."
+    },
+    {
+     "w": "snack",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/snæk/",
+     "syl": [
+      "snack"
+     ],
+     "def": "a small amount of food between meals",
+     "ex": "I eat a snack after school."
+    },
+    {
+     "w": "suddenly",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈsʌd.ən.li/",
+     "syl": [
+      "sud",
+      "den",
+      "ly"
+     ],
+     "def": "very quickly, when you don't expect it",
+     "ex": "Suddenly the lights went out."
+    },
+    {
+     "w": "dangerous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈdeɪn.dʒər.əs/",
+     "syl": [
+      "dan",
+      "ger",
+      "ous"
+     ],
+     "def": "can hurt you",
+     "ex": "It is dangerous to play near the road."
+    },
+    {
+     "w": "lid",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/lɪd/",
+     "syl": [
+      "lid"
+     ],
+     "def": "the top that covers a box, pot or pan",
+     "ex": "Put the lid on the box, please."
+    },
+    {
+     "w": "secret",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsiː.krət/",
+     "syl": [
+      "se",
+      "cret"
+     ],
+     "def": "something that only a few people know",
+     "ex": "The secret of good bread is time."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "How does a tiny seed turn into a big white snack?",
+     "kind": "Main idea",
+     "note": "The whole text answers this question."
+    },
+    {
+     "para": 3,
+     "text": "When they get hot, the water inside turns into steam.",
+     "kind": "Cause → effect",
+     "note": "Heat changes the water into steam."
+    },
+    {
+     "para": 4,
+     "text": "Suddenly it breaks open with a loud pop!",
+     "kind": "Time order",
+     "note": "This happens after the pressure grows."
+    },
+    {
+     "para": 6,
+     "text": "You should always ask an adult for help, because hot oil is dangerous.",
+     "kind": "Grammar to notice",
+     "note": "should + verb gives good advice."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how cinemas sell popcorn",
+      "why a hard corn seed turns into popcorn",
+      "how to grow corn in a garden"
+     ],
+     "a": 1,
+     "why": "第1段提出问题 How does a tiny seed turn into a big white snack?，全文一步步回答它。",
+     "evidence": null,
+     "optWhy": [
+      "文中只在开头提到 cinema，没讲电影院怎么卖爆米花。",
+      "正确。原文 How does a tiny seed turn into a big white snack? = 选项 why a hard corn seed turns into popcorn。",
+      "文中没讲怎么种玉米。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看第1段",
+       "t": "第1段的问句就是全文主题。"
+      },
+      {
+       "h": "看后文",
+       "t": "第2–4段 First / Next / Suddenly，一步步讲爆开的过程。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What is inside the hard skin of a kernel?",
+     "opts": [
+      "soft starch and a little water",
+      "oil and salt",
+      "a small white flower"
+     ],
+     "a": 0,
+     "why": "第2段原文：Inside the skin, there is soft starch and a little water.",
+     "evidence": "Inside the skin, there is soft starch and a little water.",
+     "optWhy": [
+      "正确。原文 soft starch and a little water = 选项 soft starch and a little water。",
+      "oil 是第6段做爆米花用的，salt 文中没提，不在种子里。",
+      "文中没有提到花。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "Inside the skin → 第2段。"
+      },
+      {
+       "h": "对比选项",
+       "t": "原文 starch + water，只有 A 一致。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Steam can easily get out of the kernel.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段原文：it can't get out through the hard skin，蒸汽出不去。",
+     "evidence": "Steam needs a lot of space, but it can't get out through the hard skin.",
+     "optWhy": [
+      "原文说 can't get out，和 easily get out 相反。",
+      "正确。原文 it can't get out 与题干 can easily get out 相反 → Wrong。",
+      "原文说得很清楚，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "steam + get out → 第3段。"
+      },
+      {
+       "h": "抠字眼",
+       "t": "can't get out ≠ can easily get out → Wrong。"
+      }
+     ],
+     "marks": [
+      "can't get out"
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, what is \"It\" in \"It cools very quickly and becomes crunchy\"?",
+     "opts": [
+      "the pan",
+      "the hard skin",
+      "the white foam"
+     ],
+     "a": 2,
+     "why": "往前一句：The soft starch comes out and turns into a white foam.，It 指白色泡沫。",
+     "evidence": "The soft starch comes out and turns into a white foam.",
+     "optWhy": [
+      "第4段没有提到 pan。",
+      "硬皮已经破了，变脆的是里面出来的东西。",
+      "正确。前一句 a white foam = 选项 the white foam，代回去：the foam cools and becomes crunchy。"
+     ],
+     "traps": [
+      "无中生有",
+      "指代错误",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "It 前面最近的名词：a white foam。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The white foam cools and becomes crunchy，通顺。"
+      }
+     ],
+     "marks": [
+      "It cools very quickly"
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "Why do some kernels stay hard?",
+     "opts": [
+      "They have too much water.",
+      "They are too dry.",
+      "They are too small."
+     ],
+     "a": 1,
+     "why": "第5段原文：Usually they are too dry.",
+     "evidence": "Usually they are too dry.",
+     "optWhy": [
+      "与原文相反：是水太少（too little water），不是太多。",
+      "正确。原文 they are too dry = 选项 They are too dry.",
+      "文中没说因为太小。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "stay hard → 第5段。"
+      },
+      {
+       "h": "看原因",
+       "t": "too dry / too little water → 选 B。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 7,
+     "q": "People in Peru still grow popcorn today.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第7段只说 Scientists found very old popcorn in Peru，没说今天秘鲁人还种不种。",
+     "evidence": "Scientists found very old popcorn in Peru, in South America.",
+     "optWhy": [
+      "文中没说今天还种。",
+      "文中也没说今天不种。",
+      "正确。原文只讲 very old popcorn in Peru，没提 today → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Peru → 第7段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "只讲古代的爆米花，今天的事没提 → Doesn't say。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "should / shouldn't for advice",
+    "rule": "Use should + verb to say something is a good idea. Use shouldn't + verb to say something is a bad idea. The verb after should never changes: he should ask, not he should asks.",
+    "table": [
+     [
+      "good idea",
+      "You should ask an adult."
+     ],
+     [
+      "bad idea",
+      "You shouldn't eat hard kernels."
+     ],
+     [
+      "question",
+      "Should I put a lid on it?"
+     ],
+     [
+      "short answer",
+      "Yes, you should. / No, you shouldn't."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 5,
+      "text": "That is why you shouldn't keep popcorn kernels in a warm, dry place.",
+      "mark": "shouldn't keep"
+     },
+     {
+      "para": 5,
+      "text": "You should keep them in a closed box.",
+      "mark": "should keep"
+     },
+     {
+      "para": 6,
+      "text": "You should always ask an adult for help, because hot oil is dangerous.",
+      "mark": "should always ask"
+     },
+     {
+      "para": 6,
+      "text": "And you shouldn't eat the hard kernels, because they can hurt your teeth.",
+      "mark": "shouldn't eat"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "You ___ drink a lot of cola. It is bad for your teeth.",
+      "opts": [
+       "should",
+       "shouldn't",
+       "can"
+      ],
+      "a": 1,
+      "why": "Cola is bad for you, so it is a bad idea: shouldn't."
+     },
+     {
+      "type": "mc",
+      "q": "It's very cold today. You ___ wear a warm coat.",
+      "opts": [
+       "should",
+       "shouldn't",
+       "should to"
+      ],
+      "a": 0,
+      "why": "A warm coat is a good idea. Don't use to after should."
+     },
+     {
+      "type": "mc",
+      "q": "My brother ___ go to bed so late. He is always tired at school.",
+      "opts": [
+       "should",
+       "shouldn't",
+       "shoulds"
+      ],
+      "a": 1,
+      "why": "Going to bed late is a bad idea, so use shouldn't."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ eat some fruit every day. It's good for us.",
+      "hint": "(should)",
+      "a": "should",
+      "why": "Eating fruit is a good idea."
+     },
+     {
+      "type": "fill",
+      "q": "You ___ talk in the library. People are reading.",
+      "hint": "(should / not)",
+      "a": "shouldn't / should not",
+      "why": "Talking in the library is a bad idea."
+     },
+     {
+      "type": "fill",
+      "q": "I've got a test tomorrow. What ___ I do?",
+      "hint": "(should)",
+      "a": "should",
+      "why": "In a question, should comes before I."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261119-1-k1",
+     "tag": "Kernel",
+     "fact": "A popcorn kernel has a hard skin with starch and a little water inside.",
+     "q": "What is inside a kernel?",
+     "opts": [
+      "sand and oil",
+      "starch and a little water",
+      "air only"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261119-1-k2",
+     "tag": "Steam",
+     "fact": "Heat turns the water into steam, and the pressure grows.",
+     "q": "What happens to the water when it gets hot?",
+     "opts": [
+      "It turns into steam.",
+      "It turns into ice.",
+      "It goes out of the skin."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261119-1-k3",
+     "tag": "Pop",
+     "fact": "At about 180°C the skin breaks and the starch becomes a white foam.",
+     "q": "At what temperature does the skin break?",
+     "opts": [
+      "about 80°C",
+      "about 18°C",
+      "about 180°C"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261119-1-k4",
+     "tag": "Hard kernels",
+     "fact": "Kernels that are too dry don't pop.",
+     "q": "Why don't some kernels pop?",
+     "opts": [
+      "They are too dry.",
+      "They are too wet.",
+      "They are too new."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261119-1-k5",
+     "tag": "History",
+     "fact": "Very old popcorn was found in Peru. It is more than 6,000 years old.",
+     "q": "Where did scientists find very old popcorn?",
+     "opts": [
+      "in China",
+      "in Peru",
+      "in Italy"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Popping corn",
+    "question": "How does a hard seed become popcorn?",
+    "branches": [
+     {
+      "title": "Inside",
+      "paras": "2",
+      "blanks": [
+       "soft starch",
+       "a little water"
+      ],
+      "kps": [
+       "k20261119-1-k1"
+      ]
+     },
+     {
+      "title": "Heat",
+      "paras": "3–4",
+      "blanks": [
+       "turns into steam",
+       "a loud pop"
+      ],
+      "kps": [
+       "k20261119-1-k2",
+       "k20261119-1-k3"
+      ]
+     },
+     {
+      "title": "Hard kernels",
+      "paras": "5",
+      "blanks": [
+       "too dry"
+      ],
+      "kps": [
+       "k20261119-1-k4"
+      ]
+     },
+     {
+      "title": "Tips",
+      "paras": "6–7",
+      "blanks": [
+       "ask an adult",
+       "put a lid"
+      ],
+      "kps": [
+       "k20261119-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "add cold water",
+     "the skin stays soft"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "A popcorn kernel has a little water inside, so heat makes steam. The skin can't hold the steam, but it breaks with a pop.",
+    "options": [
+     {
+      "t": "Every kernel has a hard skin with a little water inside.",
+      "ok": true,
+      "why": "This explains what a kernel is.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Every seed, or kernel, has a very hard skin."
+     },
+     {
+      "t": "Heat turns the water into steam, and the skin breaks with a pop.",
+      "ok": true,
+      "why": "This is the main step in the text.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Suddenly it breaks open with a loud pop!"
+     },
+     {
+      "t": "You should be careful and ask an adult when you make popcorn.",
+      "ok": true,
+      "why": "This is the main idea of the advice part.",
+      "type": "main",
+      "para": 6,
+      "evidence": "You should always ask an adult for help, because hot oil is dangerous."
+     },
+     {
+      "t": "About fourteen percent of a kernel is water.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "About fourteen percent of the kernel is water."
+     },
+     {
+      "t": "Popcorn is the most popular snack in the world.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Very wet kernels stay hard at the bottom of the bowl.",
+      "ok": false,
+      "why": "Wrong: they stay hard because they are too dry.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Usually they are too dry."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What snack do you like? When do you usually eat it? Why do you like it?",
+    "hint": "My favourite snack is … / I usually eat it when …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your friend wants to make popcorn at home. Write a message with advice. Write 25 words or more.",
+    "steps": [
+     "Say what they need.",
+     "Say one thing they should do.",
+     "Say one thing they shouldn't do."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261119-2",
+   "topic": "School & study",
+   "genre": "Email",
+   "title": "Our Science Fair Plans",
+   "dek": "Lucas and Mia are getting ready for a big day at school.",
+   "sources": [],
+   "paras": [
+    "Lucas and Mia are in Year 8 at Riverside School. Next Friday, their school is having a science fair. Every pair of students must show a project. Read their emails.",
+    "Hi Mia, Good news! Mr Okafor said yes to our idea. We're going to make a small water filter from a plastic bottle, sand and stones. Then we're going to clean some dirty water from the river. I think the visitors are going to love it! After the fair, we're going to give the filter to our science class.",
+    "I've got a very busy week. I'm playing football on Tuesday afternoon, and I'm visiting my grandma on Wednesday. Can we meet on Thursday after school? We need to practise our talk. It's only five minutes long, but I don't want to forget anything. Lucas",
+    "Hi Lucas, That's great news! Thursday is fine for me. I'm not doing anything after school that day. We can meet in the science room at four o'clock. Mr Okafor is staying late, so he can help us.",
+    "I'm going to buy the sand at the garden shop tomorrow. My dad is driving me there after lunch. Can you bring two big bottles? My family doesn't buy drinks in plastic bottles any more. Also, I'm not going to speak first in our talk. I'm too nervous! Can you start? Love, Mia",
+    "Hi Mia, No problem. I'm going to start the talk, and you can show the water filter. My mum is coming to the fair too. She's taking photos for the school website. See you on Thursday! Lucas"
+   ],
+   "words": [
+    {
+     "w": "fair",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/feə/",
+     "syl": [
+      "fair"
+     ],
+     "def": "a big event where people show things",
+     "ex": "We saw a lot of robots at the science fair."
+    },
+    {
+     "w": "project",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈprɒdʒ.ekt/",
+     "syl": [
+      "pro",
+      "ject"
+     ],
+     "def": "a piece of school work you plan and make",
+     "ex": "Our project is about birds."
+    },
+    {
+     "w": "filter",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfɪl.tə/",
+     "syl": [
+      "fil",
+      "ter"
+     ],
+     "def": "a thing that takes dirt out of water or air",
+     "ex": "This filter makes the water clean."
+    },
+    {
+     "w": "plastic",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈplæs.tɪk/",
+     "syl": [
+      "plas",
+      "tic"
+     ],
+     "def": "made of a light material, not glass or metal",
+     "ex": "Please don't use plastic bags."
+    },
+    {
+     "w": "sand",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/sænd/",
+     "syl": [
+      "sand"
+     ],
+     "def": "very small pieces of rock, like on a beach",
+     "ex": "The children played in the sand."
+    },
+    {
+     "w": "dirty",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈdɜː.ti/",
+     "syl": [
+      "dir",
+      "ty"
+     ],
+     "def": "not clean",
+     "ex": "Your shoes are dirty. Take them off."
+    },
+    {
+     "w": "visitor",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈvɪz.ɪ.tə/",
+     "syl": [
+      "vis",
+      "i",
+      "tor"
+     ],
+     "def": "a person who comes to see a place",
+     "ex": "Every visitor got a map of the school."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something again and again to get better",
+     "ex": "I practise the piano every day."
+    },
+    {
+     "w": "website",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈweb.saɪt/",
+     "syl": [
+      "web",
+      "site"
+     ],
+     "def": "pages on the internet about one thing",
+     "ex": "Look at the school website for the news."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "We're going to make a small water filter from a plastic bottle, sand and stones.",
+     "kind": "Main idea",
+     "note": "This is their science fair project."
+    },
+    {
+     "para": 3,
+     "text": "I'm playing football on Tuesday afternoon, and I'm visiting my grandma on Wednesday.",
+     "kind": "Grammar to notice",
+     "note": "Present continuous for fixed plans with a day and time."
+    },
+    {
+     "para": 4,
+     "text": "Mr Okafor is staying late, so he can help us.",
+     "kind": "Cause → effect",
+     "note": "The teacher can help because he is at school late."
+    },
+    {
+     "para": 5,
+     "text": "I'm too nervous!",
+     "kind": "Opinion",
+     "note": "Mia doesn't want to speak first."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Lucas write his first email?",
+     "opts": [
+      "to tell Mia about their project and plan a meeting",
+      "to ask Mia to play football with him",
+      "to say sorry to Mr Okafor"
+     ],
+     "a": 0,
+     "why": "Lucas 第一封邮件先说 Mr Okafor said yes to our idea，再问 Can we meet on Thursday after school?",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 Mr Okafor said yes to our idea + Can we meet on Thursday = 选项 tell Mia about their project and plan a meeting。",
+      "football 是 Lucas 自己周二的安排，他没邀请 Mia。",
+      "他没有向老师道歉。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看第2–3段",
+       "t": "先说好消息，再约时间见面。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "football 只是他忙的原因之一。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What are Lucas and Mia going to make?",
+     "opts": [
+      "a small robot",
+      "a water filter",
+      "a plastic boat"
+     ],
+     "a": 1,
+     "why": "第2段原文：We're going to make a small water filter。",
+     "evidence": "We're going to make a small water filter from a plastic bottle, sand and stones.",
+     "optWhy": [
+      "文中没提到 robot。",
+      "正确。原文 make a small water filter = 选项 a water filter。",
+      "plastic 是瓶子的材料，不是船。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "going to make → 第2段。"
+      },
+      {
+       "h": "看宾语",
+       "t": "make 后面是 a small water filter。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What is Lucas doing on Wednesday?",
+     "opts": [
+      "playing football",
+      "meeting Mia",
+      "visiting his grandma"
+     ],
+     "a": 2,
+     "why": "第3段原文：I'm visiting my grandma on Wednesday。",
+     "evidence": "I'm playing football on Tuesday afternoon, and I'm visiting my grandma on Wednesday.",
+     "optWhy": [
+      "踢足球是 Tuesday，不是 Wednesday。",
+      "见 Mia 是 Thursday。",
+      "正确。原文 I'm visiting my grandma on Wednesday = 选项 visiting his grandma。"
+     ],
+     "traps": [
+      "细节偷换",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Wednesday → 第3段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "Tuesday 踢球、Thursday 见面，别看错日子。"
+      }
+     ],
+     "marks": [
+      "on Wednesday"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Mr Okafor is going to help Lucas and Mia on Thursday.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第4段原文：Mr Okafor is staying late, so he can help us.",
+     "evidence": "Mr Okafor is staying late, so he can help us.",
+     "optWhy": [
+      "正确。原文 he can help us（周四放学后）= 题干 going to help them on Thursday → Right。",
+      "原文说他会留下帮忙，不是 Wrong。",
+      "原文明确说了，不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Mr Okafor → 第4段。"
+      },
+      {
+       "h": "看前文",
+       "t": "Thursday … after school，Mr Okafor is staying late → 能帮忙。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 5,
+     "q": "How does Mia feel about speaking first?",
+     "opts": [
+      "happy",
+      "bored",
+      "nervous"
+     ],
+     "a": 2,
+     "why": "第5段原文：I'm too nervous!",
+     "evidence": "I'm too nervous!",
+     "optWhy": [
+      "她不想先讲，不是开心。",
+      "文中没说无聊。",
+      "正确。原文 I'm too nervous = 选项 nervous。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "speak first → 第5段。"
+      },
+      {
+       "h": "看下一句",
+       "t": "I'm too nervous! 说出了她的感受。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In paragraph 6, who is \"She\" in \"She's taking photos for the school website\"?",
+     "opts": [
+      "Mia",
+      "Lucas's mum",
+      "Mr Okafor's wife"
+     ],
+     "a": 1,
+     "why": "往前一句：My mum is coming to the fair too.，She 指 Lucas 的妈妈。",
+     "evidence": "My mum is coming to the fair too.",
+     "optWhy": [
+      "Mia 要展示过滤器，不是拍照。",
+      "正确。前一句 My mum = 选项 Lucas's mum（这封信是 Lucas 写的）。",
+      "文中没提到 Mr Okafor 的妻子。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "She 前面最近的女性：My mum。"
+      },
+      {
+       "h": "看写信人",
+       "t": "第6段署名 Lucas，所以是 Lucas 的妈妈。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "going to · present continuous for plans",
+    "rule": "Use be going to + verb for plans and ideas you have now. Use the present continuous (be + verb-ing) for fixed arrangements with a time or day. Both talk about the future.",
+    "table": [
+     [
+      "plan: going to",
+      "We're going to make a filter."
+     ],
+     [
+      "negative",
+      "I'm not going to speak first."
+     ],
+     [
+      "arrangement",
+      "I'm playing football on Tuesday."
+     ],
+     [
+      "question",
+      "Are you coming to the fair?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Then we're going to clean some dirty water from the river.",
+      "mark": "we're going to clean"
+     },
+     {
+      "para": 3,
+      "text": "I'm playing football on Tuesday afternoon, and I'm visiting my grandma on Wednesday.",
+      "mark": "I'm playing"
+     },
+     {
+      "para": 5,
+      "text": "I'm going to buy the sand at the garden shop tomorrow.",
+      "mark": "I'm going to buy"
+     },
+     {
+      "para": 6,
+      "text": "My mum is coming to the fair too.",
+      "mark": "is coming"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Look at those black clouds! It ___ rain.",
+      "opts": [
+       "is going to",
+       "going to",
+       "is go to"
+      ],
+      "a": 0,
+      "why": "We need be + going to + verb."
+     },
+     {
+      "type": "mc",
+      "q": "What ___ you doing on Saturday evening?",
+      "opts": [
+       "do",
+       "are",
+       "will"
+      ],
+      "a": 1,
+      "why": "Present continuous question: are + you + verb-ing."
+     },
+     {
+      "type": "mc",
+      "q": "I ___ my dentist at three o'clock tomorrow. It's in my diary.",
+      "opts": [
+       "see",
+       "saw",
+       "am seeing"
+      ],
+      "a": 2,
+      "why": "A fixed arrangement with a time: present continuous."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ a cake for Mum's birthday next week.",
+      "hint": "(make)",
+      "a": "are going to make / 're going to make",
+      "why": "A plan: are going to + make."
+     },
+     {
+      "type": "fill",
+      "q": "My cousins ___ to London next Monday. They've got the tickets.",
+      "hint": "(fly)",
+      "a": "are flying / 're flying",
+      "why": "A fixed arrangement: are + flying."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ watch TV tonight. I've got a lot of homework.",
+      "hint": "(not / going to)",
+      "a": "am not going to / 'm not going to",
+      "why": "Negative plan: am not going to + verb."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261119-2-k1",
+     "tag": "Project",
+     "fact": "Lucas and Mia are going to make a water filter.",
+     "q": "What is their project?",
+     "opts": [
+      "a water filter",
+      "a weather map",
+      "a robot"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261119-2-k2",
+     "tag": "Lucas's week",
+     "fact": "Lucas is playing football on Tuesday and visiting his grandma on Wednesday.",
+     "q": "When is Lucas playing football?",
+     "opts": [
+      "on Monday",
+      "on Tuesday",
+      "on Thursday"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261119-2-k3",
+     "tag": "Meeting",
+     "fact": "They are meeting in the science room on Thursday at four o'clock.",
+     "q": "Where are they meeting?",
+     "opts": [
+      "in the library",
+      "at the garden shop",
+      "in the science room"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261119-2-k4",
+     "tag": "Mia's job",
+     "fact": "Mia is going to buy the sand, and she is going to show the filter.",
+     "q": "What is Mia going to buy?",
+     "opts": [
+      "the sand",
+      "two bottles",
+      "photos"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261119-2-k5",
+     "tag": "The fair",
+     "fact": "Lucas's mum is taking photos for the school website.",
+     "q": "Who is taking photos at the fair?",
+     "opts": [
+      "Mr Okafor",
+      "Lucas's mum",
+      "Mia's dad"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Science fair",
+    "question": "What are Lucas and Mia planning?",
+    "branches": [
+     {
+      "title": "What",
+      "paras": "2",
+      "blanks": [
+       "a water filter",
+       "dirty water"
+      ],
+      "kps": [
+       "k20261119-2-k1"
+      ]
+     },
+     {
+      "title": "When",
+      "paras": "3–4",
+      "blanks": [
+       "on Thursday",
+       "at four o'clock"
+      ],
+      "kps": [
+       "k20261119-2-k2",
+       "k20261119-2-k3"
+      ]
+     },
+     {
+      "title": "Mia",
+      "paras": "5",
+      "blanks": [
+       "buy the sand",
+       "too nervous"
+      ],
+      "kps": [
+       "k20261119-2-k4"
+      ]
+     },
+     {
+      "title": "Lucas",
+      "paras": "6",
+      "blanks": [
+       "start the talk",
+       "taking photos"
+      ],
+      "kps": [
+       "k20261119-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "build a robot",
+     "on Wednesday morning"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the emails.",
+    "model": "Lucas and Mia are going to make a water filter for the science fair. Mia is nervous, so Lucas is going to start the talk.",
+    "options": [
+     {
+      "t": "Lucas and Mia are going to make a water filter for the fair.",
+      "ok": true,
+      "why": "This is their project.",
+      "type": "main",
+      "para": 2,
+      "evidence": "We're going to make a small water filter from a plastic bottle, sand and stones."
+     },
+     {
+      "t": "They are meeting on Thursday to practise their talk.",
+      "ok": true,
+      "why": "This is the plan in the emails.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Thursday is fine for me."
+     },
+     {
+      "t": "Lucas is going to start the talk because Mia is nervous.",
+      "ok": true,
+      "why": "This is how they share the work.",
+      "type": "main",
+      "para": 6,
+      "evidence": "I'm going to start the talk, and you can show the water filter."
+     },
+     {
+      "t": "Mia's dad is driving her to the garden shop.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "My dad is driving me there after lunch."
+     },
+     {
+      "t": "Lucas and Mia won first prize at the fair last year.",
+      "ok": false,
+      "why": "The emails never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mia wants to speak first in their talk.",
+      "ok": false,
+      "why": "Wrong: she doesn't want to speak first.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Also, I'm not going to speak first in our talk."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What are you doing this weekend? Tell me about your plans.",
+    "hint": "On Saturday I'm going to … / On Sunday I'm visiting …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write an email to a classmate about a school project. Write 25 words or more.",
+    "steps": [
+     "Say what you are going to make.",
+     "Say when you can meet.",
+     "Ask your classmate to bring something."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261119-3",
+   "topic": "Sport",
+   "genre": "Story",
+   "title": "Amira's Muddy Race",
+   "dek": "Amira hates running. Can she finish a five-kilometre race?",
+   "sources": [],
+   "paras": [
+    "Amira didn't like running. She was good at swimming, but running was hard for her. So she was worried when Ms Clark, her PE teacher, put her name on the list for the school cross-country race.",
+    "\"I can't do it,\" Amira said to her friend Daniel. \"The race is five kilometres. I'll be the last. Everyone will laugh at me.\" Daniel smiled. \"No, they won't. And I'll help you. I'll run with you every morning before school.\"",
+    "So for three weeks, Amira and Daniel ran in the park at seven o'clock. At first, Amira stopped every few minutes. Her legs hurt, and she felt tired. But slowly she got stronger. By the third week, she could run without stopping.",
+    "On the morning of the race, it was cold and wet. Amira looked at the dark sky. \"It will rain,\" she said. \"The field will be muddy. I'll fall over!\" \"Then you'll get up again,\" Daniel laughed.",
+    "The race started. Soon the rain came, and the ground got very muddy. Amira slipped once, but she got up quickly and ran on. Some fast runners were far in front of her. She didn't stop. She thought about the cold mornings in the park. \"I won't stop now,\" she said to herself.",
+    "Amira wasn't the first, but she wasn't the last. She finished in twenty-third place out of forty runners. Her clothes were brown with mud, but she was smiling. \"I knew you could do it,\" said Daniel. Amira laughed. \"Next year, I'll be faster. Maybe I'll beat you!\""
+   ],
+   "words": [
+    {
+     "w": "race",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/reɪs/",
+     "syl": [
+      "race"
+     ],
+     "def": "a competition to see who is the fastest",
+     "ex": "Tom won the race at sports day."
+    },
+    {
+     "w": "worried",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈwʌr.id/",
+     "syl": [
+      "wor",
+      "ried"
+     ],
+     "def": "thinking bad things may happen",
+     "ex": "I'm worried about the maths test."
+    },
+    {
+     "w": "kilometre",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɪl.ə.miː.tə/",
+     "syl": [
+      "ki",
+      "lo",
+      "me",
+      "tre"
+     ],
+     "def": "1,000 metres",
+     "ex": "My school is one kilometre from my house."
+    },
+    {
+     "w": "tired",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈtaɪ.əd/",
+     "syl": [
+      "ti",
+      "red"
+     ],
+     "def": "needing rest or sleep",
+     "ex": "I was tired after the long walk."
+    },
+    {
+     "w": "field",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/fiːld/",
+     "syl": [
+      "field"
+     ],
+     "def": "an area of grass for sport or farm animals",
+     "ex": "We play football on the school field."
+    },
+    {
+     "w": "muddy",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈmʌd.i/",
+     "syl": [
+      "mud",
+      "dy"
+     ],
+     "def": "covered with wet, soft earth",
+     "ex": "Take off your muddy boots, please."
+    },
+    {
+     "w": "mud",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/mʌd/",
+     "syl": [
+      "mud"
+     ],
+     "def": "wet, soft earth",
+     "ex": "There was mud all over the dog."
+    },
+    {
+     "w": "runner",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈrʌn.ə/",
+     "syl": [
+      "run",
+      "ner"
+     ],
+     "def": "a person who runs, often in races",
+     "ex": "She is the fastest runner in our class."
+    },
+    {
+     "w": "beat",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/biːt/",
+     "syl": [
+      "beat"
+     ],
+     "def": "to win against someone",
+     "ex": "Can you beat me at chess?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "So she was worried when Ms Clark, her PE teacher, put her name on the list for the school cross-country race.",
+     "kind": "Main idea",
+     "note": "This is Amira's problem."
+    },
+    {
+     "para": 2,
+     "text": "I'll run with you every morning before school.",
+     "kind": "Grammar to notice",
+     "note": "will for an offer of help."
+    },
+    {
+     "para": 3,
+     "text": "But slowly she got stronger.",
+     "kind": "Cause → effect",
+     "note": "Running every morning made Amira stronger."
+    },
+    {
+     "para": 6,
+     "text": "Amira wasn't the first, but she wasn't the last.",
+     "kind": "Key details",
+     "note": "This is how the story ends."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "a girl who wins a swimming race",
+      "a boy who teaches PE at school",
+      "a girl who practises and finishes a hard race"
+     ],
+     "a": 2,
+     "why": "第1段讲问题（Amira 不爱跑步却要参赛），第3–6段讲她练习并跑完比赛。",
+     "evidence": null,
+     "optWhy": [
+      "Amira 擅长游泳，但故事讲的是跑步比赛。",
+      "Daniel 是她的朋友，教体育的是 Ms Clark，而且这不是主题。",
+      "正确。原文 ran in the park … three weeks + she wasn't the last = 选项 practises and finishes a hard race。"
+     ],
+     "traps": [
+      "细节偷换",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "问题：she was worried … cross-country race。"
+      },
+      {
+       "h": "看结尾",
+       "t": "结局：she wasn't the last → 练习后跑完了。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Why was Amira worried?",
+     "opts": [
+      "Her name was on the list for the race.",
+      "She lost her swimming things.",
+      "Ms Clark was angry with her."
+     ],
+     "a": 0,
+     "why": "第1段原文：she was worried when Ms Clark … put her name on the list for the school cross-country race。",
+     "evidence": "So she was worried when Ms Clark, her PE teacher, put her name on the list for the school cross-country race.",
+     "optWhy": [
+      "正确。原文 put her name on the list for the … race = 选项 Her name was on the list for the race.",
+      "文中没说她丢了游泳用品。",
+      "文中没说老师生气。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "worried → 第1段。"
+      },
+      {
+       "h": "看 when 后面",
+       "t": "when 后面就是让她担心的事。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "How long did Amira and Daniel practise in the park?",
+     "opts": [
+      "three days",
+      "three months",
+      "three weeks"
+     ],
+     "a": 2,
+     "why": "第3段原文：So for three weeks, Amira and Daniel ran in the park。",
+     "evidence": "So for three weeks, Amira and Daniel ran in the park at seven o'clock.",
+     "optWhy": [
+      "原文是 weeks，不是 days。",
+      "原文是 weeks，不是 months。",
+      "正确。原文 for three weeks = 选项 three weeks。"
+     ],
+     "traps": [
+      "数字偷换",
+      "数字偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "park → 第3段。"
+      },
+      {
+       "h": "看时间词",
+       "t": "for three weeks，注意单位 weeks。"
+      }
+     ],
+     "marks": [
+      "for three weeks"
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, what does \"muddy\" mean in \"The field will be muddy\"?",
+     "opts": [
+      "wet and dirty",
+      "dry and hot",
+      "full of people"
+     ],
+     "a": 0,
+     "why": "第4段 it was cold and wet，下雨后地面会 muddy，即又湿又脏；第6段也说 brown with mud。",
+     "evidence": "The field will be muddy.",
+     "optWhy": [
+      "正确。原文 cold and wet + rain → muddy = 选项 wet and dirty。",
+      "与原文相反：那天 cold and wet。",
+      "文中没说操场上人多。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看上下文",
+       "t": "cold and wet + It will rain → 地面会怎样？"
+      },
+      {
+       "h": "找线索",
+       "t": "第6段 brown with mud 也说明是泥。"
+      }
+     ],
+     "marks": [
+      "muddy",
+      "cold and wet"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Amira stopped running after she slipped.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第5段原文：she got up quickly and ran on … She didn't stop.",
+     "evidence": "Amira slipped once, but she got up quickly and ran on.",
+     "optWhy": [
+      "原文说 she got up quickly and ran on，她没停。",
+      "正确。原文 got up quickly and ran on / She didn't stop 与题干 stopped running 相反 → Wrong。",
+      "原文说得很清楚，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "slipped → 第5段。"
+      },
+      {
+       "h": "看 but",
+       "t": "but she got up quickly and ran on → 没停。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How did Amira feel at the end of the race?",
+     "opts": [
+      "happy",
+      "angry",
+      "sad"
+     ],
+     "a": 0,
+     "why": "第6段原文：but she was smiling，而且她还笑着说 Next year, I'll beat you!",
+     "evidence": "Her clothes were brown with mud, but she was smiling.",
+     "optWhy": [
+      "正确。原文 she was smiling / Amira laughed = 选项 happy。",
+      "文中没有生气的意思。",
+      "她在笑，和 sad 相反。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "the end → 第6段。"
+      },
+      {
+       "h": "找感受词",
+       "t": "smiling, laughed → 开心。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "will / won't: predictions and offers",
+    "rule": "Use will + verb to say what you think will happen. Use won't (will not) for the negative. We also use I'll + verb to offer help at the moment we speak.",
+    "table": [
+     [
+      "prediction",
+      "It will rain."
+     ],
+     [
+      "negative",
+      "No, they won't."
+     ],
+     [
+      "offer",
+      "I'll help you."
+     ],
+     [
+      "short form",
+      "I will → I'll, will not → won't"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Everyone will laugh at me.",
+      "mark": "will laugh"
+     },
+     {
+      "para": 2,
+      "text": "No, they won't.",
+      "mark": "won't"
+     },
+     {
+      "para": 2,
+      "text": "I'll run with you every morning before school.",
+      "mark": "I'll run"
+     },
+     {
+      "para": 4,
+      "text": "The field will be muddy.",
+      "mark": "will be"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "That bag looks heavy. I ___ carry it for you.",
+      "opts": [
+       "'ll",
+       "won't",
+       "am"
+      ],
+      "a": 0,
+      "why": "An offer of help: I'll + verb."
+     },
+     {
+      "type": "mc",
+      "q": "Don't worry. The test ___ be difficult.",
+      "opts": [
+       "isn't going",
+       "won't",
+       "not will"
+      ],
+      "a": 1,
+      "why": "The negative of will is won't."
+     },
+     {
+      "type": "mc",
+      "q": "I think our team ___ the match on Saturday.",
+      "opts": [
+       "wins",
+       "will win",
+       "will wins"
+      ],
+      "a": 1,
+      "why": "will + verb, and the verb doesn't change."
+     },
+     {
+      "type": "fill",
+      "q": "It's very cold. I think it ___ tomorrow.",
+      "hint": "(snow)",
+      "a": "will snow / 'll snow",
+      "why": "A prediction: will + snow."
+     },
+     {
+      "type": "fill",
+      "q": "\"I'm thirsty.\" \"Wait. I ___ you a glass of water.\"",
+      "hint": "(get)",
+      "a": "'ll get / will get",
+      "why": "An offer at the moment of speaking: I'll."
+     },
+     {
+      "type": "fill",
+      "q": "Take an umbrella, or you ___ wet!",
+      "hint": "(get)",
+      "a": "will get / 'll get",
+      "why": "A prediction about what happens next."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261119-3-k1",
+     "tag": "Problem",
+     "fact": "Amira was good at swimming, but running was hard for her.",
+     "q": "What was Amira good at?",
+     "opts": [
+      "running",
+      "swimming",
+      "football"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261119-3-k2",
+     "tag": "Daniel's offer",
+     "fact": "Daniel said he would run with Amira every morning.",
+     "q": "How did Daniel help Amira?",
+     "opts": [
+      "He ran with her every morning.",
+      "He gave her new shoes.",
+      "He talked to Ms Clark."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261119-3-k3",
+     "tag": "Practice",
+     "fact": "After three weeks, Amira could run without stopping.",
+     "q": "What could Amira do by the third week?",
+     "opts": [
+      "win a race",
+      "swim five kilometres",
+      "run without stopping"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261119-3-k4",
+     "tag": "Race day",
+     "fact": "It rained, and the field was very muddy.",
+     "q": "What was the weather like on race day?",
+     "opts": [
+      "sunny and hot",
+      "cold and wet",
+      "windy and dry"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261119-3-k5",
+     "tag": "Ending",
+     "fact": "Amira finished 23rd out of 40 runners.",
+     "q": "What place did Amira finish in?",
+     "opts": [
+      "first",
+      "last",
+      "twenty-third"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Amira's race",
+    "question": "How did Amira get ready for the race?",
+    "branches": [
+     {
+      "title": "Problem",
+      "paras": "1–2",
+      "blanks": [
+       "didn't like running",
+       "I'll be the last"
+      ],
+      "kps": [
+       "k20261119-3-k1"
+      ]
+     },
+     {
+      "title": "Help",
+      "paras": "2–3",
+      "blanks": [
+       "every morning",
+       "in the park"
+      ],
+      "kps": [
+       "k20261119-3-k2",
+       "k20261119-3-k3"
+      ]
+     },
+     {
+      "title": "Race day",
+      "paras": "4–5",
+      "blanks": [
+       "cold and wet",
+       "slipped once"
+      ],
+      "kps": [
+       "k20261119-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6",
+      "blanks": [
+       "twenty-third place"
+      ],
+      "kps": [
+       "k20261119-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "new running shoes",
+     "she came first"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "Amira was worried about the race, but Daniel helped her practise. She slipped in the mud, but she didn't stop, so she finished the race.",
+    "options": [
+     {
+      "t": "Amira was worried because running was hard for her.",
+      "ok": true,
+      "why": "This is the problem in the story.",
+      "type": "main",
+      "para": 1,
+      "evidence": "So she was worried when Ms Clark, her PE teacher, put her name on the list for the school cross-country race."
+     },
+     {
+      "t": "Daniel ran with her every morning, and she got stronger.",
+      "ok": true,
+      "why": "This is how Amira got ready.",
+      "type": "main",
+      "para": 3,
+      "evidence": "But slowly she got stronger."
+     },
+     {
+      "t": "In the muddy race, Amira didn't stop and wasn't the last.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Amira wasn't the first, but she wasn't the last."
+     },
+     {
+      "t": "They practised in the park at seven o'clock.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "So for three weeks, Amira and Daniel ran in the park at seven o'clock."
+     },
+     {
+      "t": "Ms Clark gave Amira a prize after the race.",
+      "ok": false,
+      "why": "The story never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Amira finished the race in first place.",
+      "ok": false,
+      "why": "Wrong: she wasn't the first.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "Amira wasn't the first, but she wasn't the last."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like running or another sport? Why? Is there a sport that is hard for you?",
+    "hint": "I really like … because … / … is hard for me, but …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story. It begins: \"On the day of the big match, it started to rain…\" Write 35 words or more.",
+    "steps": [
+     "Say who was playing.",
+     "Say what problem happened.",
+     "Say how the story ends."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · male"
+  }
+ ],
+ "audio": {
+  "Do you like eating popcorn at the cinema? It is light, warm and crunchy. But every piece starts as a small, hard yellow seed. How does a tiny seed turn into a big white snack? Let's find out step by step.": "audio/2026-11-19/a1-p1.mp3",
+  "First, popcorn is a special kind of corn. Every seed, or kernel, has a very hard skin. Inside the skin, there is soft starch and a little water. About fourteen percent of the kernel is water. That small drop of water is the secret.": "audio/2026-11-19/a1-p2.mp3",
+  "Next, you heat the kernels. When they get hot, the water inside turns into steam. Steam needs a lot of space, but it can't get out through the hard skin. So the pressure inside the kernel grows and grows.": "audio/2026-11-19/a1-p3.mp3",
+  "At about 180 degrees Celsius, the skin can't hold the steam any more. Suddenly it breaks open with a loud pop! The soft starch comes out and turns into a white foam. It cools very quickly and becomes crunchy. A popped kernel can be twenty to fifty times bigger than before!": "audio/2026-11-19/a1-p4.mp3",
+  "Why do some kernels stay hard at the bottom of the bowl? Usually they are too dry. With too little water, there isn't enough steam to break the skin. That is why you shouldn't keep popcorn kernels in a warm, dry place. You should keep them in a closed box.": "audio/2026-11-19/a1-p5.mp3",
+  "Do you want to make popcorn at home? You should always ask an adult for help, because hot oil is dangerous. You should put a lid on the pan, or the popcorn will fly everywhere! And you shouldn't eat the hard kernels, because they can hurt your teeth.": "audio/2026-11-19/a1-p6.mp3",
+  "People have enjoyed popcorn for a very long time. Scientists found very old popcorn in Peru, in South America. It is more than six thousand years old! So next time you hear that pop, remember the tiny drop of water inside.": "audio/2026-11-19/a1-p7.mp3",
+  "kernel": "audio/2026-11-19/a1-w-kernel.mp3",
+  "There is one hard kernel in my bowl.": "audio/2026-11-19/a1-ex-kernel.mp3",
+  "steam": "audio/2026-11-19/a1-w-steam.mp3",
+  "Steam is coming out of the pot.": "audio/2026-11-19/a1-ex-steam.mp3",
+  "pressure": "audio/2026-11-19/a1-w-pressure.mp3",
+  "The pressure in the ball is too high.": "audio/2026-11-19/a1-ex-pressure.mp3",
+  "skin": "audio/2026-11-19/a1-w-skin.mp3",
+  "Wash the apple, but don't take off the skin.": "audio/2026-11-19/a1-ex-skin.mp3",
+  "crunchy": "audio/2026-11-19/a1-w-crunchy.mp3",
+  "I love crunchy apples.": "audio/2026-11-19/a1-ex-crunchy.mp3",
+  "snack": "audio/2026-11-19/a1-w-snack.mp3",
+  "I eat a snack after school.": "audio/2026-11-19/a1-ex-snack.mp3",
+  "suddenly": "audio/2026-11-19/a1-w-suddenly.mp3",
+  "Suddenly the lights went out.": "audio/2026-11-19/a1-ex-suddenly.mp3",
+  "dangerous": "audio/2026-11-19/a1-w-dangerous.mp3",
+  "It is dangerous to play near the road.": "audio/2026-11-19/a1-ex-dangerous.mp3",
+  "lid": "audio/2026-11-19/a1-w-lid.mp3",
+  "Put the lid on the box, please.": "audio/2026-11-19/a1-ex-lid.mp3",
+  "secret": "audio/2026-11-19/a1-w-secret.mp3",
+  "The secret of good bread is time.": "audio/2026-11-19/a1-ex-secret.mp3",
+  "How does a tiny seed turn into a big white snack?": "audio/2026-11-19/a1-ks1.mp3",
+  "When they get hot, the water inside turns into steam.": "audio/2026-11-19/a1-ks2.mp3",
+  "Suddenly it breaks open with a loud pop!": "audio/2026-11-19/a1-ks3.mp3",
+  "You should always ask an adult for help, because hot oil is dangerous.": "audio/2026-11-19/a1-ks4.mp3",
+  "That is why you shouldn't keep popcorn kernels in a warm, dry place.": "audio/2026-11-19/a1-g1.mp3",
+  "You should keep them in a closed box.": "audio/2026-11-19/a1-g2.mp3",
+  "And you shouldn't eat the hard kernels, because they can hurt your teeth.": "audio/2026-11-19/a1-g4.mp3",
+  "Lucas and Mia are in Year 8 at Riverside School. Next Friday, their school is having a science fair. Every pair of students must show a project. Read their emails.": "audio/2026-11-19/a2-p1.mp3",
+  "Hi Mia, Good news! Mr Okafor said yes to our idea. We're going to make a small water filter from a plastic bottle, sand and stones. Then we're going to clean some dirty water from the river. I think the visitors are going to love it! After the fair, we're going to give the filter to our science class.": "audio/2026-11-19/a2-p2.mp3",
+  "I've got a very busy week. I'm playing football on Tuesday afternoon, and I'm visiting my grandma on Wednesday. Can we meet on Thursday after school? We need to practise our talk. It's only five minutes long, but I don't want to forget anything. Lucas": "audio/2026-11-19/a2-p3.mp3",
+  "Hi Lucas, That's great news! Thursday is fine for me. I'm not doing anything after school that day. We can meet in the science room at four o'clock. Mr Okafor is staying late, so he can help us.": "audio/2026-11-19/a2-p4.mp3",
+  "I'm going to buy the sand at the garden shop tomorrow. My dad is driving me there after lunch. Can you bring two big bottles? My family doesn't buy drinks in plastic bottles any more. Also, I'm not going to speak first in our talk. I'm too nervous! Can you start? Love, Mia": "audio/2026-11-19/a2-p5.mp3",
+  "Hi Mia, No problem. I'm going to start the talk, and you can show the water filter. My mum is coming to the fair too. She's taking photos for the school website. See you on Thursday! Lucas": "audio/2026-11-19/a2-p6.mp3",
+  "fair": "audio/2026-11-19/a2-w-fair.mp3",
+  "We saw a lot of robots at the science fair.": "audio/2026-11-19/a2-ex-fair.mp3",
+  "project": "audio/2026-11-19/a2-w-project.mp3",
+  "Our project is about birds.": "audio/2026-11-19/a2-ex-project.mp3",
+  "filter": "audio/2026-11-19/a2-w-filter.mp3",
+  "This filter makes the water clean.": "audio/2026-11-19/a2-ex-filter.mp3",
+  "plastic": "audio/2026-11-19/a2-w-plastic.mp3",
+  "Please don't use plastic bags.": "audio/2026-11-19/a2-ex-plastic.mp3",
+  "sand": "audio/2026-11-19/a2-w-sand.mp3",
+  "The children played in the sand.": "audio/2026-11-19/a2-ex-sand.mp3",
+  "dirty": "audio/2026-11-19/a2-w-dirty.mp3",
+  "Your shoes are dirty. Take them off.": "audio/2026-11-19/a2-ex-dirty.mp3",
+  "visitor": "audio/2026-11-19/a2-w-visitor.mp3",
+  "Every visitor got a map of the school.": "audio/2026-11-19/a2-ex-visitor.mp3",
+  "practise": "audio/2026-11-19/a2-w-practise.mp3",
+  "I practise the piano every day.": "audio/2026-11-19/a2-ex-practise.mp3",
+  "website": "audio/2026-11-19/a2-w-website.mp3",
+  "Look at the school website for the news.": "audio/2026-11-19/a2-ex-website.mp3",
+  "We're going to make a small water filter from a plastic bottle, sand and stones.": "audio/2026-11-19/a2-ks1.mp3",
+  "I'm playing football on Tuesday afternoon, and I'm visiting my grandma on Wednesday.": "audio/2026-11-19/a2-ks2.mp3",
+  "Mr Okafor is staying late, so he can help us.": "audio/2026-11-19/a2-ks3.mp3",
+  "I'm too nervous!": "audio/2026-11-19/a2-ks4.mp3",
+  "Then we're going to clean some dirty water from the river.": "audio/2026-11-19/a2-g1.mp3",
+  "I'm going to buy the sand at the garden shop tomorrow.": "audio/2026-11-19/a2-g3.mp3",
+  "My mum is coming to the fair too.": "audio/2026-11-19/a2-g4.mp3",
+  "Amira didn't like running. She was good at swimming, but running was hard for her. So she was worried when Ms Clark, her PE teacher, put her name on the list for the school cross-country race.": "audio/2026-11-19/a3-p1.mp3",
+  "\"I can't do it,\" Amira said to her friend Daniel. \"The race is five kilometres. I'll be the last. Everyone will laugh at me.\" Daniel smiled. \"No, they won't. And I'll help you. I'll run with you every morning before school.\"": "audio/2026-11-19/a3-p2.mp3",
+  "So for three weeks, Amira and Daniel ran in the park at seven o'clock. At first, Amira stopped every few minutes. Her legs hurt, and she felt tired. But slowly she got stronger. By the third week, she could run without stopping.": "audio/2026-11-19/a3-p3.mp3",
+  "On the morning of the race, it was cold and wet. Amira looked at the dark sky. \"It will rain,\" she said. \"The field will be muddy. I'll fall over!\" \"Then you'll get up again,\" Daniel laughed.": "audio/2026-11-19/a3-p4.mp3",
+  "The race started. Soon the rain came, and the ground got very muddy. Amira slipped once, but she got up quickly and ran on. Some fast runners were far in front of her. She didn't stop. She thought about the cold mornings in the park. \"I won't stop now,\" she said to herself.": "audio/2026-11-19/a3-p5.mp3",
+  "Amira wasn't the first, but she wasn't the last. She finished in twenty-third place out of forty runners. Her clothes were brown with mud, but she was smiling. \"I knew you could do it,\" said Daniel. Amira laughed. \"Next year, I'll be faster. Maybe I'll beat you!\"": "audio/2026-11-19/a3-p6.mp3",
+  "race": "audio/2026-11-19/a3-w-race.mp3",
+  "Tom won the race at sports day.": "audio/2026-11-19/a3-ex-race.mp3",
+  "worried": "audio/2026-11-19/a3-w-worried.mp3",
+  "I'm worried about the maths test.": "audio/2026-11-19/a3-ex-worried.mp3",
+  "kilometre": "audio/2026-11-19/a3-w-kilometre.mp3",
+  "My school is one kilometre from my house.": "audio/2026-11-19/a3-ex-kilometre.mp3",
+  "tired": "audio/2026-11-19/a3-w-tired.mp3",
+  "I was tired after the long walk.": "audio/2026-11-19/a3-ex-tired.mp3",
+  "field": "audio/2026-11-19/a3-w-field.mp3",
+  "We play football on the school field.": "audio/2026-11-19/a3-ex-field.mp3",
+  "muddy": "audio/2026-11-19/a3-w-muddy.mp3",
+  "Take off your muddy boots, please.": "audio/2026-11-19/a3-ex-muddy.mp3",
+  "mud": "audio/2026-11-19/a3-w-mud.mp3",
+  "There was mud all over the dog.": "audio/2026-11-19/a3-ex-mud.mp3",
+  "runner": "audio/2026-11-19/a3-w-runner.mp3",
+  "She is the fastest runner in our class.": "audio/2026-11-19/a3-ex-runner.mp3",
+  "beat": "audio/2026-11-19/a3-w-beat.mp3",
+  "Can you beat me at chess?": "audio/2026-11-19/a3-ex-beat.mp3",
+  "So she was worried when Ms Clark, her PE teacher, put her name on the list for the school cross-country race.": "audio/2026-11-19/a3-ks1.mp3",
+  "I'll run with you every morning before school.": "audio/2026-11-19/a3-ks2.mp3",
+  "But slowly she got stronger.": "audio/2026-11-19/a3-ks3.mp3",
+  "Amira wasn't the first, but she wasn't the last.": "audio/2026-11-19/a3-ks4.mp3",
+  "Everyone will laugh at me.": "audio/2026-11-19/a3-g1.mp3",
+  "No, they won't.": "audio/2026-11-19/a3-g2.mp3",
+  "The field will be muddy.": "audio/2026-11-19/a3-g4.mp3"
+ }
+}
