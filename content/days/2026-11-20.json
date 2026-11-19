@@ -1,0 +1,2106 @@
+{
+ "date": "2026-11-20",
+ "headline": "Touch screens, a packing blog and fifty years on one street",
+ "teaser": "How does your phone know where your finger is? Has Sofia's family packed yet? What has Mr Mensah seen in fifty years?",
+ "articles": [
+  {
+   "id": "k20261120-1",
+   "topic": "Technology",
+   "genre": "Article",
+   "title": "How Does a Touch Screen Work?",
+   "dek": "You touch your phone every day. But how does it know where your finger is?",
+   "sources": [
+    {
+     "name": "Wikipedia: Touchscreen",
+     "url": "https://en.wikipedia.org/wiki/Touchscreen"
+    },
+    {
+     "name": "ScienceAlert: How does a touchscreen actually work?",
+     "url": "https://www.sciencealert.com/how-does-a-touchscreen-actually-work"
+    },
+    {
+     "name": "Embedded Computing Design: The Royal Air Force and the invention of the modern touchscreen",
+     "url": "https://embeddedcomputing.com/home-page/the-royal-air-force-and-the-invention-of-the-modern-touch-screen"
+    }
+   ],
+   "paras": [
+    "Have you ever used a touch screen? Of course you have! Phones, tablets and even some classroom boards have got one. You touch the glass, and the screen answers. But how does it know where your finger is? Let's find out step by step.",
+    "First, look at the screen of a phone. Under the glass, there is a very thin layer. You can't see it, but it carries a little electricity. It works like a net of tiny lines across the whole screen.",
+    "Your body can carry electricity too, because it has a lot of water and salt inside. When your finger touches the glass, the electricity in the layer changes a little at that place. Don't worry. It is much too small to feel. A tiny computer chip in the phone notices the change. Then it finds the exact place of your finger in less than a second.",
+    "Have you ever tried to use your phone with winter gloves on? It doesn't work, does it? Cloth can't carry electricity, so the screen doesn't notice your finger. Some gloves have special thread in the fingertips. This thread can carry electricity. With these gloves, you can send messages in the snow!",
+    "A phone screen doesn't need a hard push. A soft touch is enough. That is why a wooden pencil doesn't work on it. But some older screens, like the ones on ticket machines, were different. You had to press them hard with your finger.",
+    "Touch screens are not new. Eric Johnson, a British engineer, made one of the first finger touch screens in 1965. He wanted to help people who control planes in the sky. For many years after that, most families didn't have computers at home.",
+    "Today, many children have never used a phone with buttons! But a lot of grandparents have never had a phone with a screen like yours. Ask your grandma or grandpa: \"Have you ever used a touch screen?\" Maybe you can show them how it works."
+   ],
+   "words": [
+    {
+     "w": "screen",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skriːn/",
+     "syl": [
+      "screen"
+     ],
+     "def": "the flat glass part of a phone, TV or computer",
+     "ex": "My tablet has got a big screen."
+    },
+    {
+     "w": "layer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈleɪ.ə/",
+     "syl": [
+      "lay",
+      "er"
+     ],
+     "def": "a thin part that lies on or under another part",
+     "ex": "There is a layer of snow on the car."
+    },
+    {
+     "w": "electricity",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɪ.lekˈtrɪs.ə.ti/",
+     "syl": [
+      "e",
+      "lec",
+      "tric",
+      "i",
+      "ty"
+     ],
+     "def": "power that makes lights and machines work",
+     "ex": "This lamp doesn't need electricity. It uses the sun."
+    },
+    {
+     "w": "chip",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tʃɪp/",
+     "syl": [
+      "chip"
+     ],
+     "def": "a very small part inside a computer that does the work",
+     "ex": "Every phone has got a computer chip inside."
+    },
+    {
+     "w": "notice",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈnəʊ.tɪs/",
+     "syl": [
+      "no",
+      "tice"
+     ],
+     "def": "to see or feel that something is there",
+     "ex": "Did you notice the new picture in the hall?"
+    },
+    {
+     "w": "exact",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪɡˈzækt/",
+     "syl": [
+      "ex",
+      "act"
+     ],
+     "def": "completely correct, not more and not less",
+     "ex": "What is the exact time, please?"
+    },
+    {
+     "w": "glove",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ɡlʌv/",
+     "syl": [
+      "glove"
+     ],
+     "def": "a warm thing you wear on your hand",
+     "ex": "I lost one glove on the bus."
+    },
+    {
+     "w": "thread",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/θred/",
+     "syl": [
+      "thread"
+     ],
+     "def": "a long, thin piece of cotton for making clothes",
+     "ex": "Grandma needs some red thread for my coat."
+    },
+    {
+     "w": "press",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/pres/",
+     "syl": [
+      "press"
+     ],
+     "def": "to push something with your finger",
+     "ex": "Press the green button to start."
+    },
+    {
+     "w": "engineer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˌen.dʒɪˈnɪə/",
+     "syl": [
+      "en",
+      "gi",
+      "neer"
+     ],
+     "def": "a person who plans and builds machines",
+     "ex": "My aunt is an engineer. She builds bridges."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But how does it know where your finger is?",
+     "kind": "Main idea",
+     "note": "This is the question the article answers."
+    },
+    {
+     "para": 3,
+     "text": "Your body can carry electricity too, because it has a lot of water and salt inside.",
+     "kind": "Cause → effect",
+     "note": "Water and salt help your body carry electricity."
+    },
+    {
+     "para": 4,
+     "text": "Cloth can't carry electricity, so the screen doesn't notice your finger.",
+     "kind": "Cause → effect",
+     "note": "This is why winter gloves don't work."
+    },
+    {
+     "para": 6,
+     "text": "Eric Johnson, a British engineer, made one of the first finger touch screens in 1965.",
+     "kind": "Key details",
+     "note": "Touch screens are about sixty years old."
+    },
+    {
+     "para": 7,
+     "text": "Today, many children have never used a phone with buttons!",
+     "kind": "Grammar to notice",
+     "note": "have never + past participle: not at any time in your life."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "how a touch screen finds your finger",
+      "how to choose a cheap phone",
+      "why phones are bad for children"
+     ],
+     "a": 0,
+     "why": "第1段提出问题 how does it know where your finger is?，后面几段一步步回答。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 how does it know where your finger is = 选项 how a touch screen finds your finger。",
+      "文章没教人怎么买便宜手机。",
+      "文章没说手机对孩子不好。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段末尾的问题就是全文主题。"
+      },
+      {
+       "h": "看全文",
+       "t": "第2–5段都在讲屏幕怎么发现手指。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why can your body carry electricity?",
+     "opts": [
+      "because you often hold a phone",
+      "because it has water and salt inside",
+      "because your skin is warm"
+     ],
+     "a": 1,
+     "why": "第3段原文：because it has a lot of water and salt inside。",
+     "evidence": "Your body can carry electricity too, because it has a lot of water and salt inside.",
+     "optWhy": [
+      "文中没说拿手机会让身体导电。",
+      "正确。原文 it has a lot of water and salt inside = 选项 it has water and salt inside。",
+      "文中没提到皮肤温度。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "Why … carry electricity → 第3段第1句。"
+      },
+      {
+       "h": "看 because",
+       "t": "because 后面就是原因：water and salt。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "You can feel the electricity when you touch the screen.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段原文：It is much too small to feel.，所以感觉不到。",
+     "evidence": "It is much too small to feel.",
+     "optWhy": [
+      "原文说太小感觉不到，与题干相反。",
+      "正确。原文 much too small to feel = 感觉不到，题干说能感觉到 → Wrong。",
+      "原文明确说了感觉不到，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "feel → 第3段 Don't worry 后面。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文说了相反的意思 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Why don't winter gloves work on a phone screen?",
+     "opts": [
+      "The screen is too cold.",
+      "The gloves are too big.",
+      "Cloth can't carry electricity."
+     ],
+     "a": 2,
+     "why": "第4段原文：Cloth can't carry electricity, so the screen doesn't notice your finger.",
+     "evidence": "Cloth can't carry electricity, so the screen doesn't notice your finger.",
+     "optWhy": [
+      "文中没说屏幕太冷。",
+      "文中没说手套太大。",
+      "正确。原文 Cloth can't carry electricity = 选项 Cloth can't carry electricity。"
+     ],
+     "traps": [
+      "无中生有",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "gloves → 第4段。"
+      },
+      {
+       "h": "看 so",
+       "t": "so 前面是原因：Cloth can't carry electricity。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what does \"press\" mean?",
+     "opts": [
+      "push with your finger",
+      "look at carefully",
+      "clean with a cloth"
+     ],
+     "a": 0,
+     "why": "第5段说老屏幕需要 a hard push，所以 press = 用手指用力按。",
+     "evidence": "You had to press them hard with your finger.",
+     "optWhy": [
+      "正确。前文 A phone screen doesn't need a hard push 对比 press them hard = 选项 push with your finger。",
+      "press 不是“看”。",
+      "press 不是“擦干净”。"
+     ],
+     "traps": [
+      null,
+      "望文生义",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看上下文",
+       "t": "前面说 hard push，后面说 press them hard。"
+      },
+      {
+       "h": "代回验证",
+       "t": "push them hard with your finger 意思通顺。"
+      }
+     ],
+     "marks": [
+      "press",
+      "A phone screen doesn't need a hard push."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In paragraph 6, who is \"He\" in \"He wanted to help people who control planes in the sky\"?",
+     "opts": [
+      "a pilot",
+      "Eric Johnson",
+      "a grandpa"
+     ],
+     "a": 1,
+     "why": "往前一句：Eric Johnson, a British engineer, made one of the first finger touch screens，He 指 Eric Johnson。",
+     "evidence": "Eric Johnson, a British engineer, made one of the first finger touch screens in 1965.",
+     "optWhy": [
+      "文中没提到飞行员。",
+      "正确。前一句的人 Eric Johnson = 选项 Eric Johnson。",
+      "grandpa 在第7段，和这句无关。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "He 前面最近的男性：Eric Johnson。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Eric Johnson wanted to help people … 意思通顺。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present perfect with ever / never",
+    "rule": "Use have / has + past participle to talk about experiences in your life. Ask with ever: Have you ever …? Say no with never: I have never …. Don't say the time.",
+    "table": [
+     [
+      "question",
+      "Have you ever used a touch screen?"
+     ],
+     [
+      "yes",
+      "Yes, I have."
+     ],
+     [
+      "no",
+      "No, I haven't. / I've never used one."
+     ],
+     [
+      "he / she",
+      "She has never had a phone."
+     ],
+     [
+      "use → used",
+      "try → tried"
+     ],
+     [
+      "see → seen",
+      "be → been"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Have you ever used a touch screen?",
+      "mark": "Have you ever used"
+     },
+     {
+      "para": 4,
+      "text": "Have you ever tried to use your phone with winter gloves on?",
+      "mark": "Have you ever tried"
+     },
+     {
+      "para": 7,
+      "text": "Today, many children have never used a phone with buttons!",
+      "mark": "have never used"
+     },
+     {
+      "para": 7,
+      "text": "But a lot of grandparents have never had a phone with a screen like yours.",
+      "mark": "have never had"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ you ever made a video on your phone?",
+      "opts": [
+       "Did",
+       "Have",
+       "Has"
+      ],
+      "a": 1,
+      "why": "Experience question with ever: Have + you + ever + past participle."
+     },
+     {
+      "type": "mc",
+      "q": "My grandpa has never ___ a computer.",
+      "opts": [
+       "use",
+       "used",
+       "using"
+      ],
+      "a": 1,
+      "why": "After has never we use the past participle: used."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ never ___ a robot in real life.",
+      "hint": "(see)",
+      "a": "have, seen / 've, seen",
+      "why": "I have never seen: see → seen."
+     },
+     {
+      "type": "fill",
+      "q": "___ your sister ever ___ a laptop to school?",
+      "hint": "(take)",
+      "a": "Has, taken",
+      "why": "Has for he / she; take → taken."
+     },
+     {
+      "type": "fill",
+      "q": "We ___ never ___ to a technology museum. Let's go!",
+      "hint": "(be)",
+      "a": "have, been / 've, been",
+      "why": "Experience of places: have been to."
+     },
+     {
+      "type": "fill",
+      "q": "Tom's phone ___ never ___ . He is very careful.",
+      "hint": "(break)",
+      "a": "has, broken",
+      "why": "has never + broken (break → broke → broken)."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261120-1-k1",
+     "tag": "The layer",
+     "fact": "Under the glass of a phone screen, there is a thin layer that carries electricity.",
+     "q": "What is under the glass?",
+     "opts": [
+      "a thin layer",
+      "some water",
+      "a small light"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261120-1-k2",
+     "tag": "Your body",
+     "fact": "Your body can carry electricity because it has water and salt inside.",
+     "q": "Why can your body carry electricity?",
+     "opts": [
+      "It is warm.",
+      "It has water and salt.",
+      "It moves fast."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261120-1-k3",
+     "tag": "The chip",
+     "fact": "A tiny chip notices the change and finds your finger in less than a second.",
+     "q": "What finds the place of your finger?",
+     "opts": [
+      "the glass",
+      "the battery",
+      "a tiny chip"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261120-1-k4",
+     "tag": "Gloves",
+     "fact": "Normal gloves don't work, because cloth can't carry electricity.",
+     "q": "Why don't normal gloves work?",
+     "opts": [
+      "Cloth can't carry electricity.",
+      "They are too warm.",
+      "They are too thin."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261120-1-k5",
+     "tag": "History",
+     "fact": "Eric Johnson made one of the first finger touch screens in 1965.",
+     "q": "When did Eric Johnson make his touch screen?",
+     "opts": [
+      "in 2007",
+      "in 1965",
+      "in 1995"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Touch screens",
+    "question": "How does a touch screen know where your finger is?",
+    "branches": [
+     {
+      "title": "Screen",
+      "paras": "2",
+      "blanks": [
+       "a thin layer",
+       "tiny lines"
+      ],
+      "kps": [
+       "k20261120-1-k1"
+      ]
+     },
+     {
+      "title": "Finger",
+      "paras": "3",
+      "blanks": [
+       "water and salt",
+       "a tiny chip"
+      ],
+      "kps": [
+       "k20261120-1-k2",
+       "k20261120-1-k3"
+      ]
+     },
+     {
+      "title": "Gloves",
+      "paras": "4–5",
+      "blanks": [
+       "special thread",
+       "a soft touch"
+      ],
+      "kps": [
+       "k20261120-1-k4"
+      ]
+     },
+     {
+      "title": "History",
+      "paras": "6–7",
+      "blanks": [
+       "in 1965",
+       "Eric Johnson"
+      ],
+      "kps": [
+       "k20261120-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a hard push",
+     "solar power"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the article.",
+    "model": "A phone screen has a thin layer that carries electricity, and your finger changes it. Gloves don't work because cloth can't carry electricity.",
+    "options": [
+     {
+      "t": "A thin layer under the glass carries a little electricity.",
+      "ok": true,
+      "why": "This is how the screen works.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Under the glass, there is a very thin layer."
+     },
+     {
+      "t": "Your finger changes the electricity, and a chip finds the place.",
+      "ok": true,
+      "why": "This is the main answer to the question.",
+      "type": "main",
+      "para": 3,
+      "evidence": "A tiny computer chip in the phone notices the change."
+     },
+     {
+      "t": "Normal gloves don't work because cloth can't carry electricity.",
+      "ok": true,
+      "why": "This is another important idea.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Cloth can't carry electricity, so the screen doesn't notice your finger."
+     },
+     {
+      "t": "Some ticket machines had older screens.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "But some older screens, like the ones on ticket machines, were different."
+     },
+     {
+      "t": "Touch screens are bad for your eyes.",
+      "ok": false,
+      "why": "The article never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "You must press a phone screen very hard.",
+      "ok": false,
+      "why": "Wrong: a soft touch is enough.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "A soft touch is enough."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Have you ever used a touch screen at school or at home? What do you use it for?",
+    "hint": "I have used … / I've never …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your grandma has never used a touch screen. Write a message to her. Write 25 words or more.",
+    "steps": [
+     "Say what a touch screen is.",
+     "Tell her one thing she can do with it.",
+     "Offer to show her how it works."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261120-2",
+   "topic": "Travel & holidays",
+   "genre": "Blog post",
+   "title": "The Night Before Our Holiday",
+   "dek": "Sofia's family is flying tomorrow. Is everyone ready? Not yet!",
+   "sources": [],
+   "paras": [
+    "Hi everyone! It's Sofia again. Tomorrow my family is flying to Lisbon to visit my grandma for a week. It's ten o'clock at night, and our house is a mess. Here is a list of what we've done and what we haven't done yet.",
+    "Mum has already packed her suitcase. She always plans everything early. Dad hasn't started yet. He says he only needs ten minutes. My little brother Tom has just put his football in his bag. He hasn't packed any clothes yet, but he's got three toys and a torch!",
+    "What about me? I've already chosen my clothes. I've packed four T-shirts, my swimsuit and a warm jumper for the evenings. Grandma's house is near the sea, so I want to swim every day. But I haven't found my sunglasses yet. I think Tom has taken them again!",
+    "We've also had a small problem. Our cat, Pepper, can't come with us. Our neighbour, Mrs Rossi, is going to feed her. I've just written a note for her with all the information. Pepper eats twice a day, and she loves fish.",
+    "Have we printed the plane tickets yet? No, we haven't, because they're on Dad's phone. Have we got our passports? Yes! Mum has already put them in her handbag. She checked them three times!",
+    "Update, half past eleven: Dad has just finished his packing. It took him an hour, not ten minutes! And guess what? Tom has just found my sunglasses under his bed. He says he didn't take them. Now everything is ready.",
+    "Our taxi is coming at five o'clock in the morning, so I'm going to bed now. Do you know any fun places in Lisbon? Write your tips in the comments below! My next post comes from Grandma's kitchen. Bye!"
+   ],
+   "words": [
+    {
+     "w": "mess",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/mes/",
+     "syl": [
+      "mess"
+     ],
+     "def": "a place where things are everywhere, not tidy",
+     "ex": "My bedroom is a mess today."
+    },
+    {
+     "w": "pack",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/pæk/",
+     "syl": [
+      "pack"
+     ],
+     "def": "to put things in a bag for a trip",
+     "ex": "Don't forget to pack your toothbrush."
+    },
+    {
+     "w": "suitcase",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsuːt.keɪs/",
+     "syl": [
+      "suit",
+      "case"
+     ],
+     "def": "a big bag with a handle for travelling",
+     "ex": "My suitcase is too heavy."
+    },
+    {
+     "w": "torch",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tɔːtʃ/",
+     "syl": [
+      "torch"
+     ],
+     "def": "a small light you carry in your hand",
+     "ex": "Take a torch. It's dark in the garden."
+    },
+    {
+     "w": "swimsuit",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈswɪm.suːt/",
+     "syl": [
+      "swim",
+      "suit"
+     ],
+     "def": "clothes you wear to swim",
+     "ex": "She put on her swimsuit and ran to the pool."
+    },
+    {
+     "w": "sunglasses",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsʌŋ.ɡlɑː.sɪz/",
+     "syl": [
+      "sun",
+      "glass",
+      "es"
+     ],
+     "def": "dark glasses that keep the sun out of your eyes",
+     "ex": "I always wear sunglasses at the beach."
+    },
+    {
+     "w": "neighbour",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈneɪ.bə/",
+     "syl": [
+      "neigh",
+      "bour"
+     ],
+     "def": "a person who lives next to you",
+     "ex": "Our neighbour has got a big dog."
+    },
+    {
+     "w": "feed",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/fiːd/",
+     "syl": [
+      "feed"
+     ],
+     "def": "to give food to a person or an animal",
+     "ex": "Can you feed the fish today?"
+    },
+    {
+     "w": "passport",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpɑːs.pɔːt/",
+     "syl": [
+      "pass",
+      "port"
+     ],
+     "def": "a small book you need to go to another country",
+     "ex": "Show your passport at the airport."
+    },
+    {
+     "w": "tip",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tɪp/",
+     "syl": [
+      "tip"
+     ],
+     "def": "a small, useful idea",
+     "ex": "Here is a tip: drink lots of water."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Tomorrow my family is flying to Lisbon to visit my grandma for a week.",
+     "kind": "Main idea",
+     "note": "This is the trip Sofia's family is getting ready for."
+    },
+    {
+     "para": 2,
+     "text": "Mum has already packed her suitcase.",
+     "kind": "Grammar to notice",
+     "note": "already: something happened before we expected."
+    },
+    {
+     "para": 3,
+     "text": "Grandma's house is near the sea, so I want to swim every day.",
+     "kind": "Cause → effect",
+     "note": "This is why Sofia packed a swimsuit."
+    },
+    {
+     "para": 6,
+     "text": "Dad has just finished his packing.",
+     "kind": "Time order",
+     "note": "just: a very short time ago, at half past eleven."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did Sofia write this blog post?",
+     "opts": [
+      "to sell her old suitcase",
+      "to say why she doesn't like flying",
+      "to tell readers how her family is getting ready for a trip"
+     ],
+     "a": 2,
+     "why": "第1段：Here is a list of what we've done and what we haven't done yet.，全文都在讲出发前的准备。",
+     "evidence": null,
+     "optWhy": [
+      "文中没说要卖箱子。",
+      "文中没说她不喜欢坐飞机。",
+      "正确。原文 a list of what we've done and what we haven't done yet = 选项 how her family is getting ready for a trip。"
+     ],
+     "traps": [
+      "无中生有",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段说要列出 what we've done / haven't done。"
+      },
+      {
+       "h": "看全文",
+       "t": "每段都在讲收拾行李和出发准备。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Who has already packed?",
+     "opts": [
+      "Dad",
+      "Mum",
+      "Tom"
+     ],
+     "a": 1,
+     "why": "第2段原文：Mum has already packed her suitcase.",
+     "evidence": "Mum has already packed her suitcase.",
+     "optWhy": [
+      "Dad hasn't started yet，还没开始。",
+      "正确。原文 Mum has already packed = 选项 Mum。",
+      "Tom 只放了足球和玩具，还没装衣服。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "already packed → 第2段第1句。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "Dad hasn't started yet；Tom hasn't packed any clothes yet。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Sofia has packed something warm for the evenings.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第3段原文：I've packed … a warm jumper for the evenings.",
+     "evidence": "I've packed four T-shirts, my swimsuit and a warm jumper for the evenings.",
+     "optWhy": [
+      "正确。原文 a warm jumper for the evenings = 题干 something warm for the evenings → Right。",
+      "原文说她装了，不是 Wrong。",
+      "原文写得很清楚，不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "evenings → 第3段。"
+      },
+      {
+       "h": "同义替换",
+       "t": "a warm jumper = something warm。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Mrs Rossi has got a cat too.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第4段只说 Mrs Rossi is going to feed her（喂 Pepper），没说她自己有没有猫。",
+     "evidence": "Our neighbour, Mrs Rossi, is going to feed her.",
+     "optWhy": [
+      "原文没说 Mrs Rossi 有猫，不能选 Right。",
+      "原文也没说她没有猫，不能选 Wrong。",
+      "正确。原文只说 feed her（喂 Pepper），没提 Mrs Rossi 自己的猫 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Mrs Rossi → 第4段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没提她自己的猫，既不对也不错 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In paragraph 6, what does \"It\" mean in \"It took him an hour, not ten minutes!\"?",
+     "opts": [
+      "Dad's packing",
+      "the taxi",
+      "the flight"
+     ],
+     "a": 0,
+     "why": "往前一句：Dad has just finished his packing.，It 指爸爸收拾行李这件事。",
+     "evidence": "Dad has just finished his packing.",
+     "optWhy": [
+      "正确。前一句 his packing = 选项 Dad's packing。",
+      "taxi 在第7段，和这句无关。",
+      "文中没说飞行用了多久。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句：Dad has just finished his packing。"
+      },
+      {
+       "h": "联系前文",
+       "t": "第2段 Dad 说 only needs ten minutes，对应 not ten minutes。"
+      }
+     ],
+     "marks": [
+      "It took him an hour, not ten minutes!"
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 7,
+     "q": "When is the taxi coming?",
+     "opts": [
+      "at ten o'clock at night",
+      "at half past eleven",
+      "at five o'clock in the morning"
+     ],
+     "a": 2,
+     "why": "第7段原文：Our taxi is coming at five o'clock in the morning。",
+     "evidence": "Our taxi is coming at five o'clock in the morning, so I'm going to bed now.",
+     "optWhy": [
+      "ten o'clock at night 是 Sofia 开始写博客的时间。",
+      "half past eleven 是 Dad 收拾完的时间。",
+      "正确。原文 at five o'clock in the morning = 选项 at five o'clock in the morning。"
+     ],
+     "traps": [
+      "数字偷换",
+      "数字偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "taxi → 第7段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "文中有三个时间，只有 five o'clock 和 taxi 连在一起。"
+      }
+     ],
+     "marks": [
+      "at five o'clock in the morning"
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present perfect: just, already, yet",
+    "rule": "Use the present perfect for things that are finished now. just = a very short time ago. already = before now, maybe earlier than we think. yet = until now; use it at the end of questions and negatives.",
+    "table": [
+     [
+      "just",
+      "Dad has just finished."
+     ],
+     [
+      "already",
+      "Mum has already packed."
+     ],
+     [
+      "yet (negative)",
+      "Dad hasn't started yet."
+     ],
+     [
+      "yet (question)",
+      "Have we printed the tickets yet?"
+     ],
+     [
+      "find → found",
+      "write → written"
+     ],
+     [
+      "take → taken",
+      "choose → chosen"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Mum has already packed her suitcase.",
+      "mark": "has already packed"
+     },
+     {
+      "para": 2,
+      "text": "Dad hasn't started yet.",
+      "mark": "hasn't started yet"
+     },
+     {
+      "para": 5,
+      "text": "Have we printed the plane tickets yet?",
+      "mark": "Have we printed"
+     },
+     {
+      "para": 6,
+      "text": "Dad has just finished his packing.",
+      "mark": "has just finished"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Has the taxi arrived ___ ?",
+      "opts": [
+       "already",
+       "just",
+       "yet"
+      ],
+      "a": 2,
+      "why": "Use yet at the end of a question."
+     },
+     {
+      "type": "mc",
+      "q": "We can't go now. Tom ___ his shoes on yet.",
+      "opts": [
+       "hasn't put",
+       "didn't put",
+       "has put"
+      ],
+      "a": 0,
+      "why": "Negative with yet: hasn't + past participle."
+     },
+     {
+      "type": "fill",
+      "q": "Look! The plane ___ just ___ . Let's get our bags.",
+      "hint": "(land)",
+      "a": "has, landed",
+      "why": "has just + landed: a very short time ago."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ already ___ my postcards. I wrote them this morning.",
+      "hint": "(write)",
+      "a": "have, written / 've, written",
+      "why": "already + past participle; write → written."
+     },
+     {
+      "type": "fill",
+      "q": "My sister ___ her passport yet. She is looking for it now.",
+      "hint": "(not / find)",
+      "a": "hasn't found / has not found",
+      "why": "hasn't + found + yet for something not finished."
+     },
+     {
+      "type": "fill",
+      "q": "Last summer we ___ to Spain, and this year we ___ already ___ to Italy twice!",
+      "hint": "(go, be)",
+      "a": "went, have, been / went, 've, been",
+      "why": "Last summer = past simple; already = present perfect."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261120-2-k1",
+     "tag": "The trip",
+     "fact": "Sofia's family is flying to Lisbon to visit her grandma for a week.",
+     "q": "Who are they visiting?",
+     "opts": [
+      "Sofia's grandma",
+      "Mrs Rossi",
+      "Sofia's cousin"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261120-2-k2",
+     "tag": "Packing",
+     "fact": "Mum has already packed, but Dad hasn't started yet.",
+     "q": "Who hasn't started packing?",
+     "opts": [
+      "Mum",
+      "Dad",
+      "Sofia"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261120-2-k3",
+     "tag": "Sofia's bag",
+     "fact": "Sofia has packed a swimsuit because Grandma's house is near the sea.",
+     "q": "Why did Sofia pack a swimsuit?",
+     "opts": [
+      "She has a swimming lesson.",
+      "It was a present.",
+      "Grandma's house is near the sea."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261120-2-k4",
+     "tag": "The cat",
+     "fact": "Mrs Rossi is going to feed Pepper the cat.",
+     "q": "Who is going to feed Pepper?",
+     "opts": [
+      "Tom",
+      "Mrs Rossi",
+      "Grandma"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261120-2-k5",
+     "tag": "Sunglasses",
+     "fact": "Tom has just found Sofia's sunglasses under his bed.",
+     "q": "Where were the sunglasses?",
+     "opts": [
+      "under Tom's bed",
+      "in Mum's handbag",
+      "in the kitchen"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Holiday packing",
+    "question": "Is Sofia's family ready for the trip?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "to Lisbon",
+       "for a week"
+      ],
+      "kps": [
+       "k20261120-2-k1"
+      ]
+     },
+     {
+      "title": "Family",
+      "paras": "2",
+      "blanks": [
+       "already packed",
+       "hasn't started"
+      ],
+      "kps": [
+       "k20261120-2-k2"
+      ]
+     },
+     {
+      "title": "Sofia",
+      "paras": "3, 6",
+      "blanks": [
+       "a warm jumper",
+       "under his bed"
+      ],
+      "kps": [
+       "k20261120-2-k3",
+       "k20261120-2-k5"
+      ]
+     },
+     {
+      "title": "Pepper",
+      "paras": "4",
+      "blanks": [
+       "feed her",
+       "loves fish"
+      ],
+      "kps": [
+       "k20261120-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "by train",
+     "in the garden"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the blog post.",
+    "model": "Sofia's family is getting ready to fly to Lisbon, but Dad and Tom are slow. In the end, everything is ready, so Sofia goes to bed.",
+    "options": [
+     {
+      "t": "Sofia's family is getting ready for a trip to Lisbon.",
+      "ok": true,
+      "why": "This is what the whole post is about.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Tomorrow my family is flying to Lisbon to visit my grandma for a week."
+     },
+     {
+      "t": "Some people are ready, but Dad and Tom haven't packed yet.",
+      "ok": true,
+      "why": "This is the problem in the post.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Dad hasn't started yet."
+     },
+     {
+      "t": "At half past eleven, everything is ready.",
+      "ok": true,
+      "why": "This is the ending.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Now everything is ready."
+     },
+     {
+      "t": "Pepper the cat eats twice a day.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Pepper eats twice a day, and she loves fish."
+     },
+     {
+      "t": "Sofia has never been on a plane before.",
+      "ok": false,
+      "why": "The blog never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mum has lost the passports.",
+      "ok": false,
+      "why": "Wrong: she has put them in her handbag.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Mum has already put them in her handbag."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What do you always pack when you go on holiday? Why?",
+    "hint": "I always pack … because … / I've never forgotten …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You are going on a trip tomorrow. Write a message to a friend. Write 25 words or more.",
+    "steps": [
+     "Say where you are going.",
+     "Say what you have already packed.",
+     "Say what you haven't done yet."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261120-3",
+   "topic": "People & family",
+   "genre": "Interview",
+   "title": "Fifty Years on Hill Street",
+   "dek": "Mr Mensah has lived in the same house for fifty years. What has he seen?",
+   "sources": [],
+   "paras": [
+    "Every month, our school magazine talks to someone from our town. This month, Nina Park from Year 9 visited Mr Kwame Mensah. He is seventy-eight years old, and he has lived on Hill Street for fifty years.",
+    "Nina: How long have you lived here, Mr Mensah? Kwame: I've lived in this house since 1975. I came here from Ghana when I was twenty-seven. At first, I didn't know anyone. But the neighbours were kind, and they soon became my friends.",
+    "Nina: How has the street changed? Kwame: Oh, a lot! In 1975, there was a small shop on the corner. It sold bread, milk and sweets. It closed in 1998, and now there's a café there. Also, children played in the street every evening. Today they often stay inside with their phones!",
+    "Nina: What was your job? Kwame: I was a bus driver for thirty-five years. I drove the number 12 bus every day. I've met hundreds of people from this town on my bus. Some of them still say hello to me in the street.",
+    "Nina: Have you got a big family? Kwame: Yes. I married my wife, Grace, in 1980. We've got two daughters and four grandchildren. My youngest grandson goes to your school! He visits me every Sunday, and we play chess. He has never won a game, but he's getting better.",
+    "Nina: What is the best thing about living here? Kwame: The people. I've had some hard times, but my neighbours have always helped me. Last winter, I was ill for three weeks. The family next door did my shopping every day. You can't buy that kind of friendship.",
+    "Nina: Thank you, Mr Mensah! Kwame: Thank you, Nina. Come back and visit me again. I've got a lot more stories!"
+   ],
+   "words": [
+    {
+     "w": "magazine",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˌmæɡ.əˈziːn/",
+     "syl": [
+      "mag",
+      "a",
+      "zine"
+     ],
+     "def": "a thin book with stories and pictures that comes every week or month",
+     "ex": "I read a music magazine every month."
+    },
+    {
+     "w": "since",
+     "level": "A2 word",
+     "pos": "preposition",
+     "ipa": "/sɪns/",
+     "syl": [
+      "since"
+     ],
+     "def": "from a time in the past until now",
+     "ex": "We have lived here since 2020."
+    },
+    {
+     "w": "corner",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɔː.nə/",
+     "syl": [
+      "cor",
+      "ner"
+     ],
+     "def": "the place where two streets or walls meet",
+     "ex": "The bus stop is on the corner."
+    },
+    {
+     "w": "close",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/kləʊz/",
+     "syl": [
+      "close"
+     ],
+     "def": "to stop doing business, for a day or for ever",
+     "ex": "The bank will close at four o'clock."
+    },
+    {
+     "w": "driver",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdraɪ.və/",
+     "syl": [
+      "dri",
+      "ver"
+     ],
+     "def": "a person who drives a car, bus or taxi",
+     "ex": "The driver stopped the bus near my school."
+    },
+    {
+     "w": "hundred",
+     "level": "A2 word",
+     "pos": "number",
+     "ipa": "/ˈhʌn.drəd/",
+     "syl": [
+      "hun",
+      "dred"
+     ],
+     "def": "the number 100",
+     "ex": "There are a hundred students in Year 9."
+    },
+    {
+     "w": "grandson",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɡræn.sʌn/",
+     "syl": [
+      "grand",
+      "son"
+     ],
+     "def": "the son of your son or daughter",
+     "ex": "Her grandson is six years old."
+    },
+    {
+     "w": "chess",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tʃes/",
+     "syl": [
+      "chess"
+     ],
+     "def": "a game for two people on a black and white board",
+     "ex": "My dad taught me how to play chess."
+    },
+    {
+     "w": "ill",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪl/",
+     "syl": [
+      "ill"
+     ],
+     "def": "not well, sick",
+     "ex": "Sam was ill, so he stayed at home."
+    },
+    {
+     "w": "friendship",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfrend.ʃɪp/",
+     "syl": [
+      "friend",
+      "ship"
+     ],
+     "def": "being friends with someone",
+     "ex": "Their friendship started at primary school."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "He is seventy-eight years old, and he has lived on Hill Street for fifty years.",
+     "kind": "Main idea",
+     "note": "This tells us who the interview is about."
+    },
+    {
+     "para": 2,
+     "text": "I've lived in this house since 1975.",
+     "kind": "Grammar to notice",
+     "note": "Present perfect + since: he started in 1975 and still lives there."
+    },
+    {
+     "para": 3,
+     "text": "It closed in 1998, and now there's a café there.",
+     "kind": "Time order",
+     "note": "Past simple with a finished time: in 1998."
+    },
+    {
+     "para": 6,
+     "text": "I've had some hard times, but my neighbours have always helped me.",
+     "kind": "Opinion",
+     "note": "For Mr Mensah, the people are the best thing about the street."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the interview mainly about?",
+     "opts": [
+      "Mr Mensah's life on Hill Street",
+      "how to drive a bus",
+      "a new café in town"
+     ],
+     "a": 0,
+     "why": "第1段：he has lived on Hill Street for fifty years，后面每个问题都在问他在这条街的生活。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 he has lived on Hill Street for fifty years + 全文的问答 = 选项 Mr Mensah's life on Hill Street。",
+      "开公交只是他的工作，文章没教怎么开车。",
+      "café 只在第3段提了一句，是细节。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段介绍采访对象：lived on Hill Street for fifty years。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "bus 和 café 都只是某一段的细节。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "When did Mr Mensah start living in his house?",
+     "opts": [
+      "in 1980",
+      "in 1975",
+      "in 1998"
+     ],
+     "a": 1,
+     "why": "第2段原文：I've lived in this house since 1975.",
+     "evidence": "I've lived in this house since 1975.",
+     "optWhy": [
+      "1980 是他结婚的年份（第5段）。",
+      "正确。原文 since 1975 = 选项 in 1975（从1975年开始住）。",
+      "1998 是小店关门的年份（第3段）。"
+     ],
+     "traps": [
+      "数字偷换",
+      null,
+      "数字偷换"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "lived in this house → 第2段。"
+      },
+      {
+       "h": "看 since",
+       "t": "since 1975 = 从1975年开始。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "文中还有 1980 和 1998，别看错。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "The small shop on the corner is still open today.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段原文：It closed in 1998, and now there's a café there.",
+     "evidence": "It closed in 1998, and now there's a café there.",
+     "optWhy": [
+      "原文说小店1998年就关了，与题干相反。",
+      "正确。原文 It closed in 1998 = 小店已经关门 → Wrong。",
+      "原文明确说了关门，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "shop on the corner → 第3段。"
+      },
+      {
+       "h": "看下文",
+       "t": "It closed in 1998，现在是 café。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, who are \"them\" in \"Some of them still say hello to me in the street\"?",
+     "opts": [
+      "his grandchildren",
+      "other bus drivers",
+      "people he met on his bus"
+     ],
+     "a": 2,
+     "why": "往前一句：I've met hundreds of people from this town on my bus.，them 指这些乘客。",
+     "evidence": "I've met hundreds of people from this town on my bus.",
+     "optWhy": [
+      "孙辈在第5段，和这句无关。",
+      "文中没提到其他司机。",
+      "正确。前一句 hundreds of people … on my bus = 选项 people he met on his bus。"
+     ],
+     "traps": [
+      "指代错误",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "them 是复数，前一句的复数名词：hundreds of people。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Some of the people from his bus still say hello. 通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "What does Mr Mensah do with his grandson on Sundays?",
+     "opts": [
+      "They drive the bus.",
+      "They watch football.",
+      "They play chess."
+     ],
+     "a": 2,
+     "why": "第5段原文：He visits me every Sunday, and we play chess.",
+     "evidence": "He visits me every Sunday, and we play chess.",
+     "optWhy": [
+      "他已经不开公交了，文中也没这么说。",
+      "文中没提到足球。",
+      "正确。原文 we play chess = 选项 They play chess。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "Sunday → 第5段。"
+      },
+      {
+       "h": "看后半句",
+       "t": "and we play chess。"
+      }
+     ],
+     "marks": [
+      "every Sunday"
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How does Mr Mensah feel about his neighbours?",
+     "opts": [
+      "thankful",
+      "angry",
+      "bored"
+     ],
+     "a": 0,
+     "why": "第6段：my neighbours have always helped me … You can't buy that kind of friendship.，他很感激邻居。",
+     "evidence": "You can't buy that kind of friendship.",
+     "optWhy": [
+      "正确。原文 my neighbours have always helped me + You can't buy that kind of friendship = 选项 thankful（感激）。",
+      "他在夸邻居，没有生气。",
+      "他说邻居是最好的，不是无聊。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "best thing … The people → 第6段。"
+      },
+      {
+       "h": "看语气",
+       "t": "always helped me、can't buy that kind of friendship 都是感激的话。"
+      }
+     ],
+     "marks": [
+      "my neighbours have always helped me"
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present perfect or past simple?",
+    "rule": "Use the present perfect (have / has + past participle) for life until now, often with for, since, ever or never. Use the past simple for a finished time in the past: in 1998, last winter, when I was 27.",
+    "table": [
+     [
+      "until now",
+      "I've lived here since 1975."
+     ],
+     [
+      "finished time",
+      "I came here in 1975."
+     ],
+     [
+      "life experience",
+      "I've met hundreds of people."
+     ],
+     [
+      "finished job",
+      "I was a bus driver."
+     ],
+     [
+      "for / since",
+      "for fifty years / since 1975"
+     ],
+     [
+      "in / last / ago",
+      "in 1998 / last winter / two years ago"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I've lived in this house since 1975.",
+      "mark": "I've lived"
+     },
+     {
+      "para": 2,
+      "text": "I came here from Ghana when I was twenty-seven.",
+      "mark": "came"
+     },
+     {
+      "para": 3,
+      "text": "It closed in 1998, and now there's a café there.",
+      "mark": "closed"
+     },
+     {
+      "para": 4,
+      "text": "I've met hundreds of people from this town on my bus.",
+      "mark": "I've met"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My grandma ___ in this town since 1960.",
+      "opts": [
+       "lived",
+       "has lived",
+       "is living"
+      ],
+      "a": 1,
+      "why": "since + a time until now: present perfect."
+     },
+     {
+      "type": "mc",
+      "q": "We ___ our cousins in Canada last summer.",
+      "opts": [
+       "visited",
+       "have visited",
+       "visit"
+      ],
+      "a": 0,
+      "why": "last summer is a finished time: past simple."
+     },
+     {
+      "type": "fill",
+      "q": "My uncle ___ in a hospital for twenty years. He still loves his job.",
+      "hint": "(work)",
+      "a": "has worked / 's worked",
+      "why": "He still works there: present perfect with for."
+     },
+     {
+      "type": "fill",
+      "q": "My parents ___ in 2005.",
+      "hint": "(get married)",
+      "a": "got married",
+      "why": "in 2005 is a finished time: past simple."
+     },
+     {
+      "type": "fill",
+      "q": "___ you ever ___ your grandpa's old photos?",
+      "hint": "(see)",
+      "a": "Have, seen",
+      "why": "ever + experience question: present perfect."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ my aunt two years ago, but I ___ her since then.",
+      "hint": "(meet, not / see)",
+      "a": "met, haven't seen / met, have not seen",
+      "why": "ago = past simple; since then = present perfect."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261120-3-k1",
+     "tag": "Who",
+     "fact": "Mr Mensah is seventy-eight and has lived on Hill Street for fifty years.",
+     "q": "How long has he lived on Hill Street?",
+     "opts": [
+      "for fifty years",
+      "for twenty-seven years",
+      "for thirty-five years"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261120-3-k2",
+     "tag": "Changes",
+     "fact": "The corner shop closed in 1998, and now there's a café there.",
+     "q": "What is on the corner now?",
+     "opts": [
+      "a bank",
+      "a café",
+      "a bus stop"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261120-3-k3",
+     "tag": "Job",
+     "fact": "Mr Mensah was a bus driver for thirty-five years.",
+     "q": "What was his job?",
+     "opts": [
+      "a teacher",
+      "a shop worker",
+      "a bus driver"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261120-3-k4",
+     "tag": "Family",
+     "fact": "His grandson visits every Sunday, and they play chess.",
+     "q": "When does his grandson visit?",
+     "opts": [
+      "every Sunday",
+      "every evening",
+      "every summer"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261120-3-k5",
+     "tag": "Neighbours",
+     "fact": "When he was ill, the family next door did his shopping.",
+     "q": "Who did his shopping last winter?",
+     "opts": [
+      "his wife",
+      "the family next door",
+      "Nina"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Mr Mensah",
+    "question": "What has Mr Mensah's life on Hill Street been like?",
+    "branches": [
+     {
+      "title": "Who",
+      "paras": "1–2",
+      "blanks": [
+       "since 1975",
+       "from Ghana"
+      ],
+      "kps": [
+       "k20261120-3-k1"
+      ]
+     },
+     {
+      "title": "Street",
+      "paras": "3",
+      "blanks": [
+       "closed in 1998",
+       "now a café"
+      ],
+      "kps": [
+       "k20261120-3-k2"
+      ]
+     },
+     {
+      "title": "Life",
+      "paras": "4–5",
+      "blanks": [
+       "a bus driver",
+       "play chess"
+      ],
+      "kps": [
+       "k20261120-3-k3",
+       "k20261120-3-k4"
+      ]
+     },
+     {
+      "title": "Best thing",
+      "paras": "6",
+      "blanks": [
+       "the people",
+       "did my shopping"
+      ],
+      "kps": [
+       "k20261120-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a taxi driver",
+     "moved last year"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the interview.",
+    "model": "Mr Mensah has lived on Hill Street since 1975, and the street has changed a lot. He loves living there because his neighbours have always helped him.",
+    "options": [
+     {
+      "t": "Mr Mensah has lived on Hill Street for fifty years.",
+      "ok": true,
+      "why": "This is who the interview is about.",
+      "type": "main",
+      "para": 1,
+      "evidence": "He is seventy-eight years old, and he has lived on Hill Street for fifty years."
+     },
+     {
+      "t": "The street has changed a lot since 1975.",
+      "ok": true,
+      "why": "This is an important part of the interview.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Oh, a lot!"
+     },
+     {
+      "t": "For him, the best thing about the street is the people.",
+      "ok": true,
+      "why": "This is his main opinion.",
+      "type": "main",
+      "para": 6,
+      "evidence": "The people."
+     },
+     {
+      "t": "The old shop sold bread, milk and sweets.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "It sold bread, milk and sweets."
+     },
+     {
+      "t": "Mr Mensah wants to move to a new town.",
+      "ok": false,
+      "why": "The interview never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "His grandson always wins at chess.",
+      "ok": false,
+      "why": "Wrong: he has never won a game.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "He has never won a game, but he's getting better."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Tell me about an older person in your family. How long have you known them? What do you do together?",
+    "hint": "I've known … since … / Last weekend we …",
+    "sec": 45
+   },
+   "write": {
+    "p": "Write an email to your English teacher about an older person in your town. Write 25 words or more.",
+    "steps": [
+     "Say who the person is.",
+     "Say how long they have lived there.",
+     "Say one thing they did in the past."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  }
+ ],
+ "audio": {
+  "Have you ever used a touch screen? Of course you have! Phones, tablets and even some classroom boards have got one. You touch the glass, and the screen answers. But how does it know where your finger is? Let's find out step by step.": "audio/2026-11-20/a1-p1.mp3",
+  "First, look at the screen of a phone. Under the glass, there is a very thin layer. You can't see it, but it carries a little electricity. It works like a net of tiny lines across the whole screen.": "audio/2026-11-20/a1-p2.mp3",
+  "Your body can carry electricity too, because it has a lot of water and salt inside. When your finger touches the glass, the electricity in the layer changes a little at that place. Don't worry. It is much too small to feel. A tiny computer chip in the phone notices the change. Then it finds the exact place of your finger in less than a second.": "audio/2026-11-20/a1-p3.mp3",
+  "Have you ever tried to use your phone with winter gloves on? It doesn't work, does it? Cloth can't carry electricity, so the screen doesn't notice your finger. Some gloves have special thread in the fingertips. This thread can carry electricity. With these gloves, you can send messages in the snow!": "audio/2026-11-20/a1-p4.mp3",
+  "A phone screen doesn't need a hard push. A soft touch is enough. That is why a wooden pencil doesn't work on it. But some older screens, like the ones on ticket machines, were different. You had to press them hard with your finger.": "audio/2026-11-20/a1-p5.mp3",
+  "Touch screens are not new. Eric Johnson, a British engineer, made one of the first finger touch screens in 1965. He wanted to help people who control planes in the sky. For many years after that, most families didn't have computers at home.": "audio/2026-11-20/a1-p6.mp3",
+  "Today, many children have never used a phone with buttons! But a lot of grandparents have never had a phone with a screen like yours. Ask your grandma or grandpa: \"Have you ever used a touch screen?\" Maybe you can show them how it works.": "audio/2026-11-20/a1-p7.mp3",
+  "screen": "audio/2026-11-20/a1-w-screen.mp3",
+  "My tablet has got a big screen.": "audio/2026-11-20/a1-ex-screen.mp3",
+  "layer": "audio/2026-11-20/a1-w-layer.mp3",
+  "There is a layer of snow on the car.": "audio/2026-11-20/a1-ex-layer.mp3",
+  "electricity": "audio/2026-11-20/a1-w-electricity.mp3",
+  "This lamp doesn't need electricity. It uses the sun.": "audio/2026-11-20/a1-ex-electricity.mp3",
+  "chip": "audio/2026-11-20/a1-w-chip.mp3",
+  "Every phone has got a computer chip inside.": "audio/2026-11-20/a1-ex-chip.mp3",
+  "notice": "audio/2026-11-20/a1-w-notice.mp3",
+  "Did you notice the new picture in the hall?": "audio/2026-11-20/a1-ex-notice.mp3",
+  "exact": "audio/2026-11-20/a1-w-exact.mp3",
+  "What is the exact time, please?": "audio/2026-11-20/a1-ex-exact.mp3",
+  "glove": "audio/2026-11-20/a1-w-glove.mp3",
+  "I lost one glove on the bus.": "audio/2026-11-20/a1-ex-glove.mp3",
+  "thread": "audio/2026-11-20/a1-w-thread.mp3",
+  "Grandma needs some red thread for my coat.": "audio/2026-11-20/a1-ex-thread.mp3",
+  "press": "audio/2026-11-20/a1-w-press.mp3",
+  "Press the green button to start.": "audio/2026-11-20/a1-ex-press.mp3",
+  "engineer": "audio/2026-11-20/a1-w-engineer.mp3",
+  "My aunt is an engineer. She builds bridges.": "audio/2026-11-20/a1-ex-engineer.mp3",
+  "But how does it know where your finger is?": "audio/2026-11-20/a1-ks1.mp3",
+  "Your body can carry electricity too, because it has a lot of water and salt inside.": "audio/2026-11-20/a1-ks2.mp3",
+  "Cloth can't carry electricity, so the screen doesn't notice your finger.": "audio/2026-11-20/a1-ks3.mp3",
+  "Eric Johnson, a British engineer, made one of the first finger touch screens in 1965.": "audio/2026-11-20/a1-ks4.mp3",
+  "Today, many children have never used a phone with buttons!": "audio/2026-11-20/a1-ks5.mp3",
+  "Have you ever used a touch screen?": "audio/2026-11-20/a1-g1.mp3",
+  "Have you ever tried to use your phone with winter gloves on?": "audio/2026-11-20/a1-g2.mp3",
+  "But a lot of grandparents have never had a phone with a screen like yours.": "audio/2026-11-20/a1-g4.mp3",
+  "Hi everyone! It's Sofia again. Tomorrow my family is flying to Lisbon to visit my grandma for a week. It's ten o'clock at night, and our house is a mess. Here is a list of what we've done and what we haven't done yet.": "audio/2026-11-20/a2-p1.mp3",
+  "Mum has already packed her suitcase. She always plans everything early. Dad hasn't started yet. He says he only needs ten minutes. My little brother Tom has just put his football in his bag. He hasn't packed any clothes yet, but he's got three toys and a torch!": "audio/2026-11-20/a2-p2.mp3",
+  "What about me? I've already chosen my clothes. I've packed four T-shirts, my swimsuit and a warm jumper for the evenings. Grandma's house is near the sea, so I want to swim every day. But I haven't found my sunglasses yet. I think Tom has taken them again!": "audio/2026-11-20/a2-p3.mp3",
+  "We've also had a small problem. Our cat, Pepper, can't come with us. Our neighbour, Mrs Rossi, is going to feed her. I've just written a note for her with all the information. Pepper eats twice a day, and she loves fish.": "audio/2026-11-20/a2-p4.mp3",
+  "Have we printed the plane tickets yet? No, we haven't, because they're on Dad's phone. Have we got our passports? Yes! Mum has already put them in her handbag. She checked them three times!": "audio/2026-11-20/a2-p5.mp3",
+  "Update, half past eleven: Dad has just finished his packing. It took him an hour, not ten minutes! And guess what? Tom has just found my sunglasses under his bed. He says he didn't take them. Now everything is ready.": "audio/2026-11-20/a2-p6.mp3",
+  "Our taxi is coming at five o'clock in the morning, so I'm going to bed now. Do you know any fun places in Lisbon? Write your tips in the comments below! My next post comes from Grandma's kitchen. Bye!": "audio/2026-11-20/a2-p7.mp3",
+  "mess": "audio/2026-11-20/a2-w-mess.mp3",
+  "My bedroom is a mess today.": "audio/2026-11-20/a2-ex-mess.mp3",
+  "pack": "audio/2026-11-20/a2-w-pack.mp3",
+  "Don't forget to pack your toothbrush.": "audio/2026-11-20/a2-ex-pack.mp3",
+  "suitcase": "audio/2026-11-20/a2-w-suitcase.mp3",
+  "My suitcase is too heavy.": "audio/2026-11-20/a2-ex-suitcase.mp3",
+  "torch": "audio/2026-11-20/a2-w-torch.mp3",
+  "Take a torch. It's dark in the garden.": "audio/2026-11-20/a2-ex-torch.mp3",
+  "swimsuit": "audio/2026-11-20/a2-w-swimsuit.mp3",
+  "She put on her swimsuit and ran to the pool.": "audio/2026-11-20/a2-ex-swimsuit.mp3",
+  "sunglasses": "audio/2026-11-20/a2-w-sunglasses.mp3",
+  "I always wear sunglasses at the beach.": "audio/2026-11-20/a2-ex-sunglasses.mp3",
+  "neighbour": "audio/2026-11-20/a2-w-neighbour.mp3",
+  "Our neighbour has got a big dog.": "audio/2026-11-20/a2-ex-neighbour.mp3",
+  "feed": "audio/2026-11-20/a2-w-feed.mp3",
+  "Can you feed the fish today?": "audio/2026-11-20/a2-ex-feed.mp3",
+  "passport": "audio/2026-11-20/a2-w-passport.mp3",
+  "Show your passport at the airport.": "audio/2026-11-20/a2-ex-passport.mp3",
+  "tip": "audio/2026-11-20/a2-w-tip.mp3",
+  "Here is a tip: drink lots of water.": "audio/2026-11-20/a2-ex-tip.mp3",
+  "Tomorrow my family is flying to Lisbon to visit my grandma for a week.": "audio/2026-11-20/a2-ks1.mp3",
+  "Mum has already packed her suitcase.": "audio/2026-11-20/a2-ks2.mp3",
+  "Grandma's house is near the sea, so I want to swim every day.": "audio/2026-11-20/a2-ks3.mp3",
+  "Dad has just finished his packing.": "audio/2026-11-20/a2-ks4.mp3",
+  "Dad hasn't started yet.": "audio/2026-11-20/a2-g2.mp3",
+  "Have we printed the plane tickets yet?": "audio/2026-11-20/a2-g3.mp3",
+  "Every month, our school magazine talks to someone from our town. This month, Nina Park from Year 9 visited Mr Kwame Mensah. He is seventy-eight years old, and he has lived on Hill Street for fifty years.": "audio/2026-11-20/a3-p1.mp3",
+  "Nina: How long have you lived here, Mr Mensah? Kwame: I've lived in this house since 1975. I came here from Ghana when I was twenty-seven. At first, I didn't know anyone. But the neighbours were kind, and they soon became my friends.": "audio/2026-11-20/a3-p2.mp3",
+  "Nina: How has the street changed? Kwame: Oh, a lot! In 1975, there was a small shop on the corner. It sold bread, milk and sweets. It closed in 1998, and now there's a café there. Also, children played in the street every evening. Today they often stay inside with their phones!": "audio/2026-11-20/a3-p3.mp3",
+  "Nina: What was your job? Kwame: I was a bus driver for thirty-five years. I drove the number 12 bus every day. I've met hundreds of people from this town on my bus. Some of them still say hello to me in the street.": "audio/2026-11-20/a3-p4.mp3",
+  "Nina: Have you got a big family? Kwame: Yes. I married my wife, Grace, in 1980. We've got two daughters and four grandchildren. My youngest grandson goes to your school! He visits me every Sunday, and we play chess. He has never won a game, but he's getting better.": "audio/2026-11-20/a3-p5.mp3",
+  "Nina: What is the best thing about living here? Kwame: The people. I've had some hard times, but my neighbours have always helped me. Last winter, I was ill for three weeks. The family next door did my shopping every day. You can't buy that kind of friendship.": "audio/2026-11-20/a3-p6.mp3",
+  "Nina: Thank you, Mr Mensah! Kwame: Thank you, Nina. Come back and visit me again. I've got a lot more stories!": "audio/2026-11-20/a3-p7.mp3",
+  "magazine": "audio/2026-11-20/a3-w-magazine.mp3",
+  "I read a music magazine every month.": "audio/2026-11-20/a3-ex-magazine.mp3",
+  "since": "audio/2026-11-20/a3-w-since.mp3",
+  "We have lived here since 2020.": "audio/2026-11-20/a3-ex-since.mp3",
+  "corner": "audio/2026-11-20/a3-w-corner.mp3",
+  "The bus stop is on the corner.": "audio/2026-11-20/a3-ex-corner.mp3",
+  "close": "audio/2026-11-20/a3-w-close.mp3",
+  "The bank will close at four o'clock.": "audio/2026-11-20/a3-ex-close.mp3",
+  "driver": "audio/2026-11-20/a3-w-driver.mp3",
+  "The driver stopped the bus near my school.": "audio/2026-11-20/a3-ex-driver.mp3",
+  "hundred": "audio/2026-11-20/a3-w-hundred.mp3",
+  "There are a hundred students in Year 9.": "audio/2026-11-20/a3-ex-hundred.mp3",
+  "grandson": "audio/2026-11-20/a3-w-grandson.mp3",
+  "Her grandson is six years old.": "audio/2026-11-20/a3-ex-grandson.mp3",
+  "chess": "audio/2026-11-20/a3-w-chess.mp3",
+  "My dad taught me how to play chess.": "audio/2026-11-20/a3-ex-chess.mp3",
+  "ill": "audio/2026-11-20/a3-w-ill.mp3",
+  "Sam was ill, so he stayed at home.": "audio/2026-11-20/a3-ex-ill.mp3",
+  "friendship": "audio/2026-11-20/a3-w-friendship.mp3",
+  "Their friendship started at primary school.": "audio/2026-11-20/a3-ex-friendship.mp3",
+  "He is seventy-eight years old, and he has lived on Hill Street for fifty years.": "audio/2026-11-20/a3-ks1.mp3",
+  "I've lived in this house since 1975.": "audio/2026-11-20/a3-ks2.mp3",
+  "It closed in 1998, and now there's a café there.": "audio/2026-11-20/a3-ks3.mp3",
+  "I've had some hard times, but my neighbours have always helped me.": "audio/2026-11-20/a3-ks4.mp3",
+  "I came here from Ghana when I was twenty-seven.": "audio/2026-11-20/a3-g2.mp3",
+  "I've met hundreds of people from this town on my bus.": "audio/2026-11-20/a3-g4.mp3"
+ }
+}
