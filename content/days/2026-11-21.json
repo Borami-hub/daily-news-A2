@@ -1,0 +1,2045 @@
+{
+ "date": "2026-11-21",
+ "headline": "Sleepy teens, library signs and clothes with a story",
+ "teaser": "Why can't teenagers fall asleep early? Where is the study room in Riverside Library? Whose jumper is Hana wearing?",
+ "articles": [
+  {
+   "id": "k20261121-1",
+   "topic": "Health & exercise",
+   "genre": "Article",
+   "title": "Why Are Teenagers So Tired in the Morning?",
+   "dek": "At night you are wide awake, but in the morning you can't get up. Why?",
+   "sources": [
+    {
+     "name": "CDC: About Sleep",
+     "url": "https://www.cdc.gov/sleep/about/index.html"
+    },
+    {
+     "name": "Sleep Foundation: Teens and Sleep",
+     "url": "https://www.sleepfoundation.org/teens-and-sleep"
+    }
+   ],
+   "paras": [
+    "It is seven o'clock on a Monday morning. Your alarm is ringing, but you can't open your eyes. Then at eleven o'clock at night, you are not tired at all. Does this happen to you? It happens to a lot of teenagers. But why? Let's find out step by step.",
+    "First, your body has got a kind of clock inside it. This body clock tells you when to sleep and when to wake up. In the evening, when it gets dark, your brain makes a special chemical. Its name is melatonin. It helps you feel sleepy.",
+    "Young children usually make melatonin early in the evening. So they often fall asleep at seven or eight o'clock. But when you become a teenager, your body clock changes. Your body starts to make melatonin later in the day. You also start to feel tired more slowly. That is why many teenagers don't feel sleepy until eleven o'clock or midnight. They are not lazy. Their bodies are working in a different way.",
+    "But school doesn't start later for teenagers! Most students have to get up early in the morning. Doctors say that teenagers need eight to ten hours of sleep every night. Children from six to twelve need even more: nine to twelve hours. So if you go to bed at midnight and get up at seven, you don't get enough sleep.",
+    "Is sleep really so important? Yes, it is! At night, your brain is very busy. It helps you remember the new things from the day. After a good night's sleep, you can think more clearly in class. It is also easier to learn a new song or a new sport.",
+    "So what can you do? Put your phone away about half an hour before bed. The light from screens can stop your body from making melatonin. Try to go to bed at the same time on school nights. And at the weekend, enjoy a little more sleep on Saturday and Sunday mornings!"
+   ],
+   "words": [
+    {
+     "w": "alarm",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/əˈlɑːm/",
+     "syl": [
+      "a",
+      "larm"
+     ],
+     "def": "a clock that makes a loud noise to wake you up",
+     "ex": "My alarm rings at half past six."
+    },
+    {
+     "w": "tired",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/taɪəd/",
+     "syl": [
+      "tired"
+     ],
+     "def": "feeling that you need to rest or sleep",
+     "ex": "I was very tired after the long walk."
+    },
+    {
+     "w": "teenager",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtiːn.eɪ.dʒə/",
+     "syl": [
+      "teen",
+      "a",
+      "ger"
+     ],
+     "def": "a person between 13 and 19 years old",
+     "ex": "My cousin is a teenager. He is fifteen."
+    },
+    {
+     "w": "brain",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/breɪn/",
+     "syl": [
+      "brain"
+     ],
+     "def": "the part inside your head that thinks",
+     "ex": "Your brain needs good food and sleep."
+    },
+    {
+     "w": "chemical",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkem.ɪ.kəl/",
+     "syl": [
+      "chem",
+      "i",
+      "cal"
+     ],
+     "def": "a special thing that your body or a factory makes",
+     "ex": "This cleaning chemical is dangerous for pets."
+    },
+    {
+     "w": "melatonin",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˌmel.əˈtəʊ.nɪn/",
+     "syl": [
+      "mel",
+      "a",
+      "to",
+      "nin"
+     ],
+     "def": "a chemical in your body that makes you feel sleepy",
+     "ex": "Your body makes melatonin when it gets dark."
+    },
+    {
+     "w": "asleep",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/əˈsliːp/",
+     "syl": [
+      "a",
+      "sleep"
+     ],
+     "def": "sleeping",
+     "ex": "The baby fell asleep in the car."
+    },
+    {
+     "w": "midnight",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈmɪd.naɪt/",
+     "syl": [
+      "mid",
+      "night"
+     ],
+     "def": "twelve o'clock at night",
+     "ex": "We watched the fireworks at midnight."
+    },
+    {
+     "w": "clearly",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈklɪə.li/",
+     "syl": [
+      "clear",
+      "ly"
+     ],
+     "def": "in a way that is easy to see or understand",
+     "ex": "Please speak clearly so we can hear you."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Then at eleven o'clock at night, you are not tired at all.",
+     "kind": "Main idea",
+     "note": "This is the problem the article explains."
+    },
+    {
+     "para": 2,
+     "text": "It helps you feel sleepy.",
+     "kind": "Key details",
+     "note": "Melatonin is the chemical that makes you sleepy."
+    },
+    {
+     "para": 3,
+     "text": "Your body starts to make melatonin later in the day.",
+     "kind": "Cause → effect",
+     "note": "This is why teenagers feel sleepy late."
+    },
+    {
+     "para": 4,
+     "text": "Doctors say that teenagers need eight to ten hours of sleep every night.",
+     "kind": "Key details",
+     "note": "Teenagers need a lot of sleep."
+    },
+    {
+     "para": 6,
+     "text": "And at the weekend, enjoy a little more sleep on Saturday and Sunday mornings!",
+     "kind": "Grammar to notice",
+     "note": "at the weekend, but on Saturday and on Sunday mornings."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "why teenagers feel sleepy late at night",
+      "how to choose a good alarm clock",
+      "why small children don't like going to bed"
+     ],
+     "a": 0,
+     "why": "第1段提出问题 It happens to a lot of teenagers. But why?，后面几段解释青少年为什么晚上不困、早上起不来。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 at eleven o'clock at night, you are not tired … But why? = 选项 why teenagers feel sleepy late at night。",
+      "alarm 只在开头出现，文章没教人选闹钟。",
+      "文中说小孩 often fall asleep at seven or eight o'clock，没说他们不喜欢睡觉。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段 It happens to a lot of teenagers. But why? 就是主题。"
+      },
+      {
+       "h": "看全文",
+       "t": "第2–6段都在讲身体时钟和睡眠。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does melatonin do?",
+     "opts": [
+      "It wakes you up in the morning.",
+      "It helps you feel sleepy.",
+      "It makes the room dark."
+     ],
+     "a": 1,
+     "why": "第2段原文：Its name is melatonin. It helps you feel sleepy.",
+     "evidence": "It helps you feel sleepy.",
+     "optWhy": [
+      "与原文相反，melatonin 让人困，不是叫醒人。",
+      "正确。原文 It helps you feel sleepy = 选项 It helps you feel sleepy。",
+      "原文 when it gets dark 是天变黑，不是 melatonin 让房间变黑。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "偷换概念"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "melatonin → 第2段。"
+      },
+      {
+       "h": "看下一句",
+       "t": "Its name is melatonin. 后面一句 It helps you feel sleepy. 就是答案。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Teenagers go to bed late because they are lazy.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段原文：They are not lazy. Their bodies are working in a different way.",
+     "evidence": "They are not lazy.",
+     "optWhy": [
+      "原文明确说 They are not lazy，与题干相反。",
+      "正确。原文 They are not lazy，题干说 because they are lazy → Wrong。",
+      "原文直接说了“不是懒”，不是没提到。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "lazy → 第3段最后两句。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文说 not lazy，意思相反 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "How many hours of sleep do teenagers need every night?",
+     "opts": [
+      "six to seven",
+      "nine to twelve",
+      "eight to ten"
+     ],
+     "a": 2,
+     "why": "第4段原文：teenagers need eight to ten hours of sleep every night。",
+     "evidence": "Doctors say that teenagers need eight to ten hours of sleep every night.",
+     "optWhy": [
+      "文中没出现 six to seven 小时。",
+      "nine to twelve 是 Children from six to twelve 需要的时间，不是青少年。",
+      "正确。原文 teenagers need eight to ten hours = 选项 eight to ten。"
+     ],
+     "traps": [
+      "数字偷换",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "hours → 第4段，有两个数字。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "nine to twelve 是给 6–12 岁儿童的，看清主语 teenagers。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, what does \"It\" mean in \"It helps you remember the new things from the day\"?",
+     "opts": [
+      "your brain",
+      "the night",
+      "your class"
+     ],
+     "a": 0,
+     "why": "往前一句：At night, your brain is very busy.，It 指 your brain。",
+     "evidence": "At night, your brain is very busy.",
+     "optWhy": [
+      "正确。前一句的主语 your brain = 选项 your brain。",
+      "At night 只是时间，不能“帮你记东西”。",
+      "class 在后一句才出现，和 It 无关。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句 your brain is very busy。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Your brain helps you remember … 意思通顺。"
+      }
+     ],
+     "marks": [
+      "It helps you remember the new things from the day."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Light from a phone screen can stop your body making melatonin.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第6段原文：The light from screens can stop your body from making melatonin.",
+     "evidence": "The light from screens can stop your body from making melatonin.",
+     "optWhy": [
+      "正确。原文 The light from screens can stop your body from making melatonin = 题干意思 → Right。",
+      "原文和题干意思一样，不是相反。",
+      "原文明确说了，不是没提到。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "phone / screen → 第6段。"
+      },
+      {
+       "h": "对比",
+       "t": "screens = phone screen，意思一致 → Right。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Prepositions of time: in / on / at",
+    "rule": "Use at for clock times, at night and at the weekend. Use on for days and dates: on Monday, on Saturday morning. Use in for parts of the day, months, seasons and years: in the evening, in July, in winter.",
+    "table": [
+     [
+      "at",
+      "at seven o'clock, at night, at the weekend"
+     ],
+     [
+      "on",
+      "on Monday, on Sunday morning, on 5 May"
+     ],
+     [
+      "in",
+      "in the morning, in the evening, in the day"
+     ],
+     [
+      "in",
+      "in July, in winter, in 2026"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "It is seven o'clock on a Monday morning.",
+      "mark": "on a Monday morning"
+     },
+     {
+      "para": 1,
+      "text": "Then at eleven o'clock at night, you are not tired at all.",
+      "mark": "at eleven o'clock at night"
+     },
+     {
+      "para": 2,
+      "text": "In the evening, when it gets dark, your brain makes a special chemical.",
+      "mark": "In the evening"
+     },
+     {
+      "para": 6,
+      "text": "And at the weekend, enjoy a little more sleep on Saturday and Sunday mornings!",
+      "mark": "at the weekend"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My little brother usually goes to bed ___ eight o'clock.",
+      "opts": [
+       "in",
+       "on",
+       "at"
+      ],
+      "a": 2,
+      "why": "Clock times take at: at eight o'clock."
+     },
+     {
+      "type": "mc",
+      "q": "We don't have school ___ Sunday morning, so I sleep longer.",
+      "opts": [
+       "at",
+       "on",
+       "in"
+      ],
+      "a": 1,
+      "why": "A day + morning takes on: on Sunday morning."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ very sleepy ___ the afternoon yesterday.",
+      "hint": "(feel) + in / on / at",
+      "a": "felt, in",
+      "why": "Yesterday → past simple felt; parts of the day take in."
+     },
+     {
+      "type": "fill",
+      "q": "My sister always ___ her homework ___ the evening.",
+      "hint": "(do) + in / on / at",
+      "a": "does, in",
+      "why": "always + present simple: she does; in the evening."
+     },
+     {
+      "type": "fill",
+      "q": "Our school starts ___ half past seven ___ winter.",
+      "hint": "(in / on / at) × 2",
+      "a": "at, in",
+      "why": "Clock time: at; seasons: in winter."
+     },
+     {
+      "type": "fill",
+      "q": "Ben ___ to bed late ___ Friday night. He was asleep at nine.",
+      "hint": "(not go) + in / on / at",
+      "a": "didn't go, on / did not go, on",
+      "why": "Past simple negative: didn't go; a day + night takes on."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261121-1-k1",
+     "tag": "Body clock",
+     "fact": "Your body has got a clock inside that tells you when to sleep.",
+     "q": "What tells you when to sleep and wake up?",
+     "opts": [
+      "your body clock",
+      "your teacher",
+      "your phone"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261121-1-k2",
+     "tag": "Melatonin",
+     "fact": "When it gets dark, your brain makes melatonin, and it helps you feel sleepy.",
+     "q": "What does melatonin do?",
+     "opts": [
+      "It wakes you up.",
+      "It helps you feel sleepy.",
+      "It makes you hungry."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261121-1-k3",
+     "tag": "Teenagers",
+     "fact": "Teenagers make melatonin later, so they feel sleepy late at night.",
+     "q": "Why do teenagers feel sleepy late?",
+     "opts": [
+      "They are lazy.",
+      "They drink too much milk.",
+      "Their bodies make melatonin later."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261121-1-k4",
+     "tag": "Hours",
+     "fact": "Teenagers need eight to ten hours of sleep every night.",
+     "q": "How much sleep do teenagers need?",
+     "opts": [
+      "eight to ten hours",
+      "five hours",
+      "twelve to fourteen hours"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261121-1-k5",
+     "tag": "Tips",
+     "fact": "Put your phone away about half an hour before bed.",
+     "q": "When should you put your phone away?",
+     "opts": [
+      "at midnight",
+      "about half an hour before bed",
+      "in the morning"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Teenagers and sleep",
+    "question": "Why are teenagers so tired in the morning?",
+    "branches": [
+     {
+      "title": "Body clock",
+      "paras": "2",
+      "blanks": [
+       "a kind of clock",
+       "melatonin"
+      ],
+      "kps": [
+       "k20261121-1-k1",
+       "k20261121-1-k2"
+      ]
+     },
+     {
+      "title": "Why late",
+      "paras": "3",
+      "blanks": [
+       "later in the day",
+       "not lazy"
+      ],
+      "kps": [
+       "k20261121-1-k3"
+      ]
+     },
+     {
+      "title": "How much",
+      "paras": "4–5",
+      "blanks": [
+       "eight to ten hours",
+       "think more clearly"
+      ],
+      "kps": [
+       "k20261121-1-k4"
+      ]
+     },
+     {
+      "title": "What to do",
+      "paras": "6",
+      "blanks": [
+       "phone away",
+       "same time"
+      ],
+      "kps": [
+       "k20261121-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "drink coffee",
+     "earlier in the day"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the article.",
+    "model": "Teenagers feel sleepy late because their bodies make melatonin later. But they need eight to ten hours of sleep, so a good bedtime is important.",
+    "options": [
+     {
+      "t": "Melatonin is a chemical that helps you feel sleepy.",
+      "ok": true,
+      "why": "This explains how the body clock works.",
+      "type": "main",
+      "para": 2,
+      "evidence": "It helps you feel sleepy."
+     },
+     {
+      "t": "Teenagers make melatonin later, so they feel sleepy late.",
+      "ok": true,
+      "why": "This is the main answer to the question.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Your body starts to make melatonin later in the day."
+     },
+     {
+      "t": "Teenagers need eight to ten hours of sleep for their brains.",
+      "ok": true,
+      "why": "This tells us why sleep is important.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Doctors say that teenagers need eight to ten hours of sleep every night."
+     },
+     {
+      "t": "Sleep makes it easier to learn a new song.",
+      "ok": false,
+      "why": "True, but it is only a small example.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "It is also easier to learn a new song or a new sport."
+     },
+     {
+      "t": "Teenagers should drink warm milk before bed.",
+      "ok": false,
+      "why": "The article never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Young children make melatonin later than teenagers.",
+      "ok": false,
+      "why": "Wrong: young children make it early in the evening.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "Young children usually make melatonin early in the evening."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What time do you usually go to bed on school nights? Is it different at the weekend? Why?",
+    "hint": "I usually go to bed at … / At the weekend, I …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your friend is always tired in class. Write a message to give some advice. Write 25 words or more.",
+    "steps": [
+     "Say what you noticed about your friend.",
+     "Tell them how many hours of sleep teenagers need.",
+     "Give one idea for a better night's sleep."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261121-2",
+   "topic": "Services (bank, post office, library)",
+   "genre": "Notices & messages",
+   "title": "Notices at Riverside Library",
+   "dek": "Where is the study room? Where do your books go? Read the signs and find out.",
+   "sources": [],
+   "paras": [
+    "Riverside Library is a big library in the middle of a busy town. It has got books, computers and a small café. Leo Kim is fourteen, and he goes there every Saturday. Today he is reading the notices and messages around the building. Here are some of them.",
+    "SIGN by the front door: Welcome to Riverside Library! Children's books are on the ground floor, next to the café. Books for teenagers and adults are upstairs on the first floor. The study room is at the end of the corridor, opposite the lift. Please go up the stairs or take the lift.",
+    "NOTICE above the return box: Are you returning a book? Put it into this box, please. Don't leave books on the floor in front of the box. After 6 p.m., push your books through the hole in the wall outside. We open again at 9 a.m.",
+    "NOTICE in the computer room: Computers are free for library members. Please book a computer at the desk behind you. You can use it for one hour. Don't put drinks on the tables near the computers! The printer is between the two windows.",
+    "Text message from Leo to his friend Maya: Hi Maya, I'm at the library. I'm sitting at a table near the window, under the big clock. I've found three good books for our history project. Come in through the side door. The front door is closed today. Leo",
+    "NOTE on the noticeboard: LOST! A blue pencil case with a cat on it. I think I left it under a chair in the study room on Thursday. If you find it, please give it to the woman at the front desk. Thank you! Amira",
+    "POSTER next to the lift: Story time for little children! Every Wednesday at 4 p.m. Walk past the café and go into the yellow room. Sit on the soft carpet and listen to a new story. Parents can wait outside the room."
+   ],
+   "words": [
+    {
+     "w": "upstairs",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˌʌpˈsteəz/",
+     "syl": [
+      "up",
+      "stairs"
+     ],
+     "def": "on a higher floor of a building",
+     "ex": "My bedroom is upstairs."
+    },
+    {
+     "w": "corridor",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɒr.ɪ.dɔː/",
+     "syl": [
+      "cor",
+      "ri",
+      "dor"
+     ],
+     "def": "a long, narrow way inside a building with doors on it",
+     "ex": "Don't run in the school corridor!"
+    },
+    {
+     "w": "opposite",
+     "level": "A2 word",
+     "pos": "preposition",
+     "ipa": "/ˈɒp.ə.zɪt/",
+     "syl": [
+      "op",
+      "po",
+      "site"
+     ],
+     "def": "on the other side, facing something",
+     "ex": "The bank is opposite the post office."
+    },
+    {
+     "w": "lift",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/lɪft/",
+     "syl": [
+      "lift"
+     ],
+     "def": "a small room that takes people up and down",
+     "ex": "We took the lift to the fifth floor."
+    },
+    {
+     "w": "return",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/rɪˈtɜːn/",
+     "syl": [
+      "re",
+      "turn"
+     ],
+     "def": "to give or bring something back",
+     "ex": "Please return this book by Friday."
+    },
+    {
+     "w": "member",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈmem.bə/",
+     "syl": [
+      "mem",
+      "ber"
+     ],
+     "def": "a person who is part of a group or club",
+     "ex": "I am a member of the chess club."
+    },
+    {
+     "w": "printer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈprɪn.tə/",
+     "syl": [
+      "print",
+      "er"
+     ],
+     "def": "a machine that puts words and pictures on paper",
+     "ex": "The printer in our classroom is broken."
+    },
+    {
+     "w": "noticeboard",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈnəʊ.tɪs.bɔːd/",
+     "syl": [
+      "no",
+      "tice",
+      "board"
+     ],
+     "def": "a board on a wall where people put notes",
+     "ex": "The new timetable is on the noticeboard."
+    },
+    {
+     "w": "carpet",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɑː.pɪt/",
+     "syl": [
+      "car",
+      "pet"
+     ],
+     "def": "a soft thing that covers the floor",
+     "ex": "The cat is sleeping on the carpet."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Today he is reading the notices and messages around the building.",
+     "kind": "Main idea",
+     "note": "All the texts are from one library."
+    },
+    {
+     "para": 2,
+     "text": "The study room is at the end of the corridor, opposite the lift.",
+     "kind": "Grammar to notice",
+     "note": "at the end of and opposite tell us where a place is."
+    },
+    {
+     "para": 3,
+     "text": "After 6 p.m., push your books through the hole in the wall outside.",
+     "kind": "Key details",
+     "note": "Late in the day, use the hole in the wall."
+    },
+    {
+     "para": 5,
+     "text": "Come in through the side door.",
+     "kind": "Cause → effect",
+     "note": "The front door is closed, so Maya must use the side door."
+    }
+   ],
+   "questions": [
+    {
+     "type": "What does the message say?",
+     "para": 2,
+     "q": "What does the sign by the front door say?",
+     "opts": [
+      "The study room is next to the café.",
+      "There is no lift in the library.",
+      "Books for teenagers are on the first floor."
+     ],
+     "a": 2,
+     "why": "第2段原文：Books for teenagers and adults are upstairs on the first floor.",
+     "evidence": "Books for teenagers and adults are upstairs on the first floor.",
+     "optWhy": [
+      "next to the café 的是 Children's books，study room 在 opposite the lift。",
+      "原文 take the lift，说明有电梯。",
+      "正确。原文 Books for teenagers … on the first floor = 选项 Books for teenagers are on the first floor。"
+     ],
+     "traps": [
+      "细节偷换",
+      "与原文相反",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "SIGN by the front door → 第2段。"
+      },
+      {
+       "h": "逐个核对",
+       "t": "每个地点后面的介词短语都对一遍：next to / opposite / on the first floor。"
+      }
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 3,
+     "q": "What does the notice above the return box say?",
+     "opts": [
+      "After 6 p.m., use the hole in the wall outside.",
+      "You can leave books on the floor.",
+      "The library opens at 6 p.m."
+     ],
+     "a": 0,
+     "why": "第3段原文：After 6 p.m., push your books through the hole in the wall outside.",
+     "evidence": "After 6 p.m., push your books through the hole in the wall outside.",
+     "optWhy": [
+      "正确。原文 push your books through the hole in the wall outside = 选项 use the hole in the wall outside。",
+      "原文 Don't leave books on the floor，与选项相反。",
+      "原文 We open again at 9 a.m.，6 p.m. 是之后要用墙洞的时间。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "数字偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "NOTICE above the return box → 第3段。"
+      },
+      {
+       "h": "小心 Don't",
+       "t": "Don't leave books on the floor 是“不要”，别看反。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Library members have to pay to use the computers.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：Computers are free for library members.，会员免费。",
+     "evidence": "Computers are free for library members.",
+     "optWhy": [
+      "原文说 free，与题干“要付钱”相反。",
+      "正确。原文 free for library members，题干说 have to pay → Wrong。",
+      "原文明确说了免费，不是没提到。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "computers → 第4段第1句。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "free = 不用付钱，和题干相反 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "Where is Leo sitting?",
+     "opts": [
+      "at the front desk",
+      "in the computer room",
+      "near the window, under the clock"
+     ],
+     "a": 2,
+     "why": "第5段原文：I'm sitting at a table near the window, under the big clock.",
+     "evidence": "I'm sitting at a table near the window, under the big clock.",
+     "optWhy": [
+      "front desk 是 Amira 的便条里说的地方，不是 Leo 坐的地方。",
+      "computer room 在第4段，Leo 没说他在那里。",
+      "正确。原文 near the window, under the big clock = 选项 near the window, under the clock。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Text message from Leo → 第5段。"
+      },
+      {
+       "h": "找地点介词",
+       "t": "sitting 后面看 near … under … 就是位置。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In Amira's note, what does \"it\" mean in \"If you find it\"?",
+     "opts": [
+      "the study room",
+      "her pencil case",
+      "the chair"
+     ],
+     "a": 1,
+     "why": "便条开头：LOST! A blue pencil case …，丢的东西是铅笔盒，it 指 her pencil case。",
+     "evidence": "LOST! A blue pencil case with a cat on it.",
+     "optWhy": [
+      "study room 是她觉得丢东西的地方，不是要找的东西。",
+      "正确。原文 LOST! A blue pencil case = 选项 her pencil case。",
+      "chair 只是放东西的位置，不是丢的东西。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "LOST! 后面就是丢的东西：A blue pencil case。"
+      },
+      {
+       "h": "代回验证",
+       "t": "If you find her pencil case, give it to the woman … 通顺。"
+      }
+     ],
+     "marks": [
+      "If you find it"
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 7,
+     "q": "What does the poster next to the lift say?",
+     "opts": [
+      "Parents must sit with their children.",
+      "Story time is every Saturday.",
+      "Story time is in the yellow room."
+     ],
+     "a": 2,
+     "why": "第7段原文：Walk past the café and go into the yellow room.",
+     "evidence": "Walk past the café and go into the yellow room.",
+     "optWhy": [
+      "原文 Parents can wait outside the room，家长可以在外面等。",
+      "原文 Every Wednesday at 4 p.m.，不是星期六。Leo 每周六来图书馆，别混淆。",
+      "正确。原文 go into the yellow room = 选项 in the yellow room。"
+     ],
+     "traps": [
+      "与原文相反",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "POSTER next to the lift → 第7段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "Saturday 出现在第1段，海报上是 Wednesday。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Prepositions of place and movement",
+    "rule": "Prepositions of place tell us where something is: next to, opposite, under, between, behind, in front of, near. Prepositions of movement tell us where something goes: up, into, through, past.",
+    "table": [
+     [
+      "next to / near",
+      "next to the café, near the window"
+     ],
+     [
+      "opposite / behind",
+      "opposite the lift, the desk behind you"
+     ],
+     [
+      "under / between",
+      "under the big clock, between the two windows"
+     ],
+     [
+      "in front of",
+      "in front of the box"
+     ],
+     [
+      "up / into",
+      "go up the stairs, go into the yellow room"
+     ],
+     [
+      "through / past",
+      "through the side door, past the café"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Children's books are on the ground floor, next to the café.",
+      "mark": "next to the café"
+     },
+     {
+      "para": 3,
+      "text": "Put it into this box, please.",
+      "mark": "into this box"
+     },
+     {
+      "para": 5,
+      "text": "I'm sitting at a table near the window, under the big clock.",
+      "mark": "under the big clock"
+     },
+     {
+      "para": 7,
+      "text": "Walk past the café and go into the yellow room.",
+      "mark": "past the café"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "The cat jumped ___ the open window and ran into the garden.",
+      "opts": [
+       "through",
+       "between",
+       "on"
+      ],
+      "a": 0,
+      "why": "Moving from one side of a window to the other: through."
+     },
+     {
+      "type": "mc",
+      "q": "The bank is ___ the library. You can see it across the road.",
+      "opts": [
+       "into",
+       "opposite",
+       "up"
+      ],
+      "a": 1,
+      "why": "On the other side of the road, facing it: opposite."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday I ___ ___ the post office on my way to school.",
+      "hint": "(walk) + past / into / under",
+      "a": "walked, past",
+      "why": "Past simple: walked; going by a place without stopping: past."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ a lot of books ___ my bed, so I can't find my shoes!",
+      "hint": "(be) + under / through / up",
+      "a": "are, under",
+      "why": "a lot of books → there are; the books are below the bed: under."
+     },
+     {
+      "type": "fill",
+      "q": "Can you put the dictionary back ___ the shelf, ___ the two red books?",
+      "hint": "(on / between / through) × 2",
+      "a": "on, between",
+      "why": "On a surface: on; in the middle of two things: between."
+     },
+     {
+      "type": "fill",
+      "q": "My little sister always ___ ___ the stairs to her bedroom.",
+      "hint": "(run) + up / under / between",
+      "a": "runs, up",
+      "why": "always + present simple: she runs; moving to a higher place: up."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261121-2-k1",
+     "tag": "First floor",
+     "fact": "Books for teenagers and adults are upstairs on the first floor.",
+     "q": "Where are the books for teenagers?",
+     "opts": [
+      "next to the café",
+      "on the first floor",
+      "in the yellow room"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261121-2-k2",
+     "tag": "Return box",
+     "fact": "After 6 p.m., you push your books through the hole in the wall.",
+     "q": "What do you do with books after 6 p.m.?",
+     "opts": [
+      "push them through the hole in the wall",
+      "leave them on the floor",
+      "give them to Leo"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261121-2-k3",
+     "tag": "Computers",
+     "fact": "Computers are free for members, and you book them at the desk.",
+     "q": "How much does a computer cost for members?",
+     "opts": [
+      "one pound",
+      "two pounds an hour",
+      "nothing, it is free"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261121-2-k4",
+     "tag": "Leo",
+     "fact": "Leo is sitting near the window, and Maya must come in through the side door.",
+     "q": "Which door must Maya use?",
+     "opts": [
+      "the side door",
+      "the front door",
+      "the back door"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261121-2-k5",
+     "tag": "Story time",
+     "fact": "Story time is every Wednesday at 4 p.m. in the yellow room.",
+     "q": "Where is story time?",
+     "opts": [
+      "in the study room",
+      "in the yellow room",
+      "in the computer room"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Riverside Library",
+    "question": "What can you learn from the library notices?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "2",
+      "blanks": [
+       "on the first floor",
+       "opposite the lift"
+      ],
+      "kps": [
+       "k20261121-2-k1"
+      ]
+     },
+     {
+      "title": "Books back",
+      "paras": "3",
+      "blanks": [
+       "into this box",
+       "through the hole"
+      ],
+      "kps": [
+       "k20261121-2-k2"
+      ]
+     },
+     {
+      "title": "Computers",
+      "paras": "4",
+      "blanks": [
+       "free for members"
+      ],
+      "kps": [
+       "k20261121-2-k3"
+      ]
+     },
+     {
+      "title": "People",
+      "paras": "5–7",
+      "blanks": [
+       "the side door",
+       "the yellow room"
+      ],
+      "kps": [
+       "k20261121-2-k4",
+       "k20261121-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a swimming pool",
+     "behind the café"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the texts.",
+    "model": "The library signs tell people where rooms and books are, and how to return books. Leo is studying there, but the front door is closed, so Maya must use the side door.",
+    "options": [
+     {
+      "t": "Signs tell visitors where the books and rooms are.",
+      "ok": true,
+      "why": "This is the main job of the notices.",
+      "type": "main",
+      "para": 2,
+      "evidence": "The study room is at the end of the corridor, opposite the lift."
+     },
+     {
+      "t": "There are rules for returning books and using computers.",
+      "ok": true,
+      "why": "Two notices give rules for these.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Put it into this box, please."
+     },
+     {
+      "t": "People also use messages and notes to help each other.",
+      "ok": true,
+      "why": "Leo, Amira and the poster share news.",
+      "type": "main",
+      "para": 6,
+      "evidence": "If you find it, please give it to the woman at the front desk."
+     },
+     {
+      "t": "The printer is between the two windows.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "The printer is between the two windows."
+     },
+     {
+      "t": "The library café sells cheap sandwiches.",
+      "ok": false,
+      "why": "The texts never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "You can put drinks next to the computers.",
+      "ok": false,
+      "why": "Wrong: the notice says don't do this.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Don't put drinks on the tables near the computers!"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Is there a library near your home or school? What can you do there?",
+    "hint": "There is a library near … / I go there to …",
+    "sec": 35
+   },
+   "write": {
+    "p": "Your friend wants to meet you at the library. Write a message to them. Write 25 words or more.",
+    "steps": [
+     "Say what time to meet.",
+     "Tell them which door to use.",
+     "Say where you are sitting in the library."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261121-3",
+   "topic": "Clothes",
+   "genre": "Three people",
+   "title": "Clothes with a Story",
+   "dek": "Three teenagers tell us about their favourite clothes – and whose they were first.",
+   "sources": [],
+   "paras": [
+    "Have you got a piece of clothing with a special story? Maybe it was a present. Or maybe it was someone else's first. We asked three teenagers about their favourite clothes. Here are their answers.",
+    "Hana, 13: My favourite jumper isn't really mine. It's my brother's! Kenji is seventeen, and the jumper is too small for him now. It's dark green, and it has got a big yellow star on the front. Kenji says he wants it back one day. But I don't think so! I wear it every Sunday. Last week Mum asked, 'Whose jumper is this?' I said, 'It's mine now!'",
+    "Diego, 15: My favourite thing is a red football shirt. It was my grandfather's shirt fifty years ago. He played for a small team in his village in Mexico. The shirt is old, and there is a little hole in one sleeve. I never wear it for football. It hangs on the wall of my bedroom. My friends' shirts are new and shiny, but mine has a story.",
+    "Freya, 14: I love my grey trainers. My best friend Lily has got the same ones. One day after PE, we couldn't find our trainers. There were two grey pairs under the bench. 'Whose are these?' Lily asked. 'Are they yours or mine?' Then I saw a small blue heart on one shoe. I drew it there in the summer. So those trainers were mine, and the others were hers!",
+    "What about you? Is there something in your wardrobe with a story? Is it yours, or was it someone else's first? Write and tell us!"
+   ],
+   "words": [
+    {
+     "w": "present",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈprez.ənt/",
+     "syl": [
+      "pres",
+      "ent"
+     ],
+     "def": "something you give to a person, for example on a birthday",
+     "ex": "This watch was a present from my aunt."
+    },
+    {
+     "w": "jumper",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdʒʌm.pə/",
+     "syl": [
+      "jum",
+      "per"
+     ],
+     "def": "a warm piece of clothing for the top of your body",
+     "ex": "Put on a jumper. It's cold outside."
+    },
+    {
+     "w": "village",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈvɪl.ɪdʒ/",
+     "syl": [
+      "vil",
+      "lage"
+     ],
+     "def": "a very small town in the countryside",
+     "ex": "My grandma lives in a quiet village."
+    },
+    {
+     "w": "sleeve",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/sliːv/",
+     "syl": [
+      "sleeve"
+     ],
+     "def": "the part of a shirt or coat that covers your arm",
+     "ex": "There is paint on my sleeve."
+    },
+    {
+     "w": "hang",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/hæŋ/",
+     "syl": [
+      "hang"
+     ],
+     "def": "to be held at the top, not touching the floor",
+     "ex": "Our coats hang behind the door."
+    },
+    {
+     "w": "shiny",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈʃaɪ.ni/",
+     "syl": [
+      "shi",
+      "ny"
+     ],
+     "def": "bright, so light comes back from it",
+     "ex": "He wore shiny black shoes to the party."
+    },
+    {
+     "w": "trainers",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtreɪ.nəz/",
+     "syl": [
+      "train",
+      "ers"
+     ],
+     "def": "soft sports shoes",
+     "ex": "I need new trainers for running."
+    },
+    {
+     "w": "bench",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/bentʃ/",
+     "syl": [
+      "bench"
+     ],
+     "def": "a long seat for two or more people",
+     "ex": "We sat on a bench in the park."
+    },
+    {
+     "w": "wardrobe",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈwɔː.drəʊb/",
+     "syl": [
+      "ward",
+      "robe"
+     ],
+     "def": "a tall cupboard where you keep your clothes",
+     "ex": "My winter coat is in the wardrobe."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "We asked three teenagers about their favourite clothes.",
+     "kind": "Main idea",
+     "note": "Three people talk about one subject."
+    },
+    {
+     "para": 2,
+     "text": "It's my brother's!",
+     "kind": "Grammar to notice",
+     "note": "my brother's = my brother's jumper."
+    },
+    {
+     "para": 3,
+     "text": "My friends' shirts are new and shiny, but mine has a story.",
+     "kind": "Opinion",
+     "note": "Diego thinks his old shirt is special."
+    },
+    {
+     "para": 4,
+     "text": "Then I saw a small blue heart on one shoe.",
+     "kind": "Key details",
+     "note": "The heart showed which trainers were Freya's."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to wash old clothes",
+      "three teenagers and clothes with a story",
+      "where to buy cheap trainers"
+     ],
+     "a": 1,
+     "why": "第1段：We asked three teenagers about their favourite clothes.，后面三人各讲一件有故事的衣服。",
+     "evidence": null,
+     "optWhy": [
+      "文中没讲怎么洗衣服。",
+      "正确。原文 three teenagers … favourite clothes … a special story = 选项 three teenagers and clothes with a story。",
+      "trainers 只是 Freya 的故事，没讲去哪里买便宜的。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段 We asked three teenagers … 说明全文内容。"
+      },
+      {
+       "h": "看全文",
+       "t": "Hana、Diego、Freya 都在讲一件有故事的衣服。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why does Hana wear Kenji's jumper?",
+     "opts": [
+      "It is too small for Kenji now.",
+      "Kenji gave it to her as a present.",
+      "Her own jumper has a hole in it."
+     ],
+     "a": 0,
+     "why": "第2段原文：the jumper is too small for him now，哥哥穿不下了。",
+     "evidence": "Kenji is seventeen, and the jumper is too small for him now.",
+     "optWhy": [
+      "正确。原文 the jumper is too small for him now = 选项 It is too small for Kenji now。",
+      "原文 Kenji says he wants it back one day，他没把它送给 Hana。",
+      "有洞的是 Diego 的球衣 a little hole in one sleeve，不是 Hana 的毛衣。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Hana → 第2段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "hole 在第3段 Diego 的故事里，别张冠李戴。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 2,
+     "q": "In paragraph 2, what does \"mine\" mean in \"It's mine now!\"?",
+     "opts": [
+      "Mum's jumper",
+      "Kenji's jumper",
+      "Hana's jumper"
+     ],
+     "a": 2,
+     "why": "这句话是 Hana 说的：I said, 'It's mine now!'，mine = my jumper = Hana's jumper。",
+     "evidence": "I said, 'It's mine now!'",
+     "optWhy": [
+      "是 Mum 在问 Whose jumper，mine 是 Hana 说的。",
+      "毛衣以前是 Kenji 的，但 now 说明现在是 Hana 的。",
+      "正确。说话人 I = Hana，mine = Hana's jumper。"
+     ],
+     "traps": [
+      "指代错误",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找说话人",
+       "t": "I said … → 说话的是 Hana。"
+      },
+      {
+       "h": "换成名词",
+       "t": "mine = my jumper → Hana's jumper。"
+      }
+     ],
+     "marks": [
+      "Whose jumper is this?"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Diego wears the red shirt when he plays football.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段原文：I never wear it for football.",
+     "evidence": "I never wear it for football.",
+     "optWhy": [
+      "原文 never wear it for football，与题干相反。",
+      "正确。原文 never wear it for football，题干说踢球时穿 → Wrong。",
+      "原文明确说了，不是没提到。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Diego, football → 第3段。"
+      },
+      {
+       "h": "看频率副词",
+       "t": "never = 从不，和题干相反 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "How did Freya know which trainers were hers?",
+     "opts": [
+      "Her name was inside them.",
+      "They were newer than Lily's.",
+      "She saw a small blue heart on one."
+     ],
+     "a": 2,
+     "why": "第4段原文：Then I saw a small blue heart on one shoe. I drew it there in the summer.",
+     "evidence": "Then I saw a small blue heart on one shoe.",
+     "optWhy": [
+      "文中没说鞋里写了名字。",
+      "文中没比较两双鞋哪双新。",
+      "正确。原文 I saw a small blue heart on one shoe = 选项 She saw a small blue heart on one。"
+     ],
+     "traps": [
+      "无中生有",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Freya → 第4段，找 Whose are these? 后面。"
+      },
+      {
+       "h": "看 So",
+       "t": "So those trainers were mine 前面就是原因：blue heart。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How does Diego feel about his grandfather's shirt?",
+     "opts": [
+      "He thinks it is special.",
+      "He is sad because it is old.",
+      "He wants a new and shiny one."
+     ],
+     "a": 0,
+     "why": "第3段原文：My friends' shirts are new and shiny, but mine has a story.，他觉得自己的球衣有故事、很特别。",
+     "evidence": "My friends' shirts are new and shiny, but mine has a story.",
+     "optWhy": [
+      "正确。原文 but mine has a story，还把它挂在墙上 = 选项 He thinks it is special。",
+      "原文说旧，但用 but mine has a story 表示喜欢，没说难过。",
+      "new and shiny 是朋友们的球衣，他没说想要。"
+     ],
+     "traps": [
+      null,
+      "望文生义",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "看转折",
+       "t": "but 后面是作者真正的态度：mine has a story。"
+      },
+      {
+       "h": "找行动",
+       "t": "It hangs on the wall of my bedroom → 很珍惜。"
+      }
+     ],
+     "marks": [
+      "It hangs on the wall of my bedroom."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Possessives: my / mine, 's, whose",
+    "rule": "Use my, your, his, her, our, their before a noun: my jumper. Use mine, yours, his, hers, ours, theirs with no noun after them: It's mine. Use 's for one person (my brother's) and s' for plural nouns (my friends'). Ask with whose.",
+    "table": [
+     [
+      "my → mine",
+      "your → yours"
+     ],
+     [
+      "his → his",
+      "her → hers"
+     ],
+     [
+      "our → ours",
+      "their → theirs"
+     ],
+     [
+      "one person",
+      "my brother's jumper"
+     ],
+     [
+      "two or more people",
+      "my friends' shirts"
+     ],
+     [
+      "question",
+      "Whose jumper is this?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "It's my brother's!",
+      "mark": "my brother's"
+     },
+     {
+      "para": 2,
+      "text": "Last week Mum asked, 'Whose jumper is this?'",
+      "mark": "Whose"
+     },
+     {
+      "para": 3,
+      "text": "My friends' shirts are new and shiny, but mine has a story.",
+      "mark": "My friends' shirts"
+     },
+     {
+      "para": 4,
+      "text": "'Are they yours or mine?'",
+      "mark": "yours or mine"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "This isn't my scarf. It's ___ .",
+      "opts": [
+       "her",
+       "hers",
+       "she"
+      ],
+      "a": 1,
+      "why": "No noun after it, so we use hers."
+     },
+     {
+      "type": "mc",
+      "q": "___ trainers are these? They are very dirty!",
+      "opts": [
+       "Who",
+       "Who's",
+       "Whose"
+      ],
+      "a": 2,
+      "why": "We ask about the owner with whose."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday I ___ my sister's coat because ___ was wet.",
+      "hint": "(wear) + my / mine",
+      "a": "wore, mine",
+      "why": "Past simple: wore; no noun after it, so mine."
+     },
+     {
+      "type": "fill",
+      "q": "The ___ clothes are in the big bag by the door.",
+      "hint": "(children + possessive)",
+      "a": "children's",
+      "why": "children is plural but has no s, so we add 's."
+     },
+     {
+      "type": "fill",
+      "q": "Is this cap ___ ? – No, it isn't mine. It's ___ .",
+      "hint": "(you → ?) / (Tom → ?)",
+      "a": "yours, Tom's",
+      "why": "yours with no noun; Tom's for one person."
+     },
+     {
+      "type": "fill",
+      "q": "Last month my parents ___ a new wardrobe. ___ old one was too small.",
+      "hint": "(buy) + they → ?",
+      "a": "bought, Their",
+      "why": "Past simple: bought; their + noun (old one)."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261121-3-k1",
+     "tag": "Hana",
+     "fact": "Hana wears her brother's green jumper because it is too small for him.",
+     "q": "Whose jumper was it first?",
+     "opts": [
+      "Mum's",
+      "Kenji's",
+      "Lily's"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261121-3-k2",
+     "tag": "Diego",
+     "fact": "Diego's red football shirt was his grandfather's fifty years ago.",
+     "q": "Who wore the red shirt first?",
+     "opts": [
+      "Diego's grandfather",
+      "Diego's friend",
+      "Diego's teacher"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261121-3-k3",
+     "tag": "The shirt",
+     "fact": "Diego never wears the shirt. It hangs on his bedroom wall.",
+     "q": "Where is Diego's shirt?",
+     "opts": [
+      "in his school bag",
+      "on the football pitch",
+      "on his bedroom wall"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261121-3-k4",
+     "tag": "Freya",
+     "fact": "Freya and Lily have got the same grey trainers.",
+     "q": "What is the same about Freya and Lily?",
+     "opts": [
+      "their jumpers",
+      "their trainers",
+      "their bags"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261121-3-k5",
+     "tag": "The heart",
+     "fact": "A small blue heart showed which trainers were Freya's.",
+     "q": "How did Freya find her trainers?",
+     "opts": [
+      "She saw a blue heart.",
+      "She looked at the size.",
+      "Her teacher told her."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Clothes with stories",
+    "question": "Why are these clothes special?",
+    "branches": [
+     {
+      "title": "Hana",
+      "paras": "2",
+      "blanks": [
+       "my brother's",
+       "too small"
+      ],
+      "kps": [
+       "k20261121-3-k1"
+      ]
+     },
+     {
+      "title": "Diego",
+      "paras": "3",
+      "blanks": [
+       "grandfather's shirt",
+       "on the wall"
+      ],
+      "kps": [
+       "k20261121-3-k2",
+       "k20261121-3-k3"
+      ]
+     },
+     {
+      "title": "Freya",
+      "paras": "4",
+      "blanks": [
+       "grey trainers",
+       "a blue heart"
+      ],
+      "kps": [
+       "k20261121-3-k4",
+       "k20261121-3-k5"
+      ]
+     },
+     {
+      "title": "You",
+      "paras": "5",
+      "blanks": [
+       "your wardrobe"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "a birthday hat",
+     "a new shiny shirt"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Hana and Diego wear clothes that belonged to their family first. Freya and Lily have the same trainers, but a blue heart shows whose are whose.",
+    "options": [
+     {
+      "t": "Hana's favourite jumper was her brother's first.",
+      "ok": true,
+      "why": "This is Hana's main story.",
+      "type": "main",
+      "para": 2,
+      "evidence": "It's my brother's!"
+     },
+     {
+      "t": "Diego keeps his grandfather's old football shirt.",
+      "ok": true,
+      "why": "This is Diego's main story.",
+      "type": "main",
+      "para": 3,
+      "evidence": "It was my grandfather's shirt fifty years ago."
+     },
+     {
+      "t": "Freya found her trainers because of a small blue heart.",
+      "ok": true,
+      "why": "This is Freya's main story.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Then I saw a small blue heart on one shoe."
+     },
+     {
+      "t": "Hana's jumper has got a yellow star on it.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "It's dark green, and it has got a big yellow star on the front."
+     },
+     {
+      "t": "Freya bought her trainers in a big shop in town.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Diego wears the red shirt in every football match.",
+      "ok": false,
+      "why": "Wrong: he never wears it for football.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "I never wear it for football."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is your favourite piece of clothing? Why do you like it?",
+    "hint": "My favourite … is … / It was my …'s first.",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story about some lost clothes. Begin: \"After PE, I couldn't find my jumper.\" Write 35 words or more.",
+    "steps": [
+     "Say where you looked for it.",
+     "Say who helped you and what happened.",
+     "Say how you knew it was yours."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · male"
+  }
+ ],
+ "audio": {
+  "It is seven o'clock on a Monday morning. Your alarm is ringing, but you can't open your eyes. Then at eleven o'clock at night, you are not tired at all. Does this happen to you? It happens to a lot of teenagers. But why? Let's find out step by step.": "audio/2026-11-21/a1-p1.mp3",
+  "First, your body has got a kind of clock inside it. This body clock tells you when to sleep and when to wake up. In the evening, when it gets dark, your brain makes a special chemical. Its name is melatonin. It helps you feel sleepy.": "audio/2026-11-21/a1-p2.mp3",
+  "Young children usually make melatonin early in the evening. So they often fall asleep at seven or eight o'clock. But when you become a teenager, your body clock changes. Your body starts to make melatonin later in the day. You also start to feel tired more slowly. That is why many teenagers don't feel sleepy until eleven o'clock or midnight. They are not lazy. Their bodies are working in a different way.": "audio/2026-11-21/a1-p3.mp3",
+  "But school doesn't start later for teenagers! Most students have to get up early in the morning. Doctors say that teenagers need eight to ten hours of sleep every night. Children from six to twelve need even more: nine to twelve hours. So if you go to bed at midnight and get up at seven, you don't get enough sleep.": "audio/2026-11-21/a1-p4.mp3",
+  "Is sleep really so important? Yes, it is! At night, your brain is very busy. It helps you remember the new things from the day. After a good night's sleep, you can think more clearly in class. It is also easier to learn a new song or a new sport.": "audio/2026-11-21/a1-p5.mp3",
+  "So what can you do? Put your phone away about half an hour before bed. The light from screens can stop your body from making melatonin. Try to go to bed at the same time on school nights. And at the weekend, enjoy a little more sleep on Saturday and Sunday mornings!": "audio/2026-11-21/a1-p6.mp3",
+  "alarm": "audio/2026-11-21/a1-w-alarm.mp3",
+  "My alarm rings at half past six.": "audio/2026-11-21/a1-ex-alarm.mp3",
+  "tired": "audio/2026-11-21/a1-w-tired.mp3",
+  "I was very tired after the long walk.": "audio/2026-11-21/a1-ex-tired.mp3",
+  "teenager": "audio/2026-11-21/a1-w-teenager.mp3",
+  "My cousin is a teenager. He is fifteen.": "audio/2026-11-21/a1-ex-teenager.mp3",
+  "brain": "audio/2026-11-21/a1-w-brain.mp3",
+  "Your brain needs good food and sleep.": "audio/2026-11-21/a1-ex-brain.mp3",
+  "chemical": "audio/2026-11-21/a1-w-chemical.mp3",
+  "This cleaning chemical is dangerous for pets.": "audio/2026-11-21/a1-ex-chemical.mp3",
+  "melatonin": "audio/2026-11-21/a1-w-melatonin.mp3",
+  "Your body makes melatonin when it gets dark.": "audio/2026-11-21/a1-ex-melatonin.mp3",
+  "asleep": "audio/2026-11-21/a1-w-asleep.mp3",
+  "The baby fell asleep in the car.": "audio/2026-11-21/a1-ex-asleep.mp3",
+  "midnight": "audio/2026-11-21/a1-w-midnight.mp3",
+  "We watched the fireworks at midnight.": "audio/2026-11-21/a1-ex-midnight.mp3",
+  "clearly": "audio/2026-11-21/a1-w-clearly.mp3",
+  "Please speak clearly so we can hear you.": "audio/2026-11-21/a1-ex-clearly.mp3",
+  "Then at eleven o'clock at night, you are not tired at all.": "audio/2026-11-21/a1-ks1.mp3",
+  "It helps you feel sleepy.": "audio/2026-11-21/a1-ks2.mp3",
+  "Your body starts to make melatonin later in the day.": "audio/2026-11-21/a1-ks3.mp3",
+  "Doctors say that teenagers need eight to ten hours of sleep every night.": "audio/2026-11-21/a1-ks4.mp3",
+  "And at the weekend, enjoy a little more sleep on Saturday and Sunday mornings!": "audio/2026-11-21/a1-ks5.mp3",
+  "It is seven o'clock on a Monday morning.": "audio/2026-11-21/a1-g1.mp3",
+  "In the evening, when it gets dark, your brain makes a special chemical.": "audio/2026-11-21/a1-g3.mp3",
+  "Riverside Library is a big library in the middle of a busy town. It has got books, computers and a small café. Leo Kim is fourteen, and he goes there every Saturday. Today he is reading the notices and messages around the building. Here are some of them.": "audio/2026-11-21/a2-p1.mp3",
+  "SIGN by the front door: Welcome to Riverside Library! Children's books are on the ground floor, next to the café. Books for teenagers and adults are upstairs on the first floor. The study room is at the end of the corridor, opposite the lift. Please go up the stairs or take the lift.": "audio/2026-11-21/a2-p2.mp3",
+  "NOTICE above the return box: Are you returning a book? Put it into this box, please. Don't leave books on the floor in front of the box. After 6 p.m., push your books through the hole in the wall outside. We open again at 9 a.m.": "audio/2026-11-21/a2-p3.mp3",
+  "NOTICE in the computer room: Computers are free for library members. Please book a computer at the desk behind you. You can use it for one hour. Don't put drinks on the tables near the computers! The printer is between the two windows.": "audio/2026-11-21/a2-p4.mp3",
+  "Text message from Leo to his friend Maya: Hi Maya, I'm at the library. I'm sitting at a table near the window, under the big clock. I've found three good books for our history project. Come in through the side door. The front door is closed today. Leo": "audio/2026-11-21/a2-p5.mp3",
+  "NOTE on the noticeboard: LOST! A blue pencil case with a cat on it. I think I left it under a chair in the study room on Thursday. If you find it, please give it to the woman at the front desk. Thank you! Amira": "audio/2026-11-21/a2-p6.mp3",
+  "POSTER next to the lift: Story time for little children! Every Wednesday at 4 p.m. Walk past the café and go into the yellow room. Sit on the soft carpet and listen to a new story. Parents can wait outside the room.": "audio/2026-11-21/a2-p7.mp3",
+  "upstairs": "audio/2026-11-21/a2-w-upstairs.mp3",
+  "My bedroom is upstairs.": "audio/2026-11-21/a2-ex-upstairs.mp3",
+  "corridor": "audio/2026-11-21/a2-w-corridor.mp3",
+  "Don't run in the school corridor!": "audio/2026-11-21/a2-ex-corridor.mp3",
+  "opposite": "audio/2026-11-21/a2-w-opposite.mp3",
+  "The bank is opposite the post office.": "audio/2026-11-21/a2-ex-opposite.mp3",
+  "lift": "audio/2026-11-21/a2-w-lift.mp3",
+  "We took the lift to the fifth floor.": "audio/2026-11-21/a2-ex-lift.mp3",
+  "return": "audio/2026-11-21/a2-w-return.mp3",
+  "Please return this book by Friday.": "audio/2026-11-21/a2-ex-return.mp3",
+  "member": "audio/2026-11-21/a2-w-member.mp3",
+  "I am a member of the chess club.": "audio/2026-11-21/a2-ex-member.mp3",
+  "printer": "audio/2026-11-21/a2-w-printer.mp3",
+  "The printer in our classroom is broken.": "audio/2026-11-21/a2-ex-printer.mp3",
+  "noticeboard": "audio/2026-11-21/a2-w-noticeboard.mp3",
+  "The new timetable is on the noticeboard.": "audio/2026-11-21/a2-ex-noticeboard.mp3",
+  "carpet": "audio/2026-11-21/a2-w-carpet.mp3",
+  "The cat is sleeping on the carpet.": "audio/2026-11-21/a2-ex-carpet.mp3",
+  "Today he is reading the notices and messages around the building.": "audio/2026-11-21/a2-ks1.mp3",
+  "The study room is at the end of the corridor, opposite the lift.": "audio/2026-11-21/a2-ks2.mp3",
+  "After 6 p.m., push your books through the hole in the wall outside.": "audio/2026-11-21/a2-ks3.mp3",
+  "Come in through the side door.": "audio/2026-11-21/a2-ks4.mp3",
+  "Children's books are on the ground floor, next to the café.": "audio/2026-11-21/a2-g1.mp3",
+  "Put it into this box, please.": "audio/2026-11-21/a2-g2.mp3",
+  "I'm sitting at a table near the window, under the big clock.": "audio/2026-11-21/a2-g3.mp3",
+  "Walk past the café and go into the yellow room.": "audio/2026-11-21/a2-g4.mp3",
+  "Have you got a piece of clothing with a special story? Maybe it was a present. Or maybe it was someone else's first. We asked three teenagers about their favourite clothes. Here are their answers.": "audio/2026-11-21/a3-p1.mp3",
+  "Hana, 13: My favourite jumper isn't really mine. It's my brother's! Kenji is seventeen, and the jumper is too small for him now. It's dark green, and it has got a big yellow star on the front. Kenji says he wants it back one day. But I don't think so! I wear it every Sunday. Last week Mum asked, 'Whose jumper is this?' I said, 'It's mine now!'": "audio/2026-11-21/a3-p2.mp3",
+  "Diego, 15: My favourite thing is a red football shirt. It was my grandfather's shirt fifty years ago. He played for a small team in his village in Mexico. The shirt is old, and there is a little hole in one sleeve. I never wear it for football. It hangs on the wall of my bedroom. My friends' shirts are new and shiny, but mine has a story.": "audio/2026-11-21/a3-p3.mp3",
+  "Freya, 14: I love my grey trainers. My best friend Lily has got the same ones. One day after PE, we couldn't find our trainers. There were two grey pairs under the bench. 'Whose are these?' Lily asked. 'Are they yours or mine?' Then I saw a small blue heart on one shoe. I drew it there in the summer. So those trainers were mine, and the others were hers!": "audio/2026-11-21/a3-p4.mp3",
+  "What about you? Is there something in your wardrobe with a story? Is it yours, or was it someone else's first? Write and tell us!": "audio/2026-11-21/a3-p5.mp3",
+  "present": "audio/2026-11-21/a3-w-present.mp3",
+  "This watch was a present from my aunt.": "audio/2026-11-21/a3-ex-present.mp3",
+  "jumper": "audio/2026-11-21/a3-w-jumper.mp3",
+  "Put on a jumper. It's cold outside.": "audio/2026-11-21/a3-ex-jumper.mp3",
+  "village": "audio/2026-11-21/a3-w-village.mp3",
+  "My grandma lives in a quiet village.": "audio/2026-11-21/a3-ex-village.mp3",
+  "sleeve": "audio/2026-11-21/a3-w-sleeve.mp3",
+  "There is paint on my sleeve.": "audio/2026-11-21/a3-ex-sleeve.mp3",
+  "hang": "audio/2026-11-21/a3-w-hang.mp3",
+  "Our coats hang behind the door.": "audio/2026-11-21/a3-ex-hang.mp3",
+  "shiny": "audio/2026-11-21/a3-w-shiny.mp3",
+  "He wore shiny black shoes to the party.": "audio/2026-11-21/a3-ex-shiny.mp3",
+  "trainers": "audio/2026-11-21/a3-w-trainers.mp3",
+  "I need new trainers for running.": "audio/2026-11-21/a3-ex-trainers.mp3",
+  "bench": "audio/2026-11-21/a3-w-bench.mp3",
+  "We sat on a bench in the park.": "audio/2026-11-21/a3-ex-bench.mp3",
+  "wardrobe": "audio/2026-11-21/a3-w-wardrobe.mp3",
+  "My winter coat is in the wardrobe.": "audio/2026-11-21/a3-ex-wardrobe.mp3",
+  "We asked three teenagers about their favourite clothes.": "audio/2026-11-21/a3-ks1.mp3",
+  "It's my brother's!": "audio/2026-11-21/a3-ks2.mp3",
+  "My friends' shirts are new and shiny, but mine has a story.": "audio/2026-11-21/a3-ks3.mp3",
+  "Then I saw a small blue heart on one shoe.": "audio/2026-11-21/a3-ks4.mp3",
+  "Last week Mum asked, 'Whose jumper is this?'": "audio/2026-11-21/a3-g2.mp3",
+  "'Are they yours or mine?'": "audio/2026-11-21/a3-g4.mp3"
+ }
+}
