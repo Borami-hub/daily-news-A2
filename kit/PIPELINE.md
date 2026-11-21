@@ -9,7 +9,7 @@ The page (`content/index.html`) reads `content/days/index.json` (list of dates) 
 `content/audio/<YYYY-MM-DD>/`. Publishing a day = adding those files. The page never needs editing.
 
 - Web: https://borami-hub.github.io/daily-news-A2/ (GitHub Pages, deployed on every push to `main`)
-- Student link (claude.ai artifact): https://claude.ai/artifact/DuQXGZyEbAd25j9gYzh6Ss
+- Student link (claude.ai artifact): https://claude.ai/artifact/DuQXGZyEbAd25j9gYzh6Ss — **no longer updated** (since 2026-11-21 the teacher uses only the GitHub Pages site).
 - Example day file: the first file in `content/days/` (read it to see the exact shape).
 
 ## Steps
@@ -23,8 +23,7 @@ The page (`content/index.html`) reads `content/days/index.json` (list of dates) 
    (downloads ~350 MB of voice model once; run in the background and wait).
 5. Add the date to `content/days/index.json` → `{"days": [..., "<date>"], "updated": "<date>"}` (keep older dates).
 6. Commit ("Add <date>") and push to `main`. The Pages workflow republishes the site.
-7. Also republish the student link (Artifact tool: read it first, then publish to its `url` with `root` = `content`,
-   `file_path` = `content/index.html`, `files` = the new day json, `days/index.json`, and the new mp3s).
+7. Do NOT republish the claude.ai student link and do not show an artifact preview: pushing to `main` (GitHub Pages) is enough.
 8. Tell the teacher in Chinese, in one or two sentences, which three texts (title, genre, grammar point) are online.
 
 ## Language level (most important)
