@@ -1,0 +1,2054 @@
+{
+ "date": "2026-11-22",
+ "headline": "Baby talk, a lonely lunch and a flying bowl",
+ "teaser": "When do babies say their first word? Why does Leo always eat alone? What happens when Nadia starts the pottery wheel too fast?",
+ "articles": [
+  {
+   "id": "k20261122-1",
+   "topic": "Language",
+   "genre": "Article",
+   "title": "How Do Babies Learn to Talk?",
+   "dek": "Nobody gives babies lessons, but they learn a language in two years. How?",
+   "sources": [
+    {
+     "name": "Mayo Clinic: Language development – speech milestones for babies",
+     "url": "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/language-development/art-20045163"
+    },
+    {
+     "name": "PubMed: Effects of experience on fetal voice recognition (2003)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12741744/"
+    }
+   ],
+   "paras": [
+    "How do babies learn to talk? They can't read books, and nobody gives them lessons. But by the age of two, most children can say a lot of words. So what happens in those first two years? Let's find out.",
+    "When does a baby start learning? The answer is surprising: before it is born! In the last months before birth, a baby can hear sounds from outside. Scientists have found that babies know their mother's voice. In one study, a baby's heart beat faster when it heard its mother. It beat more slowly when a stranger spoke.",
+    "What do babies do in their first months? They listen all the time. They also cry, smile and make happy noises. At about six months, most babies start to babble. They say sounds like 'ba-ba-ba' and 'da-da-da'. These sounds have no meaning yet. But this is how babies practise. They learn to use their mouths and tongues.",
+    "Which words come first? Many babies say their first real word at about twelve months. Often it is a short, easy word like 'mama', 'dada' or 'uh-oh'. Babies usually understand more words than they can say. A baby hears 'Where's your ball?' and looks at the ball. But the baby can't say 'ball' yet.",
+    "How many words do children know at eighteen months? Many children can say about fifty words. After that, they learn new words very fast. At about two years old, they start to put two words together. They say things like 'more milk' or 'Daddy gone'.",
+    "How can families help? Talk to your baby a lot. Read picture books together, sing songs and answer the baby's sounds. Every child is different. Some babies talk early, and some talk later. And here is a question for you: what was your first word? Why not ask your parents tonight?"
+   ],
+   "words": [
+    {
+     "w": "surprising",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/səˈpraɪ.zɪŋ/",
+     "syl": [
+      "sur",
+      "pris",
+      "ing"
+     ],
+     "def": "not what you think will happen",
+     "ex": "The end of the film was very surprising."
+    },
+    {
+     "w": "scientist",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsaɪ.ən.tɪst/",
+     "syl": [
+      "sci",
+      "en",
+      "tist"
+     ],
+     "def": "a person who studies the world in a careful way",
+     "ex": "My cousin wants to be a scientist."
+    },
+    {
+     "w": "voice",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/vɔɪs/",
+     "syl": [
+      "voice"
+     ],
+     "def": "the sound you make when you speak or sing",
+     "ex": "Our music teacher has a beautiful voice."
+    },
+    {
+     "w": "stranger",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈstreɪn.dʒə/",
+     "syl": [
+      "stran",
+      "ger"
+     ],
+     "def": "a person you do not know",
+     "ex": "Never get into a car with a stranger."
+    },
+    {
+     "w": "noise",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/nɔɪz/",
+     "syl": [
+      "noise"
+     ],
+     "def": "a sound, often a loud one",
+     "ex": "What is that noise in the kitchen?"
+    },
+    {
+     "w": "babble",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˈbæb.əl/",
+     "syl": [
+      "bab",
+      "ble"
+     ],
+     "def": "to make baby sounds that are not real words",
+     "ex": "My baby sister likes to babble in the bath."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something again and again to get better",
+     "ex": "I practise the piano every evening."
+    },
+    {
+     "w": "tongue",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tʌŋ/",
+     "syl": [
+      "tongue"
+     ],
+     "def": "the soft part inside your mouth that moves when you talk",
+     "ex": "The dog put out its long pink tongue."
+    },
+    {
+     "w": "meaning",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmiː.nɪŋ/",
+     "syl": [
+      "mean",
+      "ing"
+     ],
+     "def": "what a word or sound tells you",
+     "ex": "Do you know the meaning of this word?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "How do babies learn to talk?",
+     "kind": "Main idea",
+     "note": "The whole text answers this question."
+    },
+    {
+     "para": 2,
+     "text": "In one study, a baby's heart beat faster when it heard its mother.",
+     "kind": "Key details",
+     "note": "Babies know their mother's voice before they are born."
+    },
+    {
+     "para": 3,
+     "text": "At about six months, most babies start to babble.",
+     "kind": "Time order",
+     "note": "Babbling comes before real words."
+    },
+    {
+     "para": 4,
+     "text": "Babies usually understand more words than they can say.",
+     "kind": "Key details",
+     "note": "Understanding comes first, and talking comes later."
+    },
+    {
+     "para": 5,
+     "text": "How many words do children know at eighteen months?",
+     "kind": "Grammar to notice",
+     "note": "How many asks about a number."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how babies learn to talk in their first two years",
+      "why babies cry so much at night",
+      "how parents can teach a baby to read"
+     ],
+     "a": 0,
+     "why": "第1段提出问题 How do babies learn to talk?，后面按时间顺序（出生前 → 6个月 → 12个月 → 18个月 → 2岁）一步步回答。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 How do babies learn to talk? … in those first two years = 选项 how babies learn to talk in their first two years。",
+      "第3段只提到 They also cry，没讲夜里为什么哭。",
+      "原文 They can't read books，文章讲说话，不讲教宝宝认字。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看标题和开头",
+       "t": "标题和第1段都是 How do babies learn to talk?"
+      },
+      {
+       "h": "看每段的问题",
+       "t": "When / What / Which / How many 都在讲学说话的不同阶段。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What happened when a baby heard its mother's voice before birth?",
+     "opts": [
+      "It stopped moving.",
+      "Its heart beat faster.",
+      "It started to cry."
+     ],
+     "a": 1,
+     "why": "第2段原文：a baby's heart beat faster when it heard its mother.",
+     "evidence": "In one study, a baby's heart beat faster when it heard its mother.",
+     "optWhy": [
+      "文中没说宝宝不动了。",
+      "正确。原文 heart beat faster = 选项 Its heart beat faster。",
+      "出生前的研究里没提到哭，cry 在第3段。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "混淆"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "before birth / mother → 第2段 In one study。"
+      },
+      {
+       "h": "对比",
+       "t": "mother → faster；stranger → more slowly，别看反。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, what does \"babble\" mean?",
+     "opts": [
+      "say real words to people",
+      "cry loudly for food",
+      "make sounds like 'ba-ba-ba'"
+     ],
+     "a": 2,
+     "why": "第3段下一句解释了 babble：They say sounds like 'ba-ba-ba' and 'da-da-da'. These sounds have no meaning yet.",
+     "evidence": "They say sounds like 'ba-ba-ba' and 'da-da-da'.",
+     "optWhy": [
+      "原文 These sounds have no meaning yet，不是真正的词。",
+      "文中没说 babble 是为了要吃的而大哭。",
+      "正确。原文 They say sounds like 'ba-ba-ba' = 选项 make sounds like 'ba-ba-ba'。"
+     ],
+     "traps": [
+      "与原文相反",
+      "望文生义",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往后找",
+       "t": "生词后面一句常常是解释：They say sounds like …"
+      },
+      {
+       "h": "代回验证",
+       "t": "most babies start to make sounds like ba-ba-ba，通顺。"
+      }
+     ],
+     "marks": [
+      "most babies start to babble"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Babies can say more words than they can understand.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：Babies usually understand more words than they can say. 和题干正好相反。",
+     "evidence": "Babies usually understand more words than they can say.",
+     "optWhy": [
+      "原文是 understand more … than they can say，题干把两者说反了。",
+      "正确。原文 understand more words than they can say，题干 say more than understand → Wrong。",
+      "原文明确比较了 understand 和 say，不是没提到。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "understand / say → 第4段。"
+      },
+      {
+       "h": "看比较",
+       "t": "understand more than say：听懂的多，会说的少。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Girls learn new words faster than boys.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只说 they learn new words very fast，全文没有比较男孩和女孩。",
+     "evidence": "After that, they learn new words very fast.",
+     "optWhy": [
+      "文中没有说女孩比男孩学得快。",
+      "文中也没说男孩更快，无法判断 Wrong。",
+      "正确。全文没有提到 girls 和 boys 的比较 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "在文中找 girls / boys，找不到。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没说相反的话，只是没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "What does the writer tell families to do?",
+     "opts": [
+      "talk, read and sing with the baby",
+      "pay for special talking lessons",
+      "wait until the baby is two"
+     ],
+     "a": 0,
+     "why": "第6段原文：Talk to your baby a lot. Read picture books together, sing songs …",
+     "evidence": "Read picture books together, sing songs and answer the baby's sounds.",
+     "optWhy": [
+      "正确。原文 Talk … Read picture books … sing songs = 选项 talk, read and sing with the baby。",
+      "第1段说 nobody gives them lessons，没让家长花钱上课。",
+      "文中没让家长等到两岁，two 是第5段的年龄。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "数字偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "How can families help? → 第6段。"
+      },
+      {
+       "h": "找动词",
+       "t": "Talk / Read / sing / answer 都是建议。"
+      }
+     ],
+     "marks": [
+      "Talk to your baby a lot."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Question words: how, when, which…",
+    "rule": "Question words come at the start of a question. What asks about things, when about time, where about places, which about a choice, why about reasons. How many asks about a number, how often about times, and how long about time from start to end.",
+    "table": [
+     [
+      "When",
+      "When does a baby start learning?"
+     ],
+     [
+      "What",
+      "What do babies do?"
+     ],
+     [
+      "Which",
+      "Which words come first?"
+     ],
+     [
+      "How many",
+      "How many words do they know?"
+     ],
+     [
+      "How often",
+      "How often do you read to her?"
+     ],
+     [
+      "How long",
+      "How long is the class?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "When does a baby start learning?",
+      "mark": "When"
+     },
+     {
+      "para": 4,
+      "text": "Which words come first?",
+      "mark": "Which"
+     },
+     {
+      "para": 5,
+      "text": "How many words do children know at eighteen months?",
+      "mark": "How many"
+     },
+     {
+      "para": 6,
+      "text": "How can families help?",
+      "mark": "How"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ languages can your teacher speak? — Three: English, Chinese and French.",
+      "opts": [
+       "How much",
+       "How many",
+       "How often"
+      ],
+      "a": 1,
+      "why": "Languages can be counted, so we ask how many."
+     },
+     {
+      "type": "mc",
+      "q": "___ did your little brother say his first word? — When he was eleven months old.",
+      "opts": [
+       "Where",
+       "Which",
+       "When"
+      ],
+      "a": 2,
+      "why": "The answer is a time, so we use when."
+     },
+     {
+      "type": "fill",
+      "q": "___ ___ do you practise English? — Every day after dinner.",
+      "hint": "(how + ?)",
+      "a": "How often",
+      "why": "Every day tells us how many times, so we use how often."
+     },
+     {
+      "type": "fill",
+      "q": "___ ___ have you studied French? — For two years.",
+      "hint": "(how + ?)",
+      "a": "How long",
+      "why": "For two years is time from start to now, so we use how long."
+     },
+     {
+      "type": "fill",
+      "q": "___ book do you want, the red one or the blue one?",
+      "hint": "(a choice)",
+      "a": "Which",
+      "why": "We choose from a small group, so we use which."
+     },
+     {
+      "type": "fill",
+      "q": "Why ___ the baby crying now? — Because she is hungry.",
+      "hint": "(be)",
+      "a": "is",
+      "why": "Present continuous: is + crying for something happening now."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261122-1-k1",
+     "tag": "Before birth",
+     "fact": "Before birth, a baby can hear sounds and knows its mother's voice.",
+     "q": "When can a baby first hear its mother?",
+     "opts": [
+      "before it is born",
+      "at six months",
+      "at two years"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261122-1-k2",
+     "tag": "Babbling",
+     "fact": "At about six months, babies babble: they say sounds like ba-ba-ba.",
+     "q": "When do most babies start to babble?",
+     "opts": [
+      "at one month",
+      "at about six months",
+      "at three years"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261122-1-k3",
+     "tag": "First word",
+     "fact": "Many babies say their first real word at about twelve months.",
+     "q": "When do many babies say their first word?",
+     "opts": [
+      "at about twelve months",
+      "at two years",
+      "before birth"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261122-1-k4",
+     "tag": "Understanding",
+     "fact": "Babies understand more words than they can say.",
+     "q": "What is true about babies?",
+     "opts": [
+      "They say more than they understand.",
+      "They understand more than they say.",
+      "They don't understand words."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261122-1-k5",
+     "tag": "Two years",
+     "fact": "At about two, children put two words together, like \"more milk\".",
+     "q": "What do children start to do at about two?",
+     "opts": [
+      "read books",
+      "write their names",
+      "put two words together"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Learning to talk",
+    "question": "What happens in the first two years?",
+    "branches": [
+     {
+      "title": "Before birth",
+      "paras": "2",
+      "blanks": [
+       "mother's voice"
+      ],
+      "kps": [
+       "k20261122-1-k1"
+      ]
+     },
+     {
+      "title": "Six months",
+      "paras": "3",
+      "blanks": [
+       "start to babble",
+       "no meaning yet"
+      ],
+      "kps": [
+       "k20261122-1-k2"
+      ]
+     },
+     {
+      "title": "One year",
+      "paras": "4",
+      "blanks": [
+       "first real word",
+       "understand more"
+      ],
+      "kps": [
+       "k20261122-1-k3",
+       "k20261122-1-k4"
+      ]
+     },
+     {
+      "title": "Two years",
+      "paras": "5",
+      "blanks": [
+       "about fifty words",
+       "two words together"
+      ],
+      "kps": [
+       "k20261122-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "reading lessons",
+     "say more than understand"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Babies listen to voices before they are born, and they babble at six months. They say their first word at about one, so by two they can talk a lot.",
+    "options": [
+     {
+      "t": "Babies start learning before they are born.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "The answer is surprising: before it is born!"
+     },
+     {
+      "t": "At about six months, babies practise sounds by babbling.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "At about six months, most babies start to babble."
+     },
+     {
+      "t": "First words come at about one, and many more words follow.",
+      "ok": true,
+      "why": "Paragraphs 4 and 5 tell us this.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Many babies say their first real word at about twelve months."
+     },
+     {
+      "t": "Some babies say 'uh-oh' as their first word.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "Often it is a short, easy word like 'mama', 'dada' or 'uh-oh'."
+     },
+     {
+      "t": "Babies learn faster if they watch TV every day.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Babies can say more words than they understand.",
+      "ok": false,
+      "why": "Wrong: they understand more words than they can say.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Babies usually understand more words than they can say."
+     }
+    ]
+   },
+   "speak": {
+    "p": "How did you learn English? What helps you most? Why?",
+    "hint": "I started learning English when … / … helps me because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your aunt has a new baby. Write an email to your aunt. Write 25 words or more.",
+    "steps": [
+     "Say you are happy about the baby.",
+     "Ask a question about the baby.",
+     "Say how you can help (read, sing, play)."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261122-2",
+   "topic": "Social interaction",
+   "genre": "Story",
+   "title": "Leo Eats Alone",
+   "dek": "Leo always eats lunch by himself. Then a new girl sits down next to him.",
+   "sources": [],
+   "paras": [
+    "Leo was fourteen, and he was very shy. Every day at lunch, he sat by himself in the corner of the canteen. He ate his sandwich quickly and read a book. The other students didn't really know him, and he didn't talk to them.",
+    "One Monday, a new girl came into the canteen with her tray. Her name was Ana, and she was from Brazil. She looked around, but all the tables were full. Then she saw Leo. 'Can I sit with you?' she asked him. Leo was surprised, but he said yes.",
+    "Ana talked a lot. She told him about her old school in Brazil and her two cats. 'I don't know anyone here,' she said. 'I feel a bit lonely.' Leo understood her. He often felt the same. So he told her about his favourite thing: the school chess club.",
+    "'Chess? I love chess!' said Ana. 'My grandfather taught me.' Leo wanted to invite her to the club. But he couldn't say the words. He was angry with himself. After lunch, Ana went to her class, and Leo walked home by himself again.",
+    "That evening, Leo looked at himself in the mirror. 'Come on,' he said to himself. 'Just ask her. It's easy.' He said the question three times. The fourth time, it sounded quite good.",
+    "The next day, Leo found Ana in the canteen. This time he spoke first. 'Would you like to come to chess club with me on Wednesday?' he asked. Ana smiled. 'Yes, please! Can I bring my friend Sam? He wants to learn too.'",
+    "On Wednesday, Ana and Sam came to the club. Ana won two games. Sam didn't know the rules, so Leo taught him. They laughed a lot that afternoon, and they all enjoyed themselves. Now Leo never eats lunch by himself. He sits with them every day."
+   ],
+   "words": [
+    {
+     "w": "shy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃaɪ/",
+     "syl": [
+      "shy"
+     ],
+     "def": "not happy to talk to people you do not know",
+     "ex": "My little brother is shy with new people."
+    },
+    {
+     "w": "corner",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɔː.nə/",
+     "syl": [
+      "cor",
+      "ner"
+     ],
+     "def": "the place where two walls meet",
+     "ex": "The TV is in the corner of the room."
+    },
+    {
+     "w": "canteen",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kænˈtiːn/",
+     "syl": [
+      "can",
+      "teen"
+     ],
+     "def": "a room in a school where you buy and eat lunch",
+     "ex": "We have pasta in the canteen on Fridays."
+    },
+    {
+     "w": "tray",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/treɪ/",
+     "syl": [
+      "tray"
+     ],
+     "def": "a flat thing for carrying food and drinks",
+     "ex": "She carried the cups on a tray."
+    },
+    {
+     "w": "full",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/fʊl/",
+     "syl": [
+      "full"
+     ],
+     "def": "with no more space for people or things",
+     "ex": "The bus was full, so we walked."
+    },
+    {
+     "w": "lonely",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈləʊn.li/",
+     "syl": [
+      "lone",
+      "ly"
+     ],
+     "def": "sad because you have no friends with you",
+     "ex": "He felt lonely in the big new city."
+    },
+    {
+     "w": "invite",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ɪnˈvaɪt/",
+     "syl": [
+      "in",
+      "vite"
+     ],
+     "def": "to ask someone to come to a party or event",
+     "ex": "I want to invite my whole class to my party."
+    },
+    {
+     "w": "mirror",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmɪr.ə/",
+     "syl": [
+      "mir",
+      "ror"
+     ],
+     "def": "a glass where you can see yourself",
+     "ex": "There is a big mirror in the bathroom."
+    },
+    {
+     "w": "rule",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ruːl/",
+     "syl": [
+      "rule"
+     ],
+     "def": "something that tells you what you can or cannot do",
+     "ex": "The first rule is: no phones in class."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Every day at lunch, he sat by himself in the corner of the canteen.",
+     "kind": "Key details",
+     "note": "This is Leo's problem: he is always alone."
+    },
+    {
+     "para": 3,
+     "text": "'I feel a bit lonely.'",
+     "kind": "Cause → effect",
+     "note": "Ana feels like Leo, so he understands her."
+    },
+    {
+     "para": 4,
+     "text": "He was angry with himself.",
+     "kind": "Grammar to notice",
+     "note": "himself = Leo. He is angry with Leo, not with Ana."
+    },
+    {
+     "para": 7,
+     "text": "Now Leo never eats lunch by himself.",
+     "kind": "Main idea",
+     "note": "This is the happy ending of the story."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 1,
+     "q": "Where did Leo eat lunch every day before he met Ana?",
+     "opts": [
+      "alone in the corner of the canteen",
+      "at home with his family",
+      "in the chess club room"
+     ],
+     "a": 0,
+     "why": "第1段原文：he sat by himself in the corner of the canteen.",
+     "evidence": "Every day at lunch, he sat by himself in the corner of the canteen.",
+     "optWhy": [
+      "正确。原文 by himself in the corner of the canteen = 选项 alone in the corner of the canteen。",
+      "第4段 walked home 是放学后，不是午饭。",
+      "象棋社在第3、7段出现，他不在那里吃午饭。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "混淆"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Every day at lunch → 第1段。"
+      },
+      {
+       "h": "懂代词",
+       "t": "by himself = alone 独自一人。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 2,
+     "q": "In paragraph 2, who is \"him\" in \"she asked him\"?",
+     "opts": [
+      "Sam",
+      "Leo",
+      "Ana's grandfather"
+     ],
+     "a": 1,
+     "why": "第2段：Then she saw Leo. 'Can I sit with you?' she asked him. 前一句刚提到 Leo，him = Leo。",
+     "evidence": "'Can I sit with you?' she asked him.",
+     "optWhy": [
+      "Sam 到第6段才出现。",
+      "正确。前一句 Then she saw Leo，him = Leo。",
+      "外公在第4段才出现，而且不在食堂。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句 Then she saw Leo。"
+      },
+      {
+       "h": "代回验证",
+       "t": "she asked Leo: Can I sit with you? 通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How did Ana feel at her new school?",
+     "opts": [
+      "angry",
+      "bored",
+      "a bit lonely"
+     ],
+     "a": 2,
+     "why": "第3段原文：'I don't know anyone here,' she said. 'I feel a bit lonely.'",
+     "evidence": "'I feel a bit lonely.'",
+     "optWhy": [
+      "angry 是第4段 Leo 生自己的气，不是 Ana。",
+      "文中没说 Ana 觉得无聊。",
+      "正确。原文 I feel a bit lonely = 选项 a bit lonely。"
+     ],
+     "traps": [
+      "混淆",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Ana 说自己感受 → 第3段 I feel …"
+      },
+      {
+       "h": "小心干扰",
+       "t": "angry with himself 说的是 Leo。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Leo invited Ana to the chess club on Monday.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：Leo wanted to invite her to the club. But he couldn't say the words. 周一他没开口。",
+     "evidence": "But he couldn't say the words.",
+     "optWhy": [
+      "原文 he couldn't say the words，他周一没邀请成功。",
+      "正确。周一他 couldn't say the words，第6段 The next day 才邀请 → Wrong。",
+      "原文明确说了他没说出口，不是没提到。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "One Monday → 第2–4段，看第4段。"
+      },
+      {
+       "h": "看转折",
+       "t": "wanted to invite … But he couldn't → 没邀请。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 5,
+     "q": "What did Leo do that evening?",
+     "opts": [
+      "He wrote a letter to Ana.",
+      "He played chess on the computer.",
+      "He said his question again and again."
+     ],
+     "a": 2,
+     "why": "第5段原文：He said the question three times.，他在镜子前反复练习问题。",
+     "evidence": "He said the question three times.",
+     "optWhy": [
+      "文中没有写信。",
+      "文中没说他在电脑上下棋。",
+      "正确。原文 said the question three times = 选项 said his question again and again。"
+     ],
+     "traps": [
+      "无中生有",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "That evening → 第5段。"
+      },
+      {
+       "h": "同义替换",
+       "t": "three times → again and again。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 7,
+     "q": "Sam won more games than Ana at the chess club.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第7段只说 Ana won two games，Sam 赢了几盘没说。",
+     "evidence": "Ana won two games.",
+     "optWhy": [
+      "文中没说 Sam 赢得比 Ana 多。",
+      "文中也没说 Sam 赢得少，无法判断 Wrong。",
+      "正确。原文只说 Ana won two games，没提 Sam 的成绩 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "On Wednesday … won → 第7段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "Sam 赢了几盘原文没说 → Doesn't say。"
+      }
+     ],
+     "marks": [
+      "Sam didn't know the rules, so Leo taught him."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Object and reflexive pronouns",
+    "rule": "After a verb or a preposition, use an object pronoun: me, you, him, her, it, us, them. When the subject and the object are the same person, use a reflexive pronoun: myself, himself, themselves. By himself means alone.",
+    "table": [
+     [
+      "I → me",
+      "myself"
+     ],
+     [
+      "you → you",
+      "yourself / yourselves"
+     ],
+     [
+      "he → him",
+      "himself"
+     ],
+     [
+      "she → her",
+      "herself"
+     ],
+     [
+      "we → us",
+      "ourselves"
+     ],
+     [
+      "they → them",
+      "themselves"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Every day at lunch, he sat by himself in the corner of the canteen.",
+      "mark": "by himself"
+     },
+     {
+      "para": 2,
+      "text": "'Can I sit with you?' she asked him.",
+      "mark": "him"
+     },
+     {
+      "para": 4,
+      "text": "He was angry with himself.",
+      "mark": "himself"
+     },
+     {
+      "para": 7,
+      "text": "They laughed a lot that afternoon, and they all enjoyed themselves.",
+      "mark": "themselves"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Our teacher was ill, so we taught ___ the new words.",
+      "opts": [
+       "us",
+       "ourselves",
+       "our"
+      ],
+      "a": 1,
+      "why": "We taught we → same people, so we use ourselves."
+     },
+     {
+      "type": "mc",
+      "q": "Mia's grandma lives alone. Mia visits ___ every Sunday.",
+      "opts": [
+       "her",
+       "herself",
+       "she"
+      ],
+      "a": 0,
+      "why": "Mia and grandma are different people, so we use the object pronoun her."
+     },
+     {
+      "type": "fill",
+      "q": "Ben fell off his bike yesterday and hurt ___.",
+      "hint": "(he)",
+      "a": "himself",
+      "why": "Ben hurt Ben, so we use himself."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ to the new girl at lunch and invited ___ to my party.",
+      "hint": "(talk) + (she)",
+      "a": "talked, her",
+      "why": "Past simple: talked; after the verb invite, she becomes her."
+     },
+     {
+      "type": "fill",
+      "q": "Did you enjoy ___ at the school disco last Friday?",
+      "hint": "(you, one person)",
+      "a": "yourself",
+      "why": "We say enjoy yourself for one person."
+     },
+     {
+      "type": "fill",
+      "q": "The twins made the cake by ___. Nobody helped ___.",
+      "hint": "(they) + (they)",
+      "a": "themselves, them",
+      "why": "By themselves means alone; after helped, they becomes them."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261122-2-k1",
+     "tag": "Leo",
+     "fact": "Leo was shy and always ate lunch by himself.",
+     "q": "What was Leo like?",
+     "opts": [
+      "loud and funny",
+      "very shy",
+      "often late"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261122-2-k2",
+     "tag": "Ana",
+     "fact": "Ana was a new girl from Brazil, and she felt a bit lonely.",
+     "q": "Where was Ana from?",
+     "opts": [
+      "Brazil",
+      "Spain",
+      "China"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261122-2-k3",
+     "tag": "The problem",
+     "fact": "Leo wanted to invite Ana to chess club, but he couldn't say the words.",
+     "q": "Why was Leo angry with himself?",
+     "opts": [
+      "He lost a chess game.",
+      "He forgot his book.",
+      "He didn't ask Ana to the club."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261122-2-k4",
+     "tag": "Practice",
+     "fact": "In the evening, Leo practised his question in front of the mirror.",
+     "q": "What did Leo use to practise?",
+     "opts": [
+      "a mirror",
+      "a phone",
+      "a book"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261122-2-k5",
+     "tag": "The ending",
+     "fact": "Ana and Sam joined the chess club, and now Leo eats lunch with them.",
+     "q": "Who does Leo eat lunch with now?",
+     "opts": [
+      "his teacher",
+      "Ana and Sam",
+      "nobody"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Leo's new friends",
+    "question": "How did Leo stop eating alone?",
+    "branches": [
+     {
+      "title": "Before",
+      "paras": "1",
+      "blanks": [
+       "by himself",
+       "very shy"
+      ],
+      "kps": [
+       "k20261122-2-k1"
+      ]
+     },
+     {
+      "title": "Meeting Ana",
+      "paras": "2–3",
+      "blanks": [
+       "a new girl",
+       "a bit lonely"
+      ],
+      "kps": [
+       "k20261122-2-k2"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "4–5",
+      "blanks": [
+       "couldn't say",
+       "the mirror"
+      ],
+      "kps": [
+       "k20261122-2-k3",
+       "k20261122-2-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "chess club",
+       "enjoyed themselves"
+      ],
+      "kps": [
+       "k20261122-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a football match",
+     "angry with Ana"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "Leo was shy, so he always ate alone. He met Ana because the canteen was full, and later he invited her to chess club.",
+    "options": [
+     {
+      "t": "Shy Leo always ate lunch alone in the canteen.",
+      "ok": true,
+      "why": "This is how the story begins.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Every day at lunch, he sat by himself in the corner of the canteen."
+     },
+     {
+      "t": "A new girl, Ana, sat with Leo, and they both loved chess.",
+      "ok": true,
+      "why": "This is the middle of the story.",
+      "type": "main",
+      "para": 3,
+      "evidence": "So he told her about his favourite thing: the school chess club."
+     },
+     {
+      "t": "Leo was brave and invited Ana, and now he has friends.",
+      "ok": true,
+      "why": "This is the ending of the story.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Now Leo never eats lunch by himself."
+     },
+     {
+      "t": "Ana has got two cats at home.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "She told him about her old school in Brazil and her two cats."
+     },
+     {
+      "t": "Leo's teacher asked Ana to sit with him.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Leo asked Ana about chess club on the first day.",
+      "ok": false,
+      "why": "Wrong: on the first day he couldn't say the words.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "But he couldn't say the words."
+     }
+    ]
+   },
+   "speak": {
+    "p": "A new student comes to your class. What can you do to help him or her?",
+    "hint": "I can sit with … / I can show them …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short story. Begin: \"On my first day at the new school, I sat by myself at lunch.\" Write 35 words or more.",
+    "steps": [
+     "Say how you felt.",
+     "Say who came to talk to you.",
+     "Say what happened in the end."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261122-3",
+   "topic": "Hobbies & leisure",
+   "genre": "Blog post",
+   "title": "My First Pottery Class",
+   "dek": "Nadia tries to make a bowl – and her clay flies across the room!",
+   "sources": [],
+   "paras": [
+    "Hi everyone! It's Nadia again. Last Saturday I tried a new hobby: pottery. My aunt gave me a class for my birthday. I was excited, but I was nervous too. I'm not very good at art!",
+    "The class was in a small studio near the river. There were six students and a teacher called Mr Okafor. He spoke quietly and smiled a lot. First, he showed us the clay. It was cold, wet and very heavy. My hands got dirty very quickly!",
+    "Then we sat at the pottery wheels. The wheel turns round and round, and you make a bowl on it with your hands. Mr Okafor showed us first. He worked slowly and carefully, and a beautiful bowl grew in his hands. It looked so easy!",
+    "It wasn't easy for me. I started the wheel too fast, and my clay flew off! It landed on the floor with a big noise. Everybody laughed, and I laughed loudly too. Mr Okafor helped me patiently. 'Don't hurry,' he said. 'Move your hands gently.'",
+    "My second try went much better. I pressed the clay softly and kept my hands still. Slowly, a little bowl appeared. It wasn't perfect. One side was higher than the other. But it was mine, and I was really proud of it.",
+    "Next week, we're going to paint our bowls. Then Mr Okafor is going to put them in a very hot oven. I want to give my bowl to my aunt. She can put her keys in it or use it for sweets. Have you ever tried pottery? Tell me in the comments!"
+   ],
+   "words": [
+    {
+     "w": "nervous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɜː.vəs/",
+     "syl": [
+      "ner",
+      "vous"
+     ],
+     "def": "a bit afraid before something new or difficult",
+     "ex": "I always feel nervous before a test."
+    },
+    {
+     "w": "pottery",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpɒt.ər.i/",
+     "syl": [
+      "pot",
+      "ter",
+      "y"
+     ],
+     "def": "making cups and bowls from clay",
+     "ex": "My mum goes to a pottery class on Tuesdays."
+    },
+    {
+     "w": "clay",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kleɪ/",
+     "syl": [
+      "clay"
+     ],
+     "def": "soft wet earth for making pots",
+     "ex": "The children made animals from clay."
+    },
+    {
+     "w": "wheel",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/wiːl/",
+     "syl": [
+      "wheel"
+     ],
+     "def": "a round thing that turns",
+     "ex": "My bike has a new front wheel."
+    },
+    {
+     "w": "bowl",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/bəʊl/",
+     "syl": [
+      "bowl"
+     ],
+     "def": "a round dish for soup, rice or fruit",
+     "ex": "I eat a bowl of rice every day."
+    },
+    {
+     "w": "carefully",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkeə.fəl.i/",
+     "syl": [
+      "care",
+      "ful",
+      "ly"
+     ],
+     "def": "slowly and with attention, so nothing goes wrong",
+     "ex": "Carry the glasses carefully."
+    },
+    {
+     "w": "gently",
+     "level": "Topic word",
+     "pos": "adverb",
+     "ipa": "/ˈdʒent.li/",
+     "syl": [
+      "gent",
+      "ly"
+     ],
+     "def": "softly, not with a lot of force",
+     "ex": "She held the baby bird gently."
+    },
+    {
+     "w": "perfect",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈpɜː.fɪkt/",
+     "syl": [
+      "per",
+      "fect"
+     ],
+     "def": "with nothing wrong at all",
+     "ex": "The weather was perfect for a picnic."
+    },
+    {
+     "w": "proud",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/praʊd/",
+     "syl": [
+      "proud"
+     ],
+     "def": "happy because you did something well",
+     "ex": "My parents were proud of my good marks."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Last Saturday I tried a new hobby: pottery.",
+     "kind": "Main idea",
+     "note": "The blog post is about Nadia's first pottery class."
+    },
+    {
+     "para": 3,
+     "text": "He worked slowly and carefully, and a beautiful bowl grew in his hands.",
+     "kind": "Grammar to notice",
+     "note": "slowly and carefully tell us how he worked."
+    },
+    {
+     "para": 4,
+     "text": "I started the wheel too fast, and my clay flew off!",
+     "kind": "Cause → effect",
+     "note": "The wheel was too fast, so the clay flew off."
+    },
+    {
+     "para": 5,
+     "text": "But it was mine, and I was really proud of it.",
+     "kind": "Opinion",
+     "note": "The bowl is not perfect, but Nadia likes it."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is Nadia's blog post about?",
+     "opts": [
+      "her first pottery class",
+      "her aunt's birthday party",
+      "a trip to the river"
+     ],
+     "a": 0,
+     "why": "第1段原文：Last Saturday I tried a new hobby: pottery.，全文写她第一次上陶艺课。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 I tried a new hobby: pottery = 选项 her first pottery class。",
+      "是 Nadia 的生日，姑姑送了课；没写姑姑的生日派对。",
+      "river 只是工作室的位置 near the river。"
+     ],
+     "traps": [
+      null,
+      "偷换概念",
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段 I tried a new hobby: pottery。"
+      },
+      {
+       "h": "看全文",
+       "t": "每段都在讲上课：老师、陶轮、失败、成功、下周计划。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What was the clay like?",
+     "opts": [
+      "warm and dry",
+      "cold, wet and very heavy",
+      "soft and light"
+     ],
+     "a": 1,
+     "why": "第2段原文：It was cold, wet and very heavy.",
+     "evidence": "It was cold, wet and very heavy.",
+     "optWhy": [
+      "原文 cold, wet，与 warm and dry 相反。",
+      "正确。原文 cold, wet and very heavy = 选项。",
+      "原文 very heavy，不是 light。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "clay 第一次出现 → 第2段。"
+      },
+      {
+       "h": "逐词核对",
+       "t": "cold / wet / heavy 三个词都要对上。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, what does \"patiently\" mean?",
+     "opts": [
+      "quickly, because he was busy",
+      "angrily, because the floor was dirty",
+      "calmly, without getting angry"
+     ],
+     "a": 2,
+     "why": "第4段：Mr Okafor helped me patiently. 'Don't hurry,' he said. 他不着急、不生气地帮她。",
+     "evidence": "Mr Okafor helped me patiently.",
+     "optWhy": [
+      "后面他说 Don't hurry，与 quickly 相反。",
+      "文中没说他生气，第2段还说他 smiled a lot。",
+      "正确。Don't hurry … Move your hands gently 说明他很耐心 = calmly, without getting angry。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往后找",
+       "t": "后面的话 Don't hurry … gently 是线索。"
+      },
+      {
+       "h": "代回验证",
+       "t": "helped me calmly，和 smiled a lot 的老师一致。"
+      }
+     ],
+     "marks": [
+      "'Don't hurry,' he said."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Nadia's clay fell on the floor on her first try.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第4段原文：my clay flew off! It landed on the floor with a big noise.",
+     "evidence": "I started the wheel too fast, and my clay flew off!",
+     "optWhy": [
+      "正确。原文 clay flew off … landed on the floor = 题干 fell on the floor → Right。",
+      "原文明确说泥落到地上，不是 Wrong。",
+      "原文写到了，不是没提到。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第一次尝试 → 第4段（第5段是 second try）。"
+      },
+      {
+       "h": "同义替换",
+       "t": "flew off + landed on the floor = fell on the floor。"
+      }
+     ],
+     "marks": [
+      "It landed on the floor with a big noise."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, what is \"it\" in \"But it was mine\"?",
+     "opts": [
+      "the wheel",
+      "Nadia's little bowl",
+      "the studio"
+     ],
+     "a": 1,
+     "why": "第5段前文：a little bowl appeared. It wasn't perfect. … But it was mine，it 一直指那个小碗。",
+     "evidence": "But it was mine, and I was really proud of it.",
+     "optWhy": [
+      "陶轮是工作室的，不是 Nadia 的。",
+      "正确。前文 a little bowl appeared，it = Nadia's little bowl。",
+      "工作室不是她的，第5段也没提 studio。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "Slowly, a little bowl appeared."
+      },
+      {
+       "h": "代回验证",
+       "t": "But the bowl was mine，通顺。"
+      }
+     ],
+     "marks": [
+      "Slowly, a little bowl appeared."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Nadia write \"Tell me in the comments!\" at the end?",
+     "opts": [
+      "She wants readers to write to her.",
+      "She wants to sell her bowls.",
+      "She is looking for a new teacher."
+     ],
+     "a": 0,
+     "why": "第6段 Have you ever tried pottery? Tell me in the comments! 是博客结尾和读者互动。",
+     "evidence": null,
+     "optWhy": [
+      "正确。Tell me in the comments = 选项 She wants readers to write to her。",
+      "她要把碗送给姑姑 give my bowl to my aunt，不卖。",
+      "她已经有老师 Mr Okafor，下周还要上课。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看结尾",
+       "t": "Have you ever tried pottery? 是向读者提问。"
+      },
+      {
+       "h": "想体裁",
+       "t": "博客常在结尾请读者留言 comments。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Adverbs of manner (quickly, well)",
+    "rule": "Adverbs of manner tell us how someone does something. Most are adjective + -ly: quiet → quietly, careful → carefully. If the adjective ends in -y, change it to -ily (easy → easily); -le becomes -ly (gentle → gently). Some are different: good → well, fast → fast, hard → hard.",
+    "table": [
+     [
+      "quiet",
+      "quietly"
+     ],
+     [
+      "careful",
+      "carefully"
+     ],
+     [
+      "gentle",
+      "gently"
+     ],
+     [
+      "easy",
+      "easily"
+     ],
+     [
+      "good",
+      "well"
+     ],
+     [
+      "fast / hard",
+      "fast / hard"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "He spoke quietly and smiled a lot.",
+      "mark": "quietly"
+     },
+     {
+      "para": 3,
+      "text": "He worked slowly and carefully, and a beautiful bowl grew in his hands.",
+      "mark": "slowly and carefully"
+     },
+     {
+      "para": 4,
+      "text": "Mr Okafor helped me patiently.",
+      "mark": "patiently"
+     },
+     {
+      "para": 5,
+      "text": "I pressed the clay softly and kept my hands still.",
+      "mark": "softly"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Please talk ___. The baby is sleeping.",
+      "opts": [
+       "quiet",
+       "quietly",
+       "quieter"
+      ],
+      "a": 1,
+      "why": "We need an adverb to say how you talk: quietly."
+     },
+     {
+      "type": "mc",
+      "q": "We were late, so we ran ___ to the bus stop.",
+      "opts": [
+       "fastly",
+       "fast",
+       "faster than"
+      ],
+      "a": 1,
+      "why": "The adverb of fast is fast. There is no word fastly."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday Sara ___ her bowl very ___.",
+      "hint": "(paint) + (careful)",
+      "a": "painted, carefully",
+      "why": "Past simple: painted; careful + -ly = carefully."
+     },
+     {
+      "type": "fill",
+      "q": "You must hold the kitten ___. It is very small.",
+      "hint": "(gentle)",
+      "a": "gently",
+      "why": "gentle ends in -le, so it becomes gently."
+     },
+     {
+      "type": "fill",
+      "q": "Tom found the answer ___. The test was very easy.",
+      "hint": "(easy)",
+      "a": "easily",
+      "why": "easy ends in -y, so we write easily."
+     },
+     {
+      "type": "fill",
+      "q": "If you speak ___, everyone ___ hear you.",
+      "hint": "(loud) + (will)",
+      "a": "loudly, will",
+      "why": "loud + -ly = loudly; first conditional: if + present, will."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261122-3-k1",
+     "tag": "The present",
+     "fact": "Nadia's aunt gave her a pottery class for her birthday.",
+     "q": "Who gave Nadia the class?",
+     "opts": [
+      "her teacher",
+      "her aunt",
+      "her friend"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261122-3-k2",
+     "tag": "The teacher",
+     "fact": "Mr Okafor worked slowly and carefully and made a beautiful bowl.",
+     "q": "How did Mr Okafor work?",
+     "opts": [
+      "slowly and carefully",
+      "fast and loudly",
+      "badly"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261122-3-k3",
+     "tag": "First try",
+     "fact": "Nadia started the wheel too fast, and her clay flew off.",
+     "q": "What went wrong on the first try?",
+     "opts": [
+      "The clay was too dry.",
+      "The teacher was late.",
+      "The wheel was too fast."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261122-3-k4",
+     "tag": "Second try",
+     "fact": "On her second try, Nadia made a little bowl and felt proud.",
+     "q": "How did Nadia feel about her bowl?",
+     "opts": [
+      "proud",
+      "angry",
+      "bored"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261122-3-k5",
+     "tag": "Next week",
+     "fact": "Next week the students are going to paint their bowls.",
+     "q": "What will they do next week?",
+     "opts": [
+      "buy new clay",
+      "paint their bowls",
+      "visit a museum"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Pottery class",
+    "question": "How did Nadia make her first bowl?",
+    "branches": [
+     {
+      "title": "Start",
+      "paras": "1–2",
+      "blanks": [
+       "a birthday present",
+       "cold, wet clay"
+      ],
+      "kps": [
+       "k20261122-3-k1"
+      ]
+     },
+     {
+      "title": "Teacher",
+      "paras": "3",
+      "blanks": [
+       "slowly and carefully"
+      ],
+      "kps": [
+       "k20261122-3-k2"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "4–5",
+      "blanks": [
+       "too fast",
+       "a little bowl"
+      ],
+      "kps": [
+       "k20261122-3-k3",
+       "k20261122-3-k4"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "6",
+      "blanks": [
+       "paint the bowls",
+       "a hot oven"
+      ],
+      "kps": [
+       "k20261122-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a bowl for Mr Okafor",
+     "a blue teapot"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the blog post.",
+    "model": "Nadia went to her first pottery class, but her clay flew off the wheel. She tried again slowly, so she made a little bowl.",
+    "options": [
+     {
+      "t": "Nadia went to her first pottery class last Saturday.",
+      "ok": true,
+      "why": "This is what the whole post is about.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Last Saturday I tried a new hobby: pottery."
+     },
+     {
+      "t": "Her first try went wrong because the wheel was too fast.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "I started the wheel too fast, and my clay flew off!"
+     },
+     {
+      "t": "On her second try, she made a little bowl and felt proud.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "But it was mine, and I was really proud of it."
+     },
+     {
+      "t": "There were six students in the class.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "There were six students and a teacher called Mr Okafor."
+     },
+     {
+      "t": "Nadia wants to sell her bowl at the market.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Nadia's first bowl was perfect.",
+      "ok": false,
+      "why": "Wrong: it wasn't perfect.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "It wasn't perfect."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Tell me about a new hobby you want to try. Why do you want to try it?",
+    "hint": "I want to try … because … / I think it is …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You went to a new class (art, music or sport) last weekend. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Say what class you went to.",
+     "Say how the teacher did things (slowly, patiently…).",
+     "Say if you want to go again and why."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  }
+ ],
+ "audio": {
+  "How do babies learn to talk? They can't read books, and nobody gives them lessons. But by the age of two, most children can say a lot of words. So what happens in those first two years? Let's find out.": "audio/2026-11-22/a1-p1.mp3",
+  "When does a baby start learning? The answer is surprising: before it is born! In the last months before birth, a baby can hear sounds from outside. Scientists have found that babies know their mother's voice. In one study, a baby's heart beat faster when it heard its mother. It beat more slowly when a stranger spoke.": "audio/2026-11-22/a1-p2.mp3",
+  "What do babies do in their first months? They listen all the time. They also cry, smile and make happy noises. At about six months, most babies start to babble. They say sounds like 'ba-ba-ba' and 'da-da-da'. These sounds have no meaning yet. But this is how babies practise. They learn to use their mouths and tongues.": "audio/2026-11-22/a1-p3.mp3",
+  "Which words come first? Many babies say their first real word at about twelve months. Often it is a short, easy word like 'mama', 'dada' or 'uh-oh'. Babies usually understand more words than they can say. A baby hears 'Where's your ball?' and looks at the ball. But the baby can't say 'ball' yet.": "audio/2026-11-22/a1-p4.mp3",
+  "How many words do children know at eighteen months? Many children can say about fifty words. After that, they learn new words very fast. At about two years old, they start to put two words together. They say things like 'more milk' or 'Daddy gone'.": "audio/2026-11-22/a1-p5.mp3",
+  "How can families help? Talk to your baby a lot. Read picture books together, sing songs and answer the baby's sounds. Every child is different. Some babies talk early, and some talk later. And here is a question for you: what was your first word? Why not ask your parents tonight?": "audio/2026-11-22/a1-p6.mp3",
+  "surprising": "audio/2026-11-22/a1-w-surprising.mp3",
+  "The end of the film was very surprising.": "audio/2026-11-22/a1-ex-surprising.mp3",
+  "scientist": "audio/2026-11-22/a1-w-scientist.mp3",
+  "My cousin wants to be a scientist.": "audio/2026-11-22/a1-ex-scientist.mp3",
+  "voice": "audio/2026-11-22/a1-w-voice.mp3",
+  "Our music teacher has a beautiful voice.": "audio/2026-11-22/a1-ex-voice.mp3",
+  "stranger": "audio/2026-11-22/a1-w-stranger.mp3",
+  "Never get into a car with a stranger.": "audio/2026-11-22/a1-ex-stranger.mp3",
+  "noise": "audio/2026-11-22/a1-w-noise.mp3",
+  "What is that noise in the kitchen?": "audio/2026-11-22/a1-ex-noise.mp3",
+  "babble": "audio/2026-11-22/a1-w-babble.mp3",
+  "My baby sister likes to babble in the bath.": "audio/2026-11-22/a1-ex-babble.mp3",
+  "practise": "audio/2026-11-22/a1-w-practise.mp3",
+  "I practise the piano every evening.": "audio/2026-11-22/a1-ex-practise.mp3",
+  "tongue": "audio/2026-11-22/a1-w-tongue.mp3",
+  "The dog put out its long pink tongue.": "audio/2026-11-22/a1-ex-tongue.mp3",
+  "meaning": "audio/2026-11-22/a1-w-meaning.mp3",
+  "Do you know the meaning of this word?": "audio/2026-11-22/a1-ex-meaning.mp3",
+  "How do babies learn to talk?": "audio/2026-11-22/a1-ks1.mp3",
+  "In one study, a baby's heart beat faster when it heard its mother.": "audio/2026-11-22/a1-ks2.mp3",
+  "At about six months, most babies start to babble.": "audio/2026-11-22/a1-ks3.mp3",
+  "Babies usually understand more words than they can say.": "audio/2026-11-22/a1-ks4.mp3",
+  "How many words do children know at eighteen months?": "audio/2026-11-22/a1-ks5.mp3",
+  "When does a baby start learning?": "audio/2026-11-22/a1-g1.mp3",
+  "Which words come first?": "audio/2026-11-22/a1-g2.mp3",
+  "How can families help?": "audio/2026-11-22/a1-g4.mp3",
+  "Leo was fourteen, and he was very shy. Every day at lunch, he sat by himself in the corner of the canteen. He ate his sandwich quickly and read a book. The other students didn't really know him, and he didn't talk to them.": "audio/2026-11-22/a2-p1.mp3",
+  "One Monday, a new girl came into the canteen with her tray. Her name was Ana, and she was from Brazil. She looked around, but all the tables were full. Then she saw Leo. 'Can I sit with you?' she asked him. Leo was surprised, but he said yes.": "audio/2026-11-22/a2-p2.mp3",
+  "Ana talked a lot. She told him about her old school in Brazil and her two cats. 'I don't know anyone here,' she said. 'I feel a bit lonely.' Leo understood her. He often felt the same. So he told her about his favourite thing: the school chess club.": "audio/2026-11-22/a2-p3.mp3",
+  "'Chess? I love chess!' said Ana. 'My grandfather taught me.' Leo wanted to invite her to the club. But he couldn't say the words. He was angry with himself. After lunch, Ana went to her class, and Leo walked home by himself again.": "audio/2026-11-22/a2-p4.mp3",
+  "That evening, Leo looked at himself in the mirror. 'Come on,' he said to himself. 'Just ask her. It's easy.' He said the question three times. The fourth time, it sounded quite good.": "audio/2026-11-22/a2-p5.mp3",
+  "The next day, Leo found Ana in the canteen. This time he spoke first. 'Would you like to come to chess club with me on Wednesday?' he asked. Ana smiled. 'Yes, please! Can I bring my friend Sam? He wants to learn too.'": "audio/2026-11-22/a2-p6.mp3",
+  "On Wednesday, Ana and Sam came to the club. Ana won two games. Sam didn't know the rules, so Leo taught him. They laughed a lot that afternoon, and they all enjoyed themselves. Now Leo never eats lunch by himself. He sits with them every day.": "audio/2026-11-22/a2-p7.mp3",
+  "shy": "audio/2026-11-22/a2-w-shy.mp3",
+  "My little brother is shy with new people.": "audio/2026-11-22/a2-ex-shy.mp3",
+  "corner": "audio/2026-11-22/a2-w-corner.mp3",
+  "The TV is in the corner of the room.": "audio/2026-11-22/a2-ex-corner.mp3",
+  "canteen": "audio/2026-11-22/a2-w-canteen.mp3",
+  "We have pasta in the canteen on Fridays.": "audio/2026-11-22/a2-ex-canteen.mp3",
+  "tray": "audio/2026-11-22/a2-w-tray.mp3",
+  "She carried the cups on a tray.": "audio/2026-11-22/a2-ex-tray.mp3",
+  "full": "audio/2026-11-22/a2-w-full.mp3",
+  "The bus was full, so we walked.": "audio/2026-11-22/a2-ex-full.mp3",
+  "lonely": "audio/2026-11-22/a2-w-lonely.mp3",
+  "He felt lonely in the big new city.": "audio/2026-11-22/a2-ex-lonely.mp3",
+  "invite": "audio/2026-11-22/a2-w-invite.mp3",
+  "I want to invite my whole class to my party.": "audio/2026-11-22/a2-ex-invite.mp3",
+  "mirror": "audio/2026-11-22/a2-w-mirror.mp3",
+  "There is a big mirror in the bathroom.": "audio/2026-11-22/a2-ex-mirror.mp3",
+  "rule": "audio/2026-11-22/a2-w-rule.mp3",
+  "The first rule is: no phones in class.": "audio/2026-11-22/a2-ex-rule.mp3",
+  "Every day at lunch, he sat by himself in the corner of the canteen.": "audio/2026-11-22/a2-ks1.mp3",
+  "'I feel a bit lonely.'": "audio/2026-11-22/a2-ks2.mp3",
+  "He was angry with himself.": "audio/2026-11-22/a2-ks3.mp3",
+  "Now Leo never eats lunch by himself.": "audio/2026-11-22/a2-ks4.mp3",
+  "'Can I sit with you?' she asked him.": "audio/2026-11-22/a2-g2.mp3",
+  "They laughed a lot that afternoon, and they all enjoyed themselves.": "audio/2026-11-22/a2-g4.mp3",
+  "Hi everyone! It's Nadia again. Last Saturday I tried a new hobby: pottery. My aunt gave me a class for my birthday. I was excited, but I was nervous too. I'm not very good at art!": "audio/2026-11-22/a3-p1.mp3",
+  "The class was in a small studio near the river. There were six students and a teacher called Mr Okafor. He spoke quietly and smiled a lot. First, he showed us the clay. It was cold, wet and very heavy. My hands got dirty very quickly!": "audio/2026-11-22/a3-p2.mp3",
+  "Then we sat at the pottery wheels. The wheel turns round and round, and you make a bowl on it with your hands. Mr Okafor showed us first. He worked slowly and carefully, and a beautiful bowl grew in his hands. It looked so easy!": "audio/2026-11-22/a3-p3.mp3",
+  "It wasn't easy for me. I started the wheel too fast, and my clay flew off! It landed on the floor with a big noise. Everybody laughed, and I laughed loudly too. Mr Okafor helped me patiently. 'Don't hurry,' he said. 'Move your hands gently.'": "audio/2026-11-22/a3-p4.mp3",
+  "My second try went much better. I pressed the clay softly and kept my hands still. Slowly, a little bowl appeared. It wasn't perfect. One side was higher than the other. But it was mine, and I was really proud of it.": "audio/2026-11-22/a3-p5.mp3",
+  "Next week, we're going to paint our bowls. Then Mr Okafor is going to put them in a very hot oven. I want to give my bowl to my aunt. She can put her keys in it or use it for sweets. Have you ever tried pottery? Tell me in the comments!": "audio/2026-11-22/a3-p6.mp3",
+  "nervous": "audio/2026-11-22/a3-w-nervous.mp3",
+  "I always feel nervous before a test.": "audio/2026-11-22/a3-ex-nervous.mp3",
+  "pottery": "audio/2026-11-22/a3-w-pottery.mp3",
+  "My mum goes to a pottery class on Tuesdays.": "audio/2026-11-22/a3-ex-pottery.mp3",
+  "clay": "audio/2026-11-22/a3-w-clay.mp3",
+  "The children made animals from clay.": "audio/2026-11-22/a3-ex-clay.mp3",
+  "wheel": "audio/2026-11-22/a3-w-wheel.mp3",
+  "My bike has a new front wheel.": "audio/2026-11-22/a3-ex-wheel.mp3",
+  "bowl": "audio/2026-11-22/a3-w-bowl.mp3",
+  "I eat a bowl of rice every day.": "audio/2026-11-22/a3-ex-bowl.mp3",
+  "carefully": "audio/2026-11-22/a3-w-carefully.mp3",
+  "Carry the glasses carefully.": "audio/2026-11-22/a3-ex-carefully.mp3",
+  "gently": "audio/2026-11-22/a3-w-gently.mp3",
+  "She held the baby bird gently.": "audio/2026-11-22/a3-ex-gently.mp3",
+  "perfect": "audio/2026-11-22/a3-w-perfect.mp3",
+  "The weather was perfect for a picnic.": "audio/2026-11-22/a3-ex-perfect.mp3",
+  "proud": "audio/2026-11-22/a3-w-proud.mp3",
+  "My parents were proud of my good marks.": "audio/2026-11-22/a3-ex-proud.mp3",
+  "Last Saturday I tried a new hobby: pottery.": "audio/2026-11-22/a3-ks1.mp3",
+  "He worked slowly and carefully, and a beautiful bowl grew in his hands.": "audio/2026-11-22/a3-ks2.mp3",
+  "I started the wheel too fast, and my clay flew off!": "audio/2026-11-22/a3-ks3.mp3",
+  "But it was mine, and I was really proud of it.": "audio/2026-11-22/a3-ks4.mp3",
+  "He spoke quietly and smiled a lot.": "audio/2026-11-22/a3-g1.mp3",
+  "Mr Okafor helped me patiently.": "audio/2026-11-22/a3-g3.mp3",
+  "I pressed the clay softly and kept my hands still.": "audio/2026-11-22/a3-g4.mp3"
+ }
+}
