@@ -1,0 +1,2051 @@
+{
+ "date": "2026-11-23",
+ "headline": "Birds flying south, a café job and a violin on a train",
+ "teaser": "Why do millions of birds fly south every autumn? What does Mia do at her aunt's café? And who left an old black case on Kenji's train?",
+ "articles": [
+  {
+   "id": "k20261123-1",
+   "topic": "The natural world",
+   "genre": "Article",
+   "title": "Why Do Birds Fly South?",
+   "dek": "Every autumn, millions of birds start a very long trip. Why do they go, and how do they find the way?",
+   "sources": [
+    {
+     "name": "Simple English Wikipedia: Bird migration",
+     "url": "https://simple.wikipedia.org/wiki/Bird_migration"
+    },
+    {
+     "name": "Simple English Wikipedia: Arctic tern",
+     "url": "https://simple.wikipedia.org/wiki/Arctic_tern"
+    },
+    {
+     "name": "American Bird Conservancy: How do birds navigate during migration?",
+     "url": "https://abcbirds.org/news/bhow-do-birds-navigate-migration/"
+    },
+    {
+     "name": "Audubon: Five incredible ways birds change their bodies for migration",
+     "url": "https://www.audubon.org/magazine/five-incredible-ways-birds-change-their-bodies-spring-and-fall-migration"
+    }
+   ],
+   "paras": [
+    "Every autumn, millions of birds leave their homes in the north. They fly south for hundreds or even thousands of kilometres. In spring, they come back again. This long trip is called migration. But why do birds do it? And how do they find the way?",
+    "The main reason is food. Many birds eat insects, fruit or seeds. In the north, the winter is long and cold. If a bird stays there, it won't find enough insects to eat. Snow covers the seeds, and the lakes freeze. So the birds fly to warmer places. There is more food there.",
+    "Before the trip, birds eat a lot. Some birds eat about three times more food than usual. Their bodies keep the extra food as fat. Fat is the fuel for the long flight. It gives the birds energy. If a bird doesn't eat enough before it leaves, it will get tired and weak on the way.",
+    "How do birds find the way? They don't have maps or phones, but they have other help. Some birds look for rivers and mountains. Many small birds fly at night, so they use the stars. Birds can also feel the Earth's magnetic field. It works like a compass inside their bodies. If clouds hide the stars, the birds will use the magnetic field.",
+    "Which bird makes the longest trip? It is the Arctic tern. This small seabird lays its eggs in the far north. Then it flies all the way to the Antarctic and back again. Every year, it travels about 70,000 kilometres. That is almost two times around the Earth!",
+    "Young birds often make their first trip without their parents. They seem to know the right direction from the day they are born. Scientists still have a lot of questions about this. If you look up at the sky in autumn, you will probably see a big group of birds. Where are they going for the winter?"
+   ],
+   "words": [
+    {
+     "w": "migration",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/maɪˈɡreɪ.ʃən/",
+     "syl": [
+      "mi",
+      "gra",
+      "tion"
+     ],
+     "def": "a long trip that animals make every year",
+     "ex": "We watched a film about the migration of whales."
+    },
+    {
+     "w": "insect",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈɪn.sekt/",
+     "syl": [
+      "in",
+      "sect"
+     ],
+     "def": "a very small animal with six legs, like a fly",
+     "ex": "There is an insect on your arm!"
+    },
+    {
+     "w": "seed",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/siːd/",
+     "syl": [
+      "seed"
+     ],
+     "def": "a small thing that a new plant grows from",
+     "ex": "I put a sunflower seed in the pot."
+    },
+    {
+     "w": "freeze",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/friːz/",
+     "syl": [
+      "freeze"
+     ],
+     "def": "to become hard and cold like ice",
+     "ex": "Water will freeze if it is very cold."
+    },
+    {
+     "w": "fat",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/fæt/",
+     "syl": [
+      "fat"
+     ],
+     "def": "the soft part of a body that keeps energy",
+     "ex": "Bears store fat before the winter."
+    },
+    {
+     "w": "fuel",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfjuː.əl/",
+     "syl": [
+      "fu",
+      "el"
+     ],
+     "def": "something that gives power to a car or a body",
+     "ex": "The plane needs a lot of fuel."
+    },
+    {
+     "w": "compass",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkʌm.pəs/",
+     "syl": [
+      "com",
+      "pass"
+     ],
+     "def": "a thing that always shows you where north is",
+     "ex": "We used a compass in the forest."
+    },
+    {
+     "w": "weak",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/wiːk/",
+     "syl": [
+      "weak"
+     ],
+     "def": "not strong",
+     "ex": "I felt weak after the long walk."
+    },
+    {
+     "w": "direction",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/daɪˈrek.ʃən/",
+     "syl": [
+      "di",
+      "rec",
+      "tion"
+     ],
+     "def": "the way you go, for example north or south",
+     "ex": "Which direction is the station?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "This long trip is called migration.",
+     "kind": "Main idea",
+     "note": "The whole text is about this long trip."
+    },
+    {
+     "para": 2,
+     "text": "If a bird stays there, it won't find enough insects to eat.",
+     "kind": "Cause → effect",
+     "note": "No food in winter, so the birds leave."
+    },
+    {
+     "para": 3,
+     "text": "Fat is the fuel for the long flight.",
+     "kind": "Key details",
+     "note": "Birds eat a lot to get energy for the trip."
+    },
+    {
+     "para": 4,
+     "text": "Birds can also feel the Earth's magnetic field.",
+     "kind": "Key details",
+     "note": "This helps birds find the way, like a compass."
+    },
+    {
+     "para": 6,
+     "text": "If you look up at the sky in autumn, you will probably see a big group of birds.",
+     "kind": "Grammar to notice",
+     "note": "If + present simple, then will + verb."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "why and how birds fly south every autumn",
+      "how to make a home for birds in winter",
+      "why Arctic birds never leave the north"
+     ],
+     "a": 0,
+     "why": "第1段提出两个问题 why do birds do it? 和 how do they find the way?，后面各段一一回答。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 why do birds do it? And how do they find the way? = 选项 why and how birds fly south。",
+      "文中没讲人怎么给鸟做窝。",
+      "原文 millions of birds leave their homes in the north，鸟会离开北方，正好相反。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段最后两句是两个问题：why 和 how。"
+      },
+      {
+       "h": "看各段",
+       "t": "第2–3段讲 why（食物），第4段讲 how（找路）。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why do many birds leave the north before winter?",
+     "opts": [
+      "The days are too long.",
+      "They want to see the sea.",
+      "They can't find enough food."
+     ],
+     "a": 2,
+     "why": "第2段原文：The main reason is food. … If a bird stays there, it won't find enough insects to eat.",
+     "evidence": "If a bird stays there, it won't find enough insects to eat.",
+     "optWhy": [
+      "原文 the winter is long and cold，说的是冬天长，不是白天长。",
+      "文中没提到鸟想看海。",
+      "正确。原文 it won't find enough insects to eat = 选项 They can't find enough food。"
+     ],
+     "traps": [
+      "偷换概念",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "why → 第2段第一句 The main reason is food."
+      },
+      {
+       "h": "找同义",
+       "t": "won't find enough insects ≈ can't find enough food。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, what does \"fuel\" mean?",
+     "opts": [
+      "a kind of bird food",
+      "something that gives energy",
+      "a place to rest"
+     ],
+     "a": 1,
+     "why": "第3段下一句解释了 fuel：It gives the birds energy.",
+     "evidence": "It gives the birds energy.",
+     "optWhy": [
+      "fat 来自食物，但 fuel 本身不是“鸟食”的意思。",
+      "正确。原文 It gives the birds energy = 选项 something that gives energy。",
+      "文中没有讲休息的地方。"
+     ],
+     "traps": [
+      "望文生义",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "往后找",
+       "t": "生词后一句常是解释：It gives the birds energy."
+      },
+      {
+       "h": "代回验证",
+       "t": "Fat is something that gives energy for the flight，通顺。"
+      }
+     ],
+     "marks": [
+      "Fat is the fuel for the long flight."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Most small birds fly only in the daytime.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：Many small birds fly at night, so they use the stars. 和题干相反。",
+     "evidence": "Many small birds fly at night, so they use the stars.",
+     "optWhy": [
+      "原文说 fly at night，不是只在白天飞。",
+      "正确。原文 Many small birds fly at night，题干 only in the daytime → Wrong。",
+      "原文明确说了夜里飞，可以判断，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "small birds → 第4段 Many small birds fly at night。"
+      },
+      {
+       "h": "对比",
+       "t": "at night ≠ only in the daytime → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, what does \"it\" mean in \"it travels about 70,000 kilometres\"?",
+     "opts": [
+      "the Earth",
+      "the Antarctic",
+      "the Arctic tern"
+     ],
+     "a": 2,
+     "why": "第5段一直在说 the Arctic tern：it lays its eggs … it flies … it travels。",
+     "evidence": "Every year, it travels about 70,000 kilometres.",
+     "optWhy": [
+      "the Earth 在后一句，是用来比较距离的，地球不会“飞行”。",
+      "the Antarctic 是鸟飞去的地方，不会自己旅行。",
+      "正确。原文 It is the Arctic tern. … it travels = 选项 the Arctic tern。"
+     ],
+     "traps": [
+      "指代错误",
+      "指代错误",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "往前看：This small seabird … Then it flies … 都指 Arctic tern。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The Arctic tern travels about 70,000 kilometres，通顺。"
+      }
+     ],
+     "marks": [
+      "It is the Arctic tern."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Young birds can make the trip without help from their parents.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第6段原文：Young birds often make their first trip without their parents.",
+     "evidence": "Young birds often make their first trip without their parents.",
+     "optWhy": [
+      "正确。原文 make their first trip without their parents = 题干 make the trip without help from their parents → Right。",
+      "原文没有说小鸟需要父母带路，正好相反。",
+      "原文清楚写了 without their parents，不是没提到。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Young birds → 第6段第一句。"
+      },
+      {
+       "h": "找同义",
+       "t": "without their parents = without help from their parents。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "First conditional: if + present, will",
+    "rule": "Use the first conditional for a real possible future. The if part uses the present simple, not will. The other part uses will / won't + verb. The if part can come first (with a comma) or second (no comma).",
+    "table": [
+     [
+      "if + present simple",
+      "If it snows,"
+     ],
+     [
+      "will / won't + verb",
+      "the birds will leave."
+     ],
+     [
+      "if + doesn't / don't",
+      "If you don't eat, you'll be weak."
+     ],
+     [
+      "will part first",
+      "You'll be late if you don't hurry."
+     ],
+     [
+      "question",
+      "What will you do if it rains?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "If a bird stays there, it won't find enough insects to eat.",
+      "mark": "If a bird stays there, it won't find"
+     },
+     {
+      "para": 3,
+      "text": "If a bird doesn't eat enough before it leaves, it will get tired and weak on the way.",
+      "mark": "it will get"
+     },
+     {
+      "para": 4,
+      "text": "If clouds hide the stars, the birds will use the magnetic field.",
+      "mark": "If clouds hide the stars, the birds will use"
+     },
+     {
+      "para": 6,
+      "text": "If you look up at the sky in autumn, you will probably see a big group of birds.",
+      "mark": "If you look up"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "If it ___ tomorrow, the birds will stay in the trees.",
+      "opts": [
+       "rains",
+       "will rain",
+       "rained"
+      ],
+      "a": 0,
+      "why": "After if, use the present simple: rains."
+     },
+     {
+      "type": "mc",
+      "q": "We ___ the swans if we go to the lake early.",
+      "opts": [
+       "see",
+       "will see",
+       "saw"
+      ],
+      "a": 1,
+      "why": "The result part uses will + verb, even when it comes first."
+     },
+     {
+      "type": "fill",
+      "q": "If you ___ seeds in the garden, the birds will come back.",
+      "hint": "(put)",
+      "a": "put",
+      "why": "After if with you, use the present simple: put."
+     },
+     {
+      "type": "fill",
+      "q": "If the lake freezes, the ducks ___ any food.",
+      "hint": "(not find)",
+      "a": "won't find / will not find",
+      "why": "The result part uses won't + verb."
+     },
+     {
+      "type": "fill",
+      "q": "If Sara ___, she will miss the school bus.",
+      "hint": "(not hurry)",
+      "a": "doesn't hurry / does not hurry",
+      "why": "After if, use the present simple negative: doesn't hurry."
+     },
+     {
+      "type": "fill",
+      "q": "Last autumn we ___ hundreds of birds over the lake.",
+      "hint": "(see)",
+      "a": "saw",
+      "why": "Careful! Last autumn is the past, so use the past simple: saw."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261123-1-k1",
+     "tag": "Migration",
+     "fact": "Migration is the long trip that birds make in autumn and spring.",
+     "q": "When do birds fly south?",
+     "opts": [
+      "in summer",
+      "in autumn",
+      "in spring"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261123-1-k2",
+     "tag": "Food",
+     "fact": "Birds fly south because they can't find enough food in the north in winter.",
+     "q": "What is the main reason for the trip?",
+     "opts": [
+      "food",
+      "music",
+      "sunshine"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261123-1-k3",
+     "tag": "Fat",
+     "fact": "Before the trip, birds eat a lot. The fat gives them energy.",
+     "q": "What gives birds energy for the long flight?",
+     "opts": [
+      "water",
+      "sleep",
+      "fat"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261123-1-k4",
+     "tag": "Finding the way",
+     "fact": "Birds use rivers, mountains, the stars and the Earth's magnetic field.",
+     "q": "What do many small birds use at night?",
+     "opts": [
+      "maps",
+      "the stars",
+      "phones"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261123-1-k5",
+     "tag": "Arctic tern",
+     "fact": "The Arctic tern travels about 70,000 kilometres every year.",
+     "q": "Which bird makes the longest trip?",
+     "opts": [
+      "the Arctic tern",
+      "the duck",
+      "the swan"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Birds fly south",
+    "question": "Why and how do birds make this long trip?",
+    "branches": [
+     {
+      "title": "Why",
+      "paras": "2",
+      "blanks": [
+       "not enough insects",
+       "lakes freeze"
+      ],
+      "kps": [
+       "k20261123-1-k1",
+       "k20261123-1-k2"
+      ]
+     },
+     {
+      "title": "Before",
+      "paras": "3",
+      "blanks": [
+       "eat a lot",
+       "fat for energy"
+      ],
+      "kps": [
+       "k20261123-1-k3"
+      ]
+     },
+     {
+      "title": "How",
+      "paras": "4",
+      "blanks": [
+       "the stars",
+       "magnetic field"
+      ],
+      "kps": [
+       "k20261123-1-k4"
+      ]
+     },
+     {
+      "title": "Record",
+      "paras": "5",
+      "blanks": [
+       "Arctic tern",
+       "70,000 kilometres"
+      ],
+      "kps": [
+       "k20261123-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "phone maps",
+     "only in the daytime"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Birds fly south in autumn because there is not enough food in winter. They eat a lot before the trip, and they use the stars to find the way.",
+    "options": [
+     {
+      "t": "Birds fly south because there is not enough food in winter.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "The main reason is food."
+     },
+     {
+      "t": "Before the trip, birds eat a lot to get energy.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Before the trip, birds eat a lot."
+     },
+     {
+      "t": "Birds find the way with the stars and the magnetic field.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Birds can also feel the Earth's magnetic field."
+     },
+     {
+      "t": "The Arctic tern lays its eggs in the far north.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "This small seabird lays its eggs in the far north."
+     },
+     {
+      "t": "Birds learn the way from maps in their nests.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Young birds always fly with their parents.",
+      "ok": false,
+      "why": "Wrong: they often make their first trip without their parents.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "Young birds often make their first trip without their parents."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Which birds or animals can you see near your home? What do they do in winter?",
+    "hint": "Near my home I can see … / In winter, they …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You saw a big group of birds in the sky. Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Say where and when you saw the birds.",
+     "Say what the birds looked like.",
+     "Ask your friend to come and watch with you."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261123-2",
+   "topic": "Work & jobs",
+   "genre": "Email",
+   "title": "Saturdays at Aunt Rosa's Café",
+   "dek": "Mia has got her first job. Her friend Jack in Canada has got a job too, with a very big dog!",
+   "sources": [],
+   "paras": [
+    "Mia is fourteen. Her best friend Jack moved to Canada last year, but they often send emails. Read their emails about Mia's new weekend job.",
+    "Hi Jack, Guess what? I've got a Saturday job! I'm helping at my aunt's café in the town centre. I wanted to earn some money for a new bike, so I decided to ask her. She said yes! I start at nine and finish at one. I don't get much money, but I enjoy working there.",
+    "My first job every morning is washing the cups and plates. I don't mind doing it, because Aunt Rosa plays music in the kitchen. Then I help at the counter. At first I was nervous about talking to customers. Now I love to chat with them. An old man called Mr Patel comes every Saturday. He always orders tea and a cheese sandwich. Love, Mia",
+    "Hi Mia, That's great! I'd like to have a job too, but my mum says I'm too young for a job in a shop. She wants me to finish school first. So I help my neighbour instead. Mrs Brown is eighty, and she can't walk very far. I walk her dog, Max, after school every day.",
+    "Max is very big, and he loves running. Last week he saw a cat and started to pull. I fell over in the snow! Mrs Brown laughed, and then she gave me a hot drink. Do you get any free food at the café? And what do you want to learn next? Jack",
+    "Hi Jack, Poor you! I hope Max is a good dog now. Yes, I get a free hot chocolate and sometimes a cake. And next month, Aunt Rosa is going to teach me to make cakes. I can't wait to try! Maybe one day I'll open my own café. Then you can come and visit. Love, Mia"
+   ],
+   "words": [
+    {
+     "w": "earn",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ɜːn/",
+     "syl": [
+      "earn"
+     ],
+     "def": "to get money for work",
+     "ex": "My sister wants to earn money in the summer."
+    },
+    {
+     "w": "customer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkʌs.tə.mə/",
+     "syl": [
+      "cus",
+      "tom",
+      "er"
+     ],
+     "def": "a person who buys things in a shop or café",
+     "ex": "The first customer came in at eight o'clock."
+    },
+    {
+     "w": "counter",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkaʊn.tə/",
+     "syl": [
+      "coun",
+      "ter"
+     ],
+     "def": "the long table in a shop where you pay",
+     "ex": "Please pay at the counter."
+    },
+    {
+     "w": "chat",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/tʃæt/",
+     "syl": [
+      "chat"
+     ],
+     "def": "to talk in a friendly way",
+     "ex": "We chat on the phone every evening."
+    },
+    {
+     "w": "order",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈɔː.də/",
+     "syl": [
+      "or",
+      "der"
+     ],
+     "def": "to ask for food or drink in a café",
+     "ex": "Can I order a pizza, please?"
+    },
+    {
+     "w": "neighbour",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈneɪ.bə/",
+     "syl": [
+      "neigh",
+      "bour"
+     ],
+     "def": "a person who lives next to you",
+     "ex": "Our neighbour has got three cats."
+    },
+    {
+     "w": "pull",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/pʊl/",
+     "syl": [
+      "pull"
+     ],
+     "def": "to move something towards you",
+     "ex": "Don't pull the dog's tail!"
+    },
+    {
+     "w": "free",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/friː/",
+     "syl": [
+      "free"
+     ],
+     "def": "you don't have to pay for it",
+     "ex": "The museum is free on Sundays."
+    },
+    {
+     "w": "own",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/əʊn/",
+     "syl": [
+      "own"
+     ],
+     "def": "belonging to you and not to other people",
+     "ex": "I want my own bedroom."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "I wanted to earn some money for a new bike, so I decided to ask her.",
+     "kind": "Cause → effect",
+     "note": "Mia wanted money, so she asked her aunt for a job."
+    },
+    {
+     "para": 3,
+     "text": "At first I was nervous about talking to customers.",
+     "kind": "Opinion",
+     "note": "Mia's feelings changed: first nervous, now happy."
+    },
+    {
+     "para": 4,
+     "text": "So I help my neighbour instead.",
+     "kind": "Key details",
+     "note": "Jack can't work in a shop, so he walks a dog."
+    },
+    {
+     "para": 6,
+     "text": "And next month, Aunt Rosa is going to teach me to make cakes.",
+     "kind": "Grammar to notice",
+     "note": "teach somebody + to + verb."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What are the emails mainly about?",
+     "opts": [
+      "Jack's new school in Canada",
+      "the jobs that Mia and Jack do",
+      "how to make cakes in a café"
+     ],
+     "a": 1,
+     "why": "Mia 讲她在姨妈咖啡馆的周六工作，Jack 讲他帮邻居遛狗，两人都在聊 job。",
+     "evidence": null,
+     "optWhy": [
+      "Jack 住在 Canada，但邮件没讲他的新学校。",
+      "正确。原文 I've got a Saturday job! / I walk her dog = 选项 the jobs that Mia and Jack do。",
+      "做蛋糕只是最后一封邮件里的一个小计划。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段：emails about Mia's new weekend job。"
+      },
+      {
+       "h": "看全部邮件",
+       "t": "Mia 写咖啡馆，Jack 写遛狗，共同点是工作。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why did Mia want a job?",
+     "opts": [
+      "to buy a new bike",
+      "to help her aunt",
+      "to learn to cook"
+     ],
+     "a": 0,
+     "why": "第2段原文：I wanted to earn some money for a new bike.",
+     "evidence": "I wanted to earn some money for a new bike, so I decided to ask her.",
+     "optWhy": [
+      "正确。原文 earn some money for a new bike = 选项 to buy a new bike。",
+      "她确实在姨妈店里帮忙，但原因是想挣钱买车。",
+      "学做蛋糕是下个月的事，不是找工作的原因。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "混淆"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "why → 找 so / because：I wanted to … so I decided …"
+      },
+      {
+       "h": "找同义",
+       "t": "money for a new bike ≈ to buy a new bike。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How did Mia feel about talking to customers at first?",
+     "opts": [
+      "happy",
+      "bored",
+      "nervous"
+     ],
+     "a": 2,
+     "why": "第3段原文：At first I was nervous about talking to customers.",
+     "evidence": "At first I was nervous about talking to customers.",
+     "optWhy": [
+      "happy 是她现在的感受：Now I love to chat with them。",
+      "文中没说她觉得无聊。",
+      "正确。原文 At first I was nervous = 选项 nervous。"
+     ],
+     "traps": [
+      "混淆",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "题干 at first → 原文 At first I was nervous。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "Now I love to chat 是“现在”，不是“一开始”。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Mr Patel lives near the café.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第3段只说 Mr Patel comes every Saturday，没说他住在哪里。",
+     "evidence": "An old man called Mr Patel comes every Saturday.",
+     "optWhy": [
+      "每周六来不等于住在附近，原文没写。",
+      "原文也没说他住得远，不能判断 Wrong。",
+      "正确。全文没提到 Mr Patel 住哪儿 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Mr Patel → 第3段：comes every Saturday, orders tea。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没讲住址，也没说相反的话 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who does \"he\" mean in \"he saw a cat\"?",
+     "opts": [
+      "Max",
+      "Jack",
+      "Mr Patel"
+     ],
+     "a": 0,
+     "why": "前一句 Max is very big, and he loves running，所以下一句的 he 还是 Max。",
+     "evidence": "Last week he saw a cat and started to pull.",
+     "optWhy": [
+      "正确。原文 Max is very big … he saw a cat and started to pull = 选项 Max。",
+      "Jack 是写信的人，他用 I：I fell over in the snow!",
+      "Mr Patel 是 Mia 邮件里咖啡馆的客人，和狗无关。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句的主语是 Max。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Max saw a cat and started to pull，狗拉绳子，通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Mia already knows how to make cakes.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第6段原文：next month, Aunt Rosa is going to teach me to make cakes. 说明她现在还不会。",
+     "evidence": "And next month, Aunt Rosa is going to teach me to make cakes.",
+     "optWhy": [
+      "原文说下个月才教她，already 不对。",
+      "正确。原文 next month … going to teach me to make cakes → 她现在还不会 → Wrong。",
+      "原文写了下个月要学，可以判断，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "make cakes → 第6段。"
+      },
+      {
+       "h": "看时间",
+       "t": "next month … going to teach = 还没学，和 already 相反。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Verb + -ing or to + verb",
+    "rule": "Some verbs take -ing: enjoy, don't mind, finish, stop. Some verbs take to + verb: want, decide, hope, learn, can't wait. After love, like and start, you can use both. After a preposition (about, at), always use -ing.",
+    "table": [
+     [
+      "enjoy / don't mind / finish",
+      "+ -ing: enjoy working"
+     ],
+     [
+      "want / decide / hope",
+      "+ to: decide to ask"
+     ],
+     [
+      "learn / can't wait",
+      "+ to: can't wait to try"
+     ],
+     [
+      "love / like / start",
+      "+ -ing or to: love to chat"
+     ],
+     [
+      "teach / want + person",
+      "+ to: teach me to make"
+     ],
+     [
+      "about / at / for",
+      "+ -ing: nervous about talking"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I don't get much money, but I enjoy working there.",
+      "mark": "enjoy working"
+     },
+     {
+      "para": 2,
+      "text": "I wanted to earn some money for a new bike, so I decided to ask her.",
+      "mark": "decided to ask"
+     },
+     {
+      "para": 3,
+      "text": "I don't mind doing it, because Aunt Rosa plays music in the kitchen.",
+      "mark": "don't mind doing"
+     },
+     {
+      "para": 6,
+      "text": "I can't wait to try!",
+      "mark": "can't wait to try"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Would you mind ___ the window? It's cold in here.",
+      "opts": [
+       "closing",
+       "to close",
+       "close"
+      ],
+      "a": 0,
+      "why": "After mind, use the -ing form: closing."
+     },
+     {
+      "type": "mc",
+      "q": "Leo is very good at ___ to customers.",
+      "opts": [
+       "talk",
+       "to talk",
+       "talking"
+      ],
+      "a": 2,
+      "why": "After a preposition like at, use the -ing form."
+     },
+     {
+      "type": "fill",
+      "q": "My brother hopes ___ a job at the bookshop this summer.",
+      "hint": "(get)",
+      "a": "to get",
+      "why": "After hope, use to + verb."
+     },
+     {
+      "type": "fill",
+      "q": "Please stop ___ on the table! I'm trying to work.",
+      "hint": "(knock)",
+      "a": "knocking",
+      "why": "After stop, use the -ing form here."
+     },
+     {
+      "type": "fill",
+      "q": "Mum wants me ___ my homework before dinner.",
+      "hint": "(finish)",
+      "a": "to finish",
+      "why": "want + person + to + verb."
+     },
+     {
+      "type": "fill",
+      "q": "If you practise every day, you ___ to make great coffee.",
+      "hint": "(learn)",
+      "a": "will learn / 'll learn",
+      "why": "Mixed: first conditional, so the result part uses will + verb."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261123-2-k1",
+     "tag": "Mia's job",
+     "fact": "Mia works at her aunt's café on Saturdays from nine to one.",
+     "q": "Where does Mia work?",
+     "opts": [
+      "at a bike shop",
+      "at her aunt's café",
+      "at a school"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261123-2-k2",
+     "tag": "Why",
+     "fact": "Mia wants to earn money for a new bike.",
+     "q": "What does Mia want to buy?",
+     "opts": [
+      "a new bike",
+      "a new phone",
+      "a cake"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261123-2-k3",
+     "tag": "Feelings",
+     "fact": "Mia was nervous at first, but now she loves chatting with customers.",
+     "q": "How does Mia feel about customers now?",
+     "opts": [
+      "She is nervous.",
+      "She is bored.",
+      "She loves chatting with them."
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261123-2-k4",
+     "tag": "Jack's job",
+     "fact": "Jack walks his neighbour's big dog, Max, after school.",
+     "q": "What does Jack do after school?",
+     "opts": [
+      "He works in a shop.",
+      "He walks a dog.",
+      "He makes cakes."
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261123-2-k5",
+     "tag": "Next",
+     "fact": "Next month, Aunt Rosa is going to teach Mia to make cakes.",
+     "q": "What will Mia learn next month?",
+     "opts": [
+      "to make cakes",
+      "to ride a bike",
+      "to walk dogs"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Teen jobs",
+    "question": "What jobs do Mia and Jack do?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "2",
+      "blanks": [
+       "aunt's café",
+       "nine to one"
+      ],
+      "kps": [
+       "k20261123-2-k1"
+      ]
+     },
+     {
+      "title": "Why",
+      "paras": "2",
+      "blanks": [
+       "a new bike"
+      ],
+      "kps": [
+       "k20261123-2-k2"
+      ]
+     },
+     {
+      "title": "Mia's work",
+      "paras": "3",
+      "blanks": [
+       "washing the cups",
+       "chat with customers"
+      ],
+      "kps": [
+       "k20261123-2-k3"
+      ]
+     },
+     {
+      "title": "Jack",
+      "paras": "4–5",
+      "blanks": [
+       "walks Max",
+       "fell in the snow"
+      ],
+      "kps": [
+       "k20261123-2-k4",
+       "k20261123-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "works every day",
+     "sells bikes"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the emails.",
+    "model": "Mia works at her aunt's café because she wants a new bike. Jack is too young for a shop job, so he walks his neighbour's dog.",
+    "options": [
+     {
+      "t": "Mia has a Saturday job at her aunt's café.",
+      "ok": true,
+      "why": "This is the main idea of Mia's first email.",
+      "type": "main",
+      "para": 2,
+      "evidence": "I've got a Saturday job!"
+     },
+     {
+      "t": "Mia was nervous at first, but now she enjoys the job.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Now I love to chat with them."
+     },
+     {
+      "t": "Jack can't work in a shop, so he walks a dog.",
+      "ok": true,
+      "why": "This is the main idea of Jack's email.",
+      "type": "main",
+      "para": 4,
+      "evidence": "So I help my neighbour instead."
+     },
+     {
+      "t": "Mr Patel always orders tea and a cheese sandwich.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "He always orders tea and a cheese sandwich."
+     },
+     {
+      "t": "Jack wants to visit Mia next summer.",
+      "ok": false,
+      "why": "The emails never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Mia's mum says Mia is too young for a job.",
+      "ok": false,
+      "why": "Wrong: Jack's mum says this about Jack.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "my mum says I'm too young for a job in a shop"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Would you like to have a weekend job? What job would you like to do? Why?",
+    "hint": "I'd like to work at … / because I enjoy …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You helped a family member at work last weekend. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Say where you helped.",
+     "Say what you did there.",
+     "Say if you enjoyed it and why."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261123-3",
+   "topic": "Transport",
+   "genre": "Story",
+   "title": "The Black Case on the Train",
+   "dek": "A man runs off the train and leaves something important behind. What can Kenji do?",
+   "sources": [],
+   "paras": [
+    "Kenji was thirteen. Every Sunday, he took the train to his grandmother's village. It was a slow train which stopped at every small station. Kenji liked it, because he could read or look out of the window.",
+    "That Sunday, a man with grey hair sat opposite him. He had a black case which looked very old. The man was talking on his phone. He seemed worried and in a hurry. At Green Hill station, he jumped up and ran out of the train. The doors closed behind him.",
+    "Then Kenji saw the black case. It was still under the seat! He looked out of the window, but the train was already moving. \"Oh no,\" he thought. \"What can I do?\"",
+    "Kenji found the conductor, who was checking tickets in the next carriage. She was a tall woman with a friendly smile. Kenji showed her the case. She opened it carefully. Inside, there was a beautiful violin and a ticket for a concert that evening.",
+    "\"He's a musician who needs his violin tonight!\" said Kenji. The conductor phoned the station at Green Hill. The man was there, and he was very worried. \"Please tell him not to worry,\" said the conductor. \"We'll leave the case at the next station. He can take a taxi there.\"",
+    "A week later, a letter arrived at Kenji's house. It was from the man, Mr Lewis. \"Thank you for finding the violin that my father gave me,\" he wrote. There were two tickets in the letter too. They were for his next concert.",
+    "On Saturday, Kenji went to the concert with his grandmother. The music was wonderful. At the end, Mr Lewis said, \"This song is for the boy who saved my violin.\" Kenji's face went red, but he smiled all evening."
+   ],
+   "words": [
+    {
+     "w": "opposite",
+     "level": "A2 word",
+     "pos": "preposition",
+     "ipa": "/ˈɒp.ə.zɪt/",
+     "syl": [
+      "op",
+      "po",
+      "site"
+     ],
+     "def": "on the other side, facing you",
+     "ex": "The bank is opposite the post office."
+    },
+    {
+     "w": "hurry",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈhʌr.i/",
+     "syl": [
+      "hur",
+      "ry"
+     ],
+     "def": "when you must do something very quickly",
+     "ex": "Sorry, I can't talk. I'm in a hurry."
+    },
+    {
+     "w": "case",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/keɪs/",
+     "syl": [
+      "case"
+     ],
+     "def": "a box for carrying or keeping something",
+     "ex": "Put your glasses in their case."
+    },
+    {
+     "w": "conductor",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kənˈdʌk.tə/",
+     "syl": [
+      "con",
+      "duc",
+      "tor"
+     ],
+     "def": "a person who checks tickets on a train",
+     "ex": "The conductor asked for our tickets."
+    },
+    {
+     "w": "carriage",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkær.ɪdʒ/",
+     "syl": [
+      "car",
+      "riage"
+     ],
+     "def": "one of the long parts of a train",
+     "ex": "Our seats are in the first carriage."
+    },
+    {
+     "w": "carefully",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkeə.fəl.i/",
+     "syl": [
+      "care",
+      "ful",
+      "ly"
+     ],
+     "def": "slowly and well, so nothing goes wrong",
+     "ex": "Carry the eggs carefully."
+    },
+    {
+     "w": "violin",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˌvaɪ.əˈlɪn/",
+     "syl": [
+      "vi",
+      "o",
+      "lin"
+     ],
+     "def": "a wooden music instrument with four strings",
+     "ex": "My cousin plays the violin in an orchestra."
+    },
+    {
+     "w": "musician",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/mjuˈzɪʃ.ən/",
+     "syl": [
+      "mu",
+      "si",
+      "cian"
+     ],
+     "def": "a person who plays music",
+     "ex": "The musician played the guitar in the park."
+    },
+    {
+     "w": "save",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/seɪv/",
+     "syl": [
+      "save"
+     ],
+     "def": "to help someone or something stay safe",
+     "ex": "The firefighter can save the cat."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "He seemed worried and in a hurry.",
+     "kind": "Cause → effect",
+     "note": "The man was in a hurry, so he forgot his case."
+    },
+    {
+     "para": 3,
+     "text": "It was still under the seat!",
+     "kind": "Key details",
+     "note": "This is the problem in the story."
+    },
+    {
+     "para": 4,
+     "text": "Kenji found the conductor, who was checking tickets in the next carriage.",
+     "kind": "Grammar to notice",
+     "note": "who tells us more about a person."
+    },
+    {
+     "para": 5,
+     "text": "The conductor phoned the station at Green Hill.",
+     "kind": "Time order",
+     "note": "This is how they help the man."
+    },
+    {
+     "para": 7,
+     "text": "\"This song is for the boy who saved my violin.\"",
+     "kind": "Main idea",
+     "note": "The happy ending: Kenji's help was important."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "a boy who loses his train ticket",
+      "a man who teaches Kenji to play the violin",
+      "a boy who helps a man get his lost violin back"
+     ],
+     "a": 2,
+     "why": "Kenji 在火车上发现别人落下的琴盒，找列车员帮忙，最后小提琴回到了主人手里。",
+     "evidence": null,
+     "optWhy": [
+      "丢东西的是那位男士，不是 Kenji，也不是车票。",
+      "Mr Lewis 没有教 Kenji 拉琴，只是请他去听音乐会。",
+      "正确。原文 the boy who saved my violin = 选项 a boy who helps a man get his lost violin back。"
+     ],
+     "traps": [
+      "细节偷换",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找问题",
+       "t": "第3段的问题：the black case was still under the seat。"
+      },
+      {
+       "h": "看结局",
+       "t": "第7段 the boy who saved my violin 总结了全文。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why did the man leave his case on the train?",
+     "opts": [
+      "He wanted to give it to Kenji.",
+      "He was worried and in a hurry.",
+      "The doors closed on his case."
+     ],
+     "a": 1,
+     "why": "第2段原文：He seemed worried and in a hurry. 然后他 jumped up and ran out，忘了箱子。",
+     "evidence": "He seemed worried and in a hurry.",
+     "optWhy": [
+      "文中没说他想把琴送给 Kenji。",
+      "正确。原文 He seemed worried and in a hurry = 选项 He was worried and in a hurry。",
+      "原文 The doors closed behind him，门关在他身后，不是夹住箱子。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "the man → 第2段。"
+      },
+      {
+       "h": "找原因",
+       "t": "worried and in a hurry → jumped up and ran out → 忘了 case。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, what does \"it\" mean in \"She opened it carefully\"?",
+     "opts": [
+      "the case",
+      "the ticket",
+      "the window"
+     ],
+     "a": 0,
+     "why": "前一句 Kenji showed her the case. 所以 it 指 the case。",
+     "evidence": "She opened it carefully.",
+     "optWhy": [
+      "正确。原文 Kenji showed her the case. She opened it = 选项 the case。",
+      "ticket 是打开箱子以后才看到的。",
+      "window 在第3段，和这里无关。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句：Kenji showed her the case."
+      },
+      {
+       "h": "代回验证",
+       "t": "She opened the case carefully. Inside, there was a violin. 通顺。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "There was a concert ticket inside the case.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第4段原文：Inside, there was a beautiful violin and a ticket for a concert that evening.",
+     "evidence": "Inside, there was a beautiful violin and a ticket for a concert that evening.",
+     "optWhy": [
+      "正确。原文 Inside … a ticket for a concert = 题干 a concert ticket inside the case → Right。",
+      "原文明确写了有票，不是 Wrong。",
+      "原文提到了这张票，不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "inside the case → 第4段 Inside, there was …"
+      },
+      {
+       "h": "找同义",
+       "t": "a ticket for a concert = a concert ticket。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 7,
+     "q": "How did Kenji feel at the end of the story?",
+     "opts": [
+      "angry",
+      "shy but happy",
+      "bored"
+     ],
+     "a": 1,
+     "why": "第7段原文：Kenji's face went red, but he smiled all evening. 脸红 = 害羞，一直笑 = 开心。",
+     "evidence": "Kenji's face went red, but he smiled all evening.",
+     "optWhy": [
+      "脸红在这里是害羞，不是生气，他一直在笑。",
+      "正确。原文 face went red（害羞）… smiled all evening（开心）= 选项 shy but happy。",
+      "原文 The music was wonderful，他不觉得无聊。"
+     ],
+     "traps": [
+      "望文生义",
+      null,
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "找细节",
+       "t": "face went red + but + smiled all evening。"
+      },
+      {
+       "h": "看转折",
+       "t": "but 前后都要考虑：害羞，但很开心。"
+      }
+     ],
+     "marks": [
+      "The music was wonderful."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Mr Lewis sent Kenji some money.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第6段只说信里有 two tickets，没有提到钱。",
+     "evidence": "There were two tickets in the letter too.",
+     "optWhy": [
+      "原文只提到票，没说寄了钱。",
+      "原文也没说“没有钱”，不能判断 Wrong。",
+      "正确。全文没提到 money → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "letter → 第6段：a letter … two tickets。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没写钱，也没说相反的话 → Doesn't say。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Relative clauses: who / which / that",
+    "rule": "Use who for people and which for things. That can be used for people or things. The relative clause comes right after the noun and tells us which person or thing, or gives more information.",
+    "table": [
+     [
+      "who (people)",
+      "a musician who needs his violin"
+     ],
+     [
+      "which (things)",
+      "a slow train which stopped"
+     ],
+     [
+      "that (people or things)",
+      "the violin that my father gave me"
+     ],
+     [
+      "who + was + -ing",
+      "the conductor, who was checking tickets"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "It was a slow train which stopped at every small station.",
+      "mark": "which stopped"
+     },
+     {
+      "para": 4,
+      "text": "Kenji found the conductor, who was checking tickets in the next carriage.",
+      "mark": "who was checking"
+     },
+     {
+      "para": 6,
+      "text": "\"Thank you for finding the violin that my father gave me,\" he wrote.",
+      "mark": "that my father gave me"
+     },
+     {
+      "para": 7,
+      "text": "\"This song is for the boy who saved my violin.\"",
+      "mark": "who saved"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "The bus ___ goes to the airport leaves every hour.",
+      "opts": [
+       "who",
+       "which",
+       "where"
+      ],
+      "a": 1,
+      "why": "A bus is a thing, so use which."
+     },
+     {
+      "type": "mc",
+      "q": "Do you know the girl ___ is sitting next to the driver?",
+      "opts": [
+       "who",
+       "which",
+       "what"
+      ],
+      "a": 0,
+      "why": "The girl is a person, so use who."
+     },
+     {
+      "type": "fill",
+      "q": "A pilot is a person ___ flies a plane.",
+      "hint": "(person)",
+      "a": "who / that",
+      "why": "A pilot is a person, so use who or that."
+     },
+     {
+      "type": "fill",
+      "q": "This is the bike ___ my uncle gave me.",
+      "hint": "(thing)",
+      "a": "which / that",
+      "why": "A bike is a thing, so use which or that."
+     },
+     {
+      "type": "fill",
+      "q": "The man who ___ his bag on the bus yesterday is my teacher.",
+      "hint": "(leave)",
+      "a": "left",
+      "why": "Mixed: yesterday is the past, so use the past simple left."
+     },
+     {
+      "type": "fill",
+      "q": "I like trains that ___ fast and quiet.",
+      "hint": "(be)",
+      "a": "are",
+      "why": "Trains is plural, so the verb after that is are."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261123-3-k1",
+     "tag": "The train",
+     "fact": "Kenji took a slow train to his grandmother's village every Sunday.",
+     "q": "Where did Kenji go every Sunday?",
+     "opts": [
+      "to school",
+      "to the airport",
+      "to his grandmother's village"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261123-3-k2",
+     "tag": "The problem",
+     "fact": "A man in a hurry left his black case under the seat.",
+     "q": "What did the man leave on the train?",
+     "opts": [
+      "his phone",
+      "a black case",
+      "his ticket"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261123-3-k3",
+     "tag": "Help",
+     "fact": "Kenji gave the case to the conductor, and she phoned the station.",
+     "q": "Who did Kenji ask for help?",
+     "opts": [
+      "the conductor",
+      "a taxi driver",
+      "his grandmother"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261123-3-k4",
+     "tag": "Inside",
+     "fact": "Inside the case, there was a violin and a concert ticket.",
+     "q": "What was inside the case?",
+     "opts": [
+      "a guitar and a book",
+      "a violin and a ticket",
+      "cakes and tea"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261123-3-k5",
+     "tag": "Thank you",
+     "fact": "Mr Lewis sent Kenji two concert tickets and played a song for him.",
+     "q": "What did Mr Lewis send Kenji?",
+     "opts": [
+      "two concert tickets",
+      "a new violin",
+      "a train ticket"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "The black case",
+    "question": "How did Kenji help the musician?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "slow train"
+      ],
+      "kps": [
+       "k20261123-3-k1"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "2–3",
+      "blanks": [
+       "in a hurry",
+       "under the seat"
+      ],
+      "kps": [
+       "k20261123-3-k2"
+      ]
+     },
+     {
+      "title": "Help",
+      "paras": "4–5",
+      "blanks": [
+       "the conductor",
+       "violin inside"
+      ],
+      "kps": [
+       "k20261123-3-k3",
+       "k20261123-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6–7",
+      "blanks": [
+       "two tickets",
+       "a song for Kenji"
+      ],
+      "kps": [
+       "k20261123-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a lost dog",
+     "some money"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "A man left his violin on the train, but Kenji found it. The conductor helped, so the man got his violin back and thanked Kenji.",
+    "options": [
+     {
+      "t": "A man in a hurry left his violin case on the train.",
+      "ok": true,
+      "why": "This is the problem in paragraphs 2 and 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "It was still under the seat!"
+     },
+     {
+      "t": "Kenji and the conductor helped the man get it back.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 4 and 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "The conductor phoned the station at Green Hill."
+     },
+     {
+      "t": "The musician thanked Kenji with tickets and a song.",
+      "ok": true,
+      "why": "This is the happy ending in paragraphs 6 and 7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "\"This song is for the boy who saved my violin.\""
+     },
+     {
+      "t": "The conductor was a tall woman with a friendly smile.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "She was a tall woman with a friendly smile."
+     },
+     {
+      "t": "Kenji wanted to learn the violin after the concert.",
+      "ok": false,
+      "why": "The story never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Kenji kept the violin at his house for a week.",
+      "ok": false,
+      "why": "Wrong: they left the case at the next station.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "\"We'll leave the case at the next station."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you often travel by train or bus? Where do you go, and what do you do on the trip?",
+    "hint": "I often take the … to … / On the trip, I usually …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Look at the story. Write the story of a time you found something on a bus or train. Write 35 words or more.",
+    "steps": [
+     "Say what you found and where.",
+     "Say what you did.",
+     "Say what happened in the end."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · male"
+  }
+ ],
+ "audio": {
+  "Every autumn, millions of birds leave their homes in the north. They fly south for hundreds or even thousands of kilometres. In spring, they come back again. This long trip is called migration. But why do birds do it? And how do they find the way?": "audio/2026-11-23/a1-p1.mp3",
+  "The main reason is food. Many birds eat insects, fruit or seeds. In the north, the winter is long and cold. If a bird stays there, it won't find enough insects to eat. Snow covers the seeds, and the lakes freeze. So the birds fly to warmer places. There is more food there.": "audio/2026-11-23/a1-p2.mp3",
+  "Before the trip, birds eat a lot. Some birds eat about three times more food than usual. Their bodies keep the extra food as fat. Fat is the fuel for the long flight. It gives the birds energy. If a bird doesn't eat enough before it leaves, it will get tired and weak on the way.": "audio/2026-11-23/a1-p3.mp3",
+  "How do birds find the way? They don't have maps or phones, but they have other help. Some birds look for rivers and mountains. Many small birds fly at night, so they use the stars. Birds can also feel the Earth's magnetic field. It works like a compass inside their bodies. If clouds hide the stars, the birds will use the magnetic field.": "audio/2026-11-23/a1-p4.mp3",
+  "Which bird makes the longest trip? It is the Arctic tern. This small seabird lays its eggs in the far north. Then it flies all the way to the Antarctic and back again. Every year, it travels about 70,000 kilometres. That is almost two times around the Earth!": "audio/2026-11-23/a1-p5.mp3",
+  "Young birds often make their first trip without their parents. They seem to know the right direction from the day they are born. Scientists still have a lot of questions about this. If you look up at the sky in autumn, you will probably see a big group of birds. Where are they going for the winter?": "audio/2026-11-23/a1-p6.mp3",
+  "migration": "audio/2026-11-23/a1-w-migration.mp3",
+  "We watched a film about the migration of whales.": "audio/2026-11-23/a1-ex-migration.mp3",
+  "insect": "audio/2026-11-23/a1-w-insect.mp3",
+  "There is an insect on your arm!": "audio/2026-11-23/a1-ex-insect.mp3",
+  "seed": "audio/2026-11-23/a1-w-seed.mp3",
+  "I put a sunflower seed in the pot.": "audio/2026-11-23/a1-ex-seed.mp3",
+  "freeze": "audio/2026-11-23/a1-w-freeze.mp3",
+  "Water will freeze if it is very cold.": "audio/2026-11-23/a1-ex-freeze.mp3",
+  "fat": "audio/2026-11-23/a1-w-fat.mp3",
+  "Bears store fat before the winter.": "audio/2026-11-23/a1-ex-fat.mp3",
+  "fuel": "audio/2026-11-23/a1-w-fuel.mp3",
+  "The plane needs a lot of fuel.": "audio/2026-11-23/a1-ex-fuel.mp3",
+  "compass": "audio/2026-11-23/a1-w-compass.mp3",
+  "We used a compass in the forest.": "audio/2026-11-23/a1-ex-compass.mp3",
+  "weak": "audio/2026-11-23/a1-w-weak.mp3",
+  "I felt weak after the long walk.": "audio/2026-11-23/a1-ex-weak.mp3",
+  "direction": "audio/2026-11-23/a1-w-direction.mp3",
+  "Which direction is the station?": "audio/2026-11-23/a1-ex-direction.mp3",
+  "This long trip is called migration.": "audio/2026-11-23/a1-ks1.mp3",
+  "If a bird stays there, it won't find enough insects to eat.": "audio/2026-11-23/a1-ks2.mp3",
+  "Fat is the fuel for the long flight.": "audio/2026-11-23/a1-ks3.mp3",
+  "Birds can also feel the Earth's magnetic field.": "audio/2026-11-23/a1-ks4.mp3",
+  "If you look up at the sky in autumn, you will probably see a big group of birds.": "audio/2026-11-23/a1-ks5.mp3",
+  "If a bird doesn't eat enough before it leaves, it will get tired and weak on the way.": "audio/2026-11-23/a1-g2.mp3",
+  "If clouds hide the stars, the birds will use the magnetic field.": "audio/2026-11-23/a1-g3.mp3",
+  "Mia is fourteen. Her best friend Jack moved to Canada last year, but they often send emails. Read their emails about Mia's new weekend job.": "audio/2026-11-23/a2-p1.mp3",
+  "Hi Jack, Guess what? I've got a Saturday job! I'm helping at my aunt's café in the town centre. I wanted to earn some money for a new bike, so I decided to ask her. She said yes! I start at nine and finish at one. I don't get much money, but I enjoy working there.": "audio/2026-11-23/a2-p2.mp3",
+  "My first job every morning is washing the cups and plates. I don't mind doing it, because Aunt Rosa plays music in the kitchen. Then I help at the counter. At first I was nervous about talking to customers. Now I love to chat with them. An old man called Mr Patel comes every Saturday. He always orders tea and a cheese sandwich. Love, Mia": "audio/2026-11-23/a2-p3.mp3",
+  "Hi Mia, That's great! I'd like to have a job too, but my mum says I'm too young for a job in a shop. She wants me to finish school first. So I help my neighbour instead. Mrs Brown is eighty, and she can't walk very far. I walk her dog, Max, after school every day.": "audio/2026-11-23/a2-p4.mp3",
+  "Max is very big, and he loves running. Last week he saw a cat and started to pull. I fell over in the snow! Mrs Brown laughed, and then she gave me a hot drink. Do you get any free food at the café? And what do you want to learn next? Jack": "audio/2026-11-23/a2-p5.mp3",
+  "Hi Jack, Poor you! I hope Max is a good dog now. Yes, I get a free hot chocolate and sometimes a cake. And next month, Aunt Rosa is going to teach me to make cakes. I can't wait to try! Maybe one day I'll open my own café. Then you can come and visit. Love, Mia": "audio/2026-11-23/a2-p6.mp3",
+  "earn": "audio/2026-11-23/a2-w-earn.mp3",
+  "My sister wants to earn money in the summer.": "audio/2026-11-23/a2-ex-earn.mp3",
+  "customer": "audio/2026-11-23/a2-w-customer.mp3",
+  "The first customer came in at eight o'clock.": "audio/2026-11-23/a2-ex-customer.mp3",
+  "counter": "audio/2026-11-23/a2-w-counter.mp3",
+  "Please pay at the counter.": "audio/2026-11-23/a2-ex-counter.mp3",
+  "chat": "audio/2026-11-23/a2-w-chat.mp3",
+  "We chat on the phone every evening.": "audio/2026-11-23/a2-ex-chat.mp3",
+  "order": "audio/2026-11-23/a2-w-order.mp3",
+  "Can I order a pizza, please?": "audio/2026-11-23/a2-ex-order.mp3",
+  "neighbour": "audio/2026-11-23/a2-w-neighbour.mp3",
+  "Our neighbour has got three cats.": "audio/2026-11-23/a2-ex-neighbour.mp3",
+  "pull": "audio/2026-11-23/a2-w-pull.mp3",
+  "Don't pull the dog's tail!": "audio/2026-11-23/a2-ex-pull.mp3",
+  "free": "audio/2026-11-23/a2-w-free.mp3",
+  "The museum is free on Sundays.": "audio/2026-11-23/a2-ex-free.mp3",
+  "own": "audio/2026-11-23/a2-w-own.mp3",
+  "I want my own bedroom.": "audio/2026-11-23/a2-ex-own.mp3",
+  "I wanted to earn some money for a new bike, so I decided to ask her.": "audio/2026-11-23/a2-ks1.mp3",
+  "At first I was nervous about talking to customers.": "audio/2026-11-23/a2-ks2.mp3",
+  "So I help my neighbour instead.": "audio/2026-11-23/a2-ks3.mp3",
+  "And next month, Aunt Rosa is going to teach me to make cakes.": "audio/2026-11-23/a2-ks4.mp3",
+  "I don't get much money, but I enjoy working there.": "audio/2026-11-23/a2-g1.mp3",
+  "I don't mind doing it, because Aunt Rosa plays music in the kitchen.": "audio/2026-11-23/a2-g3.mp3",
+  "I can't wait to try!": "audio/2026-11-23/a2-g4.mp3",
+  "Kenji was thirteen. Every Sunday, he took the train to his grandmother's village. It was a slow train which stopped at every small station. Kenji liked it, because he could read or look out of the window.": "audio/2026-11-23/a3-p1.mp3",
+  "That Sunday, a man with grey hair sat opposite him. He had a black case which looked very old. The man was talking on his phone. He seemed worried and in a hurry. At Green Hill station, he jumped up and ran out of the train. The doors closed behind him.": "audio/2026-11-23/a3-p2.mp3",
+  "Then Kenji saw the black case. It was still under the seat! He looked out of the window, but the train was already moving. \"Oh no,\" he thought. \"What can I do?\"": "audio/2026-11-23/a3-p3.mp3",
+  "Kenji found the conductor, who was checking tickets in the next carriage. She was a tall woman with a friendly smile. Kenji showed her the case. She opened it carefully. Inside, there was a beautiful violin and a ticket for a concert that evening.": "audio/2026-11-23/a3-p4.mp3",
+  "\"He's a musician who needs his violin tonight!\" said Kenji. The conductor phoned the station at Green Hill. The man was there, and he was very worried. \"Please tell him not to worry,\" said the conductor. \"We'll leave the case at the next station. He can take a taxi there.\"": "audio/2026-11-23/a3-p5.mp3",
+  "A week later, a letter arrived at Kenji's house. It was from the man, Mr Lewis. \"Thank you for finding the violin that my father gave me,\" he wrote. There were two tickets in the letter too. They were for his next concert.": "audio/2026-11-23/a3-p6.mp3",
+  "On Saturday, Kenji went to the concert with his grandmother. The music was wonderful. At the end, Mr Lewis said, \"This song is for the boy who saved my violin.\" Kenji's face went red, but he smiled all evening.": "audio/2026-11-23/a3-p7.mp3",
+  "opposite": "audio/2026-11-23/a3-w-opposite.mp3",
+  "The bank is opposite the post office.": "audio/2026-11-23/a3-ex-opposite.mp3",
+  "hurry": "audio/2026-11-23/a3-w-hurry.mp3",
+  "Sorry, I can't talk. I'm in a hurry.": "audio/2026-11-23/a3-ex-hurry.mp3",
+  "case": "audio/2026-11-23/a3-w-case.mp3",
+  "Put your glasses in their case.": "audio/2026-11-23/a3-ex-case.mp3",
+  "conductor": "audio/2026-11-23/a3-w-conductor.mp3",
+  "The conductor asked for our tickets.": "audio/2026-11-23/a3-ex-conductor.mp3",
+  "carriage": "audio/2026-11-23/a3-w-carriage.mp3",
+  "Our seats are in the first carriage.": "audio/2026-11-23/a3-ex-carriage.mp3",
+  "carefully": "audio/2026-11-23/a3-w-carefully.mp3",
+  "Carry the eggs carefully.": "audio/2026-11-23/a3-ex-carefully.mp3",
+  "violin": "audio/2026-11-23/a3-w-violin.mp3",
+  "My cousin plays the violin in an orchestra.": "audio/2026-11-23/a3-ex-violin.mp3",
+  "musician": "audio/2026-11-23/a3-w-musician.mp3",
+  "The musician played the guitar in the park.": "audio/2026-11-23/a3-ex-musician.mp3",
+  "save": "audio/2026-11-23/a3-w-save.mp3",
+  "The firefighter can save the cat.": "audio/2026-11-23/a3-ex-save.mp3",
+  "He seemed worried and in a hurry.": "audio/2026-11-23/a3-ks1.mp3",
+  "It was still under the seat!": "audio/2026-11-23/a3-ks2.mp3",
+  "Kenji found the conductor, who was checking tickets in the next carriage.": "audio/2026-11-23/a3-ks3.mp3",
+  "The conductor phoned the station at Green Hill.": "audio/2026-11-23/a3-ks4.mp3",
+  "\"This song is for the boy who saved my violin.\"": "audio/2026-11-23/a3-ks5.mp3",
+  "It was a slow train which stopped at every small station.": "audio/2026-11-23/a3-g1.mp3",
+  "\"Thank you for finding the violin that my father gave me,\" he wrote.": "audio/2026-11-23/a3-g3.mp3"
+ }
+}
