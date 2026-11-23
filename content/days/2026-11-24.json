@@ -1,0 +1,2057 @@
+{
+ "date": "2026-11-24",
+ "headline": "Six-sided snowflakes, film nights and a scarf for Mum",
+ "teaser": "Why has every snowflake got six sides? Where do three teenagers like to watch films? And can Ana find enough money for her mum's present?",
+ "articles": [
+  {
+   "id": "k20261124-1",
+   "topic": "Weather",
+   "genre": "Article",
+   "title": "How Is a Snowflake Made?",
+   "dek": "Snow falls from the sky, but every snowflake starts with something very, very small. What is it?",
+   "sources": [
+    {
+     "name": "NOAA: How do snowflakes form? Get the science behind snow",
+     "url": "https://www.noaa.gov/stories/how-do-snowflakes-form-get-science-behind-snow"
+    },
+    {
+     "name": "NSIDC: Science of snow",
+     "url": "https://nsidc.org/learn/parts-cryosphere/snow/science-snow"
+    },
+    {
+     "name": "Smithsonian Institution Archives: Wilson A. Bentley, pioneering photographer of snowflakes",
+     "url": "https://siarchives.si.edu/node/34179"
+    },
+    {
+     "name": "Guinness World Records: First photograph of a snowflake",
+     "url": "https://www.guinnessworldrecords.com/world-records/606626-first-photograph-of-a-snowflake"
+    }
+   ],
+   "paras": [
+    "It is a cold winter morning. You look out of the window, and everything is white. The roads, the trees and the cars are covered with snow. But what is snow? How is a snowflake made? Let's find out.",
+    "Snowflakes are made high up in the clouds. When it is very cold, a tiny drop of water freezes onto a very small piece of dust or pollen. This makes a tiny ice crystal. Then more water from the air freezes onto the crystal. Slowly, the crystal grows bigger and becomes a snowflake.",
+    "Look at a snowflake carefully, and you will see six sides or six arms. Why six? Water is made of very, very small parts. When water freezes, these parts join together in a special pattern. This pattern always has six sides. So every snowflake has six sides too.",
+    "The weather in the cloud changes the shape of a snowflake. The temperature is the most important thing. At some temperatures, long, thin crystals like needles are formed. At colder temperatures, flat crystals are formed. Every snowflake falls on a different path to the ground, so no two snowflakes are exactly the same.",
+    "The first photo of a single snowflake was taken in 1885. It was taken by Wilson Bentley, a young farmer in Vermont, in the USA. He used a camera with a microscope. It wasn't easy, because snowflakes melt very quickly. In his life, he took photos of more than 5,000 snowflakes.",
+    "Ice is clear, so why is snow white? A snowflake has lots of tiny sides, and they reflect the light. Clean snow reflects almost all the light, so it looks white. Fresh snow also takes in sound. That is why a snowy street often feels very quiet. Next time it snows, catch a snowflake on a dark glove and look at it!"
+   ],
+   "words": [
+    {
+     "w": "tiny",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈtaɪ.ni/",
+     "syl": [
+      "ti",
+      "ny"
+     ],
+     "def": "very, very small",
+     "ex": "The kitten has tiny feet."
+    },
+    {
+     "w": "dust",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/dʌst/",
+     "syl": [
+      "dust"
+     ],
+     "def": "very small dry bits of dirt",
+     "ex": "There is dust on my old books."
+    },
+    {
+     "w": "pollen",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpɒl.ən/",
+     "syl": [
+      "pol",
+      "len"
+     ],
+     "def": "yellow powder that flowers make",
+     "ex": "Bees carry pollen from flower to flower."
+    },
+    {
+     "w": "crystal",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkrɪs.təl/",
+     "syl": [
+      "crys",
+      "tal"
+     ],
+     "def": "a small hard piece with a regular shape, like ice",
+     "ex": "Look at this ice crystal under the light."
+    },
+    {
+     "w": "pattern",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈpæt.ən/",
+     "syl": [
+      "pat",
+      "tern"
+     ],
+     "def": "shapes or lines that repeat in the same way",
+     "ex": "My scarf has a pattern of stars."
+    },
+    {
+     "w": "temperature",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtem.pər.ə.tʃər/",
+     "syl": [
+      "tem",
+      "per",
+      "a",
+      "ture"
+     ],
+     "def": "how hot or cold something is",
+     "ex": "The temperature is minus five today."
+    },
+    {
+     "w": "needle",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈniː.dəl/",
+     "syl": [
+      "nee",
+      "dle"
+     ],
+     "def": "a thin sharp piece of metal for sewing",
+     "ex": "Grandma uses a needle to fix my coat."
+    },
+    {
+     "w": "microscope",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmaɪ.krə.skəʊp/",
+     "syl": [
+      "mi",
+      "cro",
+      "scope"
+     ],
+     "def": "a tool that makes very small things look big",
+     "ex": "We looked at a leaf under a microscope."
+    },
+    {
+     "w": "reflect",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/rɪˈflekt/",
+     "syl": [
+      "re",
+      "flect"
+     ],
+     "def": "to send light back, like a mirror",
+     "ex": "White clothes reflect the hot sun."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "Snowflakes are made high up in the clouds.",
+     "kind": "Main idea",
+     "note": "This tells us where snow begins."
+    },
+    {
+     "para": 2,
+     "text": "When it is very cold, a tiny drop of water freezes onto a very small piece of dust or pollen.",
+     "kind": "Time order",
+     "note": "This is the first step: water freezes onto dust."
+    },
+    {
+     "para": 3,
+     "text": "This pattern always has six sides.",
+     "kind": "Cause → effect",
+     "note": "Because of this pattern, snowflakes have six sides."
+    },
+    {
+     "para": 5,
+     "text": "The first photo of a single snowflake was taken in 1885.",
+     "kind": "Grammar to notice",
+     "note": "was + taken: the passive in the past."
+    },
+    {
+     "para": 6,
+     "text": "Clean snow reflects almost all the light, so it looks white.",
+     "kind": "Cause → effect",
+     "note": "The light comes back from the snow, so we see white."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how people clean snow from the roads",
+      "how snowflakes are made and what they are like",
+      "why winter mornings are cold"
+     ],
+     "a": 1,
+     "why": "第1段提出问题 How is a snowflake made?，后面各段讲雪花怎么形成、形状和颜色。",
+     "evidence": null,
+     "optWhy": [
+      "第1段只说路上 covered with snow，没讲怎么清理雪。",
+      "正确。原文 How is a snowflake made? Let's find out. = 选项 how snowflakes are made。",
+      "冬天冷只是开头的背景，不是全文主旨。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段最后的问题 How is a snowflake made? 就是全文要回答的。"
+      },
+      {
+       "h": "看各段",
+       "t": "第2段讲形成，第3–4段讲形状，第6段讲颜色。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does a snowflake start with?",
+     "opts": [
+      "a very small piece of dust or pollen",
+      "a big drop of rain",
+      "a small piece of glass"
+     ],
+     "a": 0,
+     "why": "第2段原文：a tiny drop of water freezes onto a very small piece of dust or pollen.",
+     "evidence": "When it is very cold, a tiny drop of water freezes onto a very small piece of dust or pollen.",
+     "optWhy": [
+      "正确。原文 freezes onto a very small piece of dust or pollen = 选项 a very small piece of dust or pollen。",
+      "原文是 a tiny drop of water，不是 a big drop of rain。",
+      "文中没有提到玻璃。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "start → 第2段讲雪花的第一步。"
+      },
+      {
+       "h": "找关键词",
+       "t": "freezes onto … dust or pollen：水滴冻在灰尘或花粉上。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, what does \"pattern\" mean?",
+     "opts": [
+      "a kind of cloud",
+      "a very cold drop of water",
+      "a shape that is always the same"
+     ],
+     "a": 2,
+     "why": "第3段说这个 pattern always has six sides，每次结冰都一样，所以是“固定的形状/图案”。",
+     "evidence": "This pattern always has six sides.",
+     "optWhy": [
+      "云在第2段出现，和 pattern 无关。",
+      "水滴是结冰的东西，不是 pattern 的意思。",
+      "正确。原文 This pattern always has six sides = 选项 a shape that is always the same。"
+     ],
+     "traps": [
+      "望文生义",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看前后句",
+       "t": "parts join together in a special pattern，后一句 always has six sides。"
+      },
+      {
+       "h": "代回验证",
+       "t": "a shape that is always the same always has six sides，通顺。"
+      }
+     ],
+     "marks": [
+      "these parts join together in a special pattern"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "All snowflakes have exactly the same shape.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：no two snowflakes are exactly the same. 和题干相反。",
+     "evidence": "Every snowflake falls on a different path to the ground, so no two snowflakes are exactly the same.",
+     "optWhy": [
+      "原文 no two snowflakes are exactly the same，没有两片一样。",
+      "正确。原文 no two … are exactly the same，题干 all … the same shape → Wrong。",
+      "原文明确说了，可以判断，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "same → 第4段最后一句 no two snowflakes are exactly the same。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文说了相反的意思 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Wilson Bentley sold his snowflake photos for a lot of money.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只说他拍了5,000多张照片，没说卖照片或赚钱。",
+     "evidence": "In his life, he took photos of more than 5,000 snowflakes.",
+     "optWhy": [
+      "原文只说 took photos，没说 sold。",
+      "原文也没说他没卖，不能判断 Wrong。",
+      "正确。原文只有 took photos of more than 5,000 snowflakes，钱的事没提 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Wilson Bentley → 第5段。"
+      },
+      {
+       "h": "找 sold / money",
+       "t": "整段没有 sold 或 money → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 6,
+     "q": "In paragraph 6, what does \"they\" mean in \"they reflect the light\"?",
+     "opts": [
+      "the tiny sides of a snowflake",
+      "the clouds",
+      "the snowy streets"
+     ],
+     "a": 0,
+     "why": "同一句前面是 A snowflake has lots of tiny sides，they 指这些 tiny sides。",
+     "evidence": "A snowflake has lots of tiny sides, and they reflect the light.",
+     "optWhy": [
+      "正确。原文 lots of tiny sides, and they reflect = 选项 the tiny sides of a snowflake。",
+      "第6段没有提到云。",
+      "street 在后面才出现，而且是单数 a snowy street。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "they 前面最近的复数名词：tiny sides。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The tiny sides reflect the light，通顺。"
+      }
+     ],
+     "marks": [
+      "Clean snow reflects almost all the light"
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Passive: is made / was built",
+    "rule": "Use the passive when the thing is more important than the person who does the action. Make it with is / are / was / were + past participle (made, taken, built). Use by to say who did it.",
+    "table": [
+     [
+      "present: is / are + past participle",
+      "Snowflakes are made in clouds."
+     ],
+     [
+      "past: was / were + past participle",
+      "The photo was taken in 1885."
+     ],
+     [
+      "with by",
+      "It was taken by Wilson Bentley."
+     ],
+     [
+      "question",
+      "How is a snowflake made?"
+     ],
+     [
+      "make → made",
+      "take → taken"
+     ],
+     [
+      "build → built",
+      "cover → covered"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Snowflakes are made high up in the clouds.",
+      "mark": "are made"
+     },
+     {
+      "para": 4,
+      "text": "At colder temperatures, flat crystals are formed.",
+      "mark": "are formed"
+     },
+     {
+      "para": 5,
+      "text": "The first photo of a single snowflake was taken in 1885.",
+      "mark": "was taken"
+     },
+     {
+      "para": 5,
+      "text": "It was taken by Wilson Bentley, a young farmer in Vermont, in the USA.",
+      "mark": "was taken by"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Snow ___ from tiny ice crystals.",
+      "opts": [
+       "makes",
+       "is made",
+       "is making"
+      ],
+      "a": 1,
+      "why": "Snow doesn't make something, so use the passive: is made."
+     },
+     {
+      "type": "mc",
+      "q": "Our school ___ in 1990.",
+      "opts": [
+       "is built",
+       "was built",
+       "built"
+      ],
+      "a": 1,
+      "why": "1990 is in the past, so use was + built."
+     },
+     {
+      "type": "fill",
+      "q": "Snowmen ___ by children every winter.",
+      "hint": "(make)",
+      "a": "are made",
+      "why": "Snowmen is plural and it happens every winter: are made."
+     },
+     {
+      "type": "fill",
+      "q": "These photos ___ by my grandfather last year.",
+      "hint": "(take)",
+      "a": "were taken",
+      "why": "Plural and last year: were + taken."
+     },
+     {
+      "type": "fill",
+      "q": "Look! The car ___ with snow this morning.",
+      "hint": "(cover)",
+      "a": "is covered",
+      "why": "It is true now, so use is + covered."
+     },
+     {
+      "type": "fill",
+      "q": "The classroom ___ every evening by Mr Lee.",
+      "hint": "(clean)",
+      "a": "is cleaned",
+      "why": "It happens every evening, so use the present passive: is cleaned."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261124-1-k1",
+     "tag": "Start",
+     "fact": "A snowflake starts when a tiny drop of water freezes onto dust or pollen.",
+     "q": "What does a snowflake start with?",
+     "opts": [
+      "a piece of dust or pollen",
+      "a piece of glass",
+      "a big raindrop"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261124-1-k2",
+     "tag": "Six sides",
+     "fact": "Frozen water makes a pattern with six sides, so snowflakes have six sides.",
+     "q": "How many sides has a snowflake got?",
+     "opts": [
+      "four",
+      "five",
+      "six"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261124-1-k3",
+     "tag": "Shape",
+     "fact": "The temperature in the cloud changes the shape of a snowflake.",
+     "q": "What is the most important thing for a snowflake's shape?",
+     "opts": [
+      "the wind",
+      "the temperature",
+      "the time of day"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261124-1-k4",
+     "tag": "First photo",
+     "fact": "Wilson Bentley took the first photo of a snowflake in 1885.",
+     "q": "When was the first photo of a snowflake taken?",
+     "opts": [
+      "in 1885",
+      "in 1985",
+      "in 1805"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261124-1-k5",
+     "tag": "White snow",
+     "fact": "Snow looks white because its tiny sides reflect the light.",
+     "q": "Why does snow look white?",
+     "opts": [
+      "It is full of milk.",
+      "It reflects the light.",
+      "It is made of white dust."
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Snowflakes",
+    "question": "How is a snowflake made, and what is it like?",
+    "branches": [
+     {
+      "title": "Start",
+      "paras": "2",
+      "blanks": [
+       "dust or pollen",
+       "tiny ice crystal"
+      ],
+      "kps": [
+       "k20261124-1-k1"
+      ]
+     },
+     {
+      "title": "Shape",
+      "paras": "3–4",
+      "blanks": [
+       "six sides",
+       "the temperature"
+      ],
+      "kps": [
+       "k20261124-1-k2",
+       "k20261124-1-k3"
+      ]
+     },
+     {
+      "title": "First photo",
+      "paras": "5",
+      "blanks": [
+       "in 1885",
+       "a microscope"
+      ],
+      "kps": [
+       "k20261124-1-k4"
+      ]
+     },
+     {
+      "title": "Colour",
+      "paras": "6",
+      "blanks": [
+       "reflect the light"
+      ],
+      "kps": [
+       "k20261124-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "made of salt",
+     "all the same shape"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Snowflakes are made in cold clouds, and they always have six sides. Snow looks white because its tiny sides reflect the light.",
+    "options": [
+     {
+      "t": "Snowflakes are made when water freezes onto dust in the clouds.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Snowflakes are made high up in the clouds."
+     },
+     {
+      "t": "Snowflakes have six sides, but their shapes are all different.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 3 and 4.",
+      "type": "main",
+      "para": 3,
+      "evidence": "So every snowflake has six sides too."
+     },
+     {
+      "t": "Snow looks white because the tiny sides reflect the light.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Clean snow reflects almost all the light, so it looks white."
+     },
+     {
+      "t": "Wilson Bentley lived in Vermont, in the USA.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "It was taken by Wilson Bentley, a young farmer in Vermont, in the USA."
+     },
+     {
+      "t": "Snowflakes are bigger in the mountains than in towns.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Every snowflake has exactly the same shape.",
+      "ok": false,
+      "why": "Wrong: no two snowflakes are exactly the same.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Every snowflake falls on a different path to the ground, so no two snowflakes are exactly the same."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Does it snow where you live? What do you like doing on a snowy day?",
+    "hint": "Where I live, it … / On a snowy day, I like … because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "It is snowing today! Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Tell your friend about the snow.",
+     "Say what you want to do in the snow.",
+     "Ask your friend to meet you and say when."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261124-2",
+   "topic": "Entertainment & media",
+   "genre": "Three people",
+   "title": "My Favourite Way to Watch Films",
+   "dek": "Big screen, small laptop or the family sofa? Three teenagers tell us how they like to watch films.",
+   "sources": [],
+   "paras": [
+    "Do you watch films at the cinema, on TV or on your phone? We asked three teenagers about their favourite way to watch films. Here are their answers.",
+    "Sofia, 14: I love going to the cinema because the screen is huge and the sound is amazing. I usually go with my cousin on Saturday afternoon. First we buy popcorn and two cold drinks. Then we find our seats near the middle. After that, we turn off our phones. Tickets are quite expensive, so I can only go once a month. But I always save my pocket money for it!",
+    "Omar, 15: I watch most films on my laptop in my bedroom. I like it because I can stop the film and watch the rest later. My favourite films are about space and robots. My little brother wants to watch with me, but he is only six. He gets scared, so I choose funny cartoons when he is there. After that, he goes to bed and I watch my space films!",
+    "Mei, 13: Friday is film night in my family. We all sit on the big sofa in the living room and watch a film on TV. My dad makes pizza, and my mum chooses the film. Last Friday it was a very old film in black and white. I didn't want to watch it at first, but it was really good! Then we talked about it for an hour.",
+    "So, which is the best way? Sofia loves the big screen, and Omar likes his laptop. Mei thinks films are better with her family. What about you? Where do you watch films, and who do you watch them with? Write and tell us!"
+   ],
+   "words": [
+    {
+     "w": "screen",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skriːn/",
+     "syl": [
+      "screen"
+     ],
+     "def": "the flat part of a TV, phone or cinema where you see pictures",
+     "ex": "My phone screen is broken."
+    },
+    {
+     "w": "amazing",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/əˈmeɪ.zɪŋ/",
+     "syl": [
+      "a",
+      "maz",
+      "ing"
+     ],
+     "def": "very, very good",
+     "ex": "The view from the hill was amazing."
+    },
+    {
+     "w": "popcorn",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpɒp.kɔːn/",
+     "syl": [
+      "pop",
+      "corn"
+     ],
+     "def": "a light snack made from hot corn",
+     "ex": "Let's share a big box of popcorn."
+    },
+    {
+     "w": "seat",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/siːt/",
+     "syl": [
+      "seat"
+     ],
+     "def": "a place where you can sit",
+     "ex": "Is this seat free?"
+    },
+    {
+     "w": "expensive",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪkˈspen.sɪv/",
+     "syl": [
+      "ex",
+      "pen",
+      "sive"
+     ],
+     "def": "costing a lot of money",
+     "ex": "These trainers are too expensive for me."
+    },
+    {
+     "w": "pocket money",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpɒk.ɪt ˈmʌn.i/",
+     "syl": [
+      "pock",
+      "et",
+      "mon",
+      "ey"
+     ],
+     "def": "money that parents give children every week",
+     "ex": "I get ten yuan of pocket money every week."
+    },
+    {
+     "w": "laptop",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈlæp.tɒp/",
+     "syl": [
+      "lap",
+      "top"
+     ],
+     "def": "a small computer that you can carry",
+     "ex": "I do my homework on a laptop."
+    },
+    {
+     "w": "cartoon",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kɑːˈtuːn/",
+     "syl": [
+      "car",
+      "toon"
+     ],
+     "def": "a funny film with drawings, not real people",
+     "ex": "My sister watches a cartoon every morning."
+    },
+    {
+     "w": "scared",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/skeəd/",
+     "syl": [
+      "scared"
+     ],
+     "def": "afraid",
+     "ex": "Are you scared of big dogs?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "We asked three teenagers about their favourite way to watch films.",
+     "kind": "Main idea",
+     "note": "The text is three answers to one question."
+    },
+    {
+     "para": 2,
+     "text": "Tickets are quite expensive, so I can only go once a month.",
+     "kind": "Cause → effect",
+     "note": "so shows the result: Sofia can't go often."
+    },
+    {
+     "para": 2,
+     "text": "Then we find our seats near the middle.",
+     "kind": "Time order",
+     "note": "First, then, after that: the order of Sofia's cinema trip."
+    },
+    {
+     "para": 3,
+     "text": "He gets scared, so I choose funny cartoons when he is there.",
+     "kind": "Grammar to notice",
+     "note": "so joins a reason and its result."
+    },
+    {
+     "para": 4,
+     "text": "I didn't want to watch it at first, but it was really good!",
+     "kind": "Opinion",
+     "note": "but shows that Mei changed her mind."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to make a film at home",
+      "the best new films of the year",
+      "three teenagers and how they like to watch films"
+     ],
+     "a": 2,
+     "why": "第1段原文：We asked three teenagers about their favourite way to watch films.",
+     "evidence": null,
+     "optWhy": [
+      "三个人都在“看”电影，没人“拍”电影。",
+      "文中没有给电影排名或介绍新片。",
+      "正确。原文 three teenagers about their favourite way to watch films = 选项 how they like to watch films。"
+     ],
+     "traps": [
+      "偷换概念",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段 We asked three teenagers … 说明全文是三个人的回答。"
+      },
+      {
+       "h": "看结尾",
+       "t": "最后一段 which is the best way? 再次总结“看电影的方式”。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why can Sofia only go to the cinema once a month?",
+     "opts": [
+      "Tickets cost a lot of money.",
+      "Her cousin is often busy.",
+      "The cinema is far from her home."
+     ],
+     "a": 0,
+     "why": "第2段原文：Tickets are quite expensive, so I can only go once a month.",
+     "evidence": "Tickets are quite expensive, so I can only go once a month.",
+     "optWhy": [
+      "正确。原文 Tickets are quite expensive = 选项 Tickets cost a lot of money。",
+      "表姐/表妹只是陪她去，文中没说她很忙。",
+      "文中没提电影院远不远。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "once a month → 第2段倒数第二句。"
+      },
+      {
+       "h": "看 so 前面",
+       "t": "so 前面是原因：Tickets are quite expensive。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "In paragraph 3, who does \"He\" mean in \"He gets scared\"?",
+     "opts": [
+      "Omar",
+      "Omar's little brother",
+      "a robot in a film"
+     ],
+     "a": 1,
+     "why": "前一句是 My little brother wants to watch with me, but he is only six.，He 指弟弟。",
+     "evidence": "He gets scared, so I choose funny cartoons when he is there.",
+     "optWhy": [
+      "Omar 自己是说话人，用 I，不用 He。",
+      "正确。原文 My little brother … he is only six. He gets scared = 选项 Omar's little brother。",
+      "robots 是电影内容，不会 gets scared。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句 My little brother … he is only six。"
+      },
+      {
+       "h": "代回验证",
+       "t": "His little brother gets scared, so Omar chooses cartoons，通顺。"
+      }
+     ],
+     "marks": [
+      "My little brother wants to watch with me"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Omar watches his space films with his little brother.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第3段原文：After that, he goes to bed and I watch my space films! 弟弟睡了 Omar 才看太空片。",
+     "evidence": "After that, he goes to bed and I watch my space films!",
+     "optWhy": [
+      "弟弟在的时候 Omar 选的是 funny cartoons，不是太空片。",
+      "正确。原文 he goes to bed and I watch my space films，题干 with his little brother → Wrong。",
+      "原文写清楚了弟弟先去睡觉，可以判断。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "space films → 第3段最后一句。"
+      },
+      {
+       "h": "看时间顺序",
+       "t": "After that, he goes to bed → 弟弟睡后才看 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How did Mei feel about the old film in the end?",
+     "opts": [
+      "bored",
+      "angry",
+      "happy that she watched it"
+     ],
+     "a": 2,
+     "why": "第4段原文：I didn't want to watch it at first, but it was really good!",
+     "evidence": "I didn't want to watch it at first, but it was really good!",
+     "optWhy": [
+      "at first 她不想看，但 but 后面说 really good，最后不无聊。",
+      "文中没有任何生气的意思。",
+      "正确。原文 but it was really good! = 选项 happy that she watched it。"
+     ],
+     "traps": [
+      "以偏概全",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看转折",
+       "t": "but 后面才是最后的感受：it was really good!"
+      },
+      {
+       "h": "再找证据",
+       "t": "Then we talked about it for an hour. 说明她很喜欢。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Mei's dad cooks food on film night.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第4段原文：My dad makes pizza, and my mum chooses the film.",
+     "evidence": "My dad makes pizza, and my mum chooses the film.",
+     "optWhy": [
+      "正确。原文 My dad makes pizza = 题干 cooks food → Right。",
+      "原文说爸爸做披萨，和题干一致，不是 Wrong。",
+      "原文清楚写了 makes pizza，不是没提到。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "dad → 第4段 My dad makes pizza。"
+      },
+      {
+       "h": "找同义",
+       "t": "makes pizza ≈ cooks food → Right。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Linking words: and, but, so, because",
+    "rule": "Linking words join ideas. and adds an idea, but shows a different idea, because gives a reason, and so gives a result. First, then and after that show the order of things.",
+    "table": [
+     [
+      "and: add",
+      "We buy popcorn and drinks."
+     ],
+     [
+      "but: different idea",
+      "He wants to watch, but he is six."
+     ],
+     [
+      "because: reason",
+      "I love it because the screen is huge."
+     ],
+     [
+      "so: result",
+      "It's expensive, so I go once a month."
+     ],
+     [
+      "then / after that: order",
+      "Then we find our seats."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I love going to the cinema because the screen is huge and the sound is amazing.",
+      "mark": "because"
+     },
+     {
+      "para": 2,
+      "text": "Tickets are quite expensive, so I can only go once a month.",
+      "mark": "so"
+     },
+     {
+      "para": 2,
+      "text": "After that, we turn off our phones.",
+      "mark": "After that"
+     },
+     {
+      "para": 4,
+      "text": "I didn't want to watch it at first, but it was really good!",
+      "mark": "but"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "I wanted to see the new film, ___ all the tickets were gone.",
+      "opts": [
+       "because",
+       "but",
+       "so"
+      ],
+      "a": 1,
+      "why": "The second idea is different from what I wanted: but."
+     },
+     {
+      "type": "mc",
+      "q": "We were hungry, ___ we bought some popcorn.",
+      "opts": [
+       "so",
+       "because",
+       "but"
+      ],
+      "a": 0,
+      "why": "Buying popcorn is the result of being hungry: so."
+     },
+     {
+      "type": "fill",
+      "q": "I stayed at home ___ I had a bad cold.",
+      "hint": "(reason)",
+      "a": "because",
+      "why": "A bad cold is the reason: because."
+     },
+     {
+      "type": "fill",
+      "q": "First we watched a cartoon. ___, we played a video game.",
+      "hint": "(what happened next)",
+      "a": "Then / After that",
+      "why": "Then or After that shows the next thing in time."
+     },
+     {
+      "type": "fill",
+      "q": "The film was very long, ___ it was never boring.",
+      "hint": "(different idea)",
+      "a": "but",
+      "why": "Long but not boring: two different ideas, so use but."
+     },
+     {
+      "type": "fill",
+      "q": "It was raining, ___ we watched a film at home.",
+      "hint": "(result)",
+      "a": "so",
+      "why": "Watching at home is the result of the rain: so."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261124-2-k1",
+     "tag": "Sofia",
+     "fact": "Sofia loves the cinema because the screen is huge.",
+     "q": "Where does Sofia like to watch films?",
+     "opts": [
+      "at the cinema",
+      "on her phone",
+      "at school"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261124-2-k2",
+     "tag": "Tickets",
+     "fact": "Cinema tickets are expensive, so Sofia goes once a month.",
+     "q": "How often does Sofia go to the cinema?",
+     "opts": [
+      "every Saturday",
+      "once a month",
+      "once a year"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261124-2-k3",
+     "tag": "Omar",
+     "fact": "Omar watches films on his laptop and likes space films.",
+     "q": "What does Omar watch films on?",
+     "opts": [
+      "a big TV",
+      "his phone",
+      "his laptop"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261124-2-k4",
+     "tag": "Little brother",
+     "fact": "Omar's brother gets scared, so Omar chooses cartoons for him.",
+     "q": "What does Omar choose when his brother is there?",
+     "opts": [
+      "funny cartoons",
+      "space films",
+      "old films"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261124-2-k5",
+     "tag": "Mei",
+     "fact": "Mei watches films with her family on Friday night.",
+     "q": "Who does Mei watch films with?",
+     "opts": [
+      "her cousin",
+      "her family",
+      "her friends"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Watching films",
+    "question": "Where and how do the three teenagers watch films?",
+    "branches": [
+     {
+      "title": "Sofia",
+      "paras": "2",
+      "blanks": [
+       "at the cinema",
+       "once a month"
+      ],
+      "kps": [
+       "k20261124-2-k1",
+       "k20261124-2-k2"
+      ]
+     },
+     {
+      "title": "Omar",
+      "paras": "3",
+      "blanks": [
+       "on his laptop",
+       "space and robots"
+      ],
+      "kps": [
+       "k20261124-2-k3"
+      ]
+     },
+     {
+      "title": "Brother",
+      "paras": "3",
+      "blanks": [
+       "funny cartoons"
+      ],
+      "kps": [
+       "k20261124-2-k4"
+      ]
+     },
+     {
+      "title": "Mei",
+      "paras": "4",
+      "blanks": [
+       "Friday film night",
+       "with her family"
+      ],
+      "kps": [
+       "k20261124-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "on the school bus",
+     "every day at the cinema"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Sofia loves the cinema, but the tickets are expensive. Omar watches films on his laptop, and Mei enjoys film night because she watches with her family.",
+    "options": [
+     {
+      "t": "Sofia loves the big cinema screen, but tickets are expensive.",
+      "ok": true,
+      "why": "This is the main idea of Sofia's text.",
+      "type": "main",
+      "para": 2,
+      "evidence": "I love going to the cinema because the screen is huge and the sound is amazing."
+     },
+     {
+      "t": "Omar likes watching films on his laptop in his bedroom.",
+      "ok": true,
+      "why": "This is the main idea of Omar's text.",
+      "type": "main",
+      "para": 3,
+      "evidence": "I watch most films on my laptop in my bedroom."
+     },
+     {
+      "t": "Mei enjoys Friday film night with her family.",
+      "ok": true,
+      "why": "This is the main idea of Mei's text.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Friday is film night in my family."
+     },
+     {
+      "t": "Mei's mum chooses the film.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "My dad makes pizza, and my mum chooses the film."
+     },
+     {
+      "t": "All three teenagers want to make their own films.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Omar always watches space films with his little brother.",
+      "ok": false,
+      "why": "Wrong: he chooses cartoons when his brother is there.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "He gets scared, so I choose funny cartoons when he is there."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Where do you like to watch films? Who do you watch them with? Why?",
+    "hint": "I usually watch films … / I like it because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You want to watch a film with your friend this weekend. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Say which film you want to watch.",
+     "Say where and when you can watch it.",
+     "Say why you think your friend will like it."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261124-3",
+   "topic": "Shopping",
+   "genre": "Notices & messages",
+   "title": "A Present for Mum",
+   "dek": "Ana has found the perfect scarf for her mum. There is only one problem: the price!",
+   "sources": [],
+   "paras": [
+    "On Saturday, Ana went to Greenhill Shopping Centre with her best friend Ruby. It was her mum's birthday on Sunday, and Ana wanted to buy her a present. She only had twenty pounds. Here are some of the notices and messages from that day.",
+    "SIGN in the window of a shoe shop: Are your old boots too small? Come in and try our new winter boots. They are warm and very light. Half price today only! Can't find your size on the shelf? Ask a shop assistant.",
+    "Text message from Ana to her dad: Hi Dad, I've found a lovely scarf for Mum. It's very soft and it's her favourite colour, blue. But it costs £25, and I haven't got enough money! Can you help me? Ana",
+    "NOTICE at the café: Our café is very busy at lunchtime. If there aren't enough seats, please take your food to the tables near the fountain. Please put your rubbish in the bins. Children under 10 must be with an adult.",
+    "Message from Dad to Ana: Sorry, I'm too busy at work to come. But I can send you five pounds on your phone. Buy the scarf, and don't forget to get a card too! Love, Dad",
+    "NOTE on the door of the small lift: This lift is too small for prams and big trolleys. Please use the big lift next to the toy shop. It goes to all floors. Thank you!",
+    "SIGN in the gift shop: Free gift wrapping on Saturdays! Is your present too big to wrap? No problem. We can put it in a nice bag with a ribbon. Please wait at the desk on the left."
+   ],
+   "words": [
+    {
+     "w": "boot",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/buːt/",
+     "syl": [
+      "boot"
+     ],
+     "def": "a strong shoe that covers your foot and leg",
+     "ex": "My left boot has a hole in it."
+    },
+    {
+     "w": "shop assistant",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈʃɒp ə.ˈsɪs.tənt/",
+     "syl": [
+      "shop",
+      "as",
+      "sis",
+      "tant"
+     ],
+     "def": "a person who helps people in a shop",
+     "ex": "The shop assistant found a bigger size for me."
+    },
+    {
+     "w": "scarf",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɑːf/",
+     "syl": [
+      "scarf"
+     ],
+     "def": "a long piece of cloth you wear around your neck",
+     "ex": "Wear a scarf – it's cold outside!"
+    },
+    {
+     "w": "soft",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/sɒft/",
+     "syl": [
+      "soft"
+     ],
+     "def": "nice to touch, not hard",
+     "ex": "My new pillow is very soft."
+    },
+    {
+     "w": "cost",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/kɒst/",
+     "syl": [
+      "cost"
+     ],
+     "def": "to have a price",
+     "ex": "How much does this T-shirt cost?"
+    },
+    {
+     "w": "fountain",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfaʊn.tɪn/",
+     "syl": [
+      "foun",
+      "tain"
+     ],
+     "def": "a thing that pushes water up into the air",
+     "ex": "We met next to the fountain in the park."
+    },
+    {
+     "w": "lift",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/lɪft/",
+     "syl": [
+      "lift"
+     ],
+     "def": "a small room that takes people up and down",
+     "ex": "Let's take the lift to the fifth floor."
+    },
+    {
+     "w": "trolley",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtrɒl.i/",
+     "syl": [
+      "trol",
+      "ley"
+     ],
+     "def": "a thing with wheels for carrying your shopping",
+     "ex": "Mum put the milk in the trolley."
+    },
+    {
+     "w": "wrap",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ræp/",
+     "syl": [
+      "wrap"
+     ],
+     "def": "to put paper around a present",
+     "ex": "Can you help me wrap this present?"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "It was her mum's birthday on Sunday, and Ana wanted to buy her a present.",
+     "kind": "Main idea",
+     "note": "This is why Ana went shopping."
+    },
+    {
+     "para": 3,
+     "text": "But it costs £25, and I haven't got enough money!",
+     "kind": "Key details",
+     "note": "This is Ana's problem: she has only £20."
+    },
+    {
+     "para": 5,
+     "text": "Sorry, I'm too busy at work to come.",
+     "kind": "Grammar to notice",
+     "note": "too + adjective + to: Dad can't come."
+    },
+    {
+     "para": 5,
+     "text": "But I can send you five pounds on your phone.",
+     "kind": "Cause → effect",
+     "note": "Now Ana has £25, so she can buy the scarf."
+    }
+   ],
+   "questions": [
+    {
+     "type": "What does the message say?",
+     "para": 2,
+     "q": "What does the sign in the shoe shop say?",
+     "opts": [
+      "The boots are free today.",
+      "The boots cost less today.",
+      "The shop hasn't got any small boots."
+     ],
+     "a": 1,
+     "why": "第2段原文：Half price today only! 今天半价 = 今天更便宜。",
+     "evidence": "Half price today only!",
+     "optWhy": [
+      "Half price 是半价，不是免费。",
+      "正确。原文 Half price today only! = 选项 The boots cost less today。",
+      "原文 Are your old boots too small? 说的是顾客的旧靴子小，不是店里没有小号。"
+     ],
+     "traps": [
+      "数字偷换",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "价格信息：Half price today only!"
+      },
+      {
+       "h": "小心干扰",
+       "t": "half price ≠ free；too small 说的是 your old boots。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why does Ana send a message to her dad?",
+     "opts": [
+      "She can't find a scarf.",
+      "She is lost in the shopping centre.",
+      "She needs more money for the scarf."
+     ],
+     "a": 2,
+     "why": "第3段原文：But it costs £25, and I haven't got enough money! Can you help me?",
+     "evidence": "But it costs £25, and I haven't got enough money!",
+     "optWhy": [
+      "原文 I've found a lovely scarf，她已经找到了围巾。",
+      "文中没说 Ana 迷路。",
+      "正确。原文 I haven't got enough money = 选项 She needs more money。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Ana 给爸爸的短信 → 第3段。"
+      },
+      {
+       "h": "看 But 后面",
+       "t": "But it costs £25 … not enough money，这才是求助原因。"
+      }
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 4,
+     "q": "What does the notice at the café say?",
+     "opts": [
+      "You can eat near the fountain when the café is full.",
+      "The café is closed at lunchtime.",
+      "Children can't come into the café."
+     ],
+     "a": 0,
+     "why": "第4段原文：If there aren't enough seats, please take your food to the tables near the fountain.",
+     "evidence": "If there aren't enough seats, please take your food to the tables near the fountain.",
+     "optWhy": [
+      "正确。原文 aren't enough seats … tables near the fountain = 选项 eat near the fountain when the café is full。",
+      "原文 very busy at lunchtime，是很忙，不是关门。",
+      "原文是 under 10 must be with an adult，有大人陪就能进。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "If there aren't enough seats → 去 fountain 旁边的桌子。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "busy ≠ closed；under 10 要大人陪，不是不让进。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Dad is going to come to the shopping centre.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第5段原文：Sorry, I'm too busy at work to come. 爸爸来不了。",
+     "evidence": "Sorry, I'm too busy at work to come.",
+     "optWhy": [
+      "原文 too busy … to come，意思是不能来。",
+      "正确。原文 I'm too busy at work to come，题干 going to come → Wrong。",
+      "原文明确说了来不了，可以判断。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Dad 的回信 → 第5段第一句。"
+      },
+      {
+       "h": "看懂 too … to",
+       "t": "too busy to come = 太忙，不能来 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 6,
+     "q": "In paragraph 6, what is a \"trolley\"?",
+     "opts": [
+      "something with wheels for carrying things",
+      "a kind of small lift",
+      "a person who works in a shop"
+     ],
+     "a": 0,
+     "why": "第6段把 trolleys 和 prams（婴儿车）放在一起，说它们太大进不了小电梯，所以是带轮子装东西的车。",
+     "evidence": "This lift is too small for prams and big trolleys.",
+     "optWhy": [
+      "正确。原文 too small for prams and big trolleys = 选项 something with wheels for carrying things。",
+      "lift 是电梯本身，trolley 是要进电梯的东西。",
+      "shop assistant 才是店员，trolley 不是人。"
+     ],
+     "traps": [
+      null,
+      "偷换概念",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看搭配",
+       "t": "prams and big trolleys 并列，都是会被推进电梯的东西。"
+      },
+      {
+       "h": "代回验证",
+       "t": "This lift is too small for big carts with wheels，通顺。"
+      }
+     ],
+     "marks": [
+      "Please use the big lift next to the toy shop."
+     ]
+    },
+    {
+     "type": "What does the message say?",
+     "para": 7,
+     "q": "What does the sign in the gift shop say?",
+     "opts": [
+      "You must pay for gift wrapping.",
+      "Big presents can't go in the gift shop.",
+      "They can put a big present in a bag."
+     ],
+     "a": 2,
+     "why": "第7段原文：Is your present too big to wrap? No problem. We can put it in a nice bag with a ribbon.",
+     "evidence": "We can put it in a nice bag with a ribbon.",
+     "optWhy": [
+      "原文 Free gift wrapping on Saturdays! 是免费的。",
+      "原文说大礼物 No problem，没说不能进店。",
+      "正确。原文 too big to wrap? … We can put it in a nice bag = 选项 put a big present in a bag。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "too big to wrap? No problem → 有办法。"
+      },
+      {
+       "h": "找同义",
+       "t": "put it in a nice bag = put a big present in a bag。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Too / enough · very",
+    "rule": "Use very + adjective to make it stronger: very soft. Use too + adjective when it is more than you want, so there is a problem: too small. Use enough before a noun (enough money) and after an adjective (big enough).",
+    "table": [
+     [
+      "very + adjective",
+      "It's very soft."
+     ],
+     [
+      "too + adjective",
+      "The lift is too small."
+     ],
+     [
+      "too + adjective + to",
+      "I'm too busy to come."
+     ],
+     [
+      "enough + noun",
+      "I haven't got enough money."
+     ],
+     [
+      "adjective + enough",
+      "Is it big enough?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 3,
+      "text": "It's very soft and it's her favourite colour, blue.",
+      "mark": "very soft"
+     },
+     {
+      "para": 3,
+      "text": "But it costs £25, and I haven't got enough money!",
+      "mark": "enough money"
+     },
+     {
+      "para": 5,
+      "text": "Sorry, I'm too busy at work to come.",
+      "mark": "too busy"
+     },
+     {
+      "para": 6,
+      "text": "This lift is too small for prams and big trolleys.",
+      "mark": "too small"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "These jeans are ___ long. I can't wear them.",
+      "opts": [
+       "too",
+       "enough",
+       "very much"
+      ],
+      "a": 0,
+      "why": "Long is a problem here, so use too."
+     },
+     {
+      "type": "mc",
+      "q": "Is this jacket big ___ for you?",
+      "opts": [
+       "too",
+       "enough",
+       "very"
+      ],
+      "a": 1,
+      "why": "enough comes after the adjective: big enough."
+     },
+     {
+      "type": "fill",
+      "q": "I can't buy the bag. I haven't got ___ money.",
+      "hint": "(enough / too)",
+      "a": "enough",
+      "why": "enough comes before a noun: enough money."
+     },
+     {
+      "type": "fill",
+      "q": "This T-shirt is ___ cheap – only £3! I'll buy two.",
+      "hint": "(very / too)",
+      "a": "very",
+      "why": "Cheap is good here, not a problem, so use very."
+     },
+     {
+      "type": "fill",
+      "q": "Tom can't go to the shops alone. He isn't ___ . He's only seven.",
+      "hint": "(old + enough)",
+      "a": "old enough",
+      "why": "Put enough after the adjective: old enough."
+     },
+     {
+      "type": "fill",
+      "q": "The box is ___ to carry. Can you help me?",
+      "hint": "(heavy + too)",
+      "a": "too heavy",
+      "why": "Put too before the adjective: too heavy to carry."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261124-3-k1",
+     "tag": "Why shop",
+     "fact": "Ana went shopping because it was her mum's birthday on Sunday.",
+     "q": "Why did Ana go to the shopping centre?",
+     "opts": [
+      "to buy new boots",
+      "to buy a present for her mum",
+      "to eat at the café"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261124-3-k2",
+     "tag": "Problem",
+     "fact": "The scarf cost £25, but Ana only had £20.",
+     "q": "How much did the scarf cost?",
+     "opts": [
+      "£20",
+      "£5",
+      "£25"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261124-3-k3",
+     "tag": "Dad",
+     "fact": "Dad was too busy to come, but he sent Ana five pounds.",
+     "q": "How did Dad help Ana?",
+     "opts": [
+      "He sent her five pounds.",
+      "He came to the shop.",
+      "He bought the scarf."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261124-3-k4",
+     "tag": "Café",
+     "fact": "When the café is full, people can eat near the fountain.",
+     "q": "Where can you eat if the café is full?",
+     "opts": [
+      "in the lift",
+      "near the fountain",
+      "in the toy shop"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261124-3-k5",
+     "tag": "Gift shop",
+     "fact": "The gift shop wraps presents for free on Saturdays.",
+     "q": "How much is gift wrapping on Saturdays?",
+     "opts": [
+      "It's free.",
+      "£5",
+      "£2"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Ana's shopping day",
+    "question": "How did Ana get a present for her mum?",
+    "branches": [
+     {
+      "title": "Why",
+      "paras": "1",
+      "blanks": [
+       "Mum's birthday",
+       "only twenty pounds"
+      ],
+      "kps": [
+       "k20261124-3-k1"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "3",
+      "blanks": [
+       "a blue scarf",
+       "not enough money"
+      ],
+      "kps": [
+       "k20261124-3-k2"
+      ]
+     },
+     {
+      "title": "Help",
+      "paras": "5",
+      "blanks": [
+       "too busy to come",
+       "five pounds"
+      ],
+      "kps": [
+       "k20261124-3-k3"
+      ]
+     },
+     {
+      "title": "Signs",
+      "paras": "4–7",
+      "blanks": [
+       "tables near the fountain",
+       "free gift wrapping"
+      ],
+      "kps": [
+       "k20261124-3-k4",
+       "k20261124-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a red jumper",
+     "Dad came to help"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Ana wanted to buy a scarf for her mum, but she didn't have enough money. Her dad was too busy to come, so he sent her five pounds.",
+    "options": [
+     {
+      "t": "Ana went shopping for her mum's birthday present.",
+      "ok": true,
+      "why": "This is why Ana went to the shopping centre.",
+      "type": "main",
+      "para": 1,
+      "evidence": "It was her mum's birthday on Sunday, and Ana wanted to buy her a present."
+     },
+     {
+      "t": "Ana found a scarf, but she didn't have enough money.",
+      "ok": true,
+      "why": "This is Ana's problem in her message.",
+      "type": "main",
+      "para": 3,
+      "evidence": "But it costs £25, and I haven't got enough money!"
+     },
+     {
+      "t": "Dad couldn't come, but he sent Ana five pounds.",
+      "ok": true,
+      "why": "This is how the problem ends.",
+      "type": "main",
+      "para": 5,
+      "evidence": "But I can send you five pounds on your phone."
+     },
+     {
+      "t": "The big lift is next to the toy shop.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 6,
+      "evidence": "Please use the big lift next to the toy shop."
+     },
+     {
+      "t": "Ruby bought a present for her own mum too.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Dad drove to the shopping centre to help Ana.",
+      "ok": false,
+      "why": "Wrong: Dad was too busy at work to come.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Sorry, I'm too busy at work to come."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Do you like shopping? What do you usually buy for your family's birthdays?",
+    "hint": "I like / don't like shopping because … / For my mum's birthday, I usually …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You are at the shopping centre and you need help from your friend. Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Say where you are and what you want to buy.",
+     "Say what the problem is.",
+     "Ask your friend to help you."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  }
+ ],
+ "audio": {
+  "It is a cold winter morning. You look out of the window, and everything is white. The roads, the trees and the cars are covered with snow. But what is snow? How is a snowflake made? Let's find out.": "audio/2026-11-24/a1-p1.mp3",
+  "Snowflakes are made high up in the clouds. When it is very cold, a tiny drop of water freezes onto a very small piece of dust or pollen. This makes a tiny ice crystal. Then more water from the air freezes onto the crystal. Slowly, the crystal grows bigger and becomes a snowflake.": "audio/2026-11-24/a1-p2.mp3",
+  "Look at a snowflake carefully, and you will see six sides or six arms. Why six? Water is made of very, very small parts. When water freezes, these parts join together in a special pattern. This pattern always has six sides. So every snowflake has six sides too.": "audio/2026-11-24/a1-p3.mp3",
+  "The weather in the cloud changes the shape of a snowflake. The temperature is the most important thing. At some temperatures, long, thin crystals like needles are formed. At colder temperatures, flat crystals are formed. Every snowflake falls on a different path to the ground, so no two snowflakes are exactly the same.": "audio/2026-11-24/a1-p4.mp3",
+  "The first photo of a single snowflake was taken in 1885. It was taken by Wilson Bentley, a young farmer in Vermont, in the USA. He used a camera with a microscope. It wasn't easy, because snowflakes melt very quickly. In his life, he took photos of more than 5,000 snowflakes.": "audio/2026-11-24/a1-p5.mp3",
+  "Ice is clear, so why is snow white? A snowflake has lots of tiny sides, and they reflect the light. Clean snow reflects almost all the light, so it looks white. Fresh snow also takes in sound. That is why a snowy street often feels very quiet. Next time it snows, catch a snowflake on a dark glove and look at it!": "audio/2026-11-24/a1-p6.mp3",
+  "tiny": "audio/2026-11-24/a1-w-tiny.mp3",
+  "The kitten has tiny feet.": "audio/2026-11-24/a1-ex-tiny.mp3",
+  "dust": "audio/2026-11-24/a1-w-dust.mp3",
+  "There is dust on my old books.": "audio/2026-11-24/a1-ex-dust.mp3",
+  "pollen": "audio/2026-11-24/a1-w-pollen.mp3",
+  "Bees carry pollen from flower to flower.": "audio/2026-11-24/a1-ex-pollen.mp3",
+  "crystal": "audio/2026-11-24/a1-w-crystal.mp3",
+  "Look at this ice crystal under the light.": "audio/2026-11-24/a1-ex-crystal.mp3",
+  "pattern": "audio/2026-11-24/a1-w-pattern.mp3",
+  "My scarf has a pattern of stars.": "audio/2026-11-24/a1-ex-pattern.mp3",
+  "temperature": "audio/2026-11-24/a1-w-temperature.mp3",
+  "The temperature is minus five today.": "audio/2026-11-24/a1-ex-temperature.mp3",
+  "needle": "audio/2026-11-24/a1-w-needle.mp3",
+  "Grandma uses a needle to fix my coat.": "audio/2026-11-24/a1-ex-needle.mp3",
+  "microscope": "audio/2026-11-24/a1-w-microscope.mp3",
+  "We looked at a leaf under a microscope.": "audio/2026-11-24/a1-ex-microscope.mp3",
+  "reflect": "audio/2026-11-24/a1-w-reflect.mp3",
+  "White clothes reflect the hot sun.": "audio/2026-11-24/a1-ex-reflect.mp3",
+  "Snowflakes are made high up in the clouds.": "audio/2026-11-24/a1-ks1.mp3",
+  "When it is very cold, a tiny drop of water freezes onto a very small piece of dust or pollen.": "audio/2026-11-24/a1-ks2.mp3",
+  "This pattern always has six sides.": "audio/2026-11-24/a1-ks3.mp3",
+  "The first photo of a single snowflake was taken in 1885.": "audio/2026-11-24/a1-ks4.mp3",
+  "Clean snow reflects almost all the light, so it looks white.": "audio/2026-11-24/a1-ks5.mp3",
+  "At colder temperatures, flat crystals are formed.": "audio/2026-11-24/a1-g2.mp3",
+  "It was taken by Wilson Bentley, a young farmer in Vermont, in the USA.": "audio/2026-11-24/a1-g4.mp3",
+  "Do you watch films at the cinema, on TV or on your phone? We asked three teenagers about their favourite way to watch films. Here are their answers.": "audio/2026-11-24/a2-p1.mp3",
+  "Sofia, 14: I love going to the cinema because the screen is huge and the sound is amazing. I usually go with my cousin on Saturday afternoon. First we buy popcorn and two cold drinks. Then we find our seats near the middle. After that, we turn off our phones. Tickets are quite expensive, so I can only go once a month. But I always save my pocket money for it!": "audio/2026-11-24/a2-p2.mp3",
+  "Omar, 15: I watch most films on my laptop in my bedroom. I like it because I can stop the film and watch the rest later. My favourite films are about space and robots. My little brother wants to watch with me, but he is only six. He gets scared, so I choose funny cartoons when he is there. After that, he goes to bed and I watch my space films!": "audio/2026-11-24/a2-p3.mp3",
+  "Mei, 13: Friday is film night in my family. We all sit on the big sofa in the living room and watch a film on TV. My dad makes pizza, and my mum chooses the film. Last Friday it was a very old film in black and white. I didn't want to watch it at first, but it was really good! Then we talked about it for an hour.": "audio/2026-11-24/a2-p4.mp3",
+  "So, which is the best way? Sofia loves the big screen, and Omar likes his laptop. Mei thinks films are better with her family. What about you? Where do you watch films, and who do you watch them with? Write and tell us!": "audio/2026-11-24/a2-p5.mp3",
+  "screen": "audio/2026-11-24/a2-w-screen.mp3",
+  "My phone screen is broken.": "audio/2026-11-24/a2-ex-screen.mp3",
+  "amazing": "audio/2026-11-24/a2-w-amazing.mp3",
+  "The view from the hill was amazing.": "audio/2026-11-24/a2-ex-amazing.mp3",
+  "popcorn": "audio/2026-11-24/a2-w-popcorn.mp3",
+  "Let's share a big box of popcorn.": "audio/2026-11-24/a2-ex-popcorn.mp3",
+  "seat": "audio/2026-11-24/a2-w-seat.mp3",
+  "Is this seat free?": "audio/2026-11-24/a2-ex-seat.mp3",
+  "expensive": "audio/2026-11-24/a2-w-expensive.mp3",
+  "These trainers are too expensive for me.": "audio/2026-11-24/a2-ex-expensive.mp3",
+  "pocket money": "audio/2026-11-24/a2-w-pocket-money.mp3",
+  "I get ten yuan of pocket money every week.": "audio/2026-11-24/a2-ex-pocket-money.mp3",
+  "laptop": "audio/2026-11-24/a2-w-laptop.mp3",
+  "I do my homework on a laptop.": "audio/2026-11-24/a2-ex-laptop.mp3",
+  "cartoon": "audio/2026-11-24/a2-w-cartoon.mp3",
+  "My sister watches a cartoon every morning.": "audio/2026-11-24/a2-ex-cartoon.mp3",
+  "scared": "audio/2026-11-24/a2-w-scared.mp3",
+  "Are you scared of big dogs?": "audio/2026-11-24/a2-ex-scared.mp3",
+  "We asked three teenagers about their favourite way to watch films.": "audio/2026-11-24/a2-ks1.mp3",
+  "Tickets are quite expensive, so I can only go once a month.": "audio/2026-11-24/a2-ks2.mp3",
+  "Then we find our seats near the middle.": "audio/2026-11-24/a2-ks3.mp3",
+  "He gets scared, so I choose funny cartoons when he is there.": "audio/2026-11-24/a2-ks4.mp3",
+  "I didn't want to watch it at first, but it was really good!": "audio/2026-11-24/a2-ks5.mp3",
+  "I love going to the cinema because the screen is huge and the sound is amazing.": "audio/2026-11-24/a2-g1.mp3",
+  "After that, we turn off our phones.": "audio/2026-11-24/a2-g3.mp3",
+  "On Saturday, Ana went to Greenhill Shopping Centre with her best friend Ruby. It was her mum's birthday on Sunday, and Ana wanted to buy her a present. She only had twenty pounds. Here are some of the notices and messages from that day.": "audio/2026-11-24/a3-p1.mp3",
+  "SIGN in the window of a shoe shop: Are your old boots too small? Come in and try our new winter boots. They are warm and very light. Half price today only! Can't find your size on the shelf? Ask a shop assistant.": "audio/2026-11-24/a3-p2.mp3",
+  "Text message from Ana to her dad: Hi Dad, I've found a lovely scarf for Mum. It's very soft and it's her favourite colour, blue. But it costs £25, and I haven't got enough money! Can you help me? Ana": "audio/2026-11-24/a3-p3.mp3",
+  "NOTICE at the café: Our café is very busy at lunchtime. If there aren't enough seats, please take your food to the tables near the fountain. Please put your rubbish in the bins. Children under 10 must be with an adult.": "audio/2026-11-24/a3-p4.mp3",
+  "Message from Dad to Ana: Sorry, I'm too busy at work to come. But I can send you five pounds on your phone. Buy the scarf, and don't forget to get a card too! Love, Dad": "audio/2026-11-24/a3-p5.mp3",
+  "NOTE on the door of the small lift: This lift is too small for prams and big trolleys. Please use the big lift next to the toy shop. It goes to all floors. Thank you!": "audio/2026-11-24/a3-p6.mp3",
+  "SIGN in the gift shop: Free gift wrapping on Saturdays! Is your present too big to wrap? No problem. We can put it in a nice bag with a ribbon. Please wait at the desk on the left.": "audio/2026-11-24/a3-p7.mp3",
+  "boot": "audio/2026-11-24/a3-w-boot.mp3",
+  "My left boot has a hole in it.": "audio/2026-11-24/a3-ex-boot.mp3",
+  "shop assistant": "audio/2026-11-24/a3-w-shop-assistant.mp3",
+  "The shop assistant found a bigger size for me.": "audio/2026-11-24/a3-ex-shop-assistant.mp3",
+  "scarf": "audio/2026-11-24/a3-w-scarf.mp3",
+  "Wear a scarf – it's cold outside!": "audio/2026-11-24/a3-ex-scarf.mp3",
+  "soft": "audio/2026-11-24/a3-w-soft.mp3",
+  "My new pillow is very soft.": "audio/2026-11-24/a3-ex-soft.mp3",
+  "cost": "audio/2026-11-24/a3-w-cost.mp3",
+  "How much does this T-shirt cost?": "audio/2026-11-24/a3-ex-cost.mp3",
+  "fountain": "audio/2026-11-24/a3-w-fountain.mp3",
+  "We met next to the fountain in the park.": "audio/2026-11-24/a3-ex-fountain.mp3",
+  "lift": "audio/2026-11-24/a3-w-lift.mp3",
+  "Let's take the lift to the fifth floor.": "audio/2026-11-24/a3-ex-lift.mp3",
+  "trolley": "audio/2026-11-24/a3-w-trolley.mp3",
+  "Mum put the milk in the trolley.": "audio/2026-11-24/a3-ex-trolley.mp3",
+  "wrap": "audio/2026-11-24/a3-w-wrap.mp3",
+  "Can you help me wrap this present?": "audio/2026-11-24/a3-ex-wrap.mp3",
+  "It was her mum's birthday on Sunday, and Ana wanted to buy her a present.": "audio/2026-11-24/a3-ks1.mp3",
+  "But it costs £25, and I haven't got enough money!": "audio/2026-11-24/a3-ks2.mp3",
+  "Sorry, I'm too busy at work to come.": "audio/2026-11-24/a3-ks3.mp3",
+  "But I can send you five pounds on your phone.": "audio/2026-11-24/a3-ks4.mp3",
+  "It's very soft and it's her favourite colour, blue.": "audio/2026-11-24/a3-g1.mp3",
+  "This lift is too small for prams and big trolleys.": "audio/2026-11-24/a3-g4.mp3"
+ }
+}
