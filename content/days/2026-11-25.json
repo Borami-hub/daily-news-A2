@@ -1,0 +1,2092 @@
+{
+ "date": "2026-11-25",
+ "headline": "Inside an egg, a table tennis week and a noisy kitchen",
+ "teaser": "How many tiny holes has an eggshell got? How often does Aiko practise table tennis? And why is Marco washing plates in the bathroom?",
+ "articles": [
+  {
+   "id": "k20261125-1",
+   "topic": "Food & drink",
+   "genre": "Article",
+   "title": "What Is Inside an Egg?",
+   "dek": "You eat eggs all the time. But do you know all the parts inside one?",
+   "sources": [
+    {
+     "name": "Virginia Cooperative Extension: Parts of an egg",
+     "url": "https://sites.ext.vt.edu/virtualfarm/poultry/poultry_eggparts.html"
+    },
+    {
+     "name": "British Egg Information Service: Brown vs white eggs",
+     "url": "https://www.egginfo.co.uk/egg-facts-and-figures/brown-vs-white-eggs"
+    }
+   ],
+   "paras": [
+    "You eat eggs for breakfast, in cakes and in noodles. But have you ever looked carefully inside one? An egg is more than a yellow middle and a white part. There are lots of parts, and each part has a job. Let's crack an egg open and find out what is there.",
+    "First, there is the shell. It is hard, but it breaks easily. The shell is made of calcium carbonate. This is the same stuff as chalk. A chicken's eggshell has got about 7,000 tiny holes in it. You can't see them, but air goes in and out through them.",
+    "Under the shell, there are two thin skins. They are called membranes. They keep dirt and bacteria out of the egg. At the big, round end of the egg, the two skins come apart. There is a small pocket of air between them. This is the air cell. When an egg gets older, the air cell gets bigger.",
+    "Next, there is the egg white. It is mostly water and protein. Protein is good for your body. In a raw egg, the white isn't white at all. It is clear, like water! It only turns white when you cook it.",
+    "In the middle, there is the yolk. It is yellow or orange, and it has got all the fat in the egg. Look closely at a raw egg, and you can see two short white strings. There is one on each side of the yolk. They hold the yolk in the middle of the egg.",
+    "Some eggs are brown, and some are white. Is a brown egg better for you? No, it isn't. The colour of the shell depends on the hen. Brown hens usually lay brown eggs, and white hens usually lay white eggs. There are no differences in the food inside. Some hens even lay blue eggs!"
+   ],
+   "words": [
+    {
+     "w": "crack",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/kræk/",
+     "syl": [
+      "crack"
+     ],
+     "def": "to break something so it opens",
+     "ex": "Crack two eggs into the bowl."
+    },
+    {
+     "w": "shell",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ʃel/",
+     "syl": [
+      "shell"
+     ],
+     "def": "the hard outside part of an egg or a nut",
+     "ex": "I found a piece of shell in my cake!"
+    },
+    {
+     "w": "hole",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/həʊl/",
+     "syl": [
+      "hole"
+     ],
+     "def": "an empty space or opening in something",
+     "ex": "There is a hole in my sock."
+    },
+    {
+     "w": "bacteria",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/bækˈtɪə.ri.ə/",
+     "syl": [
+      "bac",
+      "te",
+      "ri",
+      "a"
+     ],
+     "def": "very small living things; some make you ill",
+     "ex": "Wash your hands to remove bacteria."
+    },
+    {
+     "w": "pocket",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈpɒk.ɪt/",
+     "syl": [
+      "pock",
+      "et"
+     ],
+     "def": "a small space; also a small bag in clothes",
+     "ex": "My phone is in my pocket."
+    },
+    {
+     "w": "protein",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈprəʊ.tiːn/",
+     "syl": [
+      "pro",
+      "tein"
+     ],
+     "def": "a part of food that helps your body grow",
+     "ex": "Fish and beans have got lots of protein."
+    },
+    {
+     "w": "raw",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/rɔː/",
+     "syl": [
+      "raw"
+     ],
+     "def": "not cooked",
+     "ex": "Don't eat raw chicken."
+    },
+    {
+     "w": "yolk",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/jəʊk/",
+     "syl": [
+      "yolk"
+     ],
+     "def": "the yellow part in the middle of an egg",
+     "ex": "I like a soft yolk with my toast."
+    },
+    {
+     "w": "depend",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/dɪˈpend/",
+     "syl": [
+      "de",
+      "pend"
+     ],
+     "def": "to change because of something else",
+     "ex": "Our plans depend on the weather."
+    },
+    {
+     "w": "lay",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/leɪ/",
+     "syl": [
+      "lay"
+     ],
+     "def": "when a bird makes an egg come out of its body",
+     "ex": "Our hens lay eggs every morning."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "There are lots of parts, and each part has a job.",
+     "kind": "Main idea",
+     "note": "The text tells us about each part of an egg."
+    },
+    {
+     "para": 2,
+     "text": "A chicken's eggshell has got about 7,000 tiny holes in it.",
+     "kind": "Key details",
+     "note": "has got: the shell owns these holes."
+    },
+    {
+     "para": 3,
+     "text": "When an egg gets older, the air cell gets bigger.",
+     "kind": "Cause → effect",
+     "note": "Old egg → bigger pocket of air."
+    },
+    {
+     "para": 5,
+     "text": "In the middle, there is the yolk.",
+     "kind": "Grammar to notice",
+     "note": "there is + one thing: the yolk."
+    },
+    {
+     "para": 6,
+     "text": "The colour of the shell depends on the hen.",
+     "kind": "Key details",
+     "note": "The hen decides the colour, not the food inside."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to cook eggs for breakfast",
+      "the different parts of an egg",
+      "why hens lay eggs"
+     ],
+     "a": 1,
+     "why": "第1段说 There are lots of parts, and each part has a job，后面每段讲一个部分：壳、膜和气室、蛋白、蛋黄。",
+     "evidence": null,
+     "optWhy": [
+      "第1段只提到 You eat eggs for breakfast 作开头，全文没讲怎么做鸡蛋。",
+      "正确。原文 There are lots of parts … find out what is there = 选项 the different parts of an egg。",
+      "第6段只提到 hens lay brown eggs，没讲母鸡为什么下蛋。"
+     ],
+     "traps": [
+      "以偏概全",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段：There are lots of parts, and each part has a job."
+      },
+      {
+       "h": "看各段首句",
+       "t": "the shell → two thin skins → the egg white → the yolk，都是鸡蛋的部分。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What is an eggshell like?",
+     "opts": [
+      "It is made of the same stuff as chalk.",
+      "It is made of tiny pieces of glass.",
+      "It is soft and doesn't break easily."
+     ],
+     "a": 0,
+     "why": "第2段原文：The shell is made of calcium carbonate. This is the same stuff as chalk.",
+     "evidence": "This is the same stuff as chalk.",
+     "optWhy": [
+      "正确。原文 This is the same stuff as chalk = 选项 the same stuff as chalk。",
+      "文中没有提到玻璃 glass。",
+      "原文 It is hard, but it breaks easily，和选项正好相反。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "eggshell → 第2段 First, there is the shell."
+      },
+      {
+       "h": "找关键词",
+       "t": "made of calcium carbonate … the same stuff as chalk：和粉笔一样的物质。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "C 说 soft，原文是 It is hard。"
+      }
+     ],
+     "marks": [
+      "The shell is made of calcium carbonate."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "In paragraph 3, what does \"They\" mean in \"They keep dirt and bacteria out of the egg\"?",
+     "opts": [
+      "the tiny holes",
+      "the bacteria",
+      "the two thin skins"
+     ],
+     "a": 2,
+     "why": "前一句 Under the shell, there are two thin skins. They are called membranes，They 指这两层薄膜。",
+     "evidence": "They keep dirt and bacteria out of the egg.",
+     "optWhy": [
+      "tiny holes 在第2段，而且小孔是让空气进出的，不是挡住细菌。",
+      "bacteria 是被挡在外面的东西，不能自己挡自己。",
+      "正确。原文 there are two thin skins. They are called membranes. They keep … out = 选项 the two thin skins。"
+     ],
+     "traps": [
+      "指代错误",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "They 前面最近的复数名词：two thin skins（membranes）。"
+      },
+      {
+       "h": "代回验证",
+       "t": "The two thin skins keep dirt and bacteria out，通顺。"
+      }
+     ],
+     "marks": [
+      "Under the shell, there are two thin skins."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "An old egg has got a bigger air cell than a new egg.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第3段原文：When an egg gets older, the air cell gets bigger.",
+     "evidence": "When an egg gets older, the air cell gets bigger.",
+     "optWhy": [
+      "正确。原文 When an egg gets older, the air cell gets bigger = 题干 an old egg has got a bigger air cell。",
+      "原文意思和题干一致，不是相反。",
+      "原文明确说了，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "air cell → 第3段最后两句。"
+      },
+      {
+       "h": "对比",
+       "t": "gets older → gets bigger，和题干 old … bigger 意思相同 → Right。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Brown eggs cost more money than white eggs.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第6段只说颜色由母鸡决定、营养没有差别，完全没提价格。",
+     "evidence": "There are no differences in the food inside.",
+     "optWhy": [
+      "文中没有 cost 或 money，不能说 Right。",
+      "原文也没说价格一样，不能判断 Wrong。",
+      "正确。原文只说 no differences in the food inside（营养），价格没提 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "brown eggs → 第6段。"
+      },
+      {
+       "h": "找 cost / money",
+       "t": "整段讲 colour 和 food inside，没有价格。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没说相反的话，只是没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 4,
+     "q": "In paragraph 4, what does \"raw\" mean?",
+     "opts": [
+      "very old",
+      "not cooked",
+      "very cold"
+     ],
+     "a": 1,
+     "why": "第4段说 raw egg 里蛋白是透明的，It only turns white when you cook it，所以 raw = 没煮过的。",
+     "evidence": "It only turns white when you cook it.",
+     "optWhy": [
+      "文中说的是煮之前和煮之后，和蛋新旧无关。",
+      "正确。原文 only turns white when you cook it → raw egg = 选项 not cooked。",
+      "文中没有提到温度冷不冷。"
+     ],
+     "traps": [
+      "望文生义",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看前后句",
+       "t": "In a raw egg … clear … only turns white when you cook it."
+      },
+      {
+       "h": "找对比",
+       "t": "raw 和 cook 是一对：煮之前 vs 煮之后。"
+      }
+     ],
+     "marks": [
+      "In a raw egg, the white isn't white at all."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "be, have got · there is / are",
+    "rule": "Use there is with one thing or an uncountable noun, and there are with more than one thing. Use have got / has got for parts of something or things people own. In the past, use there was / there were. Questions: Is there…? / Are there…? / Has it got…?",
+    "table": [
+     [
+      "there is / isn't",
+      "There is a yolk in the middle."
+     ],
+     [
+      "there are / aren't",
+      "There are two thin skins."
+     ],
+     [
+      "has got / hasn't got",
+      "The shell has got tiny holes."
+     ],
+     [
+      "have got / haven't got",
+      "Hens have got two wings."
+     ],
+     [
+      "there was / were (past)",
+      "There were six eggs yesterday."
+     ],
+     [
+      "Is there…? / Has it got…?",
+      "Is there any milk? Has it got a lid?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "First, there is the shell.",
+      "mark": "there is"
+     },
+     {
+      "para": 2,
+      "text": "A chicken's eggshell has got about 7,000 tiny holes in it.",
+      "mark": "has got"
+     },
+     {
+      "para": 3,
+      "text": "Under the shell, there are two thin skins.",
+      "mark": "there are"
+     },
+     {
+      "para": 5,
+      "text": "It is yellow or orange, and it has got all the fat in the egg.",
+      "mark": "has got"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ any eggs in the fridge? I want to make a cake.",
+      "opts": [
+       "Is there",
+       "Are there",
+       "Have there"
+      ],
+      "a": 1,
+      "why": "Eggs is plural, so use Are there."
+     },
+     {
+      "type": "mc",
+      "q": "Yesterday there ___ only one egg in the box, so we bought more.",
+      "opts": [
+       "is",
+       "was",
+       "were"
+      ],
+      "a": 1,
+      "why": "Yesterday is past, and one egg is singular: there was."
+     },
+     {
+      "type": "fill",
+      "q": "A hen ___ got two legs and two wings.",
+      "hint": "(have)",
+      "a": "has",
+      "why": "A hen = it, so use has got."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ much milk in the jug. Can you buy some?",
+      "hint": "(not be)",
+      "a": "isn't / is not",
+      "why": "Milk is uncountable, so use there isn't."
+     },
+     {
+      "type": "fill",
+      "q": "___ your sister got a pet at home?",
+      "hint": "(have)",
+      "a": "Has",
+      "why": "Your sister = she, so the question is Has she got…?"
+     },
+     {
+      "type": "fill",
+      "q": "There ___ three hens in our garden last summer, but now there is only one.",
+      "hint": "(be)",
+      "a": "were",
+      "why": "Last summer is past, and three hens is plural: there were."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261125-1-k1",
+     "tag": "Shell",
+     "fact": "The shell is made of the same stuff as chalk, and it has got about 7,000 tiny holes.",
+     "q": "How many tiny holes has an eggshell got?",
+     "opts": [
+      "about 70",
+      "about 7,000",
+      "about 700,000"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261125-1-k2",
+     "tag": "Air cell",
+     "fact": "There is a pocket of air at the big end, and it gets bigger when the egg gets older.",
+     "q": "Where is the air cell?",
+     "opts": [
+      "at the big, round end",
+      "in the yolk",
+      "at the small end"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261125-1-k3",
+     "tag": "Egg white",
+     "fact": "The egg white is mostly water and protein, and it is clear in a raw egg.",
+     "q": "What colour is the egg white in a raw egg?",
+     "opts": [
+      "yellow",
+      "white",
+      "clear"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261125-1-k4",
+     "tag": "Yolk",
+     "fact": "The yolk has got all the fat, and two white strings hold it in the middle.",
+     "q": "What holds the yolk in the middle?",
+     "opts": [
+      "two white strings",
+      "the shell",
+      "the air cell"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261125-1-k5",
+     "tag": "Colour",
+     "fact": "The colour of the shell depends on the hen, not on the food inside.",
+     "q": "What decides the colour of an eggshell?",
+     "opts": [
+      "the food inside",
+      "the hen",
+      "the cook"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Inside an egg",
+    "question": "What are the parts of an egg?",
+    "branches": [
+     {
+      "title": "Shell",
+      "paras": "2",
+      "blanks": [
+       "like chalk",
+       "7,000 tiny holes"
+      ],
+      "kps": [
+       "k20261125-1-k1"
+      ]
+     },
+     {
+      "title": "Air cell",
+      "paras": "3",
+      "blanks": [
+       "two thin skins",
+       "a pocket of air"
+      ],
+      "kps": [
+       "k20261125-1-k2"
+      ]
+     },
+     {
+      "title": "White, yolk",
+      "paras": "4–5",
+      "blanks": [
+       "water and protein",
+       "all the fat"
+      ],
+      "kps": [
+       "k20261125-1-k3",
+       "k20261125-1-k4"
+      ]
+     },
+     {
+      "title": "Colour",
+      "paras": "6",
+      "blanks": [
+       "depends on the hen"
+      ],
+      "kps": [
+       "k20261125-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "made of glass",
+     "brown eggs are better"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "An egg has got a shell, two thin skins, a white and a yolk. The shell colour depends on the hen, so brown eggs are not better.",
+    "options": [
+     {
+      "t": "An eggshell is hard and has got thousands of tiny holes.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "A chicken's eggshell has got about 7,000 tiny holes in it."
+     },
+     {
+      "t": "Under the shell, there are two skins and a pocket of air.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Under the shell, there are two thin skins."
+     },
+     {
+      "t": "Inside, there is the egg white, and the yolk is in the middle.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 4 and 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "In the middle, there is the yolk."
+     },
+     {
+      "t": "Some hens lay blue eggs.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 6,
+      "evidence": "Some hens even lay blue eggs!"
+     },
+     {
+      "t": "Eggs from big farms are cheaper than eggs from small farms.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Brown eggs have got better food inside than white eggs.",
+      "ok": false,
+      "why": "Wrong: there are no differences in the food inside.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "There are no differences in the food inside."
+     }
+    ]
+   },
+   "speak": {
+    "p": "How do you like your eggs? How often do you eat them?",
+    "hint": "I like my eggs … / I usually eat eggs … because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your friend is coming to your house to make breakfast with you this weekend. Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Say what you want to cook.",
+     "Say what food there is at your house.",
+     "Ask your friend to bring one thing."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261125-2",
+   "topic": "Sport",
+   "genre": "Interview",
+   "title": "A Week with a Table Tennis Player",
+   "dek": "Aiko plays table tennis five days a week. How does she do it?",
+   "sources": [],
+   "paras": [
+    "Every week, our school magazine talks to a student with an interesting hobby. This week, Tom Becker from Year 8 met Aiko Tanaka. She is fourteen, and she plays table tennis for our town's team.",
+    "Tom: When do you practise, Aiko? Aiko: I practise five days a week, from Monday to Friday. I always go to the sports centre straight after school. I usually play for two hours. On Saturdays, I often have matches in other towns.",
+    "Tom: What do you do in a training session? Aiko: First, I run and do some exercises. Then my coach, Mr Silva, gives me different balls. Sometimes he hits the ball very fast. Sometimes he hits it very slowly with a lot of spin. The ball turns round and round, so it's hard to hit back. I need to watch it carefully all the time.",
+    "Tom: Do you ever feel tired? Aiko: Yes, sometimes! On Thursdays I have a lot of homework, so I often go to bed late. But I never miss training. My coach says that good players come back every day. I hardly ever watch TV in the week.",
+    "Tom: What do you eat before a match? Aiko: I usually eat rice, chicken and vegetables. I never eat chips or sweets before I play. They make me feel slow. I always take a big bottle of water with me, because the hall is often very hot.",
+    "Tom: How do you feel when you lose? Aiko: I feel sad, of course. I sometimes cry in the changing room! But my mum always says, 'Learn one thing from every match.' So after a match, I write in a small notebook. I write what I did well and what I did badly.",
+    "Tom: What's your dream? Aiko: I want to play for my country one day. But first, I want to win the city competition in March. And I want more students to try table tennis. It's fast, it's fun, and you don't need a big field!"
+   ],
+   "words": [
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something again and again to get better",
+     "ex": "I practise the piano every evening."
+    },
+    {
+     "w": "match",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/mætʃ/",
+     "syl": [
+      "match"
+     ],
+     "def": "a game between two players or teams",
+     "ex": "We won the football match on Saturday."
+    },
+    {
+     "w": "session",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈseʃ.ən/",
+     "syl": [
+      "ses",
+      "sion"
+     ],
+     "def": "a time when you do one activity",
+     "ex": "Our swimming session starts at four."
+    },
+    {
+     "w": "coach",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/kəʊtʃ/",
+     "syl": [
+      "coach"
+     ],
+     "def": "a person who teaches a sport",
+     "ex": "Our coach shouts when we play well."
+    },
+    {
+     "w": "spin",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/spɪn/",
+     "syl": [
+      "spin"
+     ],
+     "def": "when a ball turns round and round",
+     "ex": "She hits the ball with a lot of spin."
+    },
+    {
+     "w": "carefully",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkeə.fəl.i/",
+     "syl": [
+      "care",
+      "ful",
+      "ly"
+     ],
+     "def": "doing something slowly so you don't make mistakes",
+     "ex": "Read the question carefully."
+    },
+    {
+     "w": "miss",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/mɪs/",
+     "syl": [
+      "miss"
+     ],
+     "def": "to not go to something",
+     "ex": "I never miss my English class."
+    },
+    {
+     "w": "hall",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/hɔːl/",
+     "syl": [
+      "hall"
+     ],
+     "def": "a very big room for sport, music or meetings",
+     "ex": "The sports hall is next to the library."
+    },
+    {
+     "w": "changing room",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtʃeɪn.dʒɪŋ.ruːm/",
+     "syl": [
+      "chang",
+      "ing",
+      "room"
+     ],
+     "def": "a room where you put on sports clothes",
+     "ex": "Leave your bag in the changing room."
+    },
+    {
+     "w": "competition",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˌkɒm.pəˈtɪʃ.ən/",
+     "syl": [
+      "com",
+      "pe",
+      "ti",
+      "tion"
+     ],
+     "def": "an event where people try to win",
+     "ex": "Tara won the art competition."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "I practise five days a week, from Monday to Friday.",
+     "kind": "Key details",
+     "note": "This tells us how often Aiko trains."
+    },
+    {
+     "para": 3,
+     "text": "The ball turns round and round, so it's hard to hit back.",
+     "kind": "Cause → effect",
+     "note": "Spin makes the ball difficult to hit."
+    },
+    {
+     "para": 4,
+     "text": "But I never miss training.",
+     "kind": "Grammar to notice",
+     "note": "never comes before the verb miss."
+    },
+    {
+     "para": 6,
+     "text": "So after a match, I write in a small notebook.",
+     "kind": "Cause → effect",
+     "note": "Her mum's words make her write and learn."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did Tom write this text?",
+     "opts": [
+      "to tell readers about a student and her sport",
+      "to sell table tennis bats",
+      "to explain the rules of table tennis"
+     ],
+     "a": 0,
+     "why": "第1段：our school magazine talks to a student with an interesting hobby，这是一篇介绍 Aiko 和她运动的采访。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 talks to a student with an interesting hobby = 选项 tell readers about a student and her sport。",
+      "文中没有卖球拍或价格。",
+      "文中讲的是 Aiko 怎么训练，没有讲比赛规则。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "偷换概念"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "school magazine talks to a student with an interesting hobby。"
+      },
+      {
+       "h": "看体裁",
+       "t": "全文是 Tom 问、Aiko 答，是人物采访。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "When does Aiko often play in other towns?",
+     "opts": [
+      "on Mondays",
+      "after school every day",
+      "on Saturdays"
+     ],
+     "a": 2,
+     "why": "第2段原文：On Saturdays, I often have matches in other towns.",
+     "evidence": "On Saturdays, I often have matches in other towns.",
+     "optWhy": [
+      "Monday 是她练习的日子 from Monday to Friday，不是去外地比赛。",
+      "放学后她去 the sports centre 练习，不是去外地。",
+      "正确。原文 On Saturdays … matches in other towns = 选项 on Saturdays。"
+     ],
+     "traps": [
+      "细节偷换",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "other towns → 第2段最后一句。"
+      },
+      {
+       "h": "找时间词",
+       "t": "On Saturdays, I often have matches in other towns."
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, what does \"spin\" mean?",
+     "opts": [
+      "a kind of sports shoe",
+      "when a ball turns round and round",
+      "a very loud noise"
+     ],
+     "a": 1,
+     "why": "下一句解释：The ball turns round and round, so it's hard to hit back.",
+     "evidence": "The ball turns round and round, so it's hard to hit back.",
+     "optWhy": [
+      "文中没有提到鞋子。",
+      "正确。原文 The ball turns round and round = 选项 when a ball turns round and round。",
+      "文中没有提到声音。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "看后一句",
+       "t": "生词后面常有解释：The ball turns round and round。"
+      },
+      {
+       "h": "代回验证",
+       "t": "hits it slowly with a lot of turning，通顺。"
+      }
+     ],
+     "marks": [
+      "Sometimes he hits it very slowly with a lot of spin."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Aiko sometimes misses training when she has a lot of homework.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：But I never miss training. 她从不缺训练。",
+     "evidence": "But I never miss training.",
+     "optWhy": [
+      "原文 never miss，不是 sometimes misses。",
+      "正确。原文 I never miss training，题干 sometimes misses → Wrong。",
+      "原文明确说了 never，可以判断，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "homework → 第4段 On Thursdays I have a lot of homework."
+      },
+      {
+       "h": "看转折",
+       "t": "But I never miss training：But 后面是重点。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "never 和 sometimes 相反 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How does Aiko feel when she loses a match?",
+     "opts": [
+      "sad",
+      "angry with her coach",
+      "happy"
+     ],
+     "a": 0,
+     "why": "第6段原文：I feel sad, of course. I sometimes cry in the changing room!",
+     "evidence": "I feel sad, of course.",
+     "optWhy": [
+      "正确。原文 I feel sad = 选项 sad。",
+      "文中没说她生教练的气。",
+      "她会哭 sometimes cry，不是高兴。"
+     ],
+     "traps": [
+      null,
+      "无中生有",
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "lose → 第6段 How do you feel when you lose?"
+      },
+      {
+       "h": "找感情词",
+       "t": "I feel sad … I sometimes cry。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Aiko's mum cooks her food before every match.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只说她吃什么 rice, chicken and vegetables，没说谁做饭。",
+     "evidence": "I usually eat rice, chicken and vegetables.",
+     "optWhy": [
+      "原文没提到妈妈做饭，不能说 Right。",
+      "原文也没说别人做饭，不能判断 Wrong。",
+      "正确。原文只说 I usually eat rice, chicken and vegetables，谁做的没提 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "before a match → 第5段。"
+      },
+      {
+       "h": "找 mum / cook",
+       "t": "第5段没有 mum 或 cook；mum 在第6段，说的是别的话。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present simple · adverbs of frequency",
+    "rule": "Use the present simple for habits and things you do again and again. Put always, usually, often, sometimes, hardly ever and never before the main verb, but after be (am / is / are). With he / she / it, add -s to the verb.",
+    "table": [
+     [
+      "always",
+      "100%: I always go after school."
+     ],
+     [
+      "usually",
+      "I usually play for two hours."
+     ],
+     [
+      "often",
+      "The hall is often very hot."
+     ],
+     [
+      "sometimes",
+      "I sometimes cry."
+     ],
+     [
+      "hardly ever",
+      "I hardly ever watch TV."
+     ],
+     [
+      "never",
+      "0%: I never miss training."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I always go to the sports centre straight after school.",
+      "mark": "always go"
+     },
+     {
+      "para": 4,
+      "text": "But I never miss training.",
+      "mark": "never miss"
+     },
+     {
+      "para": 5,
+      "text": "I usually eat rice, chicken and vegetables.",
+      "mark": "usually eat"
+     },
+     {
+      "para": 5,
+      "text": "I always take a big bottle of water with me, because the hall is often very hot.",
+      "mark": "is often"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My brother ___ late for training.",
+      "opts": [
+       "is never",
+       "never is",
+       "never be"
+      ],
+      "a": 0,
+      "why": "With be, the adverb goes after it: is never."
+     },
+     {
+      "type": "mc",
+      "q": "How often ___ Aiko play matches?",
+      "opts": [
+       "do",
+       "does",
+       "is"
+      ],
+      "a": 1,
+      "why": "Aiko = she, so the question uses does."
+     },
+     {
+      "type": "fill",
+      "q": "She ___ running, but she does it every day.",
+      "hint": "(not like)",
+      "a": "doesn't like / does not like",
+      "why": "She + negative present simple: doesn't like."
+     },
+     {
+      "type": "fill",
+      "q": "Our coach ___ us water after every match.",
+      "hint": "(always / give)",
+      "a": "always gives",
+      "why": "Always goes before the verb, and our coach = he: gives."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ late for school. I'm nearly always on time!",
+      "hint": "(hardly ever / be)",
+      "a": "am hardly ever / 'm hardly ever",
+      "why": "With be, the adverb goes after it: am hardly ever."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ a match in the sports hall on Saturdays.",
+      "hint": "(usually / be)",
+      "a": "is usually / 's usually",
+      "why": "One match: there is, and usually goes after be."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261125-2-k1",
+     "tag": "Training",
+     "fact": "Aiko practises five days a week, usually for two hours.",
+     "q": "How many days a week does Aiko practise?",
+     "opts": [
+      "three",
+      "five",
+      "seven"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261125-2-k2",
+     "tag": "Coach",
+     "fact": "Her coach, Mr Silva, hits fast balls and slow balls with spin.",
+     "q": "Who is Mr Silva?",
+     "opts": [
+      "her coach",
+      "her teacher at school",
+      "her dad"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261125-2-k3",
+     "tag": "Never",
+     "fact": "Aiko never misses training, even when she is tired.",
+     "q": "What does Aiko never do?",
+     "opts": [
+      "eat rice",
+      "do homework",
+      "miss training"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261125-2-k4",
+     "tag": "Food",
+     "fact": "Before a match, she eats rice, chicken and vegetables, but never chips or sweets.",
+     "q": "What does Aiko never eat before a match?",
+     "opts": [
+      "chicken",
+      "chips or sweets",
+      "vegetables"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261125-2-k5",
+     "tag": "Notebook",
+     "fact": "After every match, she writes in a notebook what she did well and badly.",
+     "q": "Why does Aiko write in a notebook?",
+     "opts": [
+      "to learn from every match",
+      "to do her homework",
+      "to write to her coach"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Aiko's week",
+    "question": "How does Aiko train for table tennis?",
+    "branches": [
+     {
+      "title": "Training",
+      "paras": "2–3",
+      "blanks": [
+       "five days a week",
+       "a lot of spin"
+      ],
+      "kps": [
+       "k20261125-2-k1",
+       "k20261125-2-k2"
+      ]
+     },
+     {
+      "title": "Hard days",
+      "paras": "4",
+      "blanks": [
+       "never miss training"
+      ],
+      "kps": [
+       "k20261125-2-k3"
+      ]
+     },
+     {
+      "title": "Food",
+      "paras": "5",
+      "blanks": [
+       "rice and chicken",
+       "a bottle of water"
+      ],
+      "kps": [
+       "k20261125-2-k4"
+      ]
+     },
+     {
+      "title": "Next steps",
+      "paras": "6–7",
+      "blanks": [
+       "a small notebook",
+       "the city competition"
+      ],
+      "kps": [
+       "k20261125-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "plays football too",
+     "trains on Sundays"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Aiko practises table tennis five days a week, and she never misses training. She sometimes loses, but she learns from every match.",
+    "options": [
+     {
+      "t": "Aiko practises table tennis five days a week after school.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "I practise five days a week, from Monday to Friday."
+     },
+     {
+      "t": "She works hard and never misses training, even when she is tired.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "But I never miss training."
+     },
+     {
+      "t": "She learns from every match and wants to play for her country.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 6 and 7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "I want to play for my country one day."
+     },
+     {
+      "t": "Her coach is called Mr Silva.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "Then my coach, Mr Silva, gives me different balls."
+     },
+     {
+      "t": "Aiko has got a brother who plays tennis.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Aiko often eats sweets before a match.",
+      "ok": false,
+      "why": "Wrong: she never eats chips or sweets before she plays.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "I never eat chips or sweets before I play."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What sport do you do? How often do you do it?",
+    "hint": "I usually play … / I … twice a week because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your English friend wants to start a new sport. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Say which sport you do.",
+     "Say how often and where you do it.",
+     "Invite your friend to come with you."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261125-3",
+   "topic": "House & home",
+   "genre": "Blog post",
+   "title": "Builders in Our Kitchen!",
+   "dek": "Marco's kitchen is usually quiet and warm. This week, it's full of noise and dust.",
+   "sources": [],
+   "paras": [
+    "Hi everyone, it's Marco! Usually our kitchen is my favourite room. We eat there, I do my homework there, and Dad often plays music there on Sunday mornings. But this week everything is different. Builders are working in our kitchen!",
+    "Our kitchen is very old, so my parents are making it new. Right now, two builders are taking out the old cupboards. They are making a lot of noise. Every morning they arrive at eight o'clock, and they usually leave at five.",
+    "So where are we cooking this week? We aren't cooking at all! We're eating sandwiches and salads for lunch. Grandma lives near us, so we're having dinner at her flat every evening. She usually cooks fish on Tuesdays, and it's delicious!",
+    "The fridge is standing in the living room now. It looks very strange next to the sofa! Our cat, Pepper, doesn't like the builders. She usually sleeps on a chair in the kitchen. This week she's hiding under my bed all day.",
+    "There's dust everywhere. Mum cleans the floor every evening, but in the morning it's dirty again. The water isn't working in the kitchen, so we're washing the plates in the bathroom! My little sister thinks it's funny. I don't!",
+    "As I'm writing this, I can hear a loud drill. But I'm trying to be happy, because the new kitchen looks great in the pictures. It has got a big window and a long table. The builders say it will be ready next Friday.",
+    "Do you ever have builders at your home? What do you do? Tell me in the comments!"
+   ],
+   "words": [
+    {
+     "w": "builder",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈbɪl.dər/",
+     "syl": [
+      "build",
+      "er"
+     ],
+     "def": "a person whose job is to make or repair houses",
+     "ex": "The builder is fixing our roof."
+    },
+    {
+     "w": "cupboard",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkʌb.əd/",
+     "syl": [
+      "cup",
+      "board"
+     ],
+     "def": "a piece of furniture with doors for keeping things in",
+     "ex": "The cups are in the cupboard."
+    },
+    {
+     "w": "noise",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/nɔɪz/",
+     "syl": [
+      "noise"
+     ],
+     "def": "a loud sound that you often don't like",
+     "ex": "Please don't make a noise in the library."
+    },
+    {
+     "w": "arrive",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/əˈraɪv/",
+     "syl": [
+      "ar",
+      "rive"
+     ],
+     "def": "to get to a place",
+     "ex": "Our train will arrive at six."
+    },
+    {
+     "w": "delicious",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/dɪˈlɪʃ.əs/",
+     "syl": [
+      "de",
+      "li",
+      "cious"
+     ],
+     "def": "very, very good to eat",
+     "ex": "This soup is delicious!"
+    },
+    {
+     "w": "strange",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/streɪndʒ/",
+     "syl": [
+      "strange"
+     ],
+     "def": "different and a bit surprising",
+     "ex": "I heard a strange sound at night."
+    },
+    {
+     "w": "everywhere",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈev.ri.weər/",
+     "syl": [
+      "ev",
+      "ery",
+      "where"
+     ],
+     "def": "in all places",
+     "ex": "There are toys everywhere in my room."
+    },
+    {
+     "w": "drill",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/drɪl/",
+     "syl": [
+      "drill"
+     ],
+     "def": "a tool that makes holes in walls or wood",
+     "ex": "Dad used a drill to put up the shelf."
+    },
+    {
+     "w": "ready",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈred.i/",
+     "syl": [
+      "rea",
+      "dy"
+     ],
+     "def": "finished, so you can use it",
+     "ex": "Dinner is ready!"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Builders are working in our kitchen!",
+     "kind": "Main idea",
+     "note": "This is why Marco's week is different."
+    },
+    {
+     "para": 2,
+     "text": "Every morning they arrive at eight o'clock, and they usually leave at five.",
+     "kind": "Grammar to notice",
+     "note": "Every morning, usually: present simple for habits."
+    },
+    {
+     "para": 4,
+     "text": "This week she's hiding under my bed all day.",
+     "kind": "Grammar to notice",
+     "note": "This week: present continuous for a short, different time."
+    },
+    {
+     "para": 6,
+     "text": "But I'm trying to be happy, because the new kitchen looks great in the pictures.",
+     "kind": "Opinion",
+     "note": "Marco feels better because of the pictures."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is Marco's blog post mainly about?",
+     "opts": [
+      "his favourite meals",
+      "his grandma's new flat",
+      "a week with builders in his kitchen"
+     ],
+     "a": 2,
+     "why": "第1段：But this week everything is different. Builders are working in our kitchen! 后面各段都讲这周的变化。",
+     "evidence": null,
+     "optWhy": [
+      "奶奶做的鱼只是第3段的一个细节，不是主旨。",
+      "文中没说奶奶的公寓是新的，只说去那里吃晚饭。",
+      "正确。原文 Builders are working in our kitchen = 选项 a week with builders in his kitchen。"
+     ],
+     "traps": [
+      "以偏概全",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "But this week everything is different. Builders are working in our kitchen!"
+      },
+      {
+       "h": "看各段",
+       "t": "吃饭、猫、灰尘、新厨房，都和工人装修有关。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "When do the builders usually go home?",
+     "opts": [
+      "at eight o'clock",
+      "at five o'clock",
+      "at lunchtime"
+     ],
+     "a": 1,
+     "why": "第2段原文：they arrive at eight o'clock, and they usually leave at five.",
+     "evidence": "Every morning they arrive at eight o'clock, and they usually leave at five.",
+     "optWhy": [
+      "eight o'clock 是他们来的时间 arrive，不是走的时间。",
+      "正确。原文 they usually leave at five = 选项 at five o'clock。",
+      "文中没提到午饭时间。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "go home = leave → 第2段最后一句。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "arrive at eight（来）≠ leave at five（走）。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, who is \"She\" in \"She usually sleeps on a chair in the kitchen\"?",
+     "opts": [
+      "the cat",
+      "Marco's mum",
+      "Marco's sister"
+     ],
+     "a": 0,
+     "why": "前一句 Our cat, Pepper, doesn't like the builders，She 指猫 Pepper。",
+     "evidence": "She usually sleeps on a chair in the kitchen.",
+     "optWhy": [
+      "正确。原文 Our cat, Pepper … She usually sleeps = 选项 the cat。",
+      "妈妈在第5段才出现。",
+      "妹妹在第5段才出现。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句的人物：Our cat, Pepper。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Pepper usually sleeps on a chair … hiding under my bed，猫躲床底，通顺。"
+      }
+     ],
+     "marks": [
+      "Our cat, Pepper, doesn't like the builders."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Marco thinks washing the plates in the bathroom is funny.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第5段原文：My little sister thinks it's funny. I don't! 觉得好笑的是妹妹，Marco 不觉得。",
+     "evidence": "My little sister thinks it's funny. I don't!",
+     "optWhy": [
+      "觉得 funny 的是 my little sister，不是 Marco。",
+      "正确。原文 I don't! = Marco 不觉得好笑，和题干相反 → Wrong。",
+      "原文明确说了 I don't，可以判断，不是 Doesn't say。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "bathroom → 第5段。"
+      },
+      {
+       "h": "分清是谁",
+       "t": "sister thinks it's funny；I don't! = Marco 不觉得。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Where is the fridge this week?",
+     "opts": [
+      "in the living room",
+      "in the bathroom",
+      "at Grandma's flat"
+     ],
+     "a": 0,
+     "why": "第4段原文：The fridge is standing in the living room now.",
+     "evidence": "The fridge is standing in the living room now.",
+     "optWhy": [
+      "正确。原文 standing in the living room = 选项 in the living room。",
+      "bathroom 是他们洗盘子的地方（第5段）。",
+      "奶奶家是他们吃晚饭的地方（第3段）。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "fridge → 第4段第一句。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "bathroom 和 Grandma's flat 也在文中，但说的是别的事。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How does Marco feel about the new kitchen?",
+     "opts": [
+      "bored",
+      "angry",
+      "hopeful"
+     ],
+     "a": 2,
+     "why": "第6段原文：I'm trying to be happy, because the new kitchen looks great in the pictures.",
+     "evidence": "But I'm trying to be happy, because the new kitchen looks great in the pictures.",
+     "optWhy": [
+      "文中没有表示无聊的话。",
+      "他不喜欢噪音，但对新厨房说的是 looks great，不是生气。",
+      "正确。原文 trying to be happy … looks great = 选项 hopeful（充满期待）。"
+     ],
+     "traps": [
+      "无中生有",
+      "偷换概念",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "new kitchen → 第6段。"
+      },
+      {
+       "h": "看转折",
+       "t": "But I'm trying to be happy：But 后面是他对新厨房的态度。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present continuous vs present simple",
+    "rule": "Use the present simple for habits and things that are usually true (every day, usually, often). Use the present continuous (am / is / are + -ing) for things happening now or only for a short time (now, right now, this week).",
+    "table": [
+     [
+      "present simple: habits",
+      "She usually sleeps in the kitchen."
+     ],
+     [
+      "present continuous: now",
+      "Right now, they are taking out the cupboards."
+     ],
+     [
+      "present simple + every day",
+      "Mum cleans the floor every evening."
+     ],
+     [
+      "present continuous + this week",
+      "This week she's hiding under my bed."
+     ],
+     [
+      "don't / doesn't + verb",
+      "Pepper doesn't like the builders."
+     ],
+     [
+      "am / is / are + not + -ing",
+      "We aren't cooking at all!"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "Builders are working in our kitchen!",
+      "mark": "are working"
+     },
+     {
+      "para": 2,
+      "text": "Every morning they arrive at eight o'clock, and they usually leave at five.",
+      "mark": "arrive"
+     },
+     {
+      "para": 4,
+      "text": "She usually sleeps on a chair in the kitchen.",
+      "mark": "usually sleeps"
+     },
+     {
+      "para": 4,
+      "text": "This week she's hiding under my bed all day.",
+      "mark": "she's hiding"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Listen! The builders ___ the wall.",
+      "opts": [
+       "paint",
+       "are painting",
+       "painted"
+      ],
+      "a": 1,
+      "why": "Listen! means it is happening now: are painting."
+     },
+     {
+      "type": "mc",
+      "q": "My dad ___ dinner on Sundays.",
+      "opts": [
+       "cooks",
+       "is cooking",
+       "cook"
+      ],
+      "a": 0,
+      "why": "On Sundays is a habit, and my dad = he: cooks."
+     },
+     {
+      "type": "fill",
+      "q": "Mum isn't here. She ___ to the shop right now.",
+      "hint": "(walk)",
+      "a": "is walking / 's walking",
+      "why": "Right now: use is + walking."
+     },
+     {
+      "type": "fill",
+      "q": "We usually ___ in the kitchen, but this week we're eating in the garden.",
+      "hint": "(eat)",
+      "a": "eat",
+      "why": "Usually is a habit, so use the present simple: eat."
+     },
+     {
+      "type": "fill",
+      "q": "___ your cat often sleep on your bed?",
+      "hint": "(do)",
+      "a": "Does",
+      "why": "Often is a habit, and your cat = it: Does … sleep?"
+     },
+     {
+      "type": "fill",
+      "q": "I ___ this blog because I want to tell you about my week.",
+      "hint": "(write)",
+      "a": "am writing / 'm writing",
+      "why": "It is happening now, so use am + writing."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261125-3-k1",
+     "tag": "Builders",
+     "fact": "This week, builders are making Marco's family's old kitchen new.",
+     "q": "Why are builders at Marco's house?",
+     "opts": [
+      "to make a new kitchen",
+      "to build a garage",
+      "to paint his bedroom"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261125-3-k2",
+     "tag": "Times",
+     "fact": "The builders arrive at eight and usually leave at five.",
+     "q": "When do the builders arrive?",
+     "opts": [
+      "at five o'clock",
+      "at eight o'clock",
+      "at nine o'clock"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261125-3-k3",
+     "tag": "Dinner",
+     "fact": "This week the family is having dinner at Grandma's flat.",
+     "q": "Where is the family having dinner this week?",
+     "opts": [
+      "in a café",
+      "in the kitchen",
+      "at Grandma's flat"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261125-3-k4",
+     "tag": "Pepper",
+     "fact": "Pepper the cat usually sleeps in the kitchen, but now she is hiding under Marco's bed.",
+     "q": "Where is Pepper this week?",
+     "opts": [
+      "under Marco's bed",
+      "on a kitchen chair",
+      "at Grandma's flat"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261125-3-k5",
+     "tag": "Plates",
+     "fact": "The kitchen water isn't working, so they are washing the plates in the bathroom.",
+     "q": "Where are they washing the plates?",
+     "opts": [
+      "in the garden",
+      "in the bathroom",
+      "at a café"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "New kitchen",
+    "question": "How is Marco's week different?",
+    "branches": [
+     {
+      "title": "Builders",
+      "paras": "2",
+      "blanks": [
+       "old cupboards",
+       "eight to five"
+      ],
+      "kps": [
+       "k20261125-3-k1",
+       "k20261125-3-k2"
+      ]
+     },
+     {
+      "title": "Meals",
+      "paras": "3",
+      "blanks": [
+       "sandwiches and salads",
+       "Grandma's flat"
+      ],
+      "kps": [
+       "k20261125-3-k3"
+      ]
+     },
+     {
+      "title": "Pepper",
+      "paras": "4",
+      "blanks": [
+       "under my bed"
+      ],
+      "kps": [
+       "k20261125-3-k4"
+      ]
+     },
+     {
+      "title": "Problems",
+      "paras": "5–6",
+      "blanks": [
+       "dust everywhere",
+       "a loud drill"
+      ],
+      "kps": [
+       "k20261125-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a new garden",
+     "the fridge is broken"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "Builders are making a new kitchen at Marco's house, so the family is eating at Grandma's this week. It's noisy, but the new kitchen looks great.",
+    "options": [
+     {
+      "t": "Builders are working in Marco's kitchen this week.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 1 and 2.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Builders are working in our kitchen!"
+     },
+     {
+      "t": "The family can't cook at home, so they are eating in other ways.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "We aren't cooking at all!"
+     },
+     {
+      "t": "Home is noisy and dirty now, but the new kitchen looks great.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 5 and 6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "But I'm trying to be happy, because the new kitchen looks great in the pictures."
+     },
+     {
+      "t": "Grandma usually cooks fish on Tuesdays.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "She usually cooks fish on Tuesdays, and it's delicious!"
+     },
+     {
+      "t": "Marco's dad is helping the builders.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Pepper the cat loves the builders.",
+      "ok": false,
+      "why": "Wrong: Pepper doesn't like the builders.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Our cat, Pepper, doesn't like the builders."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is your favourite room at home? What do you usually do there?",
+    "hint": "My favourite room is … / I usually … there because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Your friend wants to visit you this week, but builders are working in your house. Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Say what the builders are doing.",
+     "Say why your friend can't come this week.",
+     "Say when your friend can come."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  }
+ ],
+ "audio": {
+  "You eat eggs for breakfast, in cakes and in noodles. But have you ever looked carefully inside one? An egg is more than a yellow middle and a white part. There are lots of parts, and each part has a job. Let's crack an egg open and find out what is there.": "audio/2026-11-25/a1-p1.mp3",
+  "First, there is the shell. It is hard, but it breaks easily. The shell is made of calcium carbonate. This is the same stuff as chalk. A chicken's eggshell has got about 7,000 tiny holes in it. You can't see them, but air goes in and out through them.": "audio/2026-11-25/a1-p2.mp3",
+  "Under the shell, there are two thin skins. They are called membranes. They keep dirt and bacteria out of the egg. At the big, round end of the egg, the two skins come apart. There is a small pocket of air between them. This is the air cell. When an egg gets older, the air cell gets bigger.": "audio/2026-11-25/a1-p3.mp3",
+  "Next, there is the egg white. It is mostly water and protein. Protein is good for your body. In a raw egg, the white isn't white at all. It is clear, like water! It only turns white when you cook it.": "audio/2026-11-25/a1-p4.mp3",
+  "In the middle, there is the yolk. It is yellow or orange, and it has got all the fat in the egg. Look closely at a raw egg, and you can see two short white strings. There is one on each side of the yolk. They hold the yolk in the middle of the egg.": "audio/2026-11-25/a1-p5.mp3",
+  "Some eggs are brown, and some are white. Is a brown egg better for you? No, it isn't. The colour of the shell depends on the hen. Brown hens usually lay brown eggs, and white hens usually lay white eggs. There are no differences in the food inside. Some hens even lay blue eggs!": "audio/2026-11-25/a1-p6.mp3",
+  "crack": "audio/2026-11-25/a1-w-crack.mp3",
+  "Crack two eggs into the bowl.": "audio/2026-11-25/a1-ex-crack.mp3",
+  "shell": "audio/2026-11-25/a1-w-shell.mp3",
+  "I found a piece of shell in my cake!": "audio/2026-11-25/a1-ex-shell.mp3",
+  "hole": "audio/2026-11-25/a1-w-hole.mp3",
+  "There is a hole in my sock.": "audio/2026-11-25/a1-ex-hole.mp3",
+  "bacteria": "audio/2026-11-25/a1-w-bacteria.mp3",
+  "Wash your hands to remove bacteria.": "audio/2026-11-25/a1-ex-bacteria.mp3",
+  "pocket": "audio/2026-11-25/a1-w-pocket.mp3",
+  "My phone is in my pocket.": "audio/2026-11-25/a1-ex-pocket.mp3",
+  "protein": "audio/2026-11-25/a1-w-protein.mp3",
+  "Fish and beans have got lots of protein.": "audio/2026-11-25/a1-ex-protein.mp3",
+  "raw": "audio/2026-11-25/a1-w-raw.mp3",
+  "Don't eat raw chicken.": "audio/2026-11-25/a1-ex-raw.mp3",
+  "yolk": "audio/2026-11-25/a1-w-yolk.mp3",
+  "I like a soft yolk with my toast.": "audio/2026-11-25/a1-ex-yolk.mp3",
+  "depend": "audio/2026-11-25/a1-w-depend.mp3",
+  "Our plans depend on the weather.": "audio/2026-11-25/a1-ex-depend.mp3",
+  "lay": "audio/2026-11-25/a1-w-lay.mp3",
+  "Our hens lay eggs every morning.": "audio/2026-11-25/a1-ex-lay.mp3",
+  "There are lots of parts, and each part has a job.": "audio/2026-11-25/a1-ks1.mp3",
+  "A chicken's eggshell has got about 7,000 tiny holes in it.": "audio/2026-11-25/a1-ks2.mp3",
+  "When an egg gets older, the air cell gets bigger.": "audio/2026-11-25/a1-ks3.mp3",
+  "In the middle, there is the yolk.": "audio/2026-11-25/a1-ks4.mp3",
+  "The colour of the shell depends on the hen.": "audio/2026-11-25/a1-ks5.mp3",
+  "First, there is the shell.": "audio/2026-11-25/a1-g1.mp3",
+  "Under the shell, there are two thin skins.": "audio/2026-11-25/a1-g3.mp3",
+  "It is yellow or orange, and it has got all the fat in the egg.": "audio/2026-11-25/a1-g4.mp3",
+  "Every week, our school magazine talks to a student with an interesting hobby. This week, Tom Becker from Year 8 met Aiko Tanaka. She is fourteen, and she plays table tennis for our town's team.": "audio/2026-11-25/a2-p1.mp3",
+  "Tom: When do you practise, Aiko? Aiko: I practise five days a week, from Monday to Friday. I always go to the sports centre straight after school. I usually play for two hours. On Saturdays, I often have matches in other towns.": "audio/2026-11-25/a2-p2.mp3",
+  "Tom: What do you do in a training session? Aiko: First, I run and do some exercises. Then my coach, Mr Silva, gives me different balls. Sometimes he hits the ball very fast. Sometimes he hits it very slowly with a lot of spin. The ball turns round and round, so it's hard to hit back. I need to watch it carefully all the time.": "audio/2026-11-25/a2-p3.mp3",
+  "Tom: Do you ever feel tired? Aiko: Yes, sometimes! On Thursdays I have a lot of homework, so I often go to bed late. But I never miss training. My coach says that good players come back every day. I hardly ever watch TV in the week.": "audio/2026-11-25/a2-p4.mp3",
+  "Tom: What do you eat before a match? Aiko: I usually eat rice, chicken and vegetables. I never eat chips or sweets before I play. They make me feel slow. I always take a big bottle of water with me, because the hall is often very hot.": "audio/2026-11-25/a2-p5.mp3",
+  "Tom: How do you feel when you lose? Aiko: I feel sad, of course. I sometimes cry in the changing room! But my mum always says, 'Learn one thing from every match.' So after a match, I write in a small notebook. I write what I did well and what I did badly.": "audio/2026-11-25/a2-p6.mp3",
+  "Tom: What's your dream? Aiko: I want to play for my country one day. But first, I want to win the city competition in March. And I want more students to try table tennis. It's fast, it's fun, and you don't need a big field!": "audio/2026-11-25/a2-p7.mp3",
+  "practise": "audio/2026-11-25/a2-w-practise.mp3",
+  "I practise the piano every evening.": "audio/2026-11-25/a2-ex-practise.mp3",
+  "match": "audio/2026-11-25/a2-w-match.mp3",
+  "We won the football match on Saturday.": "audio/2026-11-25/a2-ex-match.mp3",
+  "session": "audio/2026-11-25/a2-w-session.mp3",
+  "Our swimming session starts at four.": "audio/2026-11-25/a2-ex-session.mp3",
+  "coach": "audio/2026-11-25/a2-w-coach.mp3",
+  "Our coach shouts when we play well.": "audio/2026-11-25/a2-ex-coach.mp3",
+  "spin": "audio/2026-11-25/a2-w-spin.mp3",
+  "She hits the ball with a lot of spin.": "audio/2026-11-25/a2-ex-spin.mp3",
+  "carefully": "audio/2026-11-25/a2-w-carefully.mp3",
+  "Read the question carefully.": "audio/2026-11-25/a2-ex-carefully.mp3",
+  "miss": "audio/2026-11-25/a2-w-miss.mp3",
+  "I never miss my English class.": "audio/2026-11-25/a2-ex-miss.mp3",
+  "hall": "audio/2026-11-25/a2-w-hall.mp3",
+  "The sports hall is next to the library.": "audio/2026-11-25/a2-ex-hall.mp3",
+  "changing room": "audio/2026-11-25/a2-w-changing-room.mp3",
+  "Leave your bag in the changing room.": "audio/2026-11-25/a2-ex-changing-room.mp3",
+  "competition": "audio/2026-11-25/a2-w-competition.mp3",
+  "Tara won the art competition.": "audio/2026-11-25/a2-ex-competition.mp3",
+  "I practise five days a week, from Monday to Friday.": "audio/2026-11-25/a2-ks1.mp3",
+  "The ball turns round and round, so it's hard to hit back.": "audio/2026-11-25/a2-ks2.mp3",
+  "But I never miss training.": "audio/2026-11-25/a2-ks3.mp3",
+  "So after a match, I write in a small notebook.": "audio/2026-11-25/a2-ks4.mp3",
+  "I always go to the sports centre straight after school.": "audio/2026-11-25/a2-g1.mp3",
+  "I usually eat rice, chicken and vegetables.": "audio/2026-11-25/a2-g3.mp3",
+  "I always take a big bottle of water with me, because the hall is often very hot.": "audio/2026-11-25/a2-g4.mp3",
+  "Hi everyone, it's Marco! Usually our kitchen is my favourite room. We eat there, I do my homework there, and Dad often plays music there on Sunday mornings. But this week everything is different. Builders are working in our kitchen!": "audio/2026-11-25/a3-p1.mp3",
+  "Our kitchen is very old, so my parents are making it new. Right now, two builders are taking out the old cupboards. They are making a lot of noise. Every morning they arrive at eight o'clock, and they usually leave at five.": "audio/2026-11-25/a3-p2.mp3",
+  "So where are we cooking this week? We aren't cooking at all! We're eating sandwiches and salads for lunch. Grandma lives near us, so we're having dinner at her flat every evening. She usually cooks fish on Tuesdays, and it's delicious!": "audio/2026-11-25/a3-p3.mp3",
+  "The fridge is standing in the living room now. It looks very strange next to the sofa! Our cat, Pepper, doesn't like the builders. She usually sleeps on a chair in the kitchen. This week she's hiding under my bed all day.": "audio/2026-11-25/a3-p4.mp3",
+  "There's dust everywhere. Mum cleans the floor every evening, but in the morning it's dirty again. The water isn't working in the kitchen, so we're washing the plates in the bathroom! My little sister thinks it's funny. I don't!": "audio/2026-11-25/a3-p5.mp3",
+  "As I'm writing this, I can hear a loud drill. But I'm trying to be happy, because the new kitchen looks great in the pictures. It has got a big window and a long table. The builders say it will be ready next Friday.": "audio/2026-11-25/a3-p6.mp3",
+  "Do you ever have builders at your home? What do you do? Tell me in the comments!": "audio/2026-11-25/a3-p7.mp3",
+  "builder": "audio/2026-11-25/a3-w-builder.mp3",
+  "The builder is fixing our roof.": "audio/2026-11-25/a3-ex-builder.mp3",
+  "cupboard": "audio/2026-11-25/a3-w-cupboard.mp3",
+  "The cups are in the cupboard.": "audio/2026-11-25/a3-ex-cupboard.mp3",
+  "noise": "audio/2026-11-25/a3-w-noise.mp3",
+  "Please don't make a noise in the library.": "audio/2026-11-25/a3-ex-noise.mp3",
+  "arrive": "audio/2026-11-25/a3-w-arrive.mp3",
+  "Our train will arrive at six.": "audio/2026-11-25/a3-ex-arrive.mp3",
+  "delicious": "audio/2026-11-25/a3-w-delicious.mp3",
+  "This soup is delicious!": "audio/2026-11-25/a3-ex-delicious.mp3",
+  "strange": "audio/2026-11-25/a3-w-strange.mp3",
+  "I heard a strange sound at night.": "audio/2026-11-25/a3-ex-strange.mp3",
+  "everywhere": "audio/2026-11-25/a3-w-everywhere.mp3",
+  "There are toys everywhere in my room.": "audio/2026-11-25/a3-ex-everywhere.mp3",
+  "drill": "audio/2026-11-25/a3-w-drill.mp3",
+  "Dad used a drill to put up the shelf.": "audio/2026-11-25/a3-ex-drill.mp3",
+  "ready": "audio/2026-11-25/a3-w-ready.mp3",
+  "Dinner is ready!": "audio/2026-11-25/a3-ex-ready.mp3",
+  "Builders are working in our kitchen!": "audio/2026-11-25/a3-ks1.mp3",
+  "Every morning they arrive at eight o'clock, and they usually leave at five.": "audio/2026-11-25/a3-ks2.mp3",
+  "This week she's hiding under my bed all day.": "audio/2026-11-25/a3-ks3.mp3",
+  "But I'm trying to be happy, because the new kitchen looks great in the pictures.": "audio/2026-11-25/a3-ks4.mp3",
+  "She usually sleeps on a chair in the kitchen.": "audio/2026-11-25/a3-g3.mp3"
+ }
+}
