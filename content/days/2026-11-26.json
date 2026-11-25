@@ -1,0 +1,2092 @@
+{
+ "date": "2026-11-26",
+ "headline": "Microwave magic, a windy castle and the missing speech",
+ "teaser": "Why does a microwave make soup hot but not the box? How many steps were there in the castle tower? And what did Tomás leave on his bed?",
+ "articles": [
+  {
+   "id": "k20261126-1",
+   "topic": "Technology",
+   "genre": "Article",
+   "title": "How Does a Microwave Heat Your Food?",
+   "dek": "There is no fire inside a microwave. So how does your soup get hot?",
+   "sources": [
+    {
+     "name": "Simple English Wikipedia: Microwave oven",
+     "url": "https://simple.wikipedia.org/wiki/Microwave_oven"
+    },
+    {
+     "name": "Lemelson-MIT: Percy Spencer",
+     "url": "https://lemelson.mit.edu/resources/percy-spencer"
+    }
+   ],
+   "paras": [
+    "Many families have got a microwave oven in their kitchen. You put in some cold soup, press a button and wait. After two minutes, the soup is hot! But how does it work? There isn't any fire inside a microwave. It doesn't get red and hot like a normal oven. So where does the heat come from?",
+    "The answer is microwaves. A microwave is a kind of invisible wave, a bit like a radio wave. A small machine inside the oven makes them. It is called a magnetron. The waves move around inside the metal box very fast. They go into the food, but only about two or three centimetres deep.",
+    "Most food has got a lot of water in it. There is water in fruit, vegetables, rice and soup. The microwaves make the tiny bits of water in the food move very fast. When they move fast, they get hot. Then the heat goes into the rest of the food.",
+    "Have you ever looked at the round plate inside a microwave? It turns slowly while the food cooks. The waves don't reach every part of the oven in the same way. So the plate moves the food around, and more of it gets hot. But sometimes there are still some cold parts in your food. Then you should stir it and heat it again for a few seconds.",
+    "Don't put any metal in a microwave! A fork or a piece of foil can make sparks. Sparks are very small flashes of light, and they can be dangerous. Use a glass bowl or a plate with a \"microwave safe\" sign.",
+    "Who invented the microwave oven? An American engineer called Percy Spencer. In 1945, he was working with radar machines. One day, he had a snack bar in his pocket, and it melted! He was very surprised. Then he put some popcorn near the machine, and it popped. He didn't need much time to understand. These waves could cook food! Today, there are millions of microwave ovens around the world."
+   ],
+   "words": [
+    {
+     "w": "button",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈbʌt.ən/",
+     "syl": [
+      "but",
+      "ton"
+     ],
+     "def": "a small part you press to start a machine",
+     "ex": "Press the green button to start."
+    },
+    {
+     "w": "wave",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/weɪv/",
+     "syl": [
+      "wave"
+     ],
+     "def": "energy that moves through air, like light or sound",
+     "ex": "A radio wave carries music to your radio."
+    },
+    {
+     "w": "invisible",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ɪnˈvɪz.ə.bəl/",
+     "syl": [
+      "in",
+      "vis",
+      "i",
+      "ble"
+     ],
+     "def": "you cannot see it",
+     "ex": "Air is invisible, but you can feel it."
+    },
+    {
+     "w": "heat",
+     "level": "A2 word",
+     "pos": "noun / verb",
+     "ipa": "/hiːt/",
+     "syl": [
+      "heat"
+     ],
+     "def": "the hot feeling from a fire or the sun; to make hot",
+     "ex": "Can you heat some milk for me?"
+    },
+    {
+     "w": "deep",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/diːp/",
+     "syl": [
+      "deep"
+     ],
+     "def": "going a long way down or in",
+     "ex": "The river is very deep here."
+    },
+    {
+     "w": "stir",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/stɜː/",
+     "syl": [
+      "stir"
+     ],
+     "def": "to move food round and round with a spoon",
+     "ex": "Stir the soup before you eat it."
+    },
+    {
+     "w": "metal",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈmet.əl/",
+     "syl": [
+      "met",
+      "al"
+     ],
+     "def": "a hard material like iron or gold",
+     "ex": "This spoon is made of metal."
+    },
+    {
+     "w": "spark",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/spɑːk/",
+     "syl": [
+      "spark"
+     ],
+     "def": "a very small, quick flash of light or fire",
+     "ex": "A spark jumped out of the fire."
+    },
+    {
+     "w": "engineer",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˌen.dʒɪˈnɪə/",
+     "syl": [
+      "en",
+      "gi",
+      "neer"
+     ],
+     "def": "a person who designs or builds machines",
+     "ex": "My aunt is an engineer at a car factory."
+    },
+    {
+     "w": "melt",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/melt/",
+     "syl": [
+      "melt"
+     ],
+     "def": "to become soft or liquid because of heat",
+     "ex": "Snow will melt quickly in the sun."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "So where does the heat come from?",
+     "kind": "Main idea",
+     "note": "The text answers this question."
+    },
+    {
+     "para": 2,
+     "text": "A small machine inside the oven makes them.",
+     "kind": "Key details",
+     "note": "The magnetron makes the microwaves."
+    },
+    {
+     "para": 3,
+     "text": "When they move fast, they get hot.",
+     "kind": "Cause → effect",
+     "note": "Water moves fast → the water gets hot."
+    },
+    {
+     "para": 3,
+     "text": "Most food has got a lot of water in it.",
+     "kind": "Grammar to notice",
+     "note": "a lot of + water (uncountable)."
+    },
+    {
+     "para": 6,
+     "text": "One day, he had a snack bar in his pocket, and it melted!",
+     "kind": "Time order",
+     "note": "This small accident started a big idea."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to cook soup in a kitchen",
+      "how a microwave oven makes food hot",
+      "why radio waves are dangerous"
+     ],
+     "a": 1,
+     "why": "第1段提问 So where does the heat come from?，后面各段解释微波怎样让食物变热。",
+     "evidence": null,
+     "optWhy": [
+      "第1段只用 some cold soup 举例，全文没教怎么做汤。",
+      "正确。原文 where does the heat come from? → 各段讲 microwaves 加热 = 选项 how a microwave oven makes food hot。",
+      "第2段只说微波 a bit like a radio wave，没说无线电波危险。"
+     ],
+     "traps": [
+      "以偏概全",
+      null,
+      "偷换概念"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段最后一句是问题：So where does the heat come from?"
+      },
+      {
+       "h": "看各段",
+       "t": "microwaves → water → round plate → metal → inventor，都围绕微波炉加热。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What is a magnetron?",
+     "opts": [
+      "a small machine that makes the waves",
+      "a metal box for the food",
+      "a kind of radio"
+     ],
+     "a": 0,
+     "why": "第2段原文：A small machine inside the oven makes them. It is called a magnetron.",
+     "evidence": "A small machine inside the oven makes them.",
+     "optWhy": [
+      "正确。原文 A small machine … makes them. It is called a magnetron = 选项 a small machine that makes the waves。",
+      "metal box 是微波在里面跑的盒子，不是 magnetron。",
+      "原文只说微波 a bit like a radio wave，magnetron 不是收音机。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "望文生义"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "magnetron → 第2段 It is called a magnetron."
+      },
+      {
+       "h": "往前找",
+       "t": "It 指前一句的 A small machine inside the oven，它 makes them（微波）。"
+      }
+     ],
+     "marks": [
+      "It is called a magnetron."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "In paragraph 3, what does \"they\" mean in \"When they move fast, they get hot\"?",
+     "opts": [
+      "the microwaves",
+      "the vegetables",
+      "the tiny bits of water"
+     ],
+     "a": 2,
+     "why": "前一句 The microwaves make the tiny bits of water in the food move very fast，在动的是水的小颗粒。",
+     "evidence": "When they move fast, they get hot.",
+     "optWhy": [
+      "microwaves 是让水动起来的东西，自己不会 get hot。",
+      "vegetables 只是含水食物的例子，不是在快速移动的东西。",
+      "正确。原文 make the tiny bits of water … move very fast. When they move fast = 选项 the tiny bits of water。"
+     ],
+     "traps": [
+      "指代错误",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句：make the tiny bits of water in the food move very fast."
+      },
+      {
+       "h": "代回验证",
+       "t": "When the tiny bits of water move fast, they get hot. 通顺。"
+      }
+     ],
+     "marks": [
+      "The microwaves make the tiny bits of water in the food move very fast."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "The round plate inside a microwave never moves.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：It turns slowly while the food cooks，盘子会转，和 never moves 相反。",
+     "evidence": "It turns slowly while the food cooks.",
+     "optWhy": [
+      "原文说 It turns slowly，盘子在动，不是 never moves。",
+      "正确。原文 It turns slowly while the food cooks ≠ 题干 never moves → Wrong。",
+      "原文明确说了盘子会转，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "round plate → 第4段第1、2句。"
+      },
+      {
+       "h": "对比",
+       "t": "原文 turns slowly，题干 never moves，意思相反 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Percy Spencer's snack bar was a chocolate bar.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第6段只说 he had a snack bar in his pocket, and it melted，没说是什么零食棒。",
+     "evidence": "One day, he had a snack bar in his pocket, and it melted!",
+     "optWhy": [
+      "原文只有 a snack bar，没有 chocolate 这个词。",
+      "原文也没说它不是巧克力，不能判断 Wrong。",
+      "正确。原文 a snack bar 没说是哪种 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "snack bar → 第6段 One day, he had a snack bar in his pocket."
+      },
+      {
+       "h": "找 chocolate",
+       "t": "整段没有 chocolate。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没说相反的话，只是没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what are \"sparks\"?",
+     "opts": [
+      "very small flashes of light",
+      "small pieces of food",
+      "loud noises"
+     ],
+     "a": 0,
+     "why": "第5段紧接着解释：Sparks are very small flashes of light。",
+     "evidence": "Sparks are very small flashes of light, and they can be dangerous.",
+     "optWhy": [
+      "正确。原文 Sparks are very small flashes of light = 选项 very small flashes of light。",
+      "第5段讲的是 metal，不是食物碎块。",
+      "文中没有提到声音 noise。"
+     ],
+     "traps": [
+      null,
+      "望文生义",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看后一句",
+       "t": "生词后面常有解释：Sparks are very small flashes of light."
+      },
+      {
+       "h": "代回验证",
+       "t": "A fork can make small flashes of light，说得通。"
+      }
+     ],
+     "marks": [
+      "A fork or a piece of foil can make sparks."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Countable / uncountable · some / any · much / many",
+    "rule": "Countable nouns have a plural (a fork, two forks). Uncountable nouns have no plural (water, soup, time). Use some in positive sentences and any in negatives and questions. Use many with countable nouns, much with uncountable nouns, and a lot of with both.",
+    "table": [
+     [
+      "countable",
+      "a button, two buttons, many families"
+     ],
+     [
+      "uncountable",
+      "water, soup, heat, time, metal"
+     ],
+     [
+      "some (+)",
+      "You put in some cold soup."
+     ],
+     [
+      "any (− / ?)",
+      "There isn't any fire. Is there any milk?"
+     ],
+     [
+      "much / many",
+      "not much time / many ovens"
+     ],
+     [
+      "a lot of",
+      "a lot of water / a lot of vegetables"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "You put in some cold soup, press a button and wait.",
+      "mark": "some cold soup"
+     },
+     {
+      "para": 1,
+      "text": "There isn't any fire inside a microwave.",
+      "mark": "isn't any"
+     },
+     {
+      "para": 3,
+      "text": "Most food has got a lot of water in it.",
+      "mark": "a lot of water"
+     },
+     {
+      "para": 6,
+      "text": "He didn't need much time to understand.",
+      "mark": "much time"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "How ___ eggs do we need for the cake?",
+      "opts": [
+       "much",
+       "many",
+       "any"
+      ],
+      "a": 1,
+      "why": "Eggs are countable and plural, so use How many."
+     },
+     {
+      "type": "mc",
+      "q": "There isn't ___ bread left. Can you buy a loaf?",
+      "opts": [
+       "some",
+       "many",
+       "any"
+      ],
+      "a": 2,
+      "why": "Bread is uncountable, and the sentence is negative: isn't any."
+     },
+     {
+      "type": "fill",
+      "q": "We haven't got ___ time before the bus comes. Hurry up!",
+      "hint": "(much / many)",
+      "a": "much",
+      "why": "Time is uncountable, so use much."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ some juice in the fridge, but there aren't any apples.",
+      "hint": "(be)",
+      "a": "is / 's",
+      "why": "Juice is uncountable, so it takes a singular verb: there is."
+     },
+     {
+      "type": "fill",
+      "q": "Would you like ___ more rice? There is a lot in the pan.",
+      "hint": "(some / any)",
+      "a": "some",
+      "why": "In offers with Would you like…?, we use some."
+     },
+     {
+      "type": "fill",
+      "q": "My grandma ___ uses a microwave. She doesn't like them!",
+      "hint": "(adverb: 0%)",
+      "a": "never",
+      "why": "0% = never, and it goes before the main verb."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261126-1-k1",
+     "tag": "Microwaves",
+     "fact": "A small machine called a magnetron makes invisible waves inside the oven.",
+     "q": "What makes the microwaves?",
+     "opts": [
+      "a fire",
+      "a magnetron",
+      "the round plate"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261126-1-k2",
+     "tag": "Water",
+     "fact": "The waves make the tiny bits of water in food move fast, and they get hot.",
+     "q": "What gets hot first in the food?",
+     "opts": [
+      "the tiny bits of water",
+      "the metal box",
+      "the plate"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261126-1-k3",
+     "tag": "Plate",
+     "fact": "The plate turns so more of the food gets hot.",
+     "q": "Why does the plate turn?",
+     "opts": [
+      "to make sparks",
+      "to cool the food",
+      "so more of the food gets hot"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261126-1-k4",
+     "tag": "Metal",
+     "fact": "Metal, like a fork or foil, can make sparks in a microwave.",
+     "q": "What can a fork make in a microwave?",
+     "opts": [
+      "sparks",
+      "popcorn",
+      "radio waves"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261126-1-k5",
+     "tag": "Inventor",
+     "fact": "In 1945, Percy Spencer's snack bar melted near a radar machine.",
+     "q": "Who invented the microwave oven?",
+     "opts": [
+      "a cook",
+      "a teacher",
+      "an engineer called Percy Spencer"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Microwave oven",
+    "question": "How does a microwave heat food?",
+    "branches": [
+     {
+      "title": "Waves",
+      "paras": "1–2",
+      "blanks": [
+       "invisible waves",
+       "a magnetron"
+      ],
+      "kps": [
+       "k20261126-1-k1"
+      ]
+     },
+     {
+      "title": "Water",
+      "paras": "3",
+      "blanks": [
+       "move very fast",
+       "get hot"
+      ],
+      "kps": [
+       "k20261126-1-k2"
+      ]
+     },
+     {
+      "title": "Safety",
+      "paras": "4–5",
+      "blanks": [
+       "the plate turns",
+       "no metal"
+      ],
+      "kps": [
+       "k20261126-1-k3",
+       "k20261126-1-k4"
+      ]
+     },
+     {
+      "title": "History",
+      "paras": "6",
+      "blanks": [
+       "a melted snack bar"
+      ],
+      "kps": [
+       "k20261126-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a small fire inside",
+     "invented in 2005"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the text.",
+    "model": "A microwave makes invisible waves, and they make the water in food hot. You shouldn't put metal inside because it can make sparks.",
+    "options": [
+     {
+      "t": "A machine in the oven makes invisible waves called microwaves.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "A small machine inside the oven makes them."
+     },
+     {
+      "t": "The waves make the water in food move fast and get hot.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "When they move fast, they get hot."
+     },
+     {
+      "t": "Percy Spencer found the idea when his snack bar melted.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "One day, he had a snack bar in his pocket, and it melted!"
+     },
+     {
+      "t": "The waves go about two or three centimetres into food.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "They go into the food, but only about two or three centimetres deep."
+     },
+     {
+      "t": "Microwave food is better for you than oven food.",
+      "ok": false,
+      "why": "The text never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "It is fine to put a metal fork in a microwave.",
+      "ok": false,
+      "why": "Wrong: metal can make sparks.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "A fork or a piece of foil can make sparks."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What food do you usually heat in a microwave? Do you think microwaves are useful? Why?",
+    "hint": "I usually heat … / I think microwaves are useful because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You are going to cook dinner for your family tonight. Write a message to your friend about it. Write 25 words or more.",
+    "steps": [
+     "Say what you are going to cook.",
+     "Say what food you need to buy.",
+     "Ask your friend to help you."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261126-2",
+   "topic": "Places & buildings",
+   "genre": "Email",
+   "title": "A Windy Day at Greystone Castle",
+   "dek": "Sofia climbed a castle tower. Her grandma has a castle story too!",
+   "sources": [],
+   "paras": [
+    "Sofia is thirteen. Last week, her class went on a school trip to Greystone Castle. Read her emails with her grandma.",
+    "Hi Grandma, How are you? I'm home again now. Our trip to Greystone Castle was amazing! The bus journey was long, but my friends were with me, so it wasn't boring. When we arrived, the weather was cold and windy. The castle was on a hill above the sea. Its walls were very thick and grey.",
+    "Inside, there were lots of dark rooms and narrow stairs. Our guide was a tall man called Mr Okafor. He was really funny. The best part was the tower. There were 150 steps to the top! My legs were tired, but the view was wonderful. Were you ever in a castle when you were young? Love, Sofia",
+    "Dear Sofia, Thank you for your lovely email. Yes, I was! When I was ten, my family lived near an old castle in Spain. It wasn't a museum then. It was empty, and the gate was always open. My brother and I were often there after school. We were knights and princesses in our games!",
+    "Once, we were inside the castle when a big storm started. It was very dark, and we were scared. We weren't at home for dinner, so our parents were very worried. When we got home, we were wet and dirty. My mother wasn't happy at all! Was there a gift shop at your castle? Love, Grandma",
+    "Hi Grandma, What a great story! Yes, there was a small gift shop. The postcards were cheap, so I bought one for you. It's a photo of the tower. It's on the way to you now. Next summer, can we visit your castle in Spain together? Love, Sofia"
+   ],
+   "words": [
+    {
+     "w": "castle",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɑː.səl/",
+     "syl": [
+      "cas",
+      "tle"
+     ],
+     "def": "a big, strong old building with thick walls",
+     "ex": "A king lived in that castle long ago."
+    },
+    {
+     "w": "journey",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdʒɜː.ni/",
+     "syl": [
+      "jour",
+      "ney"
+     ],
+     "def": "a trip from one place to another",
+     "ex": "The journey to school takes twenty minutes."
+    },
+    {
+     "w": "thick",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/θɪk/",
+     "syl": [
+      "thick"
+     ],
+     "def": "wide from one side to the other; not thin",
+     "ex": "I'm reading a very thick book."
+    },
+    {
+     "w": "narrow",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnær.əʊ/",
+     "syl": [
+      "nar",
+      "row"
+     ],
+     "def": "not wide",
+     "ex": "The street is too narrow for buses."
+    },
+    {
+     "w": "guide",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ɡaɪd/",
+     "syl": [
+      "guide"
+     ],
+     "def": "a person who shows visitors a place",
+     "ex": "Our guide told us about the old city."
+    },
+    {
+     "w": "tower",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtaʊ.ə/",
+     "syl": [
+      "tow",
+      "er"
+     ],
+     "def": "a tall, thin building or part of a building",
+     "ex": "You can see the sea from the tower."
+    },
+    {
+     "w": "view",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/vjuː/",
+     "syl": [
+      "view"
+     ],
+     "def": "what you can see from a place",
+     "ex": "My bedroom has a view of the park."
+    },
+    {
+     "w": "knight",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/naɪt/",
+     "syl": [
+      "knight"
+     ],
+     "def": "a soldier on a horse in old times",
+     "ex": "The knight rode his white horse to the castle."
+    },
+    {
+     "w": "storm",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/stɔːm/",
+     "syl": [
+      "storm"
+     ],
+     "def": "very bad weather with strong wind and rain",
+     "ex": "We stayed inside during the storm."
+    },
+    {
+     "w": "worried",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈwʌr.id/",
+     "syl": [
+      "wor",
+      "ried"
+     ],
+     "def": "afraid that something bad can happen",
+     "ex": "Mum was worried because I was late."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "Our trip to Greystone Castle was amazing!",
+     "kind": "Main idea",
+     "note": "Sofia loved her school trip."
+    },
+    {
+     "para": 3,
+     "text": "My legs were tired, but the view was wonderful.",
+     "kind": "Opinion",
+     "note": "Tired, but happy: the view was worth it."
+    },
+    {
+     "para": 4,
+     "text": "My brother and I were often there after school.",
+     "kind": "Grammar to notice",
+     "note": "My brother and I = we, so use were."
+    },
+    {
+     "para": 5,
+     "text": "We weren't at home for dinner, so our parents were very worried.",
+     "kind": "Cause → effect",
+     "note": "Late for dinner → worried parents."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Why wasn't the bus journey boring for Sofia?",
+     "opts": [
+      "Her friends were with her.",
+      "The bus was very fast.",
+      "She watched a film on the bus."
+     ],
+     "a": 0,
+     "why": "第2段原文：my friends were with me, so it wasn't boring。",
+     "evidence": "The bus journey was long, but my friends were with me, so it wasn't boring.",
+     "optWhy": [
+      "正确。原文 my friends were with me, so it wasn't boring = 选项 Her friends were with her。",
+      "原文说 The bus journey was long，没说车快。",
+      "文中没有提到看电影 film。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "bus journey → 第2段。"
+      },
+      {
+       "h": "找原因词",
+       "t": "so 前面是原因：my friends were with me。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How did Sofia feel at the top of the tower?",
+     "opts": [
+      "bored and cold",
+      "tired but happy with the view",
+      "scared of the height"
+     ],
+     "a": 1,
+     "why": "第3段原文：My legs were tired, but the view was wonderful。",
+     "evidence": "My legs were tired, but the view was wonderful.",
+     "optWhy": [
+      "原文说 The best part was the tower，一点也不 bored。",
+      "正确。原文 My legs were tired, but the view was wonderful = 选项 tired but happy with the view。",
+      "文中没说她怕高 scared。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "tower → 第3段 The best part was the tower."
+      },
+      {
+       "h": "看转折",
+       "t": "tired, but … wonderful：累，但是景色很棒。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "In paragraph 4, what does \"It\" mean in \"It wasn't a museum then\"?",
+     "opts": [
+      "Greystone Castle",
+      "Grandma's school",
+      "the old castle in Spain"
+     ],
+     "a": 2,
+     "why": "前一句 my family lived near an old castle in Spain，It 指西班牙那座古堡。",
+     "evidence": "It wasn't a museum then.",
+     "optWhy": [
+      "Greystone Castle 是 Sofia 去的城堡，奶奶这段讲的是她小时候的城堡。",
+      "文中奶奶的这封信没有提到学校的样子。",
+      "正确。原文 lived near an old castle in Spain. It wasn't a museum = 选项 the old castle in Spain。"
+     ],
+     "traps": [
+      "指代错误",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句最近的单数名词：an old castle in Spain。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "第4段是奶奶写的，讲她十岁时的城堡，不是 Greystone。"
+      }
+     ],
+     "marks": [
+      "my family lived near an old castle in Spain"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Grandma and her brother often played at the castle after school.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第4段原文：My brother and I were often there after school. We were knights and princesses in our games!",
+     "evidence": "My brother and I were often there after school.",
+     "optWhy": [
+      "正确。原文 My brother and I were often there after school … in our games = 题干 often played at the castle after school。",
+      "原文意思和题干一致，不是相反。",
+      "原文明确说了 often there after school，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "brother, after school → 第4段。"
+      },
+      {
+       "h": "对比",
+       "t": "were often there + in our games = often played there → Right。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Mr Okafor works at the castle every day.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第3段只说 Our guide was a tall man called Mr Okafor. He was really funny，没说他多久上一次班。",
+     "evidence": "Our guide was a tall man called Mr Okafor.",
+     "optWhy": [
+      "文中没有 every day，不能说 Right。",
+      "原文也没说他不是每天上班，不能判断 Wrong。",
+      "正确。原文只讲他高、有趣，工作时间没提 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Mr Okafor → 第3段。"
+      },
+      {
+       "h": "找 every day",
+       "t": "只有 tall 和 really funny，没有工作时间。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没说相反的话，只是没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "What does Sofia want to do next summer?",
+     "opts": [
+      "go back to Greystone Castle",
+      "visit Grandma's castle in Spain with her",
+      "work in a gift shop"
+     ],
+     "a": 1,
+     "why": "第6段原文：Next summer, can we visit your castle in Spain together?",
+     "evidence": "Next summer, can we visit your castle in Spain together?",
+     "optWhy": [
+      "她想去的是 your castle in Spain，不是 Greystone。",
+      "正确。原文 visit your castle in Spain together = 选项 visit Grandma's castle in Spain with her。",
+      "gift shop 只是她买明信片的地方，没说想在那里工作。"
+     ],
+     "traps": [
+      "细节偷换",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "next summer → 第6段最后一句。"
+      },
+      {
+       "h": "看指代",
+       "t": "your castle = 奶奶的城堡，together = 和奶奶一起。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple of be: was / were",
+    "rule": "Use was with I, he, she and it. Use were with you, we and they. The negatives are wasn't and weren't. For questions, put was or were first: Was it fun? Were you tired?",
+    "table": [
+     [
+      "I / he / she / it + was",
+      "The castle was on a hill."
+     ],
+     [
+      "you / we / they + were",
+      "My friends were with me."
+     ],
+     [
+      "wasn't",
+      "It wasn't boring."
+     ],
+     [
+      "weren't",
+      "We weren't at home."
+     ],
+     [
+      "Was … ?",
+      "Was there a gift shop?"
+     ],
+     [
+      "Were … ?",
+      "Were you ever in a castle?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "The bus journey was long, but my friends were with me, so it wasn't boring.",
+      "mark": "were"
+     },
+     {
+      "para": 3,
+      "text": "Were you ever in a castle when you were young?",
+      "mark": "Were you"
+     },
+     {
+      "para": 5,
+      "text": "We weren't at home for dinner, so our parents were very worried.",
+      "mark": "weren't"
+     },
+     {
+      "para": 5,
+      "text": "Was there a gift shop at your castle?",
+      "mark": "Was there"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My brother and I ___ very tired after the long walk.",
+      "opts": [
+       "was",
+       "were",
+       "are"
+      ],
+      "a": 1,
+      "why": "My brother and I = we, and the walk is in the past: were."
+     },
+     {
+      "type": "mc",
+      "q": "___ there many people at the museum yesterday?",
+      "opts": [
+       "Was",
+       "Were",
+       "Did"
+      ],
+      "a": 1,
+      "why": "Many people is plural, so the question is Were there…?"
+     },
+     {
+      "type": "fill",
+      "q": "The castle gate ___ open, so we couldn't go inside.",
+      "hint": "(not be)",
+      "a": "wasn't / was not",
+      "why": "The gate = it, so the negative is wasn't."
+     },
+     {
+      "type": "fill",
+      "q": "___ your teacher with you on the trip last week?",
+      "hint": "(be)",
+      "a": "Was",
+      "why": "Your teacher = he or she, so the past question starts with Was."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ any windows in the old tower. It was very dark!",
+      "hint": "(not be)",
+      "a": "weren't / were not",
+      "why": "Windows is plural, so use there weren't."
+     },
+     {
+      "type": "fill",
+      "q": "Last year there ___ a lot of snow, but this year there isn't much.",
+      "hint": "(be)",
+      "a": "was",
+      "why": "Snow is uncountable, so it takes was in the past."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261126-2-k1",
+     "tag": "The trip",
+     "fact": "The bus journey was long, but Sofia's friends were with her.",
+     "q": "What was the bus journey like?",
+     "opts": [
+      "short",
+      "long",
+      "dangerous"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261126-2-k2",
+     "tag": "The tower",
+     "fact": "There were 150 steps to the top of the tower, and the view was wonderful.",
+     "q": "How many steps were there to the top?",
+     "opts": [
+      "150",
+      "50",
+      "15"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261126-2-k3",
+     "tag": "Grandma's castle",
+     "fact": "Grandma's castle in Spain was empty, and the gate was always open.",
+     "q": "What was Grandma's castle like?",
+     "opts": [
+      "a busy museum",
+      "a hotel",
+      "empty, with an open gate"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261126-2-k4",
+     "tag": "The storm",
+     "fact": "Grandma and her brother were in the castle in a storm, and their parents were worried.",
+     "q": "Why were Grandma's parents worried?",
+     "opts": [
+      "The children weren't home for dinner.",
+      "The castle was on fire.",
+      "The children were at school."
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261126-2-k5",
+     "tag": "Next summer",
+     "fact": "Sofia sent a postcard and wants to visit Grandma's castle next summer.",
+     "q": "What did Sofia send to Grandma?",
+     "opts": [
+      "a photo album",
+      "a book",
+      "a postcard"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Two castles",
+    "question": "What happened at the two castles?",
+    "branches": [
+     {
+      "title": "Journey",
+      "paras": "1–2",
+      "blanks": [
+       "long but fun",
+       "cold and windy"
+      ],
+      "kps": [
+       "k20261126-2-k1"
+      ]
+     },
+     {
+      "title": "Inside",
+      "paras": "3",
+      "blanks": [
+       "narrow stairs",
+       "150 steps"
+      ],
+      "kps": [
+       "k20261126-2-k2"
+      ]
+     },
+     {
+      "title": "Grandma",
+      "paras": "4–5",
+      "blanks": [
+       "an empty castle",
+       "a big storm"
+      ],
+      "kps": [
+       "k20261126-2-k3",
+       "k20261126-2-k4"
+      ]
+     },
+     {
+      "title": "What next",
+      "paras": "6",
+      "blanks": [
+       "visit Spain together"
+      ],
+      "kps": [
+       "k20261126-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a night in the tower",
+     "a hot, sunny day"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the emails.",
+    "model": "Sofia's castle trip was cold, but the view from the tower was wonderful. Grandma was often in an old castle when she was young.",
+    "options": [
+     {
+      "t": "Sofia's school trip to Greystone Castle was amazing.",
+      "ok": true,
+      "why": "This is the main idea of Sofia's first email.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Our trip to Greystone Castle was amazing!"
+     },
+     {
+      "t": "As a child, Grandma often played in an old castle in Spain.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "My brother and I were often there after school."
+     },
+     {
+      "t": "Once Grandma was in the castle during a big storm.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Once, we were inside the castle when a big storm started."
+     },
+     {
+      "t": "The guide was a tall, funny man.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "He was really funny."
+     },
+     {
+      "t": "Sofia's class stayed at the castle for three days.",
+      "ok": false,
+      "why": "The emails never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The postcards in the gift shop were very expensive.",
+      "ok": false,
+      "why": "Wrong: the postcards were cheap.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "The postcards were cheap, so I bought one for you."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Tell me about an old building you visited. Where was it? What was it like?",
+    "hint": "Last year I visited … / It was … and there were …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You went on a school trip yesterday. Write an email to your cousin. Write 25 words or more.",
+    "steps": [
+     "Say where you went.",
+     "Say what the weather was like.",
+     "Say what the best part was."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · male"
+  },
+  {
+   "id": "k20261126-3",
+   "topic": "Personal feelings & experiences",
+   "genre": "Story",
+   "title": "The Missing Speech",
+   "dek": "Tomás practised his speech all week. Then his cards disappeared.",
+   "sources": [],
+   "paras": [
+    "Tomás was nervous all week. On Friday, he had to give a speech in front of the whole school. The topic was \"My hero\". He chose his grandfather. His grandfather was a fisherman for forty years.",
+    "Every evening, Tomás practised in his bedroom. He wrote his speech on five small cards. He read it to his mum, his dad and even the cat. \"You're ready,\" his dad said on Thursday evening. But Tomás didn't feel ready. That night, he slept badly.",
+    "On Friday morning, Tomás got up late. He quickly put on his uniform, took his bag and ran to the bus stop. At school, the hall was full. Hundreds of students sat on chairs and talked loudly. Tomás opened his bag. His heart stopped. The cards weren't there!",
+    "He looked in every pocket. He looked under his chair. Nothing. Then he remembered. The cards were still on his bed at home. \"What am I going to do?\" he thought. His hands started to shake. Then his teacher, Ms Lee, called his name.",
+    "Tomás walked slowly to the front. He looked at all the faces. For a moment, he couldn't speak. Then he thought about his grandfather. He thought about the small blue boat and the cold winter mornings at sea. Suddenly, the words came. He didn't need the cards. He knew the story by heart.",
+    "Tomás talked for three minutes. He told funny stories about his grandfather, and the students laughed. At the end, everyone clapped. Ms Lee smiled and said, \"That was the best speech today.\" After school, Tomás phoned his grandfather and told him everything. His grandfather laughed. \"Next time, forget your cards again!\" he said."
+   ],
+   "words": [
+    {
+     "w": "nervous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɜː.vəs/",
+     "syl": [
+      "ner",
+      "vous"
+     ],
+     "def": "a little afraid before something important",
+     "ex": "I always feel nervous before a test."
+    },
+    {
+     "w": "speech",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/spiːtʃ/",
+     "syl": [
+      "speech"
+     ],
+     "def": "a talk you give to a group of people",
+     "ex": "Our head teacher gave a short speech."
+    },
+    {
+     "w": "hero",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈhɪə.rəʊ/",
+     "syl": [
+      "he",
+      "ro"
+     ],
+     "def": "a person you love and think is great",
+     "ex": "My mum is my hero."
+    },
+    {
+     "w": "fisherman",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfɪʃ.ə.mən/",
+     "syl": [
+      "fish",
+      "er",
+      "man"
+     ],
+     "def": "a person whose job is catching fish",
+     "ex": "The fisherman went out in his boat at five."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something many times to get better",
+     "ex": "I practise the piano every day."
+    },
+    {
+     "w": "whole",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/həʊl/",
+     "syl": [
+      "whole"
+     ],
+     "def": "all of something",
+     "ex": "She ate the whole pizza!"
+    },
+    {
+     "w": "hall",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/hɔːl/",
+     "syl": [
+      "hall"
+     ],
+     "def": "a big room for meetings or shows",
+     "ex": "We have our school concert in the hall."
+    },
+    {
+     "w": "shake",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ʃeɪk/",
+     "syl": [
+      "shake"
+     ],
+     "def": "to move quickly up and down or side to side",
+     "ex": "My legs shake when I'm scared."
+    },
+    {
+     "w": "suddenly",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈsʌd.ən.li/",
+     "syl": [
+      "sud",
+      "den",
+      "ly"
+     ],
+     "def": "very quickly, when you don't expect it",
+     "ex": "Suddenly, the lights went out."
+    },
+    {
+     "w": "by heart",
+     "level": "Topic word",
+     "pos": "phrase",
+     "ipa": "/baɪ ˈhɑːt/",
+     "syl": [
+      "by",
+      "heart"
+     ],
+     "def": "from memory, without reading",
+     "ex": "I know this song by heart."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Tomás was nervous all week.",
+     "kind": "Main idea",
+     "note": "The story is about his feelings before a big speech."
+    },
+    {
+     "para": 2,
+     "text": "He wrote his speech on five small cards.",
+     "kind": "Grammar to notice",
+     "note": "write → wrote: an irregular past form."
+    },
+    {
+     "para": 4,
+     "text": "The cards were still on his bed at home.",
+     "kind": "Key details",
+     "note": "This is the big problem in the story."
+    },
+    {
+     "para": 5,
+     "text": "He knew the story by heart.",
+     "kind": "Cause → effect",
+     "note": "He practised a lot, so he didn't need the cards."
+    },
+    {
+     "para": 6,
+     "text": "At the end, everyone clapped.",
+     "kind": "Time order",
+     "note": "The happy ending."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the story mainly about?",
+     "opts": [
+      "a boy who forgot his cards but still gave a great speech",
+      "a boy who went fishing with his grandfather",
+      "a teacher who lost a student's speech"
+     ],
+     "a": 0,
+     "why": "Tomás 把卡片忘在家（第4段），却凭记忆讲得很好（第5–6段 That was the best speech today）。",
+     "evidence": null,
+     "optWhy": [
+      "正确。原文 The cards were still on his bed … He knew the story by heart … the best speech = 选项 forgot his cards but still gave a great speech。",
+      "爷爷是 fisherman，但故事里 Tomás 没有去钓鱼。",
+      "卡片是 Tomás 自己落在家里的，不是老师弄丢的。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "找问题",
+       "t": "第3–4段：The cards weren't there! … still on his bed at home."
+      },
+      {
+       "h": "找结局",
+       "t": "第6段：That was the best speech today."
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Where did Tomás write his speech?",
+     "opts": [
+      "on his phone",
+      "on five small cards",
+      "in a notebook"
+     ],
+     "a": 1,
+     "why": "第2段原文：He wrote his speech on five small cards。",
+     "evidence": "He wrote his speech on five small cards.",
+     "optWhy": [
+      "文中没有提到手机 phone。",
+      "正确。原文 He wrote his speech on five small cards = 选项 on five small cards。",
+      "文中没有提到笔记本 notebook。"
+     ],
+     "traps": [
+      "无中生有",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "wrote → 第2段第2句。"
+      },
+      {
+       "h": "找关键词",
+       "t": "on five small cards：写在五张小卡片上。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 2,
+     "q": "Tomás felt ready on Thursday evening.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第2段：爸爸说 You're ready，But Tomás didn't feel ready。",
+     "evidence": "But Tomás didn't feel ready.",
+     "optWhy": [
+      "说 ready 的是爸爸，不是 Tomás 自己的感觉。",
+      "正确。原文 Tomás didn't feel ready ≠ 题干 felt ready → Wrong。",
+      "原文明确说了他的感觉，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "指代错误",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Thursday evening → 第2段 his dad said on Thursday evening."
+      },
+      {
+       "h": "看转折",
+       "t": "But Tomás didn't feel ready：爸爸觉得行，他自己不觉得。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Where were the cards?",
+     "opts": [
+      "in his pocket",
+      "under his chair",
+      "on his bed at home"
+     ],
+     "a": 2,
+     "why": "第4段原文：The cards were still on his bed at home。",
+     "evidence": "The cards were still on his bed at home.",
+     "optWhy": [
+      "他找了 every pocket，结果 Nothing。",
+      "他也找了 under his chair，同样没有。",
+      "正确。原文 still on his bed at home = 选项 on his bed at home。"
+     ],
+     "traps": [
+      "细节偷换",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "第4段：He looked in every pocket. He looked under his chair. Nothing."
+      },
+      {
+       "h": "小心干扰",
+       "t": "pocket 和 chair 是他找过但没找到的地方。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 4,
+     "q": "How did Tomás feel when he remembered the cards were at home?",
+     "opts": [
+      "very worried",
+      "bored",
+      "angry with Ms Lee"
+     ],
+     "a": 0,
+     "why": "第4段：What am I going to do? … His hands started to shake，说明他非常着急害怕。",
+     "evidence": "His hands started to shake.",
+     "optWhy": [
+      "正确。原文 What am I going to do? … His hands started to shake = 选项 very worried。",
+      "手都发抖了，不是无聊 bored。",
+      "Ms Lee 只是叫了他的名字，他没有生老师的气。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "找表现",
+       "t": "\"What am I going to do?\" + His hands started to shake."
+      },
+      {
+       "h": "推感受",
+       "t": "不知道怎么办 + 手抖 = very worried。"
+      }
+     ],
+     "marks": [
+      "\"What am I going to do?\" he thought."
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 5,
+     "q": "In paragraph 5, what does \"by heart\" mean?",
+     "opts": [
+      "with a lot of love",
+      "with a sad feeling",
+      "from memory, without reading"
+     ],
+     "a": 2,
+     "why": "第5段前一句 He didn't need the cards，不用看卡片也会讲，所以 by heart = 凭记忆。",
+     "evidence": "He knew the story by heart.",
+     "optWhy": [
+      "heart 有心、爱的意思，但这里讲的是不用看卡片。",
+      "文中 the words came，不是难过。",
+      "正确。原文 He didn't need the cards → by heart = 选项 from memory, without reading。"
+     ],
+     "traps": [
+      "望文生义",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "看前一句",
+       "t": "He didn't need the cards."
+      },
+      {
+       "h": "小心干扰",
+       "t": "别按字面理解 heart = 心；by heart 是背下来。"
+      }
+     ],
+     "marks": [
+      "He didn't need the cards."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple: regular and irregular verbs",
+    "rule": "Regular verbs add -ed in the past: walk → walked, practise → practised. Many common verbs are irregular and have a special past form: write → wrote, run → ran. The past form is the same for I, you, he, she, we and they.",
+    "table": [
+     [
+      "practise",
+      "practised"
+     ],
+     [
+      "write",
+      "wrote"
+     ],
+     [
+      "get up",
+      "got up"
+     ],
+     [
+      "run",
+      "ran"
+     ],
+     [
+      "know",
+      "knew"
+     ],
+     [
+      "tell",
+      "told"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Every evening, Tomás practised in his bedroom.",
+      "mark": "practised"
+     },
+     {
+      "para": 2,
+      "text": "He wrote his speech on five small cards.",
+      "mark": "wrote"
+     },
+     {
+      "para": 3,
+      "text": "He quickly put on his uniform, took his bag and ran to the bus stop.",
+      "mark": "ran"
+     },
+     {
+      "para": 5,
+      "text": "He knew the story by heart.",
+      "mark": "knew"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Yesterday Mia ___ a speech about her favourite book.",
+      "opts": [
+       "give",
+       "gave",
+       "gived"
+      ],
+      "a": 1,
+      "why": "Give is irregular: give → gave."
+     },
+     {
+      "type": "mc",
+      "q": "We ___ very nervous before the concert last night.",
+      "opts": [
+       "was",
+       "were",
+       "are"
+      ],
+      "a": 1,
+      "why": "We + past of be = were."
+     },
+     {
+      "type": "fill",
+      "q": "Last week our class ___ a play for the whole school.",
+      "hint": "(practise)",
+      "a": "practised",
+      "why": "Practise is regular and ends in -e, so just add -d."
+     },
+     {
+      "type": "fill",
+      "q": "Ben ___ his phone at home, so he couldn't call me.",
+      "hint": "(leave)",
+      "a": "left",
+      "why": "Leave is irregular: leave → left."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ to school this morning because I was late.",
+      "hint": "(run)",
+      "a": "ran",
+      "why": "Run is irregular: run → ran."
+     },
+     {
+      "type": "fill",
+      "q": "The students ___ when the teacher told a funny story.",
+      "hint": "(laugh)",
+      "a": "laughed",
+      "why": "Laugh is regular, so add -ed."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261126-3-k1",
+     "tag": "The speech",
+     "fact": "Tomás had to give a speech called \"My hero\" about his grandfather.",
+     "q": "Who was Tomás's hero?",
+     "opts": [
+      "his teacher",
+      "his grandfather",
+      "his dad"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261126-3-k2",
+     "tag": "Practice",
+     "fact": "Tomás practised every evening and wrote his speech on five cards.",
+     "q": "When did Tomás practise?",
+     "opts": [
+      "every evening",
+      "on Friday morning",
+      "at lunch"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261126-3-k3",
+     "tag": "The problem",
+     "fact": "On Friday, Tomás left his cards on his bed at home.",
+     "q": "What did Tomás forget?",
+     "opts": [
+      "his uniform",
+      "his bag",
+      "his speech cards"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261126-3-k4",
+     "tag": "The ending",
+     "fact": "Tomás knew his speech by heart, and everyone clapped at the end.",
+     "q": "What did Ms Lee say?",
+     "opts": [
+      "That was the best speech today.",
+      "Next time, bring your cards.",
+      "Please sit down."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "The missing speech",
+    "question": "How did Tomás give his speech without his cards?",
+    "branches": [
+     {
+      "title": "Before",
+      "paras": "1–2",
+      "blanks": [
+       "nervous all week",
+       "five small cards"
+      ],
+      "kps": [
+       "k20261126-3-k1",
+       "k20261126-3-k2"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "3–4",
+      "blanks": [
+       "cards on his bed"
+      ],
+      "kps": [
+       "k20261126-3-k3"
+      ]
+     },
+     {
+      "title": "Speech",
+      "paras": "5",
+      "blanks": [
+       "thought about grandfather",
+       "knew it by heart"
+      ],
+      "kps": [
+       "k20261126-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "6",
+      "blanks": [
+       "everyone clapped"
+      ],
+      "kps": [
+       "k20261126-3-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "read from his phone",
+     "the students left"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "Tomás left his speech cards at home, so he was very worried. But he knew the story by heart because he practised a lot.",
+    "options": [
+     {
+      "t": "Tomás practised his speech about his grandfather every evening.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 1 and 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Every evening, Tomás practised in his bedroom."
+     },
+     {
+      "t": "On Friday, he found that his cards were at home.",
+      "ok": true,
+      "why": "This is the problem in paragraphs 3 and 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "The cards were still on his bed at home."
+     },
+     {
+      "t": "He gave his speech from memory, and everyone clapped.",
+      "ok": true,
+      "why": "This is how the story ends.",
+      "type": "main",
+      "para": 6,
+      "evidence": "At the end, everyone clapped."
+     },
+     {
+      "t": "Tomás read his speech to the cat.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "He read it to his mum, his dad and even the cat."
+     },
+     {
+      "t": "Tomás's grandfather came to the school hall.",
+      "ok": false,
+      "why": "The story never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Tomás slept very well the night before the speech.",
+      "ok": false,
+      "why": "Wrong: he slept badly.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "That night, he slept badly."
+     }
+    ]
+   },
+   "speak": {
+    "p": "When did you last feel nervous? What happened?",
+    "hint": "I felt nervous when … / In the end, I …",
+    "sec": 45
+   },
+   "write": {
+    "p": "Write a story that begins: \"I opened my bag, and my homework wasn't there!\" Write 35 words or more.",
+    "steps": [
+     "Say where you were and how you felt.",
+     "Say what you did next.",
+     "Say how the story ended."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · female"
+  }
+ ],
+ "audio": {
+  "Many families have got a microwave oven in their kitchen. You put in some cold soup, press a button and wait. After two minutes, the soup is hot! But how does it work? There isn't any fire inside a microwave. It doesn't get red and hot like a normal oven. So where does the heat come from?": "audio/2026-11-26/a1-p1.mp3",
+  "The answer is microwaves. A microwave is a kind of invisible wave, a bit like a radio wave. A small machine inside the oven makes them. It is called a magnetron. The waves move around inside the metal box very fast. They go into the food, but only about two or three centimetres deep.": "audio/2026-11-26/a1-p2.mp3",
+  "Most food has got a lot of water in it. There is water in fruit, vegetables, rice and soup. The microwaves make the tiny bits of water in the food move very fast. When they move fast, they get hot. Then the heat goes into the rest of the food.": "audio/2026-11-26/a1-p3.mp3",
+  "Have you ever looked at the round plate inside a microwave? It turns slowly while the food cooks. The waves don't reach every part of the oven in the same way. So the plate moves the food around, and more of it gets hot. But sometimes there are still some cold parts in your food. Then you should stir it and heat it again for a few seconds.": "audio/2026-11-26/a1-p4.mp3",
+  "Don't put any metal in a microwave! A fork or a piece of foil can make sparks. Sparks are very small flashes of light, and they can be dangerous. Use a glass bowl or a plate with a \"microwave safe\" sign.": "audio/2026-11-26/a1-p5.mp3",
+  "Who invented the microwave oven? An American engineer called Percy Spencer. In 1945, he was working with radar machines. One day, he had a snack bar in his pocket, and it melted! He was very surprised. Then he put some popcorn near the machine, and it popped. He didn't need much time to understand. These waves could cook food! Today, there are millions of microwave ovens around the world.": "audio/2026-11-26/a1-p6.mp3",
+  "button": "audio/2026-11-26/a1-w-button.mp3",
+  "Press the green button to start.": "audio/2026-11-26/a1-ex-button.mp3",
+  "wave": "audio/2026-11-26/a1-w-wave.mp3",
+  "A radio wave carries music to your radio.": "audio/2026-11-26/a1-ex-wave.mp3",
+  "invisible": "audio/2026-11-26/a1-w-invisible.mp3",
+  "Air is invisible, but you can feel it.": "audio/2026-11-26/a1-ex-invisible.mp3",
+  "heat": "audio/2026-11-26/a1-w-heat.mp3",
+  "Can you heat some milk for me?": "audio/2026-11-26/a1-ex-heat.mp3",
+  "deep": "audio/2026-11-26/a1-w-deep.mp3",
+  "The river is very deep here.": "audio/2026-11-26/a1-ex-deep.mp3",
+  "stir": "audio/2026-11-26/a1-w-stir.mp3",
+  "Stir the soup before you eat it.": "audio/2026-11-26/a1-ex-stir.mp3",
+  "metal": "audio/2026-11-26/a1-w-metal.mp3",
+  "This spoon is made of metal.": "audio/2026-11-26/a1-ex-metal.mp3",
+  "spark": "audio/2026-11-26/a1-w-spark.mp3",
+  "A spark jumped out of the fire.": "audio/2026-11-26/a1-ex-spark.mp3",
+  "engineer": "audio/2026-11-26/a1-w-engineer.mp3",
+  "My aunt is an engineer at a car factory.": "audio/2026-11-26/a1-ex-engineer.mp3",
+  "melt": "audio/2026-11-26/a1-w-melt.mp3",
+  "Snow will melt quickly in the sun.": "audio/2026-11-26/a1-ex-melt.mp3",
+  "So where does the heat come from?": "audio/2026-11-26/a1-ks1.mp3",
+  "A small machine inside the oven makes them.": "audio/2026-11-26/a1-ks2.mp3",
+  "When they move fast, they get hot.": "audio/2026-11-26/a1-ks3.mp3",
+  "Most food has got a lot of water in it.": "audio/2026-11-26/a1-ks4.mp3",
+  "One day, he had a snack bar in his pocket, and it melted!": "audio/2026-11-26/a1-ks5.mp3",
+  "You put in some cold soup, press a button and wait.": "audio/2026-11-26/a1-g1.mp3",
+  "There isn't any fire inside a microwave.": "audio/2026-11-26/a1-g2.mp3",
+  "He didn't need much time to understand.": "audio/2026-11-26/a1-g4.mp3",
+  "Sofia is thirteen. Last week, her class went on a school trip to Greystone Castle. Read her emails with her grandma.": "audio/2026-11-26/a2-p1.mp3",
+  "Hi Grandma, How are you? I'm home again now. Our trip to Greystone Castle was amazing! The bus journey was long, but my friends were with me, so it wasn't boring. When we arrived, the weather was cold and windy. The castle was on a hill above the sea. Its walls were very thick and grey.": "audio/2026-11-26/a2-p2.mp3",
+  "Inside, there were lots of dark rooms and narrow stairs. Our guide was a tall man called Mr Okafor. He was really funny. The best part was the tower. There were 150 steps to the top! My legs were tired, but the view was wonderful. Were you ever in a castle when you were young? Love, Sofia": "audio/2026-11-26/a2-p3.mp3",
+  "Dear Sofia, Thank you for your lovely email. Yes, I was! When I was ten, my family lived near an old castle in Spain. It wasn't a museum then. It was empty, and the gate was always open. My brother and I were often there after school. We were knights and princesses in our games!": "audio/2026-11-26/a2-p4.mp3",
+  "Once, we were inside the castle when a big storm started. It was very dark, and we were scared. We weren't at home for dinner, so our parents were very worried. When we got home, we were wet and dirty. My mother wasn't happy at all! Was there a gift shop at your castle? Love, Grandma": "audio/2026-11-26/a2-p5.mp3",
+  "Hi Grandma, What a great story! Yes, there was a small gift shop. The postcards were cheap, so I bought one for you. It's a photo of the tower. It's on the way to you now. Next summer, can we visit your castle in Spain together? Love, Sofia": "audio/2026-11-26/a2-p6.mp3",
+  "castle": "audio/2026-11-26/a2-w-castle.mp3",
+  "A king lived in that castle long ago.": "audio/2026-11-26/a2-ex-castle.mp3",
+  "journey": "audio/2026-11-26/a2-w-journey.mp3",
+  "The journey to school takes twenty minutes.": "audio/2026-11-26/a2-ex-journey.mp3",
+  "thick": "audio/2026-11-26/a2-w-thick.mp3",
+  "I'm reading a very thick book.": "audio/2026-11-26/a2-ex-thick.mp3",
+  "narrow": "audio/2026-11-26/a2-w-narrow.mp3",
+  "The street is too narrow for buses.": "audio/2026-11-26/a2-ex-narrow.mp3",
+  "guide": "audio/2026-11-26/a2-w-guide.mp3",
+  "Our guide told us about the old city.": "audio/2026-11-26/a2-ex-guide.mp3",
+  "tower": "audio/2026-11-26/a2-w-tower.mp3",
+  "You can see the sea from the tower.": "audio/2026-11-26/a2-ex-tower.mp3",
+  "view": "audio/2026-11-26/a2-w-view.mp3",
+  "My bedroom has a view of the park.": "audio/2026-11-26/a2-ex-view.mp3",
+  "knight": "audio/2026-11-26/a2-w-knight.mp3",
+  "The knight rode his white horse to the castle.": "audio/2026-11-26/a2-ex-knight.mp3",
+  "storm": "audio/2026-11-26/a2-w-storm.mp3",
+  "We stayed inside during the storm.": "audio/2026-11-26/a2-ex-storm.mp3",
+  "worried": "audio/2026-11-26/a2-w-worried.mp3",
+  "Mum was worried because I was late.": "audio/2026-11-26/a2-ex-worried.mp3",
+  "Our trip to Greystone Castle was amazing!": "audio/2026-11-26/a2-ks1.mp3",
+  "My legs were tired, but the view was wonderful.": "audio/2026-11-26/a2-ks2.mp3",
+  "My brother and I were often there after school.": "audio/2026-11-26/a2-ks3.mp3",
+  "We weren't at home for dinner, so our parents were very worried.": "audio/2026-11-26/a2-ks4.mp3",
+  "The bus journey was long, but my friends were with me, so it wasn't boring.": "audio/2026-11-26/a2-g1.mp3",
+  "Were you ever in a castle when you were young?": "audio/2026-11-26/a2-g2.mp3",
+  "Was there a gift shop at your castle?": "audio/2026-11-26/a2-g4.mp3",
+  "Tomás was nervous all week. On Friday, he had to give a speech in front of the whole school. The topic was \"My hero\". He chose his grandfather. His grandfather was a fisherman for forty years.": "audio/2026-11-26/a3-p1.mp3",
+  "Every evening, Tomás practised in his bedroom. He wrote his speech on five small cards. He read it to his mum, his dad and even the cat. \"You're ready,\" his dad said on Thursday evening. But Tomás didn't feel ready. That night, he slept badly.": "audio/2026-11-26/a3-p2.mp3",
+  "On Friday morning, Tomás got up late. He quickly put on his uniform, took his bag and ran to the bus stop. At school, the hall was full. Hundreds of students sat on chairs and talked loudly. Tomás opened his bag. His heart stopped. The cards weren't there!": "audio/2026-11-26/a3-p3.mp3",
+  "He looked in every pocket. He looked under his chair. Nothing. Then he remembered. The cards were still on his bed at home. \"What am I going to do?\" he thought. His hands started to shake. Then his teacher, Ms Lee, called his name.": "audio/2026-11-26/a3-p4.mp3",
+  "Tomás walked slowly to the front. He looked at all the faces. For a moment, he couldn't speak. Then he thought about his grandfather. He thought about the small blue boat and the cold winter mornings at sea. Suddenly, the words came. He didn't need the cards. He knew the story by heart.": "audio/2026-11-26/a3-p5.mp3",
+  "Tomás talked for three minutes. He told funny stories about his grandfather, and the students laughed. At the end, everyone clapped. Ms Lee smiled and said, \"That was the best speech today.\" After school, Tomás phoned his grandfather and told him everything. His grandfather laughed. \"Next time, forget your cards again!\" he said.": "audio/2026-11-26/a3-p6.mp3",
+  "nervous": "audio/2026-11-26/a3-w-nervous.mp3",
+  "I always feel nervous before a test.": "audio/2026-11-26/a3-ex-nervous.mp3",
+  "speech": "audio/2026-11-26/a3-w-speech.mp3",
+  "Our head teacher gave a short speech.": "audio/2026-11-26/a3-ex-speech.mp3",
+  "hero": "audio/2026-11-26/a3-w-hero.mp3",
+  "My mum is my hero.": "audio/2026-11-26/a3-ex-hero.mp3",
+  "fisherman": "audio/2026-11-26/a3-w-fisherman.mp3",
+  "The fisherman went out in his boat at five.": "audio/2026-11-26/a3-ex-fisherman.mp3",
+  "practise": "audio/2026-11-26/a3-w-practise.mp3",
+  "I practise the piano every day.": "audio/2026-11-26/a3-ex-practise.mp3",
+  "whole": "audio/2026-11-26/a3-w-whole.mp3",
+  "She ate the whole pizza!": "audio/2026-11-26/a3-ex-whole.mp3",
+  "hall": "audio/2026-11-26/a3-w-hall.mp3",
+  "We have our school concert in the hall.": "audio/2026-11-26/a3-ex-hall.mp3",
+  "shake": "audio/2026-11-26/a3-w-shake.mp3",
+  "My legs shake when I'm scared.": "audio/2026-11-26/a3-ex-shake.mp3",
+  "suddenly": "audio/2026-11-26/a3-w-suddenly.mp3",
+  "Suddenly, the lights went out.": "audio/2026-11-26/a3-ex-suddenly.mp3",
+  "by heart": "audio/2026-11-26/a3-w-by-heart.mp3",
+  "I know this song by heart.": "audio/2026-11-26/a3-ex-by-heart.mp3",
+  "Tomás was nervous all week.": "audio/2026-11-26/a3-ks1.mp3",
+  "He wrote his speech on five small cards.": "audio/2026-11-26/a3-ks2.mp3",
+  "The cards were still on his bed at home.": "audio/2026-11-26/a3-ks3.mp3",
+  "He knew the story by heart.": "audio/2026-11-26/a3-ks4.mp3",
+  "At the end, everyone clapped.": "audio/2026-11-26/a3-ks5.mp3",
+  "Every evening, Tomás practised in his bedroom.": "audio/2026-11-26/a3-g1.mp3",
+  "He quickly put on his uniform, took his bag and ran to the bus stop.": "audio/2026-11-26/a3-g3.mp3"
+ }
+}
