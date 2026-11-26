@@ -1,0 +1,2070 @@
+{
+ "date": "2026-11-27",
+ "headline": "Shaking muscles, a teacher's first year and a hungry fox",
+ "teaser": "Why does your body shake on a cold morning? What did a new teacher drop in her first lesson? And who took the bread from the tent?",
+ "articles": [
+  {
+   "id": "k20261127-1",
+   "topic": "Health & exercise",
+   "genre": "Article",
+   "title": "Why Do We Shiver When We Are Cold?",
+   "dek": "Your body shakes on cold days. It is not a mistake. It is a clever plan!",
+   "sources": [
+    {
+     "name": "The Conversation (Curious Kids)",
+     "url": "https://theconversation.com/curious-kids-why-do-we-shiver-when-we-feel-cold-222863"
+    },
+    {
+     "name": "Live Science",
+     "url": "https://www.livescience.com/32475-why-do-we-shiver-when-cold.html"
+    }
+   ],
+   "paras": [
+    "It is a cold winter morning. You are waiting for the school bus, and the wind is stronger than yesterday. Suddenly, your body starts to shake. Your teeth make a funny noise too. Why does this happen? Let's find out.",
+    "Your body likes to stay at about 37 degrees. This is much warmer than the air on most winter days. A small part of your brain checks your temperature all the time. It works like the heating in a house. When your skin gets colder, your brain notices very quickly.",
+    "Then your brain sends a message to your muscles. It tells them to get tight and then loose again, many times every second. This is shivering. Moving muscles make heat. So when you shiver, your body gets warmer. Shivering makes heat faster than walking slowly.",
+    "Have you ever had goosebumps? They come from the cold too. Tiny muscles in your skin pull your hairs up. In animals with thick fur, this keeps warm air near the skin. But it doesn't help people much. Our hair is shorter and thinner than an animal's fur.",
+    "Shivering is useful, but it uses a lot of energy. Your body burns food to make the heat. So you may feel hungrier after a long time in the cold. Running or jumping is a better way to warm up. It is more fun too!",
+    "So what can you do on a cold day? Wear a hat, a warm coat and a glove on each hand. Two thin jumpers are often warmer than one thick jumper, because there is warm air between them. If you start to shiver, go somewhere warmer. And if someone shivers for a long time and feels confused, they need a doctor."
+   ],
+   "words": [
+    {
+     "w": "shiver",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˈʃɪv.ə/",
+     "syl": [
+      "shiv",
+      "er"
+     ],
+     "def": "to shake because you are cold or afraid",
+     "ex": "I always shiver when I get out of the pool."
+    },
+    {
+     "w": "temperature",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtem.pər.ə.tʃə/",
+     "syl": [
+      "tem",
+      "per",
+      "a",
+      "ture"
+     ],
+     "def": "how hot or cold something is",
+     "ex": "The temperature today is only two degrees."
+    },
+    {
+     "w": "brain",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/breɪn/",
+     "syl": [
+      "brain"
+     ],
+     "def": "the part inside your head that thinks",
+     "ex": "Your brain needs sleep to work well."
+    },
+    {
+     "w": "muscle",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈmʌs.əl/",
+     "syl": [
+      "mus",
+      "cle"
+     ],
+     "def": "a part of the body that helps you move",
+     "ex": "I hurt a muscle in my leg at football."
+    },
+    {
+     "w": "skin",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɪn/",
+     "syl": [
+      "skin"
+     ],
+     "def": "the outside of your body",
+     "ex": "Put on sun cream to keep your skin safe."
+    },
+    {
+     "w": "notice",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈnəʊ.tɪs/",
+     "syl": [
+      "no",
+      "tice"
+     ],
+     "def": "to see or feel something",
+     "ex": "Did you notice my new haircut?"
+    },
+    {
+     "w": "goosebumps",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɡuːs.bʌmps/",
+     "syl": [
+      "goose",
+      "bumps"
+     ],
+     "def": "small bumps on your skin when you are cold",
+     "ex": "That scary song gives me goosebumps."
+    },
+    {
+     "w": "fur",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/fɜː/",
+     "syl": [
+      "fur"
+     ],
+     "def": "the soft, thick hair on an animal",
+     "ex": "Our cat has white fur."
+    },
+    {
+     "w": "energy",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈen.ə.dʒi/",
+     "syl": [
+      "en",
+      "er",
+      "gy"
+     ],
+     "def": "the power to move, work or play",
+     "ex": "A good breakfast gives you energy for the day."
+    },
+    {
+     "w": "glove",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ɡlʌv/",
+     "syl": [
+      "glove"
+     ],
+     "def": "a thing you wear on your hand",
+     "ex": "I can't find my left glove."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Why does this happen?",
+     "kind": "Main idea",
+     "note": "The article answers this question."
+    },
+    {
+     "para": 2,
+     "text": "A small part of your brain checks your temperature all the time.",
+     "kind": "Key details",
+     "note": "Your brain is the boss of your body heat."
+    },
+    {
+     "para": 3,
+     "text": "So when you shiver, your body gets warmer.",
+     "kind": "Cause → effect",
+     "note": "Shivering → moving muscles → heat."
+    },
+    {
+     "para": 4,
+     "text": "Our hair is shorter and thinner than an animal's fur.",
+     "kind": "Grammar to notice",
+     "note": "Two comparatives: shorter and thinner + than."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did the writer write this article?",
+     "opts": [
+      "to explain why our bodies shake in the cold",
+      "to sell warm winter clothes",
+      "to tell a story about a school bus"
+     ],
+     "a": 0,
+     "why": "第1段提出问题 Why does this happen?，后面几段一步一步解释发抖的原因。",
+     "evidence": "Why does this happen?",
+     "optWhy": [
+      "正确。全文回答 Why does this happen? = 选项 explain why our bodies shake in the cold。",
+      "最后一段提到帽子和外套，但只是建议，不是在卖衣服。",
+      "school bus 只是开头的场景，文章不是讲故事。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "看问题句",
+       "t": "第1段末尾 Why does this happen? 是全文要回答的问题。"
+      },
+      {
+       "h": "看结构",
+       "t": "第2–6段都在解释原因和办法 → 目的是 explain。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does your brain do all the time?",
+     "opts": [
+      "It makes your skin colder.",
+      "It checks how hot or cold your body is.",
+      "It tells you to eat more food."
+     ],
+     "a": 1,
+     "why": "第2段原文：A small part of your brain checks your temperature all the time。",
+     "evidence": "A small part of your brain checks your temperature all the time.",
+     "optWhy": [
+      "原文是 your skin gets colder 时大脑会注意到，不是大脑让皮肤变冷。",
+      "正确。原文 checks your temperature = 选项 checks how hot or cold your body is。",
+      "吃东西在第5段，而且不是大脑一直在做的事。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "all the time → 第2段。"
+      },
+      {
+       "h": "换说法",
+       "t": "temperature = how hot or cold，意思一样。"
+      }
+     ]
+    },
+    {
+     "type": "Word in context",
+     "para": 3,
+     "q": "In paragraph 3, what is \"shivering\"?",
+     "opts": [
+      "walking slowly to get warm",
+      "pulling your hair up",
+      "muscles getting tight and loose again very fast"
+     ],
+     "a": 2,
+     "why": "第3段先说 get tight and then loose again, many times every second，紧接着说 This is shivering。",
+     "evidence": "This is shivering.",
+     "optWhy": [
+      "原文说 Shivering makes heat faster than walking slowly，两者不同。",
+      "pull your hairs up 是第4段的 goosebumps，不是 shivering。",
+      "正确。原文 get tight and then loose again, many times every second = 选项 tight and loose again very fast。"
+     ],
+     "traps": [
+      "偷换概念",
+      "混淆",
+      null
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "This is shivering 的 This 指前一句：tight and then loose again。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "pull hairs up 是鸡皮疙瘩 goosebumps，别混。"
+      }
+     ],
+     "marks": [
+      "It tells them to get tight and then loose again, many times every second."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Goosebumps keep people much warmer.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段原文：But it doesn't help people much，鸡皮疙瘩对人帮助不大。",
+     "evidence": "But it doesn't help people much.",
+     "optWhy": [
+      "原文说 doesn't help people much，和题干相反。",
+      "正确。原文 it doesn't help people much 与题干 keep people much warmer 相反 → Wrong。",
+      "原文明确说了对人没多大帮助，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "goosebumps → 第4段。"
+      },
+      {
+       "h": "分清对象",
+       "t": "帮动物 animals with thick fur，不帮 people → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Cats shiver more than people on cold days.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只讲发抖要用很多 energy，全文没有比较猫和人谁更爱发抖。",
+     "evidence": "Shivering is useful, but it uses a lot of energy.",
+     "optWhy": [
+      "文中没有提到 cats，不能说 Right。",
+      "原文也没说猫发抖更少，不能判断 Wrong。",
+      "正确。全文没有比较 cats 和 people → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找关键词",
+       "t": "全文搜 cats：没有，只有第4段 animals with thick fur。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没说相反的话，只是没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 6,
+     "q": "Why are two thin jumpers often warmer than one thick jumper?",
+     "opts": [
+      "There is warm air between them.",
+      "Thin jumpers are made of fur.",
+      "They help you shiver faster."
+     ],
+     "a": 0,
+     "why": "第6段原文：because there is warm air between them。",
+     "evidence": "Two thin jumpers are often warmer than one thick jumper, because there is warm air between them.",
+     "optWhy": [
+      "正确。原文 because there is warm air between them = 选项 There is warm air between them。",
+      "文中没说毛衣是 fur 做的，fur 是第4段动物的毛。",
+      "原文没说毛衣让你抖得更快。"
+     ],
+     "traps": [
+      null,
+      "细节偷换",
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "thin jumpers → 第6段。"
+      },
+      {
+       "h": "找原因词",
+       "t": "because 后面就是答案：warm air between them。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Comparative adjectives",
+    "rule": "Use a comparative + than to compare two things. Short words add -er (cold → colder). Words ending in -y change to -ier (hungry → hungrier). Long words use more (more useful). Some are irregular: good → better.",
+    "table": [
+     [
+      "cold",
+      "colder"
+     ],
+     [
+      "thin",
+      "thinner"
+     ],
+     [
+      "hungry",
+      "hungrier"
+     ],
+     [
+      "fast",
+      "faster"
+     ],
+     [
+      "good",
+      "better"
+     ],
+     [
+      "fun",
+      "more fun"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "You are waiting for the school bus, and the wind is stronger than yesterday.",
+      "mark": "stronger than"
+     },
+     {
+      "para": 4,
+      "text": "Our hair is shorter and thinner than an animal's fur.",
+      "mark": "shorter and thinner than"
+     },
+     {
+      "para": 5,
+      "text": "Running or jumping is a better way to warm up.",
+      "mark": "better"
+     },
+     {
+      "para": 6,
+      "text": "Two thin jumpers are often warmer than one thick jumper, because there is warm air between them.",
+      "mark": "warmer than"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "A polar bear's fur is ___ than a dog's fur.",
+      "opts": [
+       "thick",
+       "thicker",
+       "more thick"
+      ],
+      "a": 1,
+      "why": "Thick is a short word, so add -er: thicker."
+     },
+     {
+      "type": "mc",
+      "q": "Running is ___ for your heart than watching TV.",
+      "opts": [
+       "better",
+       "gooder",
+       "more good"
+      ],
+      "a": 0,
+      "why": "Good is irregular: good → better."
+     },
+     {
+      "type": "fill",
+      "q": "Today is ___ than yesterday. Wear your coat!",
+      "hint": "(cold)",
+      "a": "colder",
+      "why": "Short word + -er: colder than."
+     },
+     {
+      "type": "fill",
+      "q": "I felt ___ after the long walk in the snow than after lunch.",
+      "hint": "(hungry)",
+      "a": "hungrier",
+      "why": "Hungry ends in -y, so change y to i and add -er."
+     },
+     {
+      "type": "fill",
+      "q": "Swimming is ___ than running for me. I love the water!",
+      "hint": "(interesting)",
+      "a": "more interesting",
+      "why": "Interesting is a long word, so use more."
+     },
+     {
+      "type": "fill",
+      "q": "My little brother's gloves are ___ than mine.",
+      "hint": "(big)",
+      "a": "bigger",
+      "why": "Big ends in one vowel + one consonant, so double the g: bigger."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261127-1-k1",
+     "tag": "Body heat",
+     "fact": "Your body likes to stay at about 37 degrees.",
+     "q": "What temperature does your body like?",
+     "opts": [
+      "about 27 degrees",
+      "about 37 degrees",
+      "about 47 degrees"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261127-1-k2",
+     "tag": "The brain",
+     "fact": "Your brain checks your temperature all the time.",
+     "q": "Which part of the body checks your temperature?",
+     "opts": [
+      "your brain",
+      "your teeth",
+      "your hair"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261127-1-k3",
+     "tag": "Shivering",
+     "fact": "When you shiver, your muscles move fast and make heat.",
+     "q": "What makes the heat when you shiver?",
+     "opts": [
+      "your skin",
+      "your coat",
+      "your muscles"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261127-1-k4",
+     "tag": "Goosebumps",
+     "fact": "Goosebumps help animals with thick fur, but they don't help people much.",
+     "q": "Who do goosebumps help most?",
+     "opts": [
+      "animals with thick fur",
+      "people",
+      "fish"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261127-1-k5",
+     "tag": "Stay warm",
+     "fact": "Two thin jumpers are often warmer than one thick jumper.",
+     "q": "What is often warmer?",
+     "opts": [
+      "one thin jumper",
+      "two thin jumpers",
+      "a T-shirt"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Shivering",
+    "question": "Why do we shiver, and how can we stay warm?",
+    "branches": [
+     {
+      "title": "Brain",
+      "paras": "1–2",
+      "blanks": [
+       "checks your temperature",
+       "about 37 degrees"
+      ],
+      "kps": [
+       "k20261127-1-k1",
+       "k20261127-1-k2"
+      ]
+     },
+     {
+      "title": "Muscles",
+      "paras": "3",
+      "blanks": [
+       "tight and loose",
+       "make heat"
+      ],
+      "kps": [
+       "k20261127-1-k3"
+      ]
+     },
+     {
+      "title": "Goosebumps",
+      "paras": "4",
+      "blanks": [
+       "hairs go up"
+      ],
+      "kps": [
+       "k20261127-1-k4"
+      ]
+     },
+     {
+      "title": "Stay warm",
+      "paras": "5–6",
+      "blanks": [
+       "run or jump",
+       "two thin jumpers"
+      ],
+      "kps": [
+       "k20261127-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "drink cold water",
+     "skin gets hotter"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the article.",
+    "model": "When we get cold, our brain tells our muscles to shiver, so they make heat. Shivering uses a lot of energy, but warm clothes help.",
+    "options": [
+     {
+      "t": "Your brain notices when your body gets colder.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "When your skin gets colder, your brain notices very quickly."
+     },
+     {
+      "t": "Your muscles shiver to make heat and warm you up.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Moving muscles make heat."
+     },
+     {
+      "t": "Warm clothes and moving your body help you stay warm.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 5 and 6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Wear a hat, a warm coat and a glove on each hand."
+     },
+     {
+      "t": "Your teeth can make a funny noise when you are cold.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "Your teeth make a funny noise too."
+     },
+     {
+      "t": "Children shiver more than old people.",
+      "ok": false,
+      "why": "The article never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Shivering uses very little energy.",
+      "ok": false,
+      "why": "Wrong: it uses a lot of energy.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Shivering is useful, but it uses a lot of energy."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What do you do to stay warm in winter? Which is better for you: a hot drink or a fast walk? Why?",
+    "hint": "I usually wear … / I think … is better than … because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "It was very cold at school today. Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Say how cold it was.",
+     "Say what you wore.",
+     "Say what was warmer: inside or outside."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261127-2",
+   "topic": "School & study",
+   "genre": "Interview",
+   "title": "My First Year as a Teacher",
+   "dek": "Our new science teacher answers questions about her very first school.",
+   "sources": [],
+   "paras": [
+    "Ms Novak is the new science teacher at Lakeside School. Last week, two students from the school magazine, Ben and Yuki, asked her about her first year as a teacher.",
+    "Ben: Where did you teach first? Ms Novak: At a small school in a village near the mountains. There were only eighty students. I didn't know anyone there, and I didn't have a car. So I went to school by bike every day, even in the rain!",
+    "Yuki: Did you feel nervous on your first day? Ms Novak: Yes, I did! I didn't sleep well the night before. In my first lesson, I dropped a box of test tubes. Luckily, they didn't break. The students laughed, and then I laughed too. After that, I felt much better.",
+    "Ben: What did you find difficult? Ms Novak: Remembering names! I had six classes, so I didn't learn all the names quickly. Once, I called a boy Tom for two weeks. His name was Sam! He didn't tell me, because he was very shy.",
+    "Yuki: Did your students like science? Ms Novak: Not at first. Many of them didn't enjoy it, because the lessons were only from the book. So I changed things. We grew plants, made paper rockets and went outside to look at insects. Soon, science was their favourite subject.",
+    "Ben: Why did you come to Lakeside School? Ms Novak: My family moved to this town last summer. I didn't want to leave my old school, but I'm happy here. Everyone is friendly, and the science lab is great.",
+    "Yuki: Last question. Did you always want to be a teacher? Ms Novak: No, I didn't! When I was your age, I wanted to be a pilot. But I liked science more than planes in the end. Yuki: Thank you, Ms Novak!"
+   ],
+   "words": [
+    {
+     "w": "village",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈvɪl.ɪdʒ/",
+     "syl": [
+      "vil",
+      "lage"
+     ],
+     "def": "a very small town in the country",
+     "ex": "My grandparents live in a quiet village."
+    },
+    {
+     "w": "nervous",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɜː.vəs/",
+     "syl": [
+      "ner",
+      "vous"
+     ],
+     "def": "a little afraid before something new",
+     "ex": "I always feel nervous before a test."
+    },
+    {
+     "w": "test tube",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈtest.tjuːb/",
+     "syl": [
+      "test",
+      "tube"
+     ],
+     "def": "a small glass tube for science work",
+     "ex": "Pour the water into the test tube slowly."
+    },
+    {
+     "w": "luckily",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈlʌk.ɪ.li/",
+     "syl": [
+      "luck",
+      "i",
+      "ly"
+     ],
+     "def": "it is good that this happened",
+     "ex": "It rained, but luckily I had an umbrella."
+    },
+    {
+     "w": "laugh",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/lɑːf/",
+     "syl": [
+      "laugh"
+     ],
+     "def": "to make a happy sound when something is funny",
+     "ex": "We always laugh at my dad's jokes."
+    },
+    {
+     "w": "shy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ʃaɪ/",
+     "syl": [
+      "shy"
+     ],
+     "def": "not happy to talk to new people",
+     "ex": "The shy girl sat at the back of the class."
+    },
+    {
+     "w": "insect",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɪn.sekt/",
+     "syl": [
+      "in",
+      "sect"
+     ],
+     "def": "a very small animal with six legs",
+     "ex": "A bee is an insect."
+    },
+    {
+     "w": "subject",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsʌb.dʒekt/",
+     "syl": [
+      "sub",
+      "ject"
+     ],
+     "def": "something you study at school, like maths",
+     "ex": "History is my favourite subject."
+    },
+    {
+     "w": "lab",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/læb/",
+     "syl": [
+      "lab"
+     ],
+     "def": "a room for science work",
+     "ex": "We did an experiment in the lab today."
+    },
+    {
+     "w": "pilot",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpaɪ.lət/",
+     "syl": [
+      "pi",
+      "lot"
+     ],
+     "def": "a person who flies a plane",
+     "ex": "The pilot said hello to everyone on the plane."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Last week, two students from the school magazine, Ben and Yuki, asked her about her first year as a teacher.",
+     "kind": "Main idea",
+     "note": "The interview is about Ms Novak's first year."
+    },
+    {
+     "para": 3,
+     "text": "Did you feel nervous on your first day?",
+     "kind": "Grammar to notice",
+     "note": "Past question: Did + you + feel (not felt)."
+    },
+    {
+     "para": 5,
+     "text": "Many of them didn't enjoy it, because the lessons were only from the book.",
+     "kind": "Cause → effect",
+     "note": "Lessons only from the book → students didn't enjoy science."
+    },
+    {
+     "para": 5,
+     "text": "Soon, science was their favourite subject.",
+     "kind": "Time order",
+     "note": "After the changes, the students loved science."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "How did Ms Novak go to her first school?",
+     "opts": [
+      "by car",
+      "by bike",
+      "by bus"
+     ],
+     "a": 1,
+     "why": "第2段原文：I didn't have a car. So I went to school by bike every day。",
+     "evidence": "So I went to school by bike every day, even in the rain!",
+     "optWhy": [
+      "原文说 I didn't have a car，她没有车。",
+      "正确。原文 went to school by bike every day = 选项 by bike。",
+      "文中没有提到 bus。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Where did you teach first? → 第2段。"
+      },
+      {
+       "h": "看否定",
+       "t": "didn't have a car 排除 A，so 后面是答案 by bike。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 3,
+     "q": "How did Ms Novak feel after the students laughed?",
+     "opts": [
+      "angry with the students",
+      "more nervous than before",
+      "much better"
+     ],
+     "a": 2,
+     "why": "第3段原文：The students laughed, and then I laughed too. After that, I felt much better。",
+     "evidence": "After that, I felt much better.",
+     "optWhy": [
+      "她自己也笑了 I laughed too，没有生气。",
+      "原文 After that, I felt much better，和更紧张相反。",
+      "正确。原文 I felt much better = 选项 much better。"
+     ],
+     "traps": [
+      "无中生有",
+      "与原文相反",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "laughed → 第3段。"
+      },
+      {
+       "h": "看时间词",
+       "t": "After that 后面就是她的感受：felt much better。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "In paragraph 3, what does \"they\" mean in \"they didn't break\"?",
+     "opts": [
+      "the test tubes",
+      "the students",
+      "the lessons"
+     ],
+     "a": 0,
+     "why": "前一句 I dropped a box of test tubes，掉下去会碎的是试管，they 指 test tubes。",
+     "evidence": "Luckily, they didn't break.",
+     "optWhy": [
+      "正确。原文 dropped a box of test tubes. Luckily, they didn't break = 选项 the test tubes。",
+      "students 在后一句才出现，而且学生不会 break。",
+      "lessons 不会被摔碎，意思不通。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句复数名词：test tubes。"
+      },
+      {
+       "h": "代回验证",
+       "t": "the test tubes didn't break 通顺 ✓。"
+      }
+     ],
+     "marks": [
+      "I dropped a box of test tubes."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Sam was too shy to tell Ms Novak his real name.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第4段原文：He didn't tell me, because he was very shy。",
+     "evidence": "He didn't tell me, because he was very shy.",
+     "optWhy": [
+      "正确。原文 He didn't tell me, because he was very shy = 题干 too shy to tell her his real name。",
+      "原文和题干意思一致，不是相反。",
+      "原文给出了原因 because he was very shy，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Sam, shy → 第4段。"
+      },
+      {
+       "h": "对比",
+       "t": "didn't tell + because shy = too shy to tell → Right。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Ms Novak's old school had a better science lab.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第6段只说 the science lab is great（新学校），没说旧学校的实验室怎么样。",
+     "evidence": "Everyone is friendly, and the science lab is great.",
+     "optWhy": [
+      "文中没有比较两所学校的实验室，不能说 Right。",
+      "原文也没说旧学校的实验室更差，不能判断 Wrong。",
+      "正确。旧学校的实验室根本没提 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "science lab → 第6段，说的是 Lakeside。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "旧学校的 lab 没出现过 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 7,
+     "q": "What job did Ms Novak want when she was young?",
+     "opts": [
+      "a science teacher",
+      "a pilot",
+      "a writer for a magazine"
+     ],
+     "a": 1,
+     "why": "第7段原文：When I was your age, I wanted to be a pilot。",
+     "evidence": "When I was your age, I wanted to be a pilot.",
+     "optWhy": [
+      "原文 Did you always want to be a teacher? — No, I didn't!，小时候不想当老师。",
+      "正确。原文 I wanted to be a pilot = 选项 a pilot。",
+      "magazine 是 Ben 和 Yuki 的校刊，不是她的梦想。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "When I was your age → 第7段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "No, I didn't! 说明小时候不想当老师。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past simple questions and negatives",
+    "rule": "For past questions, use Did + person + verb: Did you feel nervous? For negatives, use didn't + verb: I didn't sleep. After did and didn't, the verb goes back to its basic form (not felt, not slept).",
+    "table": [
+     [
+      "Did you feel …?",
+      "Did you feel nervous?"
+     ],
+     [
+      "Where did you …?",
+      "Where did you teach first?"
+     ],
+     [
+      "Yes, I did. / No, I didn't.",
+      "No, I didn't!"
+     ],
+     [
+      "didn't + verb",
+      "I didn't have a car."
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "Where did you teach first?",
+      "mark": "did you teach"
+     },
+     {
+      "para": 2,
+      "text": "I didn't know anyone there, and I didn't have a car.",
+      "mark": "didn't know"
+     },
+     {
+      "para": 3,
+      "text": "Did you feel nervous on your first day?",
+      "mark": "Did you feel"
+     },
+     {
+      "para": 5,
+      "text": "Many of them didn't enjoy it, because the lessons were only from the book.",
+      "mark": "didn't enjoy"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "___ you do your homework last night?",
+      "opts": [
+       "Do",
+       "Did",
+       "Were"
+      ],
+      "a": 1,
+      "why": "Last night is past, so the question starts with Did."
+     },
+     {
+      "type": "mc",
+      "q": "We didn't ___ the bus this morning. We walked.",
+      "opts": [
+       "take",
+       "took",
+       "taking"
+      ],
+      "a": 0,
+      "why": "After didn't, use the basic verb: take."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ my science book yesterday, so I couldn't do the homework.",
+      "hint": "(not bring)",
+      "a": "didn't bring / did not bring",
+      "why": "Negative past: didn't + basic verb."
+     },
+     {
+      "type": "fill",
+      "q": "What ___ you make in the lab on Monday?",
+      "hint": "(do)",
+      "a": "did",
+      "why": "Question word + did + you + basic verb."
+     },
+     {
+      "type": "fill",
+      "q": "Sam ___ the answer, so he was very quiet.",
+      "hint": "(not know)",
+      "a": "didn't know / did not know",
+      "why": "Use didn't + know, not didn't knew."
+     },
+     {
+      "type": "fill",
+      "q": "\"Did your class go to the museum?\" \"No, they ___.\"",
+      "hint": "(short answer)",
+      "a": "didn't / did not",
+      "why": "Short negative answer: No, they didn't."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261127-2-k1",
+     "tag": "First school",
+     "fact": "Ms Novak's first school was in a village with only eighty students.",
+     "q": "How many students were at her first school?",
+     "opts": [
+      "eighteen",
+      "eighty",
+      "eight hundred"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261127-2-k2",
+     "tag": "First lesson",
+     "fact": "In her first lesson, she dropped a box of test tubes, but they didn't break.",
+     "q": "What did she drop?",
+     "opts": [
+      "a box of test tubes",
+      "her bike",
+      "a pile of books"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261127-2-k3",
+     "tag": "Names",
+     "fact": "She called Sam \"Tom\" for two weeks.",
+     "q": "What was the boy's real name?",
+     "opts": [
+      "Tom",
+      "Ben",
+      "Sam"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261127-2-k4",
+     "tag": "New lessons",
+     "fact": "She made science fun with plants, paper rockets and insects.",
+     "q": "What did the class make?",
+     "opts": [
+      "paper rockets",
+      "cakes",
+      "robots"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261127-2-k5",
+     "tag": "Dream job",
+     "fact": "When she was young, Ms Novak wanted to be a pilot.",
+     "q": "What did she want to be?",
+     "opts": [
+      "a doctor",
+      "a pilot",
+      "a singer"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "First teaching year",
+    "question": "What happened in Ms Novak's first year?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1–2",
+      "blanks": [
+       "a small village",
+       "by bike"
+      ],
+      "kps": [
+       "k20261127-2-k1"
+      ]
+     },
+     {
+      "title": "Problems",
+      "paras": "3–4",
+      "blanks": [
+       "dropped test tubes",
+       "forgot names"
+      ],
+      "kps": [
+       "k20261127-2-k2",
+       "k20261127-2-k3"
+      ]
+     },
+     {
+      "title": "Changes",
+      "paras": "5",
+      "blanks": [
+       "paper rockets"
+      ],
+      "kps": [
+       "k20261127-2-k4"
+      ]
+     },
+     {
+      "title": "Now",
+      "paras": "6–7",
+      "blanks": [
+       "a great lab",
+       "wanted to fly"
+      ],
+      "kps": [
+       "k20261127-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a big city school",
+     "broke the window"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the interview.",
+    "model": "Ms Novak was nervous in her first year, but she laughed at her mistakes. Her students didn't like science, so she made the lessons more fun.",
+    "options": [
+     {
+      "t": "Ms Novak's first school was small and in a village.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "There were only eighty students."
+     },
+     {
+      "t": "She made some mistakes at first, but she laughed about them.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 3 and 4.",
+      "type": "main",
+      "para": 3,
+      "evidence": "The students laughed, and then I laughed too."
+     },
+     {
+      "t": "She changed her lessons, and her students started to love science.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Soon, science was their favourite subject."
+     },
+     {
+      "t": "She had six classes in her first year.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "I had six classes, so I didn't learn all the names quickly."
+     },
+     {
+      "t": "Ms Novak teaches maths and science at Lakeside.",
+      "ok": false,
+      "why": "The interview never says she teaches maths.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Ms Novak always wanted to be a teacher.",
+      "ok": false,
+      "why": "Wrong: she wanted to be a pilot.",
+      "type": "contra",
+      "para": 7,
+      "evidence": "When I was your age, I wanted to be a pilot."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Tell me about your first day at this school. How did you feel? What did you do?",
+    "hint": "On my first day, I felt … / I didn't know …, but …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You had a new teacher today. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Say which subject the teacher teaches.",
+     "Say what you did in the lesson.",
+     "Say what you didn't like."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  },
+  {
+   "id": "k20261127-3",
+   "topic": "Travel & holidays",
+   "genre": "Story",
+   "title": "The Fox at the Campsite",
+   "dek": "Everyone was busy by the fire. Then someone hungry came to visit.",
+   "sources": [],
+   "paras": [
+    "Last August, Leila and her family went camping by a lake. Her little brother, Omar, was eight. It was his first time in a tent, and he was very excited.",
+    "On the first evening, the sun was going down when they finished dinner. Dad was washing the plates while Mum was looking at the map for the next day. Leila and Omar were sitting by the fire. They were telling funny stories, and nobody was watching the food bag.",
+    "Then Omar heard a noise behind the tent. \"What's that?\" he whispered. Leila turned around. A small red fox was standing next to the food bag! While they were watching, it put its nose inside. Then it ran into the trees with something in its mouth.",
+    "\"Our sausages!\" shouted Omar. Dad laughed. \"No, look. It took the bread.\" But there was a bigger problem. The bread was for breakfast, and the nearest shop was ten kilometres away. The fox also tore the bag, and the milk was all over the grass.",
+    "The next morning, Leila woke up early. While the others were sleeping, she walked down to the lake. A man was fishing there. His name was Mr Hughes, and he worked at the campsite. Leila told him about the fox.",
+    "\"That fox is always hungry!\" he said with a smile. \"Keep your food in the car at night.\" Then he gave her six eggs and some bread from the campsite café. When Leila got back, Mum was making a new fire. They all had a great breakfast together.",
+    "That night, the food was in the car. While Omar was falling asleep, he heard a small noise outside the tent. He smiled. \"Sorry, fox,\" he said quietly. \"No bread for you tonight!\""
+   ],
+   "words": [
+    {
+     "w": "camping",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkæm.pɪŋ/",
+     "syl": [
+      "camp",
+      "ing"
+     ],
+     "def": "sleeping in a tent on holiday",
+     "ex": "We go camping in the mountains every summer."
+    },
+    {
+     "w": "tent",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tent/",
+     "syl": [
+      "tent"
+     ],
+     "def": "a small house made of cloth for camping",
+     "ex": "Our tent is big enough for four people."
+    },
+    {
+     "w": "lake",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/leɪk/",
+     "syl": [
+      "lake"
+     ],
+     "def": "a big area of water with land around it",
+     "ex": "We swam in the lake after lunch."
+    },
+    {
+     "w": "fire",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/faɪə/",
+     "syl": [
+      "fire"
+     ],
+     "def": "heat and flames from burning wood",
+     "ex": "We sat around the fire and sang songs."
+    },
+    {
+     "w": "whisper",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈwɪs.pə/",
+     "syl": [
+      "whis",
+      "per"
+     ],
+     "def": "to speak very, very quietly",
+     "ex": "Please whisper in the library."
+    },
+    {
+     "w": "fox",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/fɒks/",
+     "syl": [
+      "fox"
+     ],
+     "def": "a wild animal like a small red dog",
+     "ex": "A fox lives in the woods near our house."
+    },
+    {
+     "w": "sausage",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsɒs.ɪdʒ/",
+     "syl": [
+      "saus",
+      "age"
+     ],
+     "def": "meat in a long, thin shape",
+     "ex": "I had a sausage and some bread for lunch."
+    },
+    {
+     "w": "kilometre",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɪl.ə.miː.tə/",
+     "syl": [
+      "ki",
+      "lo",
+      "me",
+      "tre"
+     ],
+     "def": "1,000 metres",
+     "ex": "The lake is one kilometre from our house."
+    },
+    {
+     "w": "campsite",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkæmp.saɪt/",
+     "syl": [
+      "camp",
+      "site"
+     ],
+     "def": "a place where people put up tents",
+     "ex": "The campsite has hot showers and a small shop."
+    },
+    {
+     "w": "quietly",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˈkwaɪ.ət.li/",
+     "syl": [
+      "qui",
+      "et",
+      "ly"
+     ],
+     "def": "without much noise",
+     "ex": "She closed the door quietly."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 2,
+     "text": "Dad was washing the plates while Mum was looking at the map for the next day.",
+     "kind": "Grammar to notice",
+     "note": "Two long actions at the same time: was + -ing while was + -ing."
+    },
+    {
+     "para": 2,
+     "text": "They were telling funny stories, and nobody was watching the food bag.",
+     "kind": "Cause → effect",
+     "note": "Nobody watched the bag, so the fox could take food."
+    },
+    {
+     "para": 4,
+     "text": "But there was a bigger problem.",
+     "kind": "Main idea",
+     "note": "Now the family had no breakfast."
+    },
+    {
+     "para": 6,
+     "text": "Then he gave her six eggs and some bread from the campsite café.",
+     "kind": "Time order",
+     "note": "Mr Hughes helped, so the problem ended well."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What was Mum doing after dinner?",
+     "opts": [
+      "washing the plates",
+      "telling funny stories",
+      "looking at the map"
+     ],
+     "a": 2,
+     "why": "第2段原文：Mum was looking at the map for the next day。",
+     "evidence": "Dad was washing the plates while Mum was looking at the map for the next day.",
+     "optWhy": [
+      "洗盘子的是 Dad，不是 Mum。",
+      "讲笑话的是 Leila and Omar。",
+      "正确。原文 Mum was looking at the map = 选项 looking at the map。"
+     ],
+     "traps": [
+      "细节偷换",
+      "细节偷换",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "after dinner → 第2段。"
+      },
+      {
+       "h": "分清人物",
+       "t": "Dad 洗盘子，Mum 看地图，孩子讲故事。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "In paragraph 3, what does \"it\" mean in \"it put its nose inside\"?",
+     "opts": [
+      "the fox",
+      "the tent",
+      "Omar"
+     ],
+     "a": 0,
+     "why": "前一句 A small red fox was standing next to the food bag，把鼻子伸进包里的是狐狸。",
+     "evidence": "While they were watching, it put its nose inside.",
+     "optWhy": [
+      "正确。原文 A small red fox was standing next to the food bag … it put its nose inside = 选项 the fox。",
+      "tent 没有鼻子，不能 put its nose inside。",
+      "Omar 是人，要用 he，不用 it。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句的单数名词：A small red fox。"
+      },
+      {
+       "h": "代回验证",
+       "t": "the fox put its nose inside 通顺 ✓。"
+      }
+     ],
+     "marks": [
+      "A small red fox was standing next to the food bag!"
+     ]
+    },
+    {
+     "type": "Main idea",
+     "para": 4,
+     "q": "What was the \"bigger problem\" in paragraph 4?",
+     "opts": [
+      "The fox took Omar's sausages.",
+      "They had no breakfast, and the shop was far away.",
+      "Dad lost the map of the lake."
+     ],
+     "a": 1,
+     "why": "第4段原文：The bread was for breakfast, and the nearest shop was ten kilometres away。",
+     "evidence": "The bread was for breakfast, and the nearest shop was ten kilometres away.",
+     "optWhy": [
+      "Dad 说 No, look. It took the bread，狐狸拿的不是香肠。",
+      "正确。原文 bread was for breakfast + shop was ten kilometres away = 选项 no breakfast, shop far away。",
+      "文中没说地图丢了。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "bigger problem → 第4段。"
+      },
+      {
+       "h": "看后一句",
+       "t": "紧跟的句子解释问题：早餐没了，商店很远。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Leila went to the lake while her family were still sleeping.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 0,
+     "why": "第5段原文：While the others were sleeping, she walked down to the lake。",
+     "evidence": "While the others were sleeping, she walked down to the lake.",
+     "optWhy": [
+      "正确。原文 While the others were sleeping, she walked down to the lake = 题干 went to the lake while her family were still sleeping。",
+      "原文和题干意思一致，不是相反。",
+      "原文明确写了，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "next morning, lake → 第5段。"
+      },
+      {
+       "h": "换说法",
+       "t": "the others = her family，意思一致 → Right。"
+      }
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How did Mr Hughes feel about the fox?",
+     "opts": [
+      "He was angry with it.",
+      "He was afraid of it.",
+      "He thought it was a little funny."
+     ],
+     "a": 2,
+     "why": "第6段原文：That fox is always hungry! he said with a smile，他笑着说，并不生气。",
+     "evidence": "\"That fox is always hungry!\" he said with a smile.",
+     "optWhy": [
+      "他是 with a smile 说的，不是生气。",
+      "文中没说他怕狐狸。",
+      "正确。原文 he said with a smile = 选项 He thought it was a little funny。"
+     ],
+     "traps": [
+      "与原文相反",
+      "无中生有",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "Mr Hughes 说狐狸 → 第6段。"
+      },
+      {
+       "h": "找语气",
+       "t": "with a smile 说明他觉得有点好笑。"
+      }
+     ],
+     "marks": [
+      "he said with a smile"
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 7,
+     "q": "The fox came back and took more food on the second night.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第7段原文：That night, the food was in the car，食物在车里，Omar 还说 No bread for you tonight!，狐狸没拿到。",
+     "evidence": "That night, the food was in the car.",
+     "optWhy": [
+      "食物放在车里了，狐狸拿不到，不是 Right。",
+      "正确。原文 the food was in the car + No bread for you tonight 与题干 took more food 相反 → Wrong。",
+      "原文说明了食物在车里、狐狸没吃到，所以能判断，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "That night → 第7段。"
+      },
+      {
+       "h": "对比",
+       "t": "food in the car + No bread for you → 没拿到 → Wrong。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Past continuous with when / while",
+    "rule": "Use was / were + -ing for a longer action in the past. Use when + past simple for a short action that happens in the middle of it. Use while + past continuous for two long actions at the same time.",
+    "table": [
+     [
+      "I / he / she / it",
+      "was sleeping"
+     ],
+     [
+      "you / we / they",
+      "were sleeping"
+     ],
+     [
+      "when + short action",
+      "… was going down when they finished dinner."
+     ],
+     [
+      "while + long action",
+      "While the others were sleeping, …"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "On the first evening, the sun was going down when they finished dinner.",
+      "mark": "was going down when"
+     },
+     {
+      "para": 2,
+      "text": "Dad was washing the plates while Mum was looking at the map for the next day.",
+      "mark": "while Mum was looking"
+     },
+     {
+      "para": 5,
+      "text": "While the others were sleeping, she walked down to the lake.",
+      "mark": "While the others were sleeping"
+     },
+     {
+      "para": 7,
+      "text": "While Omar was falling asleep, he heard a small noise outside the tent.",
+      "mark": "While Omar was falling asleep"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "We ___ in the lake when it started to rain.",
+      "opts": [
+       "swam",
+       "were swimming",
+       "was swimming"
+      ],
+      "a": 1,
+      "why": "We + were + -ing for the long action."
+     },
+     {
+      "type": "mc",
+      "q": "My phone rang ___ I was reading in the tent.",
+      "opts": [
+       "while",
+       "when",
+       "than"
+      ],
+      "a": 0,
+      "why": "While + a long action in the past continuous."
+     },
+     {
+      "type": "fill",
+      "q": "Dad ___ dinner when the fire went out.",
+      "hint": "(cook)",
+      "a": "was cooking",
+      "why": "Dad = he, so use was + cooking."
+     },
+     {
+      "type": "fill",
+      "q": "While my friends ___ football, I took some photos.",
+      "hint": "(play)",
+      "a": "were playing",
+      "why": "My friends = they, so use were + playing."
+     },
+     {
+      "type": "fill",
+      "q": "I was walking to the shop when I ___ a fox.",
+      "hint": "(see)",
+      "a": "saw",
+      "why": "The short action after when is past simple: saw."
+     },
+     {
+      "type": "fill",
+      "q": "What ___ you doing at eight o'clock last night?",
+      "hint": "(be)",
+      "a": "were",
+      "why": "You takes were: What were you doing?"
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261127-3-k1",
+     "tag": "The trip",
+     "fact": "Leila's family went camping by a lake last August.",
+     "q": "Where did they go camping?",
+     "opts": [
+      "by the sea",
+      "in a city",
+      "by a lake"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261127-3-k2",
+     "tag": "The fox",
+     "fact": "While the family was busy, a fox came and took the bread.",
+     "q": "What did the fox take?",
+     "opts": [
+      "the bread",
+      "the sausages",
+      "the map"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261127-3-k3",
+     "tag": "The problem",
+     "fact": "The nearest shop was ten kilometres away.",
+     "q": "How far was the nearest shop?",
+     "opts": [
+      "one kilometre",
+      "ten kilometres",
+      "a hundred kilometres"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261127-3-k4",
+     "tag": "Help",
+     "fact": "Mr Hughes gave Leila six eggs and some bread.",
+     "q": "Who helped Leila?",
+     "opts": [
+      "a shop assistant",
+      "Mr Hughes",
+      "her teacher"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261127-3-k5",
+     "tag": "The idea",
+     "fact": "On the second night, the food was in the car.",
+     "q": "Where was the food on the second night?",
+     "opts": [
+      "in the car",
+      "in the tent",
+      "by the fire"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "The hungry fox",
+    "question": "What happened on the camping trip?",
+    "branches": [
+     {
+      "title": "Where",
+      "paras": "1",
+      "blanks": [
+       "tent by a lake"
+      ],
+      "kps": [
+       "k20261127-3-k1"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "2–4",
+      "blanks": [
+       "nobody was watching",
+       "no bread for breakfast"
+      ],
+      "kps": [
+       "k20261127-3-k2",
+       "k20261127-3-k3"
+      ]
+     },
+     {
+      "title": "Help",
+      "paras": "5–6",
+      "blanks": [
+       "a man fishing",
+       "six eggs"
+      ],
+      "kps": [
+       "k20261127-3-k4"
+      ]
+     },
+     {
+      "title": "Ending",
+      "paras": "7",
+      "blanks": [
+       "food in the car"
+      ],
+      "kps": [
+       "k20261127-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a hotel by the sea",
+     "the fox took sausages"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the story.",
+    "model": "While the family was busy, a fox took their bread, so they had no breakfast. But a kind man at the campsite helped them.",
+    "options": [
+     {
+      "t": "While the family was busy by the fire, a fox took their food.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 2 and 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "A small red fox was standing next to the food bag!"
+     },
+     {
+      "t": "A man at the campsite gave Leila food for breakfast.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 5 and 6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Then he gave her six eggs and some bread from the campsite café."
+     },
+     {
+      "t": "The next night, the family kept their food in the car.",
+      "ok": true,
+      "why": "This is how the story ends.",
+      "type": "main",
+      "para": 7,
+      "evidence": "That night, the food was in the car."
+     },
+     {
+      "t": "Dad was washing the plates after dinner.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "Dad was washing the plates while Mum was looking at the map for the next day."
+     },
+     {
+      "t": "The family caught a big fish in the lake.",
+      "ok": false,
+      "why": "The story never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The fox took the family's sausages.",
+      "ok": false,
+      "why": "Wrong: it took the bread.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "It took the bread."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Would you like to go camping? Why or why not? What would you take with you?",
+    "hint": "I'd like to … because … / I would take …",
+    "sec": 40
+   },
+   "write": {
+    "p": "Look at this sentence: \"We were sitting by the fire when we heard a strange noise.\" Write the story. Write 35 words or more.",
+    "steps": [
+     "Say where you were and who was with you.",
+     "Say what made the noise.",
+     "Say how the story ended."
+    ],
+    "minWords": 35
+   },
+   "voice": "American English · male"
+  }
+ ],
+ "audio": {
+  "It is a cold winter morning. You are waiting for the school bus, and the wind is stronger than yesterday. Suddenly, your body starts to shake. Your teeth make a funny noise too. Why does this happen? Let's find out.": "audio/2026-11-27/a1-p1.mp3",
+  "Your body likes to stay at about 37 degrees. This is much warmer than the air on most winter days. A small part of your brain checks your temperature all the time. It works like the heating in a house. When your skin gets colder, your brain notices very quickly.": "audio/2026-11-27/a1-p2.mp3",
+  "Then your brain sends a message to your muscles. It tells them to get tight and then loose again, many times every second. This is shivering. Moving muscles make heat. So when you shiver, your body gets warmer. Shivering makes heat faster than walking slowly.": "audio/2026-11-27/a1-p3.mp3",
+  "Have you ever had goosebumps? They come from the cold too. Tiny muscles in your skin pull your hairs up. In animals with thick fur, this keeps warm air near the skin. But it doesn't help people much. Our hair is shorter and thinner than an animal's fur.": "audio/2026-11-27/a1-p4.mp3",
+  "Shivering is useful, but it uses a lot of energy. Your body burns food to make the heat. So you may feel hungrier after a long time in the cold. Running or jumping is a better way to warm up. It is more fun too!": "audio/2026-11-27/a1-p5.mp3",
+  "So what can you do on a cold day? Wear a hat, a warm coat and a glove on each hand. Two thin jumpers are often warmer than one thick jumper, because there is warm air between them. If you start to shiver, go somewhere warmer. And if someone shivers for a long time and feels confused, they need a doctor.": "audio/2026-11-27/a1-p6.mp3",
+  "shiver": "audio/2026-11-27/a1-w-shiver.mp3",
+  "I always shiver when I get out of the pool.": "audio/2026-11-27/a1-ex-shiver.mp3",
+  "temperature": "audio/2026-11-27/a1-w-temperature.mp3",
+  "The temperature today is only two degrees.": "audio/2026-11-27/a1-ex-temperature.mp3",
+  "brain": "audio/2026-11-27/a1-w-brain.mp3",
+  "Your brain needs sleep to work well.": "audio/2026-11-27/a1-ex-brain.mp3",
+  "muscle": "audio/2026-11-27/a1-w-muscle.mp3",
+  "I hurt a muscle in my leg at football.": "audio/2026-11-27/a1-ex-muscle.mp3",
+  "skin": "audio/2026-11-27/a1-w-skin.mp3",
+  "Put on sun cream to keep your skin safe.": "audio/2026-11-27/a1-ex-skin.mp3",
+  "notice": "audio/2026-11-27/a1-w-notice.mp3",
+  "Did you notice my new haircut?": "audio/2026-11-27/a1-ex-notice.mp3",
+  "goosebumps": "audio/2026-11-27/a1-w-goosebumps.mp3",
+  "That scary song gives me goosebumps.": "audio/2026-11-27/a1-ex-goosebumps.mp3",
+  "fur": "audio/2026-11-27/a1-w-fur.mp3",
+  "Our cat has white fur.": "audio/2026-11-27/a1-ex-fur.mp3",
+  "energy": "audio/2026-11-27/a1-w-energy.mp3",
+  "A good breakfast gives you energy for the day.": "audio/2026-11-27/a1-ex-energy.mp3",
+  "glove": "audio/2026-11-27/a1-w-glove.mp3",
+  "I can't find my left glove.": "audio/2026-11-27/a1-ex-glove.mp3",
+  "Why does this happen?": "audio/2026-11-27/a1-ks1.mp3",
+  "A small part of your brain checks your temperature all the time.": "audio/2026-11-27/a1-ks2.mp3",
+  "So when you shiver, your body gets warmer.": "audio/2026-11-27/a1-ks3.mp3",
+  "Our hair is shorter and thinner than an animal's fur.": "audio/2026-11-27/a1-ks4.mp3",
+  "You are waiting for the school bus, and the wind is stronger than yesterday.": "audio/2026-11-27/a1-g1.mp3",
+  "Running or jumping is a better way to warm up.": "audio/2026-11-27/a1-g3.mp3",
+  "Two thin jumpers are often warmer than one thick jumper, because there is warm air between them.": "audio/2026-11-27/a1-g4.mp3",
+  "Ms Novak is the new science teacher at Lakeside School. Last week, two students from the school magazine, Ben and Yuki, asked her about her first year as a teacher.": "audio/2026-11-27/a2-p1.mp3",
+  "Ben: Where did you teach first? Ms Novak: At a small school in a village near the mountains. There were only eighty students. I didn't know anyone there, and I didn't have a car. So I went to school by bike every day, even in the rain!": "audio/2026-11-27/a2-p2.mp3",
+  "Yuki: Did you feel nervous on your first day? Ms Novak: Yes, I did! I didn't sleep well the night before. In my first lesson, I dropped a box of test tubes. Luckily, they didn't break. The students laughed, and then I laughed too. After that, I felt much better.": "audio/2026-11-27/a2-p3.mp3",
+  "Ben: What did you find difficult? Ms Novak: Remembering names! I had six classes, so I didn't learn all the names quickly. Once, I called a boy Tom for two weeks. His name was Sam! He didn't tell me, because he was very shy.": "audio/2026-11-27/a2-p4.mp3",
+  "Yuki: Did your students like science? Ms Novak: Not at first. Many of them didn't enjoy it, because the lessons were only from the book. So I changed things. We grew plants, made paper rockets and went outside to look at insects. Soon, science was their favourite subject.": "audio/2026-11-27/a2-p5.mp3",
+  "Ben: Why did you come to Lakeside School? Ms Novak: My family moved to this town last summer. I didn't want to leave my old school, but I'm happy here. Everyone is friendly, and the science lab is great.": "audio/2026-11-27/a2-p6.mp3",
+  "Yuki: Last question. Did you always want to be a teacher? Ms Novak: No, I didn't! When I was your age, I wanted to be a pilot. But I liked science more than planes in the end. Yuki: Thank you, Ms Novak!": "audio/2026-11-27/a2-p7.mp3",
+  "village": "audio/2026-11-27/a2-w-village.mp3",
+  "My grandparents live in a quiet village.": "audio/2026-11-27/a2-ex-village.mp3",
+  "nervous": "audio/2026-11-27/a2-w-nervous.mp3",
+  "I always feel nervous before a test.": "audio/2026-11-27/a2-ex-nervous.mp3",
+  "test tube": "audio/2026-11-27/a2-w-test-tube.mp3",
+  "Pour the water into the test tube slowly.": "audio/2026-11-27/a2-ex-test-tube.mp3",
+  "luckily": "audio/2026-11-27/a2-w-luckily.mp3",
+  "It rained, but luckily I had an umbrella.": "audio/2026-11-27/a2-ex-luckily.mp3",
+  "laugh": "audio/2026-11-27/a2-w-laugh.mp3",
+  "We always laugh at my dad's jokes.": "audio/2026-11-27/a2-ex-laugh.mp3",
+  "shy": "audio/2026-11-27/a2-w-shy.mp3",
+  "The shy girl sat at the back of the class.": "audio/2026-11-27/a2-ex-shy.mp3",
+  "insect": "audio/2026-11-27/a2-w-insect.mp3",
+  "A bee is an insect.": "audio/2026-11-27/a2-ex-insect.mp3",
+  "subject": "audio/2026-11-27/a2-w-subject.mp3",
+  "History is my favourite subject.": "audio/2026-11-27/a2-ex-subject.mp3",
+  "lab": "audio/2026-11-27/a2-w-lab.mp3",
+  "We did an experiment in the lab today.": "audio/2026-11-27/a2-ex-lab.mp3",
+  "pilot": "audio/2026-11-27/a2-w-pilot.mp3",
+  "The pilot said hello to everyone on the plane.": "audio/2026-11-27/a2-ex-pilot.mp3",
+  "Last week, two students from the school magazine, Ben and Yuki, asked her about her first year as a teacher.": "audio/2026-11-27/a2-ks1.mp3",
+  "Did you feel nervous on your first day?": "audio/2026-11-27/a2-ks2.mp3",
+  "Many of them didn't enjoy it, because the lessons were only from the book.": "audio/2026-11-27/a2-ks3.mp3",
+  "Soon, science was their favourite subject.": "audio/2026-11-27/a2-ks4.mp3",
+  "Where did you teach first?": "audio/2026-11-27/a2-g1.mp3",
+  "I didn't know anyone there, and I didn't have a car.": "audio/2026-11-27/a2-g2.mp3",
+  "Last August, Leila and her family went camping by a lake. Her little brother, Omar, was eight. It was his first time in a tent, and he was very excited.": "audio/2026-11-27/a3-p1.mp3",
+  "On the first evening, the sun was going down when they finished dinner. Dad was washing the plates while Mum was looking at the map for the next day. Leila and Omar were sitting by the fire. They were telling funny stories, and nobody was watching the food bag.": "audio/2026-11-27/a3-p2.mp3",
+  "Then Omar heard a noise behind the tent. \"What's that?\" he whispered. Leila turned around. A small red fox was standing next to the food bag! While they were watching, it put its nose inside. Then it ran into the trees with something in its mouth.": "audio/2026-11-27/a3-p3.mp3",
+  "\"Our sausages!\" shouted Omar. Dad laughed. \"No, look. It took the bread.\" But there was a bigger problem. The bread was for breakfast, and the nearest shop was ten kilometres away. The fox also tore the bag, and the milk was all over the grass.": "audio/2026-11-27/a3-p4.mp3",
+  "The next morning, Leila woke up early. While the others were sleeping, she walked down to the lake. A man was fishing there. His name was Mr Hughes, and he worked at the campsite. Leila told him about the fox.": "audio/2026-11-27/a3-p5.mp3",
+  "\"That fox is always hungry!\" he said with a smile. \"Keep your food in the car at night.\" Then he gave her six eggs and some bread from the campsite café. When Leila got back, Mum was making a new fire. They all had a great breakfast together.": "audio/2026-11-27/a3-p6.mp3",
+  "That night, the food was in the car. While Omar was falling asleep, he heard a small noise outside the tent. He smiled. \"Sorry, fox,\" he said quietly. \"No bread for you tonight!\"": "audio/2026-11-27/a3-p7.mp3",
+  "camping": "audio/2026-11-27/a3-w-camping.mp3",
+  "We go camping in the mountains every summer.": "audio/2026-11-27/a3-ex-camping.mp3",
+  "tent": "audio/2026-11-27/a3-w-tent.mp3",
+  "Our tent is big enough for four people.": "audio/2026-11-27/a3-ex-tent.mp3",
+  "lake": "audio/2026-11-27/a3-w-lake.mp3",
+  "We swam in the lake after lunch.": "audio/2026-11-27/a3-ex-lake.mp3",
+  "fire": "audio/2026-11-27/a3-w-fire.mp3",
+  "We sat around the fire and sang songs.": "audio/2026-11-27/a3-ex-fire.mp3",
+  "whisper": "audio/2026-11-27/a3-w-whisper.mp3",
+  "Please whisper in the library.": "audio/2026-11-27/a3-ex-whisper.mp3",
+  "fox": "audio/2026-11-27/a3-w-fox.mp3",
+  "A fox lives in the woods near our house.": "audio/2026-11-27/a3-ex-fox.mp3",
+  "sausage": "audio/2026-11-27/a3-w-sausage.mp3",
+  "I had a sausage and some bread for lunch.": "audio/2026-11-27/a3-ex-sausage.mp3",
+  "kilometre": "audio/2026-11-27/a3-w-kilometre.mp3",
+  "The lake is one kilometre from our house.": "audio/2026-11-27/a3-ex-kilometre.mp3",
+  "campsite": "audio/2026-11-27/a3-w-campsite.mp3",
+  "The campsite has hot showers and a small shop.": "audio/2026-11-27/a3-ex-campsite.mp3",
+  "quietly": "audio/2026-11-27/a3-w-quietly.mp3",
+  "She closed the door quietly.": "audio/2026-11-27/a3-ex-quietly.mp3",
+  "Dad was washing the plates while Mum was looking at the map for the next day.": "audio/2026-11-27/a3-ks1.mp3",
+  "They were telling funny stories, and nobody was watching the food bag.": "audio/2026-11-27/a3-ks2.mp3",
+  "But there was a bigger problem.": "audio/2026-11-27/a3-ks3.mp3",
+  "Then he gave her six eggs and some bread from the campsite café.": "audio/2026-11-27/a3-ks4.mp3",
+  "On the first evening, the sun was going down when they finished dinner.": "audio/2026-11-27/a3-g1.mp3",
+  "While the others were sleeping, she walked down to the lake.": "audio/2026-11-27/a3-g3.mp3",
+  "While Omar was falling asleep, he heard a small noise outside the tent.": "audio/2026-11-27/a3-g4.mp3"
+ }
+}
