@@ -1,0 +1,2039 @@
+{
+ "date": "2026-11-28",
+ "headline": "Warm wool, Grandma's first phone and house rules",
+ "teaser": "Why is a wool jumper so warm? What did Grandma photograph by mistake? And what must everyone do at the Clarkes' door?",
+ "articles": [
+  {
+   "id": "k20261128-1",
+   "topic": "Clothes",
+   "genre": "Article",
+   "title": "Why Does a Wool Jumper Keep You Warm?",
+   "dek": "The secret is not in the sheep. It is in the air!",
+   "sources": [
+    {
+     "name": "Science Learning Hub – Wool fibre properties",
+     "url": "https://www.sciencelearn.org.nz/resources/875-wool-fibre-properties"
+    },
+    {
+     "name": "The Woolmark Company – Wool is naturally breathable",
+     "url": "https://www.woolmark.com/industry/research/factsheets/wool-is-naturally-breathable/"
+    }
+   ],
+   "paras": [
+    "It is the coldest month of the year. You open your wardrobe. What do you choose: a cotton T-shirt or a wool jumper? Most people choose the wool jumper. But why is wool so warm? The answer is in the tiny hairs of a sheep.",
+    "Wool comes from sheep. Every hair of wool is very thin, but it is not straight. It has lots of small waves, like a curly line. Scientists call these waves crimp. Because of the crimp, the hairs cannot lie flat next to each other. So there are lots of small spaces between them.",
+    "These spaces are full of air. Air does not move heat well. So the air in your jumper keeps the warmth from your body near your skin. The cold air outside cannot get in easily. This is the most important reason why wool keeps you warm.",
+    "Wool has another clever trick. It can hold a lot of water, up to about 30 percent of its own weight. But it still doesn't feel wet. On a rainy walk, a wet cotton T-shirt feels cold and heavy. A wool jumper is not as cold as cotton when it gets a little wet.",
+    "Wool is good in other ways too. It does not burn easily, so it is a good material for blankets and carpets. It is natural, and it grows back after a farmer cuts it. But some people think wool feels itchy. The softest wool comes from merino sheep, because their hairs are the thinnest.",
+    "So which jumper is the best for a snowy day? A wool one is a great choice. Wear a thin wool layer under your coat, and you will be as warm as a sheep in a field!"
+   ],
+   "words": [
+    {
+     "w": "wool",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/wʊl/",
+     "syl": [
+      "wool"
+     ],
+     "def": "the soft hair of a sheep, used for clothes",
+     "ex": "My grandma made me a hat from red wool."
+    },
+    {
+     "w": "cotton",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkɒt.ən/",
+     "syl": [
+      "cot",
+      "ton"
+     ],
+     "def": "a light material from a plant, used for clothes",
+     "ex": "I wear cotton shirts in summer."
+    },
+    {
+     "w": "jumper",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈdʒʌm.pə/",
+     "syl": [
+      "jum",
+      "per"
+     ],
+     "def": "a warm top with long arms",
+     "ex": "Put on your jumper. It's cold outside."
+    },
+    {
+     "w": "crimp",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/krɪmp/",
+     "syl": [
+      "crimp"
+     ],
+     "def": "small waves in a hair of wool",
+     "ex": "Good wool has a lot of crimp."
+    },
+    {
+     "w": "space",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/speɪs/",
+     "syl": [
+      "space"
+     ],
+     "def": "an empty place between things",
+     "ex": "There is a space between the two desks."
+    },
+    {
+     "w": "weight",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/weɪt/",
+     "syl": [
+      "weight"
+     ],
+     "def": "how heavy something is",
+     "ex": "The weight of my school bag is five kilos."
+    },
+    {
+     "w": "material",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/məˈtɪə.ri.əl/",
+     "syl": [
+      "ma",
+      "te",
+      "ri",
+      "al"
+     ],
+     "def": "what you use to make things, like wood or cloth",
+     "ex": "Paper is a cheap material."
+    },
+    {
+     "w": "itchy",
+     "level": "Topic word",
+     "pos": "adjective",
+     "ipa": "/ˈɪtʃ.i/",
+     "syl": [
+      "itch",
+      "y"
+     ],
+     "def": "making you want to rub your skin",
+     "ex": "This new scarf is a bit itchy."
+    },
+    {
+     "w": "layer",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈleɪ.ə/",
+     "syl": [
+      "lay",
+      "er"
+     ],
+     "def": "one piece of clothing under or over another",
+     "ex": "I wear a thin layer under my school shirt."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But why is wool so warm?",
+     "kind": "Main idea",
+     "note": "The article answers this question."
+    },
+    {
+     "para": 2,
+     "text": "Because of the crimp, the hairs cannot lie flat next to each other.",
+     "kind": "Cause → effect",
+     "note": "Waves in the hair → spaces between the hairs."
+    },
+    {
+     "para": 3,
+     "text": "This is the most important reason why wool keeps you warm.",
+     "kind": "Grammar to notice",
+     "note": "A long adjective: the most + important."
+    },
+    {
+     "para": 4,
+     "text": "A wool jumper is not as cold as cotton when it gets a little wet.",
+     "kind": "Key details",
+     "note": "Wet wool is warmer than wet cotton."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "how to look after sheep",
+      "why wool clothes keep us warm",
+      "how to make a jumper at home"
+     ],
+     "a": 1,
+     "why": "第1段提出问题 But why is wool so warm?，后面各段都在解释原因。",
+     "evidence": "But why is wool so warm?",
+     "optWhy": [
+      "文中提到 sheep，但没有讲怎么照顾羊。",
+      "正确。原文 why is wool so warm = 选项 why wool clothes keep us warm。",
+      "文中没有教人自己织毛衣。"
+     ],
+     "traps": [
+      "以偏概全",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "看问题句",
+       "t": "第1段末 But why is wool so warm? 就是全文要回答的问题。"
+      },
+      {
+       "h": "看结构",
+       "t": "第2–5段都在讲羊毛为什么暖 → 主旨。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What is crimp?",
+     "opts": [
+      "small waves in each hair of wool",
+      "a kind of sheep",
+      "a space between two jumpers"
+     ],
+     "a": 0,
+     "why": "第2段：It has lots of small waves… Scientists call these waves crimp。",
+     "evidence": "Scientists call these waves crimp.",
+     "optWhy": [
+      "正确。原文 these waves crimp，waves 指 lots of small waves = 选项 small waves in each hair。",
+      "merino 才是一种羊（第5段），crimp 不是。",
+      "空隙在羊毛纤维之间，不是两件毛衣之间。"
+     ],
+     "traps": [
+      null,
+      "混淆",
+      "细节偷换"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "crimp 出现在第2段。"
+      },
+      {
+       "h": "往前找",
+       "t": "these waves 指前面的 lots of small waves。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "How does the air in a wool jumper help you?",
+     "opts": [
+      "It is warmer than the air outside.",
+      "It moves heat very quickly.",
+      "It keeps your body's warmth near your skin."
+     ],
+     "a": 2,
+     "why": "第3段：the air in your jumper keeps the warmth from your body near your skin。",
+     "evidence": "So the air in your jumper keeps the warmth from your body near your skin.",
+     "optWhy": [
+      "原文没有比较毛衣里的空气和外面的空气哪个更暖。",
+      "原文说 Air does not move heat well，和选项相反。",
+      "正确。原文 keeps the warmth from your body near your skin = 选项 keeps your body's warmth near your skin。"
+     ],
+     "traps": [
+      "无中生有",
+      "与原文相反",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "air in your jumper → 第3段。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "Air does not move heat well：空气不传热，B 正好说反。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "A wool jumper feels wet as soon as it holds a little water.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第4段：It can hold a lot of water… But it still doesn't feel wet。",
+     "evidence": "But it still doesn't feel wet.",
+     "optWhy": [
+      "原文说 doesn't feel wet，和题干相反。",
+      "正确。原文 it still doesn't feel wet 与题干 feels wet 相反 → Wrong。",
+      "原文明确说了不觉得湿，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "water → 第4段。"
+      },
+      {
+       "h": "找否定",
+       "t": "doesn't feel wet 和题干意思相反 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Merino sheep are the biggest sheep in the world.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只说美利奴羊的毛最软、最细，没说它们的个子大小。",
+     "evidence": "The softest wool comes from merino sheep, because their hairs are the thinnest.",
+     "optWhy": [
+      "原文讲的是 the softest wool，不是 the biggest sheep。",
+      "原文也没说它们小，不能判断 Wrong。",
+      "正确。文中没提羊的大小 → Doesn't say。"
+     ],
+     "traps": [
+      "偷换概念",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "merino → 第5段。"
+      },
+      {
+       "h": "对比词",
+       "t": "原文 softest / thinnest 说的是毛，题干 biggest 说的是羊。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文没有相反的说法，只是没提 → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "\"It is natural, and it grows back after a farmer cuts it.\" What does \"it\" mean?",
+     "opts": [
+      "wool",
+      "a farmer",
+      "a blanket"
+     ],
+     "a": 0,
+     "why": "第5段一直在讲 Wool is good in other ways too，it 指羊毛：剪了以后会再长出来。",
+     "evidence": "It is natural, and it grows back after a farmer cuts it.",
+     "optWhy": [
+      "正确。本段主语是 Wool，grows back 的 it = wool。",
+      "a farmer 是剪毛的人，不会 grows back。",
+      "blanket 是用羊毛做的东西，不会自己长回来。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "本段第一句 Wool is good in other ways too。"
+      },
+      {
+       "h": "代回验证",
+       "t": "wool grows back after a farmer cuts it ✓。"
+      }
+     ],
+     "marks": [
+      "Wool is good in other ways too."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Superlatives · as … as",
+    "rule": "Use the + superlative to compare three or more things. Short words add -est (cold → the coldest). Long words use the most (the most important). Use as + adjective + as when two things are the same, and not as … as when they are different.",
+    "table": [
+     [
+      "cold",
+      "the coldest"
+     ],
+     [
+      "thin",
+      "the thinnest"
+     ],
+     [
+      "soft",
+      "the softest"
+     ],
+     [
+      "important",
+      "the most important"
+     ],
+     [
+      "good",
+      "the best"
+     ],
+     [
+      "warm",
+      "as warm as"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "It is the coldest month of the year.",
+      "mark": "the coldest"
+     },
+     {
+      "para": 3,
+      "text": "This is the most important reason why wool keeps you warm.",
+      "mark": "the most important"
+     },
+     {
+      "para": 4,
+      "text": "A wool jumper is not as cold as cotton when it gets a little wet.",
+      "mark": "not as cold as"
+     },
+     {
+      "para": 5,
+      "text": "The softest wool comes from merino sheep, because their hairs are the thinnest.",
+      "mark": "the thinnest"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Antarctica is ___ place on Earth.",
+      "opts": [
+       "the coldest",
+       "colder",
+       "the most cold"
+      ],
+      "a": 0,
+      "why": "Cold is short, so add -est: the coldest."
+     },
+     {
+      "type": "mc",
+      "q": "My cotton scarf is not as ___ as your wool one.",
+      "opts": [
+       "warmer",
+       "warm",
+       "warmest"
+      ],
+      "a": 1,
+      "why": "After as … as, use the normal adjective: as warm as."
+     },
+     {
+      "type": "fill",
+      "q": "This is ___ coat in the shop. It costs £150!",
+      "hint": "(expensive)",
+      "a": "the most expensive",
+      "why": "Expensive is a long word, so use the most."
+     },
+     {
+      "type": "fill",
+      "q": "Tom has got ___ hands in our class. He needs extra large gloves.",
+      "hint": "(big)",
+      "a": "the biggest",
+      "why": "Big: double the g and add -est: the biggest."
+     },
+     {
+      "type": "fill",
+      "q": "Which is ___ material for a rainy day: wool, cotton or paper?",
+      "hint": "(good)",
+      "a": "the best",
+      "why": "Good is irregular: good → better → the best."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday ___ the windiest day of the month.",
+      "hint": "(be)",
+      "a": "was",
+      "why": "Yesterday is in the past, so use was."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261128-1-k1",
+     "tag": "Crimp",
+     "fact": "Each hair of wool has small waves called crimp.",
+     "q": "What does a hair of wool have?",
+     "opts": [
+      "small holes",
+      "small waves",
+      "small stones"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261128-1-k2",
+     "tag": "Air",
+     "fact": "Air between the wool hairs keeps your body's warmth near your skin.",
+     "q": "What is in the spaces between wool hairs?",
+     "opts": [
+      "air",
+      "water",
+      "sand"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261128-1-k3",
+     "tag": "Water",
+     "fact": "Wool can hold about 30 percent of its weight in water and still not feel wet.",
+     "q": "How does wool feel when it holds some water?",
+     "opts": [
+      "very wet",
+      "very heavy",
+      "not wet"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261128-1-k4",
+     "tag": "Fire",
+     "fact": "Wool does not burn easily, so people use it for blankets and carpets.",
+     "q": "What do people make from wool because it does not burn easily?",
+     "opts": [
+      "blankets and carpets",
+      "cups and plates",
+      "windows"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261128-1-k5",
+     "tag": "Merino",
+     "fact": "The softest wool comes from merino sheep.",
+     "q": "Where does the softest wool come from?",
+     "opts": [
+      "goats",
+      "merino sheep",
+      "cotton plants"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Wool",
+    "question": "Why does wool keep you warm?",
+    "branches": [
+     {
+      "title": "Crimp",
+      "paras": "1–2",
+      "blanks": [
+       "small waves",
+       "small spaces"
+      ],
+      "kps": [
+       "k20261128-1-k1"
+      ]
+     },
+     {
+      "title": "Air",
+      "paras": "3",
+      "blanks": [
+       "warmth near skin"
+      ],
+      "kps": [
+       "k20261128-1-k2"
+      ]
+     },
+     {
+      "title": "Water",
+      "paras": "4",
+      "blanks": [
+       "about 30 percent",
+       "doesn't feel wet"
+      ],
+      "kps": [
+       "k20261128-1-k3"
+      ]
+     },
+     {
+      "title": "Other ways",
+      "paras": "5–6",
+      "blanks": [
+       "doesn't burn easily",
+       "merino sheep"
+      ],
+      "kps": [
+       "k20261128-1-k4",
+       "k20261128-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "comes from plants",
+     "air moves heat well"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the article.",
+    "model": "Wool keeps us warm because its curly hairs trap air. It can hold water, but it doesn't feel wet, so it is great for cold days.",
+    "options": [
+     {
+      "t": "Wool hairs have small waves, so there are spaces between them.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "So there are lots of small spaces between them."
+     },
+     {
+      "t": "The air in these spaces keeps your body warm.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "This is the most important reason why wool keeps you warm."
+     },
+     {
+      "t": "Wool can hold water and still not feel wet.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "But it still doesn't feel wet."
+     },
+     {
+      "t": "Some people think wool feels itchy.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "But some people think wool feels itchy."
+     },
+     {
+      "t": "Wool jumpers are cheaper than cotton T-shirts.",
+      "ok": false,
+      "why": "The article never talks about prices.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Air moves heat very well.",
+      "ok": false,
+      "why": "Wrong: air does not move heat well.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "Air does not move heat well."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is the warmest thing in your wardrobe? When do you wear it? Why do you like it?",
+    "hint": "The warmest thing I've got is … / I wear it when …",
+    "sec": 40
+   },
+   "write": {
+    "p": "You bought a new jumper. Write a message to your friend. Write 25 words or more.",
+    "steps": [
+     "Say what colour it is.",
+     "Say what material it is made of.",
+     "Say when you are going to wear it."
+    ],
+    "minWords": 25
+   },
+   "voice": "British English · female"
+  },
+  {
+   "id": "k20261128-2",
+   "topic": "People & family",
+   "genre": "Blog post",
+   "title": "Grandma's First Smartphone",
+   "dek": "Grandma Ingrid couldn't send a message. Then Lucas gave her some lessons.",
+   "sources": [],
+   "paras": [
+    "Hi everyone, it's Lucas again! This month my blog is about my grandma, Ingrid. She is seventy-four, and she is amazing. She can make the best apple cake in town. But until last month, she couldn't use a smartphone. She only had an old phone with big buttons.",
+    "When Grandma was young, life was very different. She told me about it on Sunday. \"I couldn't phone my friends from my bedroom,\" she said. \"We had one phone in the hall. My brother always used it!\" But she could ride a horse, and she could swim across the lake near her village.",
+    "On her birthday, Mum gave her a smartphone. Grandma looked at it for a long time. \"What a beautiful little screen,\" she said. \"But I can't read these tiny letters!\" So I made the letters bigger for her. Then I showed her the camera.",
+    "Every Saturday after that, I gave her a lesson at her kitchen table. In the first week, she could send a text message, but it took ten minutes. In the second week, she learned to take photos. Most of them were photos of her own finger! We laughed a lot.",
+    "Now Grandma can do lots of things on her phone. She can make video calls to my cousin in Canada. She can look up recipes online. Yesterday she sent me a message with three hearts and a cake. She can't play games yet, but she wants to learn.",
+    "I think teaching Grandma was the most fun job of my year. She taught me something too: you can learn new things at any age. Has anyone in your family got a new gadget? Tell me in the comments!"
+   ],
+   "words": [
+    {
+     "w": "smartphone",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈsmɑːt.fəʊn/",
+     "syl": [
+      "smart",
+      "phone"
+     ],
+     "def": "a phone that is also a small computer",
+     "ex": "My dad reads the news on his smartphone."
+    },
+    {
+     "w": "button",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈbʌt.ən/",
+     "syl": [
+      "but",
+      "ton"
+     ],
+     "def": "a small part you press to make a machine work",
+     "ex": "Press the green button to start."
+    },
+    {
+     "w": "hall",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/hɔːl/",
+     "syl": [
+      "hall"
+     ],
+     "def": "the room just inside the front door",
+     "ex": "Leave your shoes in the hall, please."
+    },
+    {
+     "w": "screen",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skriːn/",
+     "syl": [
+      "screen"
+     ],
+     "def": "the flat part of a phone or TV with pictures",
+     "ex": "The screen on my tablet is broken."
+    },
+    {
+     "w": "tiny",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈtaɪ.ni/",
+     "syl": [
+      "ti",
+      "ny"
+     ],
+     "def": "very, very small",
+     "ex": "We found a tiny mouse in the garden."
+    },
+    {
+     "w": "cousin",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkʌz.ən/",
+     "syl": [
+      "cous",
+      "in"
+     ],
+     "def": "the child of your aunt or uncle",
+     "ex": "My cousin lives in Spain."
+    },
+    {
+     "w": "recipe",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈres.ɪ.pi/",
+     "syl": [
+      "rec",
+      "i",
+      "pe"
+     ],
+     "def": "words that tell you how to cook something",
+     "ex": "This recipe needs three eggs."
+    },
+    {
+     "w": "online",
+     "level": "A2 word",
+     "pos": "adverb",
+     "ipa": "/ˌɒnˈlaɪn/",
+     "syl": [
+      "on",
+      "line"
+     ],
+     "def": "on the internet",
+     "ex": "I bought my new shoes online."
+    },
+    {
+     "w": "gadget",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈɡædʒ.ɪt/",
+     "syl": [
+      "gad",
+      "get"
+     ],
+     "def": "a small, clever machine",
+     "ex": "My uncle loves his new kitchen gadget."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But until last month, she couldn't use a smartphone.",
+     "kind": "Main idea",
+     "note": "This is the problem in the blog."
+    },
+    {
+     "para": 2,
+     "text": "But she could ride a horse, and she could swim across the lake near her village.",
+     "kind": "Grammar to notice",
+     "note": "could + verb = she was able to do it in the past."
+    },
+    {
+     "para": 4,
+     "text": "Every Saturday after that, I gave her a lesson at her kitchen table.",
+     "kind": "Time order",
+     "note": "After her birthday, the lessons started."
+    },
+    {
+     "para": 6,
+     "text": "She taught me something too: you can learn new things at any age.",
+     "kind": "Opinion",
+     "note": "Lucas learned something from Grandma."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why did Lucas write this blog post?",
+     "opts": [
+      "to sell smartphones to old people",
+      "to give a recipe for apple cake",
+      "to tell readers how his grandma learned to use a phone"
+     ],
+     "a": 2,
+     "why": "第1段说 she couldn't use a smartphone，后面讲他怎么教会奶奶用手机。",
+     "evidence": "But until last month, she couldn't use a smartphone.",
+     "optWhy": [
+      "Lucas 没有在卖手机。",
+      "apple cake 只在第1段提了一句，没有给做法。",
+      "正确。全文讲 couldn't use a smartphone → Now Grandma can do lots of things = 选项 how his grandma learned to use a phone。"
+     ],
+     "traps": [
+      "无中生有",
+      "以偏概全",
+      null
+     ],
+     "steps": [
+      {
+       "h": "找主线",
+       "t": "开头 couldn't use，结尾 Now Grandma can… → 学会用手机的故事。"
+      },
+      {
+       "h": "小心干扰",
+       "t": "apple cake 只是小细节。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What could Grandma do when she was young?",
+     "opts": [
+      "swim across a lake",
+      "phone her friends from her bedroom",
+      "use the phone every day"
+     ],
+     "a": 0,
+     "why": "第2段：she could swim across the lake near her village。",
+     "evidence": "But she could ride a horse, and she could swim across the lake near her village.",
+     "optWhy": [
+      "正确。原文 she could swim across the lake = 选项 swim across a lake。",
+      "原文是 I couldn't phone my friends from my bedroom，正好相反。",
+      "原文说 my brother always used it，是哥哥总在用电话。"
+     ],
+     "traps": [
+      null,
+      "与原文相反",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "When Grandma was young → 第2段。"
+      },
+      {
+       "h": "分清 could 和 couldn't",
+       "t": "couldn't phone 是不能，could swim 是能。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "What was Grandma's problem with her new phone?",
+     "opts": [
+      "The screen was broken.",
+      "She couldn't read the small letters.",
+      "The camera didn't work."
+     ],
+     "a": 1,
+     "why": "第3段奶奶说：But I can't read these tiny letters!",
+     "evidence": "But I can't read these tiny letters!",
+     "optWhy": [
+      "奶奶说 What a beautiful little screen，屏幕没坏。",
+      "正确。原文 can't read these tiny letters = 选项 couldn't read the small letters（tiny = small）。",
+      "文中只说 I showed her the camera，没说相机坏了。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "无中生有"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "On her birthday… → 第3段。"
+      },
+      {
+       "h": "找转折",
+       "t": "But 后面才是问题：can't read these tiny letters。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 4,
+     "q": "\"Most of them were photos of her own finger!\" What does \"them\" mean?",
+     "opts": [
+      "Grandma's photos",
+      "Lucas's lessons",
+      "Grandma's text messages"
+     ],
+     "a": 0,
+     "why": "前一句 she learned to take photos，them 指奶奶拍的照片。",
+     "evidence": "Most of them were photos of her own finger!",
+     "optWhy": [
+      "正确。前一句 take photos → them = Grandma's photos。",
+      "lessons 不会是 photos of her own finger。",
+      "text message 在前面，但这里讲的是 take photos。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句：she learned to take photos。"
+      },
+      {
+       "h": "代回验证",
+       "t": "Most of her photos were photos of her own finger ✓。"
+      }
+     ],
+     "marks": [
+      "In the second week, she learned to take photos."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Grandma can play games on her phone now.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第5段：She can't play games yet。",
+     "evidence": "She can't play games yet, but she wants to learn.",
+     "optWhy": [
+      "原文说 can't play games，和题干相反。",
+      "正确。原文 She can't play games yet 与题干 can play games 相反 → Wrong。",
+      "原文明确说了不会，所以不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "games → 第5段。"
+      },
+      {
+       "h": "看 can't",
+       "t": "can't play games yet = 还不会 → Wrong。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 5,
+     "q": "Lucas's cousin in Canada has got a new phone too.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第5段只说奶奶给加拿大的表亲打视频电话，没说表亲有没有新手机。",
+     "evidence": "She can make video calls to my cousin in Canada.",
+     "optWhy": [
+      "原文没说表亲买了新手机，不能说 Right。",
+      "原文也没说表亲没有新手机，不能说 Wrong。",
+      "正确。文中没提表亲的手机 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "cousin in Canada → 第5段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "原文只讲视频电话，没讲表亲的手机 → Doesn't say。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "can / can't · could for past ability",
+    "rule": "Use can / can't + verb for what you are able to do now. Use could / couldn't + verb for what you were able to do in the past. The verb after can and could has no -s, -ed or to.",
+    "table": [
+     [
+      "can (now)",
+      "She can make video calls."
+     ],
+     [
+      "can't (now)",
+      "She can't play games yet."
+     ],
+     [
+      "could (past)",
+      "She could ride a horse."
+     ],
+     [
+      "couldn't (past)",
+      "She couldn't use a smartphone."
+     ],
+     [
+      "Can …? (question)",
+      "Can you swim?"
+     ],
+     [
+      "Could …? (past question)",
+      "Could you read at four?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "But until last month, she couldn't use a smartphone.",
+      "mark": "couldn't use"
+     },
+     {
+      "para": 2,
+      "text": "But she could ride a horse, and she could swim across the lake near her village.",
+      "mark": "could ride"
+     },
+     {
+      "para": 5,
+      "text": "She can make video calls to my cousin in Canada.",
+      "mark": "can make"
+     },
+     {
+      "para": 5,
+      "text": "She can't play games yet, but she wants to learn.",
+      "mark": "can't play"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "When I was five, I ___ ride a bike. Now I ride to school every day.",
+      "opts": [
+       "can",
+       "could",
+       "can't"
+      ],
+      "a": 1,
+      "why": "When I was five is the past, so use could."
+     },
+     {
+      "type": "mc",
+      "q": "My grandpa ___ read small letters now. He needs his glasses.",
+      "opts": [
+       "can't",
+       "couldn't",
+       "could"
+      ],
+      "a": 0,
+      "why": "Now is the present, and he needs glasses, so use can't."
+     },
+     {
+      "type": "fill",
+      "q": "Last year I ___ swim, but now I can.",
+      "hint": "(not + can, past)",
+      "a": "couldn't / could not",
+      "why": "Last year is the past: couldn't."
+     },
+     {
+      "type": "fill",
+      "q": "___ your grandma use a computer? Yes, she can.",
+      "hint": "(can)",
+      "a": "Can",
+      "why": "The answer is about now, so the question starts with Can."
+     },
+     {
+      "type": "fill",
+      "q": "When my mum was a child, she ___ watch films on a phone. There were no smartphones!",
+      "hint": "(not + can, past)",
+      "a": "couldn't / could not",
+      "why": "It was in the past and it was not possible: couldn't."
+     },
+     {
+      "type": "fill",
+      "q": "Yesterday Grandma ___ me a photo of her cat.",
+      "hint": "(send)",
+      "a": "sent",
+      "why": "Yesterday is the past. Send is irregular: sent."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261128-2-k1",
+     "tag": "Grandma",
+     "fact": "Grandma Ingrid is seventy-four and makes great apple cake.",
+     "q": "How old is Grandma Ingrid?",
+     "opts": [
+      "sixty-four",
+      "seventy-four",
+      "eighty-four"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261128-2-k2",
+     "tag": "The past",
+     "fact": "When Grandma was young, her family had one phone in the hall.",
+     "q": "Where was the phone in Grandma's house?",
+     "opts": [
+      "in the hall",
+      "in her bedroom",
+      "in the kitchen"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261128-2-k3",
+     "tag": "Problem",
+     "fact": "Grandma couldn't read the tiny letters, so Lucas made them bigger.",
+     "q": "What did Lucas change on the phone?",
+     "opts": [
+      "the colour",
+      "the camera",
+      "the size of the letters"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261128-2-k4",
+     "tag": "Lessons",
+     "fact": "Lucas gave Grandma a lesson every Saturday.",
+     "q": "When were Grandma's phone lessons?",
+     "opts": [
+      "every Sunday",
+      "every Saturday",
+      "every evening"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261128-2-k5",
+     "tag": "Now",
+     "fact": "Now Grandma can make video calls and look up recipes online.",
+     "q": "What can Grandma do now?",
+     "opts": [
+      "make video calls",
+      "play games",
+      "fix phones"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Grandma's phone",
+    "question": "How did Grandma learn to use a smartphone?",
+    "branches": [
+     {
+      "title": "Before",
+      "paras": "1–2",
+      "blanks": [
+       "big buttons",
+       "one phone in the hall"
+      ],
+      "kps": [
+       "k20261128-2-k1",
+       "k20261128-2-k2"
+      ]
+     },
+     {
+      "title": "Problem",
+      "paras": "3",
+      "blanks": [
+       "tiny letters"
+      ],
+      "kps": [
+       "k20261128-2-k3"
+      ]
+     },
+     {
+      "title": "Lessons",
+      "paras": "4",
+      "blanks": [
+       "every Saturday",
+       "photos of her finger"
+      ],
+      "kps": [
+       "k20261128-2-k4"
+      ]
+     },
+     {
+      "title": "Now",
+      "paras": "5–6",
+      "blanks": [
+       "video calls",
+       "recipes online"
+      ],
+      "kps": [
+       "k20261128-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a new laptop",
+     "plays games every day"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the blog post.",
+    "model": "Grandma couldn't use a smartphone, so Lucas gave her lessons. It was slow at first, but now she can do lots of things.",
+    "options": [
+     {
+      "t": "Grandma got a smartphone, but she couldn't use it.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 1 and 3.",
+      "type": "main",
+      "para": 1,
+      "evidence": "But until last month, she couldn't use a smartphone."
+     },
+     {
+      "t": "Lucas gave his grandma phone lessons every Saturday.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Every Saturday after that, I gave her a lesson at her kitchen table."
+     },
+     {
+      "t": "Now Grandma can do lots of things on her phone.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Now Grandma can do lots of things on her phone."
+     },
+     {
+      "t": "Grandma's brother always used the phone in the hall.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "We had one phone in the hall. My brother always used it!"
+     },
+     {
+      "t": "Lucas's mum works in a phone shop.",
+      "ok": false,
+      "why": "The blog never says this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Grandma learned everything in one day.",
+      "ok": false,
+      "why": "Wrong: the lessons were every Saturday for weeks.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "In the first week, she could send a text message, but it took ten minutes."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What could you do when you were six? What can you do now that you couldn't do then?",
+    "hint": "When I was six, I could … / Now I can …, but I couldn't … then.",
+    "sec": 40
+   },
+   "write": {
+    "p": "You helped someone in your family learn something new. Write a short story. Write 35 words or more.",
+    "steps": [
+     "Say who you helped.",
+     "Say what they couldn't do at first.",
+     "Say what they can do now."
+    ],
+    "minWords": 35
+   },
+   "voice": "British English · male"
+  },
+  {
+   "id": "k20261128-3",
+   "topic": "Daily life",
+   "genre": "Email",
+   "title": "Welcome to Our Home, Ana!",
+   "dek": "Ana is going to stay with a family in England. What are the house rules?",
+   "sources": [],
+   "paras": [
+    "Ana is fourteen and lives in Brazil. Next month, she is staying with a family in England for two weeks. Read her emails with Mrs Clarke.",
+    "Hi Ana, We are very happy that you are coming! Here is some information about our home. You don't have to bring towels or sheets, because we have lots. But you must bring warm clothes. It is very cold here in December. Our house is small, so you have to share a bedroom with our daughter, Lily. She is fourteen too, and she is very excited.",
+    "On school days, we have breakfast at seven o'clock. You have to be ready by half past seven, because the school bus leaves at twenty to eight. After school, you don't have to help in the kitchen, but you can if you want! At the weekend, we get up late. Best wishes, Helen Clarke",
+    "Dear Mrs Clarke, Thank you for your email. I'm excited too! I have some questions. At home in Brazil, I play the guitar every evening. Can I bring my guitar? Do I have to practise in my room? And must I wear a uniform at Lily's school? We don't have to wear one at my school. Love, Ana",
+    "Hi Ana, Of course you can bring your guitar! Lily plays the piano, so you can play music together. You can practise in the living room, but you have to stop at nine o'clock. Our neighbour has a new baby. And yes, you must wear a uniform at school. Don't worry, we have one for you. It's dark blue.",
+    "Oh, one more thing. In our house, everyone must take their shoes off at the door. We have a white carpet! See you very soon, Helen"
+   ],
+   "words": [
+    {
+     "w": "information",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˌɪn.fəˈmeɪ.ʃən/",
+     "syl": [
+      "in",
+      "for",
+      "ma",
+      "tion"
+     ],
+     "def": "facts about something",
+     "ex": "You can find information about the trip online."
+    },
+    {
+     "w": "towel",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈtaʊ.əl/",
+     "syl": [
+      "tow",
+      "el"
+     ],
+     "def": "a cloth you use to dry your body",
+     "ex": "Don't forget your towel for the pool."
+    },
+    {
+     "w": "sheet",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ʃiːt/",
+     "syl": [
+      "sheet"
+     ],
+     "def": "a large cloth on a bed",
+     "ex": "Mum put a clean sheet on my bed."
+    },
+    {
+     "w": "share",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ʃeə/",
+     "syl": [
+      "share"
+     ],
+     "def": "to have or use something with another person",
+     "ex": "I share a desk with my best friend."
+    },
+    {
+     "w": "excited",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪkˈsaɪ.tɪd/",
+     "syl": [
+      "ex",
+      "cit",
+      "ed"
+     ],
+     "def": "very happy about something that will happen",
+     "ex": "We are excited about the school trip."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something again and again to get better",
+     "ex": "I practise the piano for twenty minutes a day."
+    },
+    {
+     "w": "uniform",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈjuː.nɪ.fɔːm/",
+     "syl": [
+      "u",
+      "ni",
+      "form"
+     ],
+     "def": "the same clothes that all students wear",
+     "ex": "Our school uniform is green and white."
+    },
+    {
+     "w": "neighbour",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈneɪ.bə/",
+     "syl": [
+      "neigh",
+      "bour"
+     ],
+     "def": "a person who lives next to you",
+     "ex": "Our neighbour has got a big dog."
+    },
+    {
+     "w": "carpet",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈkɑː.pɪt/",
+     "syl": [
+      "car",
+      "pet"
+     ],
+     "def": "a soft thing that covers the floor",
+     "ex": "The cat is sleeping on the carpet."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Next month, she is staying with a family in England for two weeks.",
+     "kind": "Main idea",
+     "note": "This is why they are writing emails."
+    },
+    {
+     "para": 2,
+     "text": "You don't have to bring towels or sheets, because we have lots.",
+     "kind": "Grammar to notice",
+     "note": "don't have to = it is not necessary."
+    },
+    {
+     "para": 3,
+     "text": "You have to be ready by half past seven, because the school bus leaves at twenty to eight.",
+     "kind": "Cause → effect",
+     "note": "The bus is early, so Ana has to be ready early."
+    },
+    {
+     "para": 6,
+     "text": "In our house, everyone must take their shoes off at the door.",
+     "kind": "Key details",
+     "note": "A very important house rule."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What are the emails mainly about?",
+     "opts": [
+      "Ana's stay with a family in England",
+      "Ana's school in Brazil",
+      "Lily's piano lessons"
+     ],
+     "a": 0,
+     "why": "第1段：she is staying with a family in England for two weeks，邮件都在说住宿规则和准备。",
+     "evidence": "Next month, she is staying with a family in England for two weeks.",
+     "optWhy": [
+      "正确。原文 staying with a family in England = 选项 Ana's stay with a family in England。",
+      "巴西的学校只在第4段提了一句。",
+      "Lily plays the piano 只是一个小细节。"
+     ],
+     "traps": [
+      null,
+      "以偏概全",
+      "以偏概全"
+     ],
+     "steps": [
+      {
+       "h": "看开头",
+       "t": "第1段介绍背景：staying with a family in England。"
+      },
+      {
+       "h": "看全文",
+       "t": "后面的邮件都在讲要带什么、要守什么规则。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What must Ana bring?",
+     "opts": [
+      "towels",
+      "sheets",
+      "warm clothes"
+     ],
+     "a": 2,
+     "why": "第2段：But you must bring warm clothes。",
+     "evidence": "But you must bring warm clothes.",
+     "optWhy": [
+      "原文 You don't have to bring towels，不用带毛巾。",
+      "原文 don't have to bring towels or sheets，也不用带床单。",
+      "正确。原文 you must bring warm clothes = 选项 warm clothes。"
+     ],
+     "traps": [
+      "与原文相反",
+      "与原文相反",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "bring → 第2段。"
+      },
+      {
+       "h": "分清 must 和 don't have to",
+       "t": "must = 必须；don't have to = 不必。"
+      }
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Why does Ana have to be ready by half past seven?",
+     "opts": [
+      "Breakfast starts then.",
+      "The school bus leaves at twenty to eight.",
+      "She has to help in the kitchen."
+     ],
+     "a": 1,
+     "why": "第3段：because the school bus leaves at twenty to eight。",
+     "evidence": "You have to be ready by half past seven, because the school bus leaves at twenty to eight.",
+     "optWhy": [
+      "早餐是 seven o'clock，不是七点半。",
+      "正确。because 后面 the school bus leaves at twenty to eight = 选项。",
+      "原文 you don't have to help in the kitchen，不用帮忙。"
+     ],
+     "traps": [
+      "数字偷换",
+      null,
+      "与原文相反"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "half past seven → 第3段。"
+      },
+      {
+       "h": "找原因词",
+       "t": "because 后面就是原因：the school bus leaves。"
+      }
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Ana is the best guitar player in her class.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "第4段只说 I play the guitar every evening，没说她是不是班里弹得最好的。",
+     "evidence": "At home in Brazil, I play the guitar every evening.",
+     "optWhy": [
+      "原文只说每天弹，没说弹得最好。",
+      "原文也没说她弹得不好，不能判断 Wrong。",
+      "正确。文中没有比较 → Doesn't say。"
+     ],
+     "traps": [
+      "无中生有",
+      "混淆 Wrong / Doesn't say",
+      null
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "guitar → 第4段。"
+      },
+      {
+       "h": "分清 Wrong 和 Doesn't say",
+       "t": "every evening 说的是次数，没讲 the best → Doesn't say。"
+      }
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "\"Don't worry, we have one for you.\" What does \"one\" mean?",
+     "opts": [
+      "a school uniform",
+      "a guitar",
+      "a baby"
+     ],
+     "a": 0,
+     "why": "前一句 you must wear a uniform at school，one 指一套校服。",
+     "evidence": "Don't worry, we have one for you.",
+     "optWhy": [
+      "正确。前一句 wear a uniform → one = a uniform，后面还说 It's dark blue。",
+      "Ana 自己带吉他，Mrs Clarke 没说给她吉他。",
+      "baby 是邻居的，不合逻辑。"
+     ],
+     "traps": [
+      null,
+      "指代错误",
+      "指代错误"
+     ],
+     "steps": [
+      {
+       "h": "往前找",
+       "t": "前一句：you must wear a uniform at school。"
+      },
+      {
+       "h": "往后验证",
+       "t": "It's dark blue 描述的是校服的颜色 ✓。"
+      }
+     ],
+     "marks": [
+      "And yes, you must wear a uniform at school."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 6,
+     "q": "Ana can wear her shoes in the house.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "第6段：everyone must take their shoes off at the door。",
+     "evidence": "In our house, everyone must take their shoes off at the door.",
+     "optWhy": [
+      "原文说进门必须脱鞋，和题干相反。",
+      "正确。原文 everyone must take their shoes off 与题干 can wear her shoes 相反 → Wrong。",
+      "原文写得很清楚，不是 Doesn't say。"
+     ],
+     "traps": [
+      "与原文相反",
+      null,
+      "混淆 Wrong / Doesn't say"
+     ],
+     "steps": [
+      {
+       "h": "定位",
+       "t": "shoes → 第6段。"
+      },
+      {
+       "h": "看规则",
+       "t": "everyone 包括 Ana，must take off → Wrong。"
+      }
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "must / have to / don't have to",
+    "rule": "Use must or have to (has to) when something is necessary: you need to do it. Use don't have to (doesn't have to) when something is not necessary: you can choose. Questions: Do I have to …? Must I …?",
+    "table": [
+     [
+      "must",
+      "You must bring warm clothes."
+     ],
+     [
+      "have to",
+      "You have to share a bedroom."
+     ],
+     [
+      "has to",
+      "Lily has to get up at seven."
+     ],
+     [
+      "don't have to",
+      "You don't have to bring towels."
+     ],
+     [
+      "Do I have to …?",
+      "Do I have to practise in my room?"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "You don't have to bring towels or sheets, because we have lots.",
+      "mark": "don't have to"
+     },
+     {
+      "para": 2,
+      "text": "But you must bring warm clothes.",
+      "mark": "must bring"
+     },
+     {
+      "para": 3,
+      "text": "You have to be ready by half past seven, because the school bus leaves at twenty to eight.",
+      "mark": "have to be"
+     },
+     {
+      "para": 6,
+      "text": "In our house, everyone must take their shoes off at the door.",
+      "mark": "must take"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "It's Saturday! We ___ get up early today.",
+      "opts": [
+       "must",
+       "have to",
+       "don't have to"
+      ],
+      "a": 2,
+      "why": "There is no school, so it is not necessary: don't have to."
+     },
+     {
+      "type": "mc",
+      "q": "My sister ___ wear a uniform at her school.",
+      "opts": [
+       "has to",
+       "have to",
+       "don't have to"
+      ],
+      "a": 0,
+      "why": "My sister = she, so use has to."
+     },
+     {
+      "type": "fill",
+      "q": "___ I have to bring my own towel to the swimming pool?",
+      "hint": "(do)",
+      "a": "Do",
+      "why": "Questions with have to start with Do / Does."
+     },
+     {
+      "type": "fill",
+      "q": "Lily ___ share her bedroom next month.",
+      "hint": "(have to)",
+      "a": "has to",
+      "why": "Lily = she, so have becomes has: has to."
+     },
+     {
+      "type": "fill",
+      "q": "Ana ___ cook dinner. Mrs Clarke always cooks it.",
+      "hint": "(not + have to)",
+      "a": "doesn't have to / does not have to",
+      "why": "It is not necessary, and Ana = she: doesn't have to."
+     },
+     {
+      "type": "fill",
+      "q": "You ___ be quiet after nine o'clock. The baby next door is sleeping.",
+      "hint": "(must / don't have to)",
+      "a": "must",
+      "why": "It is necessary to be quiet, so use must."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261128-3-k1",
+     "tag": "The stay",
+     "fact": "Ana is going to stay with a family in England for two weeks.",
+     "q": "How long is Ana staying in England?",
+     "opts": [
+      "one week",
+      "two weeks",
+      "two months"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261128-3-k2",
+     "tag": "Bring",
+     "fact": "Ana must bring warm clothes, but she doesn't have to bring towels.",
+     "q": "What does Ana NOT have to bring?",
+     "opts": [
+      "warm clothes",
+      "towels",
+      "her guitar"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261128-3-k3",
+     "tag": "Mornings",
+     "fact": "The school bus leaves at twenty to eight.",
+     "q": "When does the school bus leave?",
+     "opts": [
+      "at seven o'clock",
+      "at half past seven",
+      "at twenty to eight"
+     ],
+     "a": 2
+    },
+    {
+     "id": "k20261128-3-k4",
+     "tag": "Music",
+     "fact": "Ana can practise the guitar in the living room until nine o'clock.",
+     "q": "When does Ana have to stop playing?",
+     "opts": [
+      "at nine o'clock",
+      "at eight o'clock",
+      "at ten o'clock"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261128-3-k5",
+     "tag": "Shoes",
+     "fact": "Everyone must take their shoes off at the door.",
+     "q": "Where must everyone take their shoes off?",
+     "opts": [
+      "in the bedroom",
+      "at the door",
+      "in the kitchen"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "House rules",
+    "question": "What does Ana need to know about her stay?",
+    "branches": [
+     {
+      "title": "Bring",
+      "paras": "1–2",
+      "blanks": [
+       "warm clothes",
+       "no towels"
+      ],
+      "kps": [
+       "k20261128-3-k1",
+       "k20261128-3-k2"
+      ]
+     },
+     {
+      "title": "School days",
+      "paras": "3",
+      "blanks": [
+       "ready by 7.30",
+       "school bus"
+      ],
+      "kps": [
+       "k20261128-3-k3"
+      ]
+     },
+     {
+      "title": "Music",
+      "paras": "4–5",
+      "blanks": [
+       "living room",
+       "stop at nine"
+      ],
+      "kps": [
+       "k20261128-3-k4"
+      ]
+     },
+     {
+      "title": "Home",
+      "paras": "5–6",
+      "blanks": [
+       "dark blue uniform",
+       "shoes off"
+      ],
+      "kps": [
+       "k20261128-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "cook dinner every day",
+     "own bedroom"
+    ]
+   },
+   "summary": {
+    "intro": "Choose the three sentences that tell the main ideas of the emails.",
+    "model": "Ana is staying with the Clarkes in England, so Mrs Clarke tells her the house rules. Ana can bring her guitar, but she must take her shoes off.",
+    "options": [
+     {
+      "t": "Mrs Clarke tells Ana what to bring and about school days.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 2 and 3.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Here is some information about our home."
+     },
+     {
+      "t": "Ana asks about her guitar and a school uniform.",
+      "ok": true,
+      "why": "This is the main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Can I bring my guitar?"
+     },
+     {
+      "t": "Ana can bring her guitar, but there are some rules.",
+      "ok": true,
+      "why": "This is the main idea of paragraphs 5 and 6.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Of course you can bring your guitar!"
+     },
+     {
+      "t": "The Clarkes' neighbour has a new baby.",
+      "ok": false,
+      "why": "True, but it is only a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "Our neighbour has a new baby."
+     },
+     {
+      "t": "Ana is going to fly to England with her mum.",
+      "ok": false,
+      "why": "The emails never say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Ana has her own bedroom in the house.",
+      "ok": false,
+      "why": "Wrong: she has to share a bedroom with Lily.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "Our house is small, so you have to share a bedroom with our daughter, Lily."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What rules are there in your home? Which rule do you like, and which one don't you like? Why?",
+    "hint": "At home I have to … / I don't have to …, because …",
+    "sec": 40
+   },
+   "write": {
+    "p": "A friend from another country is coming to stay at your home. Write an email to your friend. Write 25 words or more.",
+    "steps": [
+     "Say what your friend must bring.",
+     "Say what your friend doesn't have to bring.",
+     "Say one rule in your home."
+    ],
+    "minWords": 25
+   },
+   "voice": "American English · female"
+  }
+ ],
+ "audio": {
+  "It is the coldest month of the year. You open your wardrobe. What do you choose: a cotton T-shirt or a wool jumper? Most people choose the wool jumper. But why is wool so warm? The answer is in the tiny hairs of a sheep.": "audio/2026-11-28/a1-p1.mp3",
+  "Wool comes from sheep. Every hair of wool is very thin, but it is not straight. It has lots of small waves, like a curly line. Scientists call these waves crimp. Because of the crimp, the hairs cannot lie flat next to each other. So there are lots of small spaces between them.": "audio/2026-11-28/a1-p2.mp3",
+  "These spaces are full of air. Air does not move heat well. So the air in your jumper keeps the warmth from your body near your skin. The cold air outside cannot get in easily. This is the most important reason why wool keeps you warm.": "audio/2026-11-28/a1-p3.mp3",
+  "Wool has another clever trick. It can hold a lot of water, up to about 30 percent of its own weight. But it still doesn't feel wet. On a rainy walk, a wet cotton T-shirt feels cold and heavy. A wool jumper is not as cold as cotton when it gets a little wet.": "audio/2026-11-28/a1-p4.mp3",
+  "Wool is good in other ways too. It does not burn easily, so it is a good material for blankets and carpets. It is natural, and it grows back after a farmer cuts it. But some people think wool feels itchy. The softest wool comes from merino sheep, because their hairs are the thinnest.": "audio/2026-11-28/a1-p5.mp3",
+  "So which jumper is the best for a snowy day? A wool one is a great choice. Wear a thin wool layer under your coat, and you will be as warm as a sheep in a field!": "audio/2026-11-28/a1-p6.mp3",
+  "wool": "audio/2026-11-28/a1-w-wool.mp3",
+  "My grandma made me a hat from red wool.": "audio/2026-11-28/a1-ex-wool.mp3",
+  "cotton": "audio/2026-11-28/a1-w-cotton.mp3",
+  "I wear cotton shirts in summer.": "audio/2026-11-28/a1-ex-cotton.mp3",
+  "jumper": "audio/2026-11-28/a1-w-jumper.mp3",
+  "Put on your jumper. It's cold outside.": "audio/2026-11-28/a1-ex-jumper.mp3",
+  "crimp": "audio/2026-11-28/a1-w-crimp.mp3",
+  "Good wool has a lot of crimp.": "audio/2026-11-28/a1-ex-crimp.mp3",
+  "space": "audio/2026-11-28/a1-w-space.mp3",
+  "There is a space between the two desks.": "audio/2026-11-28/a1-ex-space.mp3",
+  "weight": "audio/2026-11-28/a1-w-weight.mp3",
+  "The weight of my school bag is five kilos.": "audio/2026-11-28/a1-ex-weight.mp3",
+  "material": "audio/2026-11-28/a1-w-material.mp3",
+  "Paper is a cheap material.": "audio/2026-11-28/a1-ex-material.mp3",
+  "itchy": "audio/2026-11-28/a1-w-itchy.mp3",
+  "This new scarf is a bit itchy.": "audio/2026-11-28/a1-ex-itchy.mp3",
+  "layer": "audio/2026-11-28/a1-w-layer.mp3",
+  "I wear a thin layer under my school shirt.": "audio/2026-11-28/a1-ex-layer.mp3",
+  "But why is wool so warm?": "audio/2026-11-28/a1-ks1.mp3",
+  "Because of the crimp, the hairs cannot lie flat next to each other.": "audio/2026-11-28/a1-ks2.mp3",
+  "This is the most important reason why wool keeps you warm.": "audio/2026-11-28/a1-ks3.mp3",
+  "A wool jumper is not as cold as cotton when it gets a little wet.": "audio/2026-11-28/a1-ks4.mp3",
+  "It is the coldest month of the year.": "audio/2026-11-28/a1-g1.mp3",
+  "The softest wool comes from merino sheep, because their hairs are the thinnest.": "audio/2026-11-28/a1-g4.mp3",
+  "Hi everyone, it's Lucas again! This month my blog is about my grandma, Ingrid. She is seventy-four, and she is amazing. She can make the best apple cake in town. But until last month, she couldn't use a smartphone. She only had an old phone with big buttons.": "audio/2026-11-28/a2-p1.mp3",
+  "When Grandma was young, life was very different. She told me about it on Sunday. \"I couldn't phone my friends from my bedroom,\" she said. \"We had one phone in the hall. My brother always used it!\" But she could ride a horse, and she could swim across the lake near her village.": "audio/2026-11-28/a2-p2.mp3",
+  "On her birthday, Mum gave her a smartphone. Grandma looked at it for a long time. \"What a beautiful little screen,\" she said. \"But I can't read these tiny letters!\" So I made the letters bigger for her. Then I showed her the camera.": "audio/2026-11-28/a2-p3.mp3",
+  "Every Saturday after that, I gave her a lesson at her kitchen table. In the first week, she could send a text message, but it took ten minutes. In the second week, she learned to take photos. Most of them were photos of her own finger! We laughed a lot.": "audio/2026-11-28/a2-p4.mp3",
+  "Now Grandma can do lots of things on her phone. She can make video calls to my cousin in Canada. She can look up recipes online. Yesterday she sent me a message with three hearts and a cake. She can't play games yet, but she wants to learn.": "audio/2026-11-28/a2-p5.mp3",
+  "I think teaching Grandma was the most fun job of my year. She taught me something too: you can learn new things at any age. Has anyone in your family got a new gadget? Tell me in the comments!": "audio/2026-11-28/a2-p6.mp3",
+  "smartphone": "audio/2026-11-28/a2-w-smartphone.mp3",
+  "My dad reads the news on his smartphone.": "audio/2026-11-28/a2-ex-smartphone.mp3",
+  "button": "audio/2026-11-28/a2-w-button.mp3",
+  "Press the green button to start.": "audio/2026-11-28/a2-ex-button.mp3",
+  "hall": "audio/2026-11-28/a2-w-hall.mp3",
+  "Leave your shoes in the hall, please.": "audio/2026-11-28/a2-ex-hall.mp3",
+  "screen": "audio/2026-11-28/a2-w-screen.mp3",
+  "The screen on my tablet is broken.": "audio/2026-11-28/a2-ex-screen.mp3",
+  "tiny": "audio/2026-11-28/a2-w-tiny.mp3",
+  "We found a tiny mouse in the garden.": "audio/2026-11-28/a2-ex-tiny.mp3",
+  "cousin": "audio/2026-11-28/a2-w-cousin.mp3",
+  "My cousin lives in Spain.": "audio/2026-11-28/a2-ex-cousin.mp3",
+  "recipe": "audio/2026-11-28/a2-w-recipe.mp3",
+  "This recipe needs three eggs.": "audio/2026-11-28/a2-ex-recipe.mp3",
+  "online": "audio/2026-11-28/a2-w-online.mp3",
+  "I bought my new shoes online.": "audio/2026-11-28/a2-ex-online.mp3",
+  "gadget": "audio/2026-11-28/a2-w-gadget.mp3",
+  "My uncle loves his new kitchen gadget.": "audio/2026-11-28/a2-ex-gadget.mp3",
+  "But until last month, she couldn't use a smartphone.": "audio/2026-11-28/a2-ks1.mp3",
+  "But she could ride a horse, and she could swim across the lake near her village.": "audio/2026-11-28/a2-ks2.mp3",
+  "Every Saturday after that, I gave her a lesson at her kitchen table.": "audio/2026-11-28/a2-ks3.mp3",
+  "She taught me something too: you can learn new things at any age.": "audio/2026-11-28/a2-ks4.mp3",
+  "She can make video calls to my cousin in Canada.": "audio/2026-11-28/a2-g3.mp3",
+  "She can't play games yet, but she wants to learn.": "audio/2026-11-28/a2-g4.mp3",
+  "Ana is fourteen and lives in Brazil. Next month, she is staying with a family in England for two weeks. Read her emails with Mrs Clarke.": "audio/2026-11-28/a3-p1.mp3",
+  "Hi Ana, We are very happy that you are coming! Here is some information about our home. You don't have to bring towels or sheets, because we have lots. But you must bring warm clothes. It is very cold here in December. Our house is small, so you have to share a bedroom with our daughter, Lily. She is fourteen too, and she is very excited.": "audio/2026-11-28/a3-p2.mp3",
+  "On school days, we have breakfast at seven o'clock. You have to be ready by half past seven, because the school bus leaves at twenty to eight. After school, you don't have to help in the kitchen, but you can if you want! At the weekend, we get up late. Best wishes, Helen Clarke": "audio/2026-11-28/a3-p3.mp3",
+  "Dear Mrs Clarke, Thank you for your email. I'm excited too! I have some questions. At home in Brazil, I play the guitar every evening. Can I bring my guitar? Do I have to practise in my room? And must I wear a uniform at Lily's school? We don't have to wear one at my school. Love, Ana": "audio/2026-11-28/a3-p4.mp3",
+  "Hi Ana, Of course you can bring your guitar! Lily plays the piano, so you can play music together. You can practise in the living room, but you have to stop at nine o'clock. Our neighbour has a new baby. And yes, you must wear a uniform at school. Don't worry, we have one for you. It's dark blue.": "audio/2026-11-28/a3-p5.mp3",
+  "Oh, one more thing. In our house, everyone must take their shoes off at the door. We have a white carpet! See you very soon, Helen": "audio/2026-11-28/a3-p6.mp3",
+  "information": "audio/2026-11-28/a3-w-information.mp3",
+  "You can find information about the trip online.": "audio/2026-11-28/a3-ex-information.mp3",
+  "towel": "audio/2026-11-28/a3-w-towel.mp3",
+  "Don't forget your towel for the pool.": "audio/2026-11-28/a3-ex-towel.mp3",
+  "sheet": "audio/2026-11-28/a3-w-sheet.mp3",
+  "Mum put a clean sheet on my bed.": "audio/2026-11-28/a3-ex-sheet.mp3",
+  "share": "audio/2026-11-28/a3-w-share.mp3",
+  "I share a desk with my best friend.": "audio/2026-11-28/a3-ex-share.mp3",
+  "excited": "audio/2026-11-28/a3-w-excited.mp3",
+  "We are excited about the school trip.": "audio/2026-11-28/a3-ex-excited.mp3",
+  "practise": "audio/2026-11-28/a3-w-practise.mp3",
+  "I practise the piano for twenty minutes a day.": "audio/2026-11-28/a3-ex-practise.mp3",
+  "uniform": "audio/2026-11-28/a3-w-uniform.mp3",
+  "Our school uniform is green and white.": "audio/2026-11-28/a3-ex-uniform.mp3",
+  "neighbour": "audio/2026-11-28/a3-w-neighbour.mp3",
+  "Our neighbour has got a big dog.": "audio/2026-11-28/a3-ex-neighbour.mp3",
+  "carpet": "audio/2026-11-28/a3-w-carpet.mp3",
+  "The cat is sleeping on the carpet.": "audio/2026-11-28/a3-ex-carpet.mp3",
+  "Next month, she is staying with a family in England for two weeks.": "audio/2026-11-28/a3-ks1.mp3",
+  "You don't have to bring towels or sheets, because we have lots.": "audio/2026-11-28/a3-ks2.mp3",
+  "You have to be ready by half past seven, because the school bus leaves at twenty to eight.": "audio/2026-11-28/a3-ks3.mp3",
+  "In our house, everyone must take their shoes off at the door.": "audio/2026-11-28/a3-ks4.mp3",
+  "But you must bring warm clothes.": "audio/2026-11-28/a3-g2.mp3"
+ }
+}
